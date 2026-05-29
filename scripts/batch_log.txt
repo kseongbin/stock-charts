@@ -13111,3 +13111,906 @@ no data
 [거북선6호선박투자회사] No annual data available.
 Done.
 [2026-05-30 02:53:18]   [550/2706] ✅ 114140
+To https://github.com/kseongbin/stock-charts
+   15014f7..884c30d  main -> main
+[2026-05-30 02:53:21]   ✅ push 완료
+[삼성물산] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[삼성물산] No annual data available.
+Done.
+[2026-05-30 02:53:28]   [551/2706] ✅ 000830
+[피엘에이] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[피엘에이] No annual data available.
+Done.
+[2026-05-30 02:53:34]   [552/2706] ✅ 082390
+[닉스테크] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[닉스테크] No annual data available.
+Done.
+[2026-05-30 02:53:41]   [553/2706] ✅ 063840
+[아시아퍼시픽9호선박투자회사] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[아시아퍼시픽9호선박투자회사] No annual data available.
+Done.
+[2026-05-30 02:53:48]   [554/2706] ✅ 081940
+[거북선4호선박투자회사] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[거북선4호선박투자회사] No annual data available.
+Done.
+[2026-05-30 02:53:55]   [555/2706] ✅ 108890
+[중앙건설] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[중앙건설] No annual data available.
+Done.
+[2026-05-30 02:54:01]   [556/2706] ✅ 015110
+[미래에셋새천년코리아벤처펀드일호] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[미래에셋새천년코리아벤처펀드일호] No annual data available.
+Done.
+[2026-05-30 02:54:08]   [557/2706] ✅ 042950
+[하나은행] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[하나은행] No annual data available.
+Done.
+[2026-05-30 02:54:15]   [558/2706] ✅ 002860
+[에이스하이텍] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[에이스하이텍] No annual data available.
+Done.
+[2026-05-30 02:54:21]   [559/2706] ✅ 071930
+[태창파로스] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[태창파로스] No annual data available.
+Done.
+[2026-05-30 02:54:28]   [560/2706] ✅ 039850
+[평산차업집단유한공사] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[평산차업집단유한공사] No annual data available.
+Done.
+[2026-05-30 02:54:35]   [561/2706] ✅ 950010
+[스탠다드펌] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[스탠다드펌] No annual data available.
+Done.
+[2026-05-30 02:54:42]   [562/2706] ✅ 179280
+[벽산건설] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[벽산건설] No annual data available.
+Done.
+[2026-05-30 02:54:48]   [563/2706] ✅ 002530
+[NH농협증권] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[NH농협증권] No annual data available.
+Done.
+[2026-05-30 02:54:55]   [564/2706] ✅ 016420
+[아시아퍼시픽4호선박투자회사] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[아시아퍼시픽4호선박투자회사] No annual data available.
+Done.
+[2026-05-30 02:55:02]   [565/2706] ✅ 081210
+[한화화인케미칼] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[한화화인케미칼] No annual data available.
+Done.
+[2026-05-30 02:55:08]   [566/2706] ✅ 025850
+[정다운] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[정다운] No annual data available.
+Done.
+[2026-05-30 02:55:15]   [567/2706] ✅ 224090
+[지오엠씨] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[지오엠씨] No annual data available.
+Done.
+[2026-05-30 02:55:22]   [568/2706] ✅ 033030
+[에듀패스] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[에듀패스] No annual data available.
+Done.
+[2026-05-30 02:55:29]   [569/2706] ✅ 031950
+[아이디에이치] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[아이디에이치] No annual data available.
+Done.
+[2026-05-30 02:55:35]   [570/2706] ✅ 026230
+[거북선7호선박투자회사] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[거북선7호선박투자회사] No annual data available.
+Done.
+[2026-05-30 02:55:42]   [571/2706] ✅ 134000
+[서울상호저축은행] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[서울상호저축은행] No annual data available.
+Done.
+[2026-05-30 02:55:48]   [572/2706] ✅ 016560
+[와이즈파워] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[와이즈파워] No annual data available.
+Done.
+[2026-05-30 02:55:55]   [573/2706] ✅ 040670
+[코크렙제15호기업구조조정부동산투자회사] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[코크렙제15호기업구조조정부동산투자회사] No annual data available.
+Done.
+[2026-05-30 02:56:02]   [574/2706] ✅ 121550
+[티브로드한빛방송] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[티브로드한빛방송] No annual data available.
+Done.
+[2026-05-30 02:56:09]   [575/2706] ✅ 043890
+[거북선3호선박투자회사] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[거북선3호선박투자회사] No annual data available.
+Done.
+[2026-05-30 02:56:15]   [576/2706] ✅ 102000
+[동성하이켐] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[동성하이켐] No annual data available.
+Done.
+[2026-05-30 02:56:22]   [577/2706] ✅ 013450
+[클루넷] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[클루넷] No annual data available.
+Done.
+[2026-05-30 02:56:28]   [578/2706] ✅ 067130
+[코리아퍼시픽07호선박투자회사] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[코리아퍼시픽07호선박투자회사] No annual data available.
+Done.
+[2026-05-30 02:56:35]   [579/2706] ✅ 099210
+[씨유전자] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[씨유전자] No annual data available.
+Done.
+[2026-05-30 02:56:42]   [580/2706] ✅ 056340
+[삼목강업] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[삼목강업] No annual data available.
+Done.
+[2026-05-30 02:56:49]   [581/2706] ✅ 158380
+[에스비엠] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[에스비엠] No annual data available.
+Done.
+[2026-05-30 02:56:56]   [582/2706] ✅ 037630
+[솔빛미디어] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[솔빛미디어] No annual data available.
+Done.
+[2026-05-30 02:57:03]   [583/2706] ✅ 044440
+[에프지엔개발전문자기관리부동산투자회사] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[에프지엔개발전문자기관리부동산투자회사] No annual data available.
+Done.
+[2026-05-30 02:57:09]   [584/2706] ✅ 119250
+[판타지오] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[판타지오] No annual data available.
+Done.
+[2026-05-30 02:57:16]   [585/2706] ✅ 187770
+[현대하이스코] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[현대하이스코] No annual data available.
+Done.
+[2026-05-30 02:57:22]   [586/2706] ✅ 010520
+[거북선1호선박투자회사] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[거북선1호선박투자회사] No annual data available.
+Done.
+[2026-05-30 02:57:29]   [587/2706] ✅ 092970
+[코아에스앤아이] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[코아에스앤아이] No annual data available.
+Done.
+[2026-05-30 02:57:36]   [588/2706] ✅ 052350
+[자원메디칼] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[자원메디칼] No annual data available.
+Done.
+[2026-05-30 02:57:43]   [589/2706] ✅ 181980
+[삼우이엠씨] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[삼우이엠씨] No annual data available.
+Done.
+[2026-05-30 02:57:49]   [590/2706] ✅ 026250
+[어울림정보기술] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[어울림정보기술] No annual data available.
+Done.
+[2026-05-30 02:57:56]   [591/2706] ✅ 038320
+[티브로드도봉강북방송] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[티브로드도봉강북방송] No annual data available.
+Done.
+[2026-05-30 02:58:02]   [592/2706] ✅ 035210
+[티이씨앤코] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[티이씨앤코] No annual data available.
+Done.
+[2026-05-30 02:58:09]   [593/2706] ✅ 008900
+[화인자산관리] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[화인자산관리] No annual data available.
+Done.
+[2026-05-30 02:58:16]   [594/2706] ✅ 010460
+[로케트전기] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[로케트전기] No annual data available.
+Done.
+[2026-05-30 02:58:23]   [595/2706] ✅ 000420
+[신일건업] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[신일건업] No annual data available.
+Done.
+[2026-05-30 02:58:29]   [596/2706] ✅ 014350
+[제일모직] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[제일모직] No annual data available.
+Done.
+[2026-05-30 02:58:36]   [597/2706] ✅ 001300
+[퓨얼셀파워] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[퓨얼셀파워] No annual data available.
+Done.
+[2026-05-30 02:58:43]   [598/2706] ✅ 139170
+[아루히] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[아루히] No annual data available.
+Done.
+[2026-05-30 02:58:50]   [599/2706] ✅ 950100
+[지티앤티] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[지티앤티] No annual data available.
+Done.
+[2026-05-30 02:58:56]   [600/2706] ✅ 053870
