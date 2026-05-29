@@ -18379,3 +18379,1366 @@ OK
 [조광피혁] Quarterly: 004700_financial_q.html
 Done.
 [2026-05-30 03:27:58]   [800/2706] ✅ 004700
+To https://github.com/kseongbin/stock-charts
+   dbd0f9b..570f9bd  main -> main
+[2026-05-30 03:28:02]   🗑️  로컬 HTML 55개 삭제 (GitHub에는 유지)
+[2026-05-30 03:28:03]   ✅ push 완료
+[팅크웨어] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[팅크웨어] Getting year-end prices for PER/PBR...
+[팅크웨어] Annual: 084730_financial.html
+[팅크웨어] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[팅크웨어] Quarterly: 084730_financial_q.html
+Done.
+[2026-05-30 03:28:16]   [801/2706] ✅ 084730
+[레이크머티리얼즈] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[레이크머티리얼즈] Getting year-end prices for PER/PBR...
+[레이크머티리얼즈] Market cap: 12,088 억원
+[레이크머티리얼즈] Annual: 281740_financial.html
+[레이크머티리얼즈] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[레이크머티리얼즈] Quarterly: 281740_financial_q.html
+Done.
+[2026-05-30 03:28:29]   [802/2706] ✅ 281740
+[라파스] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[라파스] Getting year-end prices for PER/PBR...
+[라파스] Market cap: 631 억원
+[라파스] Annual: 214260_financial.html
+[라파스] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[라파스] Quarterly: 214260_financial_q.html
+Done.
+[2026-05-30 03:28:42]   [803/2706] ✅ 214260
+[아이디피] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[아이디피] Getting year-end prices for PER/PBR...
+[아이디피] Market cap: 682 억원
+[아이디피] Annual: 332370_financial.html
+[아이디피] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[아이디피] Quarterly: 332370_financial_q.html
+Done.
+[2026-05-30 03:28:54]   [804/2706] ✅ 332370
+[에스피컴텍] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[에스피컴텍] No annual data available.
+Done.
+[2026-05-30 03:29:01]   [805/2706] ✅ 039110
+[진매트릭스] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+OK
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+OK
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+OK
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+OK
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+OK
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[진매트릭스] Getting year-end prices for PER/PBR...
+[진매트릭스] Market cap: 385 억원
+[진매트릭스] Annual: 109820_financial.html
+[진매트릭스] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1...     CFS 없음 → OFS fallback (2026, 11013)
+OK
+  2025/Q4...     CFS 없음 → OFS fallback (2025, 11011)
+OK
+  2025/Q3...     CFS 없음 → OFS fallback (2025, 11014)
+OK
+  2025/Q2...     CFS 없음 → OFS fallback (2025, 11012)
+OK
+  2025/Q1...     CFS 없음 → OFS fallback (2025, 11013)
+OK
+[진매트릭스] Quarterly: 109820_financial_q.html
+Done.
+[2026-05-30 03:29:16]   [806/2706] ✅ 109820
+$032040.KQ: possibly delisted; no price data found  (1d 2021-12-20 -> 2022-01-05)
+$032040.KQ: possibly delisted; no price data found  (1d 2022-12-20 -> 2023-01-05)
+$032040.KQ: possibly delisted; no price data found  (1d 2023-12-20 -> 2024-01-05)
+$032040.KQ: possibly delisted; no price data found  (1d 2024-12-20 -> 2025-01-05)
+$032040.KQ: possibly delisted; no price data found  (1d 2025-12-20 -> 2026-01-05)
+$032040.KQ: possibly delisted; no price data found  (period=1d)
+[씨앤에스자산관리] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[씨앤에스자산관리] Getting year-end prices for PER/PBR...
+[씨앤에스자산관리] Market cap error: single positional indexer is out-of-bounds
+[씨앤에스자산관리] Annual: 032040_financial.html
+[씨앤에스자산관리] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[씨앤에스자산관리] Quarterly: 032040_financial_q.html
+Done.
+[2026-05-30 03:29:29]   [807/2706] ✅ 032040
+[엠로] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[엠로] Getting year-end prices for PER/PBR...
+[엠로] Market cap: 3,281 억원
+[엠로] Annual: 058970_financial.html
+[엠로] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1...     CFS 없음 → OFS fallback (2026, 11013)
+OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[엠로] Quarterly: 058970_financial_q.html
+Done.
+[2026-05-30 03:29:42]   [808/2706] ✅ 058970
+[액트로] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[액트로] Getting year-end prices for PER/PBR...
+[액트로] Market cap: 1,374 억원
+[액트로] Annual: 290740_financial.html
+[액트로] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[액트로] Quarterly: 290740_financial_q.html
+Done.
+[2026-05-30 03:29:54]   [809/2706] ✅ 290740
+$090120.KQ: possibly delisted; no timezone found
+$090120.KQ: possibly delisted; no timezone found
+$090120.KQ: possibly delisted; no timezone found
+$090120.KQ: possibly delisted; no timezone found
+$090120.KQ: possibly delisted; no timezone found
+$090120.KQ: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+[잘만테크] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[잘만테크] Getting year-end prices for PER/PBR...
+[잘만테크] Market cap error: single positional indexer is out-of-bounds
+[잘만테크] Annual: 090120_financial.html
+[잘만테크] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[잘만테크] Quarterly: 090120_financial_q.html
+Done.
+[2026-05-30 03:30:08]   [810/2706] ✅ 090120
+[미래컴퍼니] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[미래컴퍼니] Getting year-end prices for PER/PBR...
+[미래컴퍼니] Market cap: 1,178 억원
+[미래컴퍼니] Annual: 049950_financial.html
+[미래컴퍼니] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[미래컴퍼니] Quarterly: 049950_financial_q.html
+Done.
+[2026-05-30 03:30:21]   [811/2706] ✅ 049950
+[동일금속] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[동일금속] Getting year-end prices for PER/PBR...
+[동일금속] Market cap: 667 억원
+[동일금속] Annual: 109860_financial.html
+[동일금속] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[동일금속] Quarterly: 109860_financial_q.html
+Done.
+[2026-05-30 03:30:35]   [812/2706] ✅ 109860
+[아바코] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[아바코] Getting year-end prices for PER/PBR...
+[아바코] Market cap: 1,970 억원
+[아바코] Annual: 083930_financial.html
+[아바코] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[아바코] Quarterly: 083930_financial_q.html
+Done.
+[2026-05-30 03:30:47]   [813/2706] ✅ 083930
+[큐에스아이] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[큐에스아이] Getting year-end prices for PER/PBR...
+[큐에스아이] Market cap: 1,106 억원
+[큐에스아이] Annual: 066310_financial.html
+[큐에스아이] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[큐에스아이] Quarterly: 066310_financial_q.html
+Done.
+[2026-05-30 03:31:00]   [814/2706] ✅ 066310
+[프리시젼바이오] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[프리시젼바이오] Getting year-end prices for PER/PBR...
+[프리시젼바이오] Market cap: 334 억원
+[프리시젼바이오] Annual: 335810_financial.html
+[프리시젼바이오] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[프리시젼바이오] Quarterly: 335810_financial_q.html
+Done.
+[2026-05-30 03:31:13]   [815/2706] ✅ 335810
+[영림원소프트랩] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[영림원소프트랩] Getting year-end prices for PER/PBR...
+[영림원소프트랩] Market cap: 489 억원
+[영림원소프트랩] Annual: 060850_financial.html
+[영림원소프트랩] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[영림원소프트랩] Quarterly: 060850_financial_q.html
+Done.
+[2026-05-30 03:31:26]   [816/2706] ✅ 060850
+[원준] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[원준] Getting year-end prices for PER/PBR...
+[원준] Market cap: 1,529 억원
+[원준] Annual: 382840_financial.html
+[원준] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[원준] Quarterly: 382840_financial_q.html
+Done.
+[2026-05-30 03:31:38]   [817/2706] ✅ 382840
+[코스메카코리아] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[코스메카코리아] Getting year-end prices for PER/PBR...
+[코스메카코리아] Market cap: 7,626 억원
+[코스메카코리아] Annual: 241710_financial.html
+[코스메카코리아] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... no data
+  2024/Q4... OK
+[코스메카코리아] Quarterly: 241710_financial_q.html
+Done.
+[2026-05-30 03:31:51]   [818/2706] ✅ 241710
+[아바텍] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+OK
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+OK
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+OK
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+OK
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+OK
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[아바텍] Getting year-end prices for PER/PBR...
+[아바텍] Market cap: 2,146 억원
+[아바텍] Annual: 149950_financial.html
+[아바텍] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1...     CFS 없음 → OFS fallback (2026, 11013)
+OK
+  2025/Q4...     CFS 없음 → OFS fallback (2025, 11011)
+OK
+  2025/Q3...     CFS 없음 → OFS fallback (2025, 11014)
+OK
+  2025/Q2...     CFS 없음 → OFS fallback (2025, 11012)
+OK
+  2025/Q1...     CFS 없음 → OFS fallback (2025, 11013)
+OK
+[아바텍] Quarterly: 149950_financial_q.html
+Done.
+[2026-05-30 03:32:06]   [819/2706] ✅ 149950
+[위월드] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[위월드] No annual data available.
+Done.
+[2026-05-30 03:32:13]   [820/2706] ✅ 140660
+[씨디네트웍스] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[씨디네트웍스] No annual data available.
+Done.
+[2026-05-30 03:32:20]   [821/2706] ✅ 073710
+[한일화학] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[한일화학] Getting year-end prices for PER/PBR...
+[한일화학] Market cap: 265 억원
+[한일화학] Annual: 007770_financial.html
+[한일화학] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[한일화학] Quarterly: 007770_financial_q.html
+Done.
+[2026-05-30 03:32:33]   [822/2706] ✅ 007770
+[디에스케이] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[디에스케이] Getting year-end prices for PER/PBR...
+[디에스케이] Market cap: 1,274 억원
+[디에스케이] Annual: 109740_financial.html
+[디에스케이] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[디에스케이] Quarterly: 109740_financial_q.html
+Done.
+[2026-05-30 03:32:46]   [823/2706] ✅ 109740
+[화승코퍼레이션] Fetching annual data...
+  2020... OK
+  2021... no data
+  2022... no data
+  2023... no data
+  2024... no data
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[화승코퍼레이션] Getting year-end prices for PER/PBR...
+[화승코퍼레이션] Market cap: 1,309 억원
+[화승코퍼레이션] Annual: 013520_financial.html
+[화승코퍼레이션] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... no data
+  2025/Q2... no data
+  2025/Q1... no data
+  2024/Q4... no data
+  2024/Q3... no data
+  2024/Q2... no data
+  2024/Q1... no data
+[화승코퍼레이션] Quarterly: 013520_financial_q.html
+Done.
+[2026-05-30 03:33:01]   [824/2706] ✅ 013520
+[금오하이텍] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[금오하이텍] No annual data available.
+Done.
+[2026-05-30 03:33:08]   [825/2706] ✅ 165270
+[피엔에스커튼월] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[피엔에스커튼월] No annual data available.
+Done.
+[2026-05-30 03:33:14]   [826/2706] ✅ 033220
+[제노텍] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[제노텍] No annual data available.
+Done.
+[2026-05-30 03:33:21]   [827/2706] ✅ 066830
+$053320.KQ: possibly delisted; no price data found  (1d 2020-12-20 -> 2021-01-05)
+$053320.KQ: possibly delisted; no price data found  (1d 2021-12-20 -> 2022-01-05)
+$053320.KQ: possibly delisted; no price data found  (period=1d)
+[제네시스디벨롭먼트홀딩스] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[제네시스디벨롭먼트홀딩스] Getting year-end prices for PER/PBR...
+[제네시스디벨롭먼트홀딩스] Market cap error: single positional indexer is out-of-bounds
+[제네시스디벨롭먼트홀딩스] Annual: 053320_financial.html
+[제네시스디벨롭먼트홀딩스] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1...     CFS 없음 → OFS fallback (2026, 11013)
+no data
+  2025/Q4...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2025/Q3...     CFS 없음 → OFS fallback (2025, 11014)
+no data
+  2025/Q2...     CFS 없음 → OFS fallback (2025, 11012)
+no data
+  2025/Q1...     CFS 없음 → OFS fallback (2025, 11013)
+no data
+  2024/Q4...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2024/Q3...     CFS 없음 → OFS fallback (2024, 11014)
+no data
+  2024/Q2...     CFS 없음 → OFS fallback (2024, 11012)
+no data
+  2024/Q1...     CFS 없음 → OFS fallback (2024, 11013)
+no data
+Done.
+[2026-05-30 03:33:38]   [828/2706] ✅ 053320
+[대주코레스] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[대주코레스] No annual data available.
+Done.
+[2026-05-30 03:33:45]   [829/2706] ✅ 008340
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 015350.KQ"}}}
+$015350.KQ: possibly delisted; no timezone found
+$015350.KQ: possibly delisted; no timezone found
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 015350.KQ"}}}
+$015350.KQ: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+[부산도시가스] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+OK
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+OK
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[부산도시가스] Getting year-end prices for PER/PBR...
+[부산도시가스] Market cap error: single positional indexer is out-of-bounds
+[부산도시가스] Annual: 015350_financial.html
+[부산도시가스] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1...     CFS 없음 → OFS fallback (2026, 11013)
+no data
+  2025/Q4...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2025/Q3...     CFS 없음 → OFS fallback (2025, 11014)
+no data
+  2025/Q2...     CFS 없음 → OFS fallback (2025, 11012)
+no data
+  2025/Q1...     CFS 없음 → OFS fallback (2025, 11013)
+no data
+  2024/Q4...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2024/Q3...     CFS 없음 → OFS fallback (2024, 11014)
+no data
+  2024/Q2...     CFS 없음 → OFS fallback (2024, 11012)
+no data
+  2024/Q1...     CFS 없음 → OFS fallback (2024, 11013)
+no data
+Done.
+[2026-05-30 03:34:04]   [830/2706] ✅ 015350
+[뷰웍스] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[뷰웍스] Getting year-end prices for PER/PBR...
+[뷰웍스] Market cap: 2,611 억원
+[뷰웍스] Annual: 100120_financial.html
+[뷰웍스] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[뷰웍스] Quarterly: 100120_financial_q.html
+Done.
+[2026-05-30 03:34:18]   [831/2706] ✅ 100120
+[원림] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[원림] Getting year-end prices for PER/PBR...
+[원림] Market cap: 334 억원
+[원림] Annual: 005820_financial.html
+[원림] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[원림] Quarterly: 005820_financial_q.html
+Done.
+[2026-05-30 03:34:31]   [832/2706] ✅ 005820
+[한일건설] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[한일건설] No annual data available.
+Done.
+[2026-05-30 03:34:38]   [833/2706] ✅ 006440
+[케이디지엠텍] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[케이디지엠텍] No annual data available.
+Done.
+[2026-05-30 03:34:45]   [834/2706] ✅ 032290
+[티에이치엔] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[티에이치엔] Getting year-end prices for PER/PBR...
+[티에이치엔] Market cap: 1,481 억원
+[티에이치엔] Annual: 019180_financial.html
+[티에이치엔] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[티에이치엔] Quarterly: 019180_financial_q.html
+Done.
+[2026-05-30 03:34:58]   [835/2706] ✅ 019180
+[삼륭물산] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[삼륭물산] Getting year-end prices for PER/PBR...
+[삼륭물산] Market cap: 841 억원
+[삼륭물산] Annual: 014970_financial.html
+[삼륭물산] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[삼륭물산] Quarterly: 014970_financial_q.html
+Done.
+[2026-05-30 03:35:11]   [836/2706] ✅ 014970
+[카페24] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[카페24] Getting year-end prices for PER/PBR...
+[카페24] Market cap: 5,033 억원
+[카페24] Annual: 042000_financial.html
+[카페24] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[카페24] Quarterly: 042000_financial_q.html
+Done.
+[2026-05-30 03:35:23]   [837/2706] ✅ 042000
+[아이케이세미콘] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[아이케이세미콘] No annual data available.
+Done.
+[2026-05-30 03:35:30]   [838/2706] ✅ 149010
+[코리아에셋투자증권] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+OK
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[코리아에셋투자증권] Getting year-end prices for PER/PBR...
+[코리아에셋투자증권] Market cap: 479 억원
+[코리아에셋투자증권] Annual: 190650_financial.html
+[코리아에셋투자증권] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1...     CFS 없음 → OFS fallback (2026, 11013)
+no data
+  2025/Q4...     CFS 없음 → OFS fallback (2025, 11011)
+OK
+  2025/Q3...     CFS 없음 → OFS fallback (2025, 11014)
+OK
+  2025/Q2...     CFS 없음 → OFS fallback (2025, 11012)
+OK
+  2025/Q1...     CFS 없음 → OFS fallback (2025, 11013)
+OK
+  2024/Q4...     CFS 없음 → OFS fallback (2024, 11011)
+OK
+[코리아에셋투자증권] Quarterly: 190650_financial_q.html
+Done.
+[2026-05-30 03:35:45]   [839/2706] ✅ 190650
+[웰크론] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[웰크론] Getting year-end prices for PER/PBR...
+[웰크론] Market cap: 338 억원
+[웰크론] Annual: 065950_financial.html
+[웰크론] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[웰크론] Quarterly: 065950_financial_q.html
+Done.
+[2026-05-30 03:35:58]   [840/2706] ✅ 065950
+[알비더블유] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[알비더블유] Getting year-end prices for PER/PBR...
+[알비더블유] Market cap: 510 억원
+[알비더블유] Annual: 361570_financial.html
+[알비더블유] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[알비더블유] Quarterly: 361570_financial_q.html
+Done.
+[2026-05-30 03:36:11]   [841/2706] ✅ 361570
+[무진메디] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[무진메디] No annual data available.
+Done.
+[2026-05-30 03:36:17]   [842/2706] ✅ 322970
+[퀀타매트릭스] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[퀀타매트릭스] Getting year-end prices for PER/PBR...
+[퀀타매트릭스] Annual: 317690_financial.html
+[퀀타매트릭스] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[퀀타매트릭스] Quarterly: 317690_financial_q.html
+Done.
+[2026-05-30 03:36:30]   [843/2706] ✅ 317690
+$334890.KQ: possibly delisted; no price data found  (1d 2026-12-20 -> 2027-01-05) (Yahoo error = "Data doesn't exist for startDate = 1797692400, endDate = 1799074800")
+[이지스밸류플러스리츠] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026... OK
+[이지스밸류플러스리츠] Getting year-end prices for PER/PBR...
+[이지스밸류플러스리츠] Market cap: 2,608 억원
+[이지스밸류플러스리츠] Annual: 334890_financial.html
+[이지스밸류플러스리츠] Fetching quarterly data...
+  2026/Q4... OK
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1...     CFS 없음 → OFS fallback (2026, 11013)
+no data
+  2025/Q4... OK
+  2025/Q3...     CFS 없음 → OFS fallback (2025, 11014)
+no data
+  2025/Q2... OK
+  2025/Q1...     CFS 없음 → OFS fallback (2025, 11013)
+no data
+  2024/Q4... OK
+  2024/Q3...     CFS 없음 → OFS fallback (2024, 11014)
+no data
+  2024/Q2... OK
+[이지스밸류플러스리츠] Quarterly: 334890_financial_q.html
+Done.
+[2026-05-30 03:36:46]   [844/2706] ✅ 334890
+[동원금속] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[동원금속] Getting year-end prices for PER/PBR...
+[동원금속] Market cap: 715 억원
+[동원금속] Annual: 018500_financial.html
+[동원금속] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1...     CFS 없음 → OFS fallback (2026, 11013)
+no data
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+  2024/Q4... OK
+[동원금속] Quarterly: 018500_financial_q.html
+Done.
+[2026-05-30 03:36:59]   [845/2706] ✅ 018500
+[아스플로] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[아스플로] Getting year-end prices for PER/PBR...
+[아스플로] Market cap: 2,382 억원
+[아스플로] Annual: 159010_financial.html
+[아스플로] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[아스플로] Quarterly: 159010_financial_q.html
+Done.
+[2026-05-30 03:37:12]   [846/2706] ✅ 159010
+[쿠쿠홀딩스] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[쿠쿠홀딩스] Getting year-end prices for PER/PBR...
+[쿠쿠홀딩스] Market cap: 8,855 억원
+[쿠쿠홀딩스] Annual: 192400_financial.html
+[쿠쿠홀딩스] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[쿠쿠홀딩스] Quarterly: 192400_financial_q.html
+Done.
+[2026-05-30 03:37:25]   [847/2706] ✅ 192400
+[국제엘렉트릭코리아] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[국제엘렉트릭코리아] No annual data available.
+Done.
+[2026-05-30 03:37:32]   [848/2706] ✅ 053740
+[엔스퍼트] Fetching annual data...
+  2020...     CFS 없음 → OFS fallback (2020, 11011)
+no data
+  2021...     CFS 없음 → OFS fallback (2021, 11011)
+no data
+  2022...     CFS 없음 → OFS fallback (2022, 11011)
+no data
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[엔스퍼트] No annual data available.
+Done.
+[2026-05-30 03:37:39]   [849/2706] ✅ 098400
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 005980.KQ"}}}
+$005980.KQ: possibly delisted; no timezone found
+$005980.KQ: possibly delisted; no timezone found
+$005980.KQ: possibly delisted; no timezone found
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 005980.KQ"}}}
+$005980.KQ: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+[성지건설] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023...     CFS 없음 → OFS fallback (2023, 11011)
+no data
+  2024...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2025...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[성지건설] Getting year-end prices for PER/PBR...
+[성지건설] Market cap error: single positional indexer is out-of-bounds
+[성지건설] Annual: 005980_financial.html
+[성지건설] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1...     CFS 없음 → OFS fallback (2026, 11013)
+no data
+  2025/Q4...     CFS 없음 → OFS fallback (2025, 11011)
+no data
+  2025/Q3...     CFS 없음 → OFS fallback (2025, 11014)
+no data
+  2025/Q2...     CFS 없음 → OFS fallback (2025, 11012)
+no data
+  2025/Q1...     CFS 없음 → OFS fallback (2025, 11013)
+no data
+  2024/Q4...     CFS 없음 → OFS fallback (2024, 11011)
+no data
+  2024/Q3...     CFS 없음 → OFS fallback (2024, 11014)
+no data
+  2024/Q2...     CFS 없음 → OFS fallback (2024, 11012)
+no data
+  2024/Q1...     CFS 없음 → OFS fallback (2024, 11013)
+no data
+Done.
+[2026-05-30 03:37:58]   [850/2706] ✅ 005980
