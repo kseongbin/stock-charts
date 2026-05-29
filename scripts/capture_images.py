@@ -29,7 +29,10 @@ async def capture_pages(company: str, urls: list[str]):
     print(f"저장 경로: {TEMP_DIR}\n")
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(
+            headless=True,
+            args=['--host-resolver-rules=MAP sunic.co.kr 119.205.211.74, MAP sunic.15440835.com 119.205.211.74, MAP www.sunic.co.kr 119.205.211.74']
+        )
         context = await browser.new_context(
             viewport={'width': 1280, 'height': 900},
             ignore_https_errors=True,
