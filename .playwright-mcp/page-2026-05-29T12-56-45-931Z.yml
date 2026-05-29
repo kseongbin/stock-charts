@@ -1,0 +1,334 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic:
+      - definition:
+        - link "메인메뉴 바로가기":
+          - /url: "#gnb"
+      - definition:
+        - link "컨텐츠 바로가기":
+          - /url: "#contents"
+    - generic [ref=e3]:
+      - banner:
+        - generic [ref=e4]:
+          - heading "sunic" [level=1] [ref=e5]:
+            - link "sunic" [ref=e6] [cursor=pointer]:
+              - /url: home.php?go=main
+              - img "sunic" [ref=e7]
+          - list [ref=e9]:
+            - listitem [ref=e10] [cursor=pointer]:
+              - link "About Us 회사소개" [ref=e11]:
+                - /url: home.php?go=Amenu_01
+                - generic:
+                  - generic [ref=e12]: About Us
+                  - generic [ref=e13]: 회사소개
+              - list [ref=e14]:
+                - listitem [ref=e15]:
+                  - link "대표이사 인사말" [ref=e16]:
+                    - /url: home.php?go=Amenu_01#page1
+                - listitem [ref=e17]:
+                  - link "비전" [ref=e18]:
+                    - /url: home.php?go=Amenu_01#page5
+                - listitem [ref=e19]:
+                  - link "연혁" [ref=e20]:
+                    - /url: home.php?go=Amenu_01#page2
+                - listitem [ref=e21]:
+                  - link "조직도" [ref=e22]:
+                    - /url: home.php?go=Amenu_01#page3
+                - listitem [ref=e23]:
+                  - link "사업장 소개" [ref=e24]:
+                    - /url: home.php?go=Amenu_01#page4
+            - listitem [ref=e25] [cursor=pointer]:
+              - link "Product 제품소개" [ref=e26]:
+                - /url: home.php?go=Bmenu_01
+                - generic:
+                  - generic [ref=e27]: Product
+                  - generic [ref=e28]: 제품소개
+              - list [ref=e29]:
+                - listitem [ref=e30]:
+                  - link "OLED Cluster" [ref=e31]:
+                    - /url: home.php?go=Bmenu_01#page1
+                - listitem [ref=e32]:
+                  - link "OLED Inline" [ref=e33]:
+                    - /url: home.php?go=Bmenu_01#page2
+                - listitem [ref=e34]:
+                  - link "고객사" [ref=e35]:
+                    - /url: home.php?go=Bmenu_01#page3
+            - listitem [ref=e36] [cursor=pointer]:
+              - link "R&D R&D" [ref=e37]:
+                - /url: home.php?go=Fmenu_01
+                - generic:
+                  - generic [ref=e38]: R&D
+                  - generic [ref=e39]: R&D
+              - list [ref=e40]:
+                - listitem [ref=e41]:
+                  - link "Solar Cell" [ref=e42]:
+                    - /url: home.php?go=Fmenu_01
+            - listitem [ref=e43] [cursor=pointer]:
+              - link "Investor Relation 투자정보" [ref=e44]:
+                - /url: home.php?go=Cmenu_01
+                - generic:
+                  - generic [ref=e45]: Investor Relation
+                  - generic [ref=e46]: 투자정보
+              - list [ref=e47]:
+                - listitem [ref=e48]:
+                  - link "주가정보" [ref=e49]:
+                    - /url: home.php?go=Cmenu_01#page1
+                - listitem [ref=e50]:
+                  - link "재무정보" [ref=e51]:
+                    - /url: home.php?go=Cmenu_01#page2
+                - listitem [ref=e52]:
+                  - link "공시정보" [ref=e53]:
+                    - /url: home.php?go=Cmenu_01#page3
+                - listitem [ref=e54]:
+                  - link "내부정보관리 규정" [ref=e55]:
+                    - /url: home.php?go=Cmenu_01#page4
+            - listitem [ref=e56] [cursor=pointer]:
+              - link "Support 고객지원" [ref=e57]:
+                - /url: home.php?go=Dmenu_01
+                - generic:
+                  - generic [ref=e58]: Support
+                  - generic [ref=e59]: 고객지원
+              - list [ref=e60]:
+                - listitem [ref=e61]:
+                  - link "회사소식" [ref=e62]:
+                    - /url: home.php?go=Dmenu_01#page1
+                - listitem [ref=e63]:
+                  - link "문의사항" [ref=e64]:
+                    - /url: home.php?go=Dmenu_01#page2
+            - listitem [ref=e65] [cursor=pointer]:
+              - link "Recruitment 인재채용" [ref=e66]:
+                - /url: home.php?go=Emenu_01
+                - generic:
+                  - generic [ref=e67]: Recruitment
+                  - generic [ref=e68]: 인재채용
+              - list [ref=e69]:
+                - listitem [ref=e70]:
+                  - link "인재상" [ref=e71]:
+                    - /url: home.php?go=Emenu_01#page1
+                - listitem [ref=e72]:
+                  - link "인사제도" [ref=e73]:
+                    - /url: home.php?go=Emenu_01#page2
+                - listitem [ref=e74]:
+                  - link "채용안내" [ref=e75]:
+                    - /url: home.php?go=Emenu_01#page3
+                - listitem [ref=e76]:
+                  - link "채용공고" [ref=e77]:
+                    - /url: home.php?go=Emenu_01#page4
+          - generic [ref=e79]:
+            - link "KOR" [ref=e80] [cursor=pointer]:
+              - /url: ../web/home.php
+            - link "ENG" [ref=e81] [cursor=pointer]:
+              - /url: ../eng/home.php
+            - link "CHN" [ref=e82] [cursor=pointer]:
+              - /url: ../chi/home.php
+      - generic [ref=e85]:
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - listbox [ref=e89]:
+              - option [ref=e90]
+              - option [ref=e92]
+              - option [ref=e94]
+            - tablist [ref=e96]:
+              - toolbar [ref=e97]:
+                - list [ref=e98]:
+                  - listitem [ref=e99]:
+                    - button "1" [ref=e100] [cursor=pointer]
+                  - listitem [ref=e101]:
+                    - button [ref=e102] [cursor=pointer]: "2"
+                  - listitem [ref=e103]:
+                    - button [ref=e104] [cursor=pointer]: "3"
+                - button "Pause" [ref=e106] [cursor=pointer]
+          - img "Make Your Dreams Work with Us" [ref=e109]
+        - generic [ref=e112]:
+          - heading "Identity" [level=3] [ref=e113]
+          - generic [ref=e116]:
+            - generic [ref=e117]:
+              - term [ref=e118]:
+                - text: 15년 이상 OLED를 연구한
+                - generic [ref=e119]: 전문 인력
+              - definition [ref=e120]: OLED 전문 엔지니어 80% 유지 관리
+              - definition [ref=e121]: 기능별 핵심인력 재직기간 15년 이상
+              - definition [ref=e122]: 전문 협력업체 Consortium 운영
+            - generic [ref=e123]:
+              - term [ref=e124]:
+                - text: 15년 이상 축적된
+                - generic [ref=e125]: OLED 증착기 생산기술
+              - definition [ref=e126]: Source / Thin Film Encapsulation
+              - definition [ref=e127]: 진공 Transfer / Operation System
+              - definition [ref=e128]: 진공 Design / Process 기술
+              - definition [ref=e129]: 매출 기준 평균 7% 요소기술 선행 개발
+            - generic [ref=e130]:
+              - term [ref=e131]:
+                - text: OLED 증착기 제조에
+                - generic [ref=e132]: 특화된 생산 SYSTEM
+              - definition [ref=e133]: Chamber, Aligner, Cleaning, Ultra Vacuum, Electrical의 생산 표준화
+              - definition [ref=e134]: 최대 생산시설 보유
+              - definition [ref=e135]: 품질 전문가를 통한 QA / QC 품질 보증
+        - generic [ref=e137]:
+          - heading "Product" [level=3] [ref=e138]
+          - generic [ref=e140]:
+            - generic [ref=e141]:
+              - list:
+                - listitem [ref=e142]:
+                  - generic [ref=e144]:
+                    - heading "OLED Equipment" [level=4] [ref=e145]
+                    - paragraph [ref=e146]: Cluster Type
+                    - paragraph [ref=e147]: Cluster Type 중형 증착장비
+                    - paragraph [ref=e148]: SUNICEL Plus 400
+                    - link "자세히 보기" [ref=e150] [cursor=pointer]:
+                      - /url: home.php?go=Bmenu_01#page1-2
+            - generic [ref=e151]:
+              - generic:
+                - link "Prev" [ref=e152] [cursor=pointer]:
+                  - /url: ""
+                - link "Next" [ref=e153] [cursor=pointer]:
+                  - /url: ""
+        - generic [ref=e155]:
+          - heading "Investor Relation" [level=3] [ref=e156]
+          - generic [ref=e157]:
+            - generic [ref=e158]:
+              - img [ref=e159]
+              - text: 79,700
+            - table "주가 상세정보" [ref=e160]:
+              - rowgroup [ref=e166]:
+                - row "전일대비 4,700(-5.57%) 거래량 99,601" [ref=e167]:
+                  - rowheader "전일대비" [ref=e168]
+                  - cell "4,700(-5.57%)" [ref=e169]:
+                    - img [ref=e170]
+                    - text: 4,700(-5.57%)
+                  - rowheader "거래량" [ref=e171]
+                  - cell "99,601" [ref=e172]
+                - row "등락률(%) -6.24 거래대금 8,029,302,650" [ref=e173]:
+                  - rowheader "등락률(%)" [ref=e174]
+                  - cell "-6.24" [ref=e175]:
+                    - img [ref=e176]
+                    - text: "-6.24"
+                  - rowheader "거래대금" [ref=e177]
+                  - cell "8,029,302,650" [ref=e178]
+          - list [ref=e179]:
+            - listitem [ref=e180]:
+              - link "주가정보" [ref=e181] [cursor=pointer]:
+                - /url: home.php?go=Cmenu_01#page1
+                - generic [ref=e182]: 주가정보
+            - listitem [ref=e183]:
+              - link "재무정보" [ref=e184] [cursor=pointer]:
+                - /url: home.php?go=Cmenu_01#page2
+                - generic [ref=e185]: 재무정보
+            - listitem [ref=e186]:
+              - link "공시정보" [ref=e187] [cursor=pointer]:
+                - /url: home.php?go=Cmenu_01#page3
+                - generic [ref=e188]: 공시정보
+            - listitem [ref=e189]:
+              - link "내부정보관리 규정" [ref=e190] [cursor=pointer]:
+                - /url: home.php?go=Cmenu_01#page4
+                - generic [ref=e191]: 내부정보관리 규정
+        - generic [ref=e193]:
+          - generic [ref=e195]:
+            - heading "Support" [level=3] [ref=e196]
+            - list [ref=e197]:
+              - listitem [ref=e198]:
+                - generic [ref=e199]: 대표번호
+                - text: 031-8012-1600
+              - listitem [ref=e200]:
+                - generic [ref=e201]: IR문의
+                - text: irmaster@sunic.co.kr
+              - listitem [ref=e202]:
+                - generic [ref=e203]: 제품문의
+                - text: sales@sunic.co.kr
+              - listitem [ref=e204]:
+                - generic [ref=e205]: 채용문의
+                - text: hrmaster@sunic.co.kr
+          - generic [ref=e206]:
+            - heading "회사소식" [level=4] [ref=e207]
+            - list [ref=e208]:
+              - listbox [ref=e210]:
+                - listitem [ref=e211]:
+                  - link [ref=e212] [cursor=pointer]:
+                    - /url: home.php?go=Dmenu_01&item_num2=1036
+                    - paragraph [ref=e213]: 제36기 현금/현물배당..
+                    - paragraph [ref=e214]: 제36기 현금/현물배당을 위한 권리주주 확정 기준일 공고 당사 정관 제18조(주주명부 폐쇄 ..
+                    - paragraph [ref=e215]: 2025-12-16
+                - listitem [ref=e216]:
+                  - link [ref=e217] [cursor=pointer]:
+                    - /url: home.php?go=Dmenu_01&item_num2=1035
+                    - paragraph [ref=e218]: 제36기 정기주주총회 ..
+                    - paragraph [ref=e219]: 제36기 정기주주총회 권리주주 확정 기준일 공고 상법 ..
+                    - paragraph [ref=e220]: 2025-12-16
+                - option "최근 일부 매체 보도 .. 주주 및 투자자 여러분께, 최근 일부 온라인 매체에 당사와 관련하여 사실과 다른 내용이 포함된 보도가 확.. 2025-11-12" [ref=e221]:
+                  - link "최근 일부 매체 보도 .. 주주 및 투자자 여러분께, 최근 일부 온라인 매체에 당사와 관련하여 사실과 다른 내용이 포함된 보도가 확.. 2025-11-12" [ref=e222] [cursor=pointer]:
+                    - /url: home.php?go=Dmenu_01&item_num2=1034
+                    - paragraph [ref=e223]: 최근 일부 매체 보도 ..
+                    - paragraph [ref=e224]: 주주 및 투자자 여러분께, 최근 일부 온라인 매체에 당사와 관련하여 사실과 다른 내용이 포함된 보도가 확..
+                    - paragraph [ref=e225]: 2025-11-12
+                - option "제 36기 결산공고 2026-03-26" [ref=e226]:
+                  - link "제 36기 결산공고 2026-03-26" [ref=e227] [cursor=pointer]:
+                    - /url: home.php?go=Dmenu_01&item_num2=1039
+                    - paragraph [ref=e228]: 제 36기 결산공고
+                    - paragraph [ref=e229]
+                    - paragraph [ref=e230]: 2026-03-26
+                - option [ref=e231]:
+                  - link [ref=e232] [cursor=pointer]:
+                    - /url: home.php?go=Dmenu_01&item_num2=1037
+                    - paragraph [ref=e233]: 주주총회 소집공고
+                    - paragraph [ref=e234]: 주주총회 소집공고 상법 제542조의4 및 동시행령 제31조 제5항에 의거 당사의 제36기 정..
+                    - paragraph [ref=e235]: 2026-03-11
+                - option [ref=e236]:
+                  - link [ref=e237] [cursor=pointer]:
+                    - /url: home.php?go=Dmenu_01&item_num2=1036
+                    - paragraph [ref=e238]: 제36기 현금/현물배당..
+                    - paragraph [ref=e239]: 제36기 현금/현물배당을 위한 권리주주 확정 기준일 공고 당사 정관 제18조(주주명부 폐쇄 ..
+                    - paragraph [ref=e240]: 2025-12-16
+                - option [ref=e241]:
+                  - link [ref=e242] [cursor=pointer]:
+                    - /url: home.php?go=Dmenu_01&item_num2=1035
+                    - paragraph [ref=e243]: 제36기 정기주주총회 ..
+                    - paragraph [ref=e244]: 제36기 정기주주총회 권리주주 확정 기준일 공고 상법 ..
+                    - paragraph [ref=e245]: 2025-12-16
+                - listitem [ref=e246]:
+                  - link [ref=e247] [cursor=pointer]:
+                    - /url: home.php?go=Dmenu_01&item_num2=1034
+                    - paragraph [ref=e248]: 최근 일부 매체 보도 ..
+                    - paragraph [ref=e249]: 주주 및 투자자 여러분께, 최근 일부 온라인 매체에 당사와 관련하여 사실과 다른 내용이 포함된 보도가 확..
+                    - paragraph [ref=e250]: 2025-11-12
+                - listitem [ref=e251]:
+                  - link [ref=e252] [cursor=pointer]:
+                    - /url: home.php?go=Dmenu_01&item_num2=1039
+                    - paragraph [ref=e253]: 제 36기 결산공고
+                    - paragraph [ref=e254]
+                    - paragraph [ref=e255]: 2026-03-26
+            - list [ref=e256]:
+              - listitem [ref=e257] [cursor=pointer]
+              - listitem [ref=e258] [cursor=pointer]
+            - link "더보기" [ref=e260] [cursor=pointer]:
+              - /url: home.php?go=Dmenu_01
+              - img "더보기" [ref=e261]
+      - contentinfo [ref=e262]:
+        - generic [ref=e264]:
+          - generic [ref=e265]:
+            - link "이메일무단수집거부" [ref=e266] [cursor=pointer]:
+              - /url: javascript:popup('policy3.php',550,200)
+            - link "고객지원" [ref=e267] [cursor=pointer]:
+              - /url: home.php?go=Dmenu_01
+            - link "찾아오시는길" [ref=e268] [cursor=pointer]:
+              - /url: home.php?go=Amenu_01#page4
+          - generic [ref=e269]:
+            - text: "(주)선익시스템 · 수원시 권선구 고색동 산업로 155번길 293 · T.031-8012-1600 · F.031-8012-1297 · 사업자등록번호: 125-81-13079"
+            - text: COPYRIGHT © 2017 SUNIC SYSTEM. sinbiweb all right reserved.
+            - paragraph [ref=e270]: 선익시스템 홈페이지는 Chrome, Internet Explorer 10 이상 1920 x 1080 해상도에 최적화 되어 있습니다.
+          - paragraph [ref=e272] [cursor=pointer]: 관련사이트
+  - list [ref=e274]:
+    - listitem [ref=e275]:
+      - link "Home" [ref=e276] [cursor=pointer]:
+        - /url: "#"
+    - listitem [ref=e277]:
+      - link "Identity" [ref=e278] [cursor=pointer]:
+        - /url: "#"
+    - listitem [ref=e279]:
+      - link "Product" [ref=e280] [cursor=pointer]:
+        - /url: "#"
+    - listitem [ref=e281]:
+      - link "IR" [ref=e282] [cursor=pointer]:
+        - /url: "#"
+    - listitem [ref=e283]:
+      - link "Support" [ref=e284] [cursor=pointer]:
+        - /url: "#"

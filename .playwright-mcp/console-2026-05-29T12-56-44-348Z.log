@@ -1,0 +1,12 @@
+[    1463ms] [WARNING] The key "target-densitydpi" is not supported. @ https://sunic.co.kr/web/home.php:9
+[    1479ms] [ERROR] Mixed Content: The page at 'https://sunic.co.kr/web/home.php' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/earlyaccess/nanumgothic.css'. This request has been blocked; the content must be served over HTTPS. @ https://sunic.co.kr/web/home.php:0
+[    1480ms] [ERROR] Mixed Content: The page at 'https://sunic.co.kr/web/home.php' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/earlyaccess/notosanskr.css'. This request has been blocked; the content must be served over HTTPS. @ https://sunic.co.kr/web/home.php:0
+[    1517ms] [WARNING] Failed to decode downloaded font: https://sunic.co.kr/web/fonts/NotoSans-Medium.woff2 @ https://sunic.co.kr/web/home.php:569
+[    1517ms] [WARNING] OTS parsing error: Failed to convert WOFF 2.0 font to SFNT @ https://sunic.co.kr/web/home.php:569
+[    1517ms] [WARNING] Failed to decode downloaded font: https://sunic.co.kr/web/fonts/NotoSans-Bold.woff2 @ https://sunic.co.kr/web/home.php:569
+[    1517ms] [WARNING] OTS parsing error: Failed to convert WOFF 2.0 font to SFNT @ https://sunic.co.kr/web/home.php:569
+[    1536ms] [LOG] null @ https://sunic.co.kr/web/js/ui.js:354
+[    1541ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://sunic.co.kr/web/css/ajax-loader.gif:0
+[    1560ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://sunic.co.kr/web/css/images/bx_loader.gif:0
+[    1562ms] [ERROR] Mixed Content: The page at 'https://sunic.co.kr/web/home.php' was loaded over HTTPS, but requested an insecure favicon 'http://sunic.co.kr/web/images/ico/favicon.ico'. This request has been blocked; the content must be served over HTTPS. @ https://sunic.co.kr/web/home.php:0
+[    1563ms] [ERROR] Mixed Content: The page at 'https://sunic.co.kr/web/home.php' was loaded over HTTPS, but requested an insecure favicon 'http://sunic.co.kr/web/images/ico/favicon.ico'. This request has been blocked; the content must be served over HTTPS. @ https://sunic.co.kr/web/home.php:0
