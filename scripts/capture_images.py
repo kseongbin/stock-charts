@@ -13,9 +13,9 @@ import sys
 import os
 import asyncio
 import argparse
+import subprocess
 
 def get_base():
-    # scripts/ 폴더 기준으로 상위 폴더(stock-charts)를 BASE로 설정
     return os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 async def capture_pages(company: str, urls: list[str]):
@@ -29,10 +29,7 @@ async def capture_pages(company: str, urls: list[str]):
     print(f"저장 경로: {TEMP_DIR}\n")
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(
-            headless=True,
-            args=['--host-resolver-rules=MAP sunic.co.kr 119.205.211.74, MAP sunic.15440835.com 119.205.211.74, MAP www.sunic.co.kr 119.205.211.74']
-        )
+        browser = await p.chromium.launch(headless=True)
         context = await browser.new_context(
             viewport={'width': 1280, 'height': 900},
             ignore_https_errors=True,
@@ -49,7 +46,6 @@ async def capture_pages(company: str, urls: list[str]):
                 status = resp.status if resp else 'N/A'
                 print(f"  HTTP: {status}")
 
-                # 페이지 로딩 대기
                 await page.wait_for_timeout(3000)
 
                 # 고정(sticky/fixed) 요소 숨기기 (헤더/팝업 등)
@@ -64,7 +60,6 @@ async def capture_pages(company: str, urls: list[str]):
                 """)
                 await page.wait_for_timeout(500)
 
-                # 풀페이지 스크린샷
                 temp_path = os.path.join(TEMP_DIR, f'{fname}_full.png')
                 await page.screenshot(path=temp_path, full_page=True)
                 fsize = os.path.getsize(temp_path)
@@ -80,15 +75,22 @@ async def capture_pages(company: str, urls: list[str]):
 
         await browser.close()
 
-    print(f"\n✅ 캡처 완료! temp 폴더 확인: {TEMP_DIR}")
-    print(f"\n다음 단계: crop_images.py 실행")
-    print(f"  python3 scripts/crop_images.py --company {company}")
+    print(f"\n✅ 캡처 완료!")
+
+
+def run_crop(company: str):
+    BASE = get_base()
+    crop_script = os.path.join(BASE, 'scripts', 'crop_images.py')
+    print(f"\n✂️  자동 크롭 실행 중...")
+    result = subprocess.run(['python3', crop_script, '--company', company], cwd=BASE)
+    return result.returncode == 0
 
 
 def main():
     parser = argparse.ArgumentParser(description='기업 홈페이지 이미지 캡처')
     parser.add_argument('--company', required=True, help='회사명 (영문 소문자, 예: kec)')
     parser.add_argument('--urls', required=True, help='캡처할 URL 5개 (쉼표로 구분)')
+    parser.add_argument('--no-crop', action='store_true', help='크롭 자동 실행 생략')
     args = parser.parse_args()
 
     urls = [u.strip() for u in args.urls.split(',')]
@@ -97,6 +99,13 @@ def main():
         sys.exit(1)
 
     asyncio.run(capture_pages(args.company, urls))
+
+    if not args.no_crop:
+        run_crop(args.company)
+    else:
+        BASE = get_base()
+        print(f"\n다음 단계: crop_images.py 실행")
+        print(f"  python3 scripts/crop_images.py --company {args.company}")
 
 
 if __name__ == '__main__':
