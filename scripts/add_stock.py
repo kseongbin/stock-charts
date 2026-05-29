@@ -239,7 +239,7 @@ def run_financial(filename_key):
 
 
 def update_agent_mapping(new_name=None, new_code=None, new_filename=None):
-    """에이전트 시스템 프롬프트용 종목-파일명 매핑표 재생성"""
+    """에이전트 시스템 프롬프트용 종목-파일명 예외 매핑표 재생성 (파일명≠종목코드인 경우만)"""
     with open(CHART_SCRIPT, 'r', encoding='utf-8') as f:
         content = f.read()
 
@@ -249,28 +249,33 @@ def update_agent_mapping(new_name=None, new_code=None, new_filename=None):
     )
 
     lines = [
-        "## 종목-파일명 매핑표 (반드시 이 표에서 {파일명} 조회)\n\n",
-        "표에 없는 종목은 새로 추가된 것이므로 사용자에게 파일명 확인 요청.\n\n",
+        "## 파일명 예외 매핑표\n\n",
+        "기본값: 파일명 = 종목코드 (예: 005930 → 005930.html)\n",
+        "아래 표에 있는 종목만 예외적으로 다른 파일명 사용.\n\n",
         "| 기업명 | 종목코드 | 파일명 |\n",
         "|--------|---------|--------|\n",
     ]
+    exception_count = 0
     for _, name, code, filename in entries:
         base = filename.replace('.html', '')
-        lines.append(f"| {name} | {code} | {base} |\n")
+        if base != code:
+            lines.append(f"| {name} | {code} | {base} |\n")
+            exception_count += 1
 
     mapping_file = os.path.join(BASE, 'AGENT_MAPPING.md')
     with open(mapping_file, 'w', encoding='utf-8') as f:
         f.writelines(lines)
 
-    print(f"\n📋 에이전트 매핑표 업데이트 완료: AGENT_MAPPING.md ({len(entries)}개 종목)")
+    print(f"\n📋 에이전트 매핑표 업데이트 완료: AGENT_MAPPING.md (전체 {len(entries)}개 중 예외 {exception_count}개)")
 
     if new_name and new_code and new_filename:
         base = new_filename.replace('.html', '')
-        print(f"\n{'='*60}")
-        print(f"⚠️  Claude.ai 기업분석 에이전트 지침 업데이트 필요!")
-        print(f"   매핑표에 아래 줄을 추가하세요:")
-        print(f"\n   | {new_name} | {new_code} | {base} |")
-        print(f"{'='*60}")
+        if base != new_code:
+            print(f"\n{'='*60}")
+            print(f"⚠️  Claude.ai 기업분석 에이전트 지침 업데이트 필요!")
+            print(f"   매핑표에 아래 줄을 추가하세요:")
+            print(f"\n   | {new_name} | {new_code} | {base} |")
+            print(f"{'='*60}")
 
 
 def git_push(name, code):
