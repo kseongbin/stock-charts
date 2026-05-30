@@ -28073,7 +28073,8 @@
     "011790",
     "307950",
     "274090",
-    "211270"
+    "211270",
+    "010120"
   ],
   "failed_register": {},
   "failed_chart": {
@@ -29265,7 +29266,6 @@
     "217590": "no_data"
   },
   "failed_financial": {
-    "010120": "returncode=1",
     "169670": "returncode=1",
     "477850": "returncode=1",
     "439960": "returncode=1",

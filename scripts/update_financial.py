@@ -35708,6 +35708,15 @@ STOCKS = [
         'annual_file': '000210_financial.html',
         'quarter_file': '000210_financial_q.html',
     },
+    {
+        'name': 'LS ELECTRIC',
+        'code': '010120',
+        'corp_code': '00105855',
+        'ticker': '010120.KS',
+        'capital': 0,
+        'annual_file': 'lselectric_financial.html',
+        'quarter_file': 'lselectric_financial_q.html',
+    },
 ]
 
 # ===== DART API 헬퍼 =====
