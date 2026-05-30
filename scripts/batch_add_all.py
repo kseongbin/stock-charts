@@ -390,6 +390,7 @@ def phase_financials(state, batch_size=300):
 
     batch = truly_pending[:batch_size]
     ok = fail = 0
+    quota_exceeded = False
 
     for i, code in enumerate(batch, 1):
         try:
@@ -398,12 +399,24 @@ def phase_financials(state, batch_size=300):
                 cwd=BASE, timeout=120,
                 env={**os.environ, 'DART_API_KEY': DART_KEY}
             )
-            if r.returncode == 0:
-                state['financials_done'].append(code)
-                ok += 1
-                log(f"  [{i}/{len(batch)}] ✅ {code}")
+            if r.returncode == 2:
+                # DART API 한도 초과 - 즉시 중단
+                log(f"  ⚠️ DART API 사용한도 초과! 배치 중단. ({i}번째 종목 {code})")
+                quota_exceeded = True
+                break
+            elif r.returncode == 0:
+                # 실제 파일 생성 여부 확인
+                fin_path = os.path.join(BASE, f'{code}_financial.html')
+                if os.path.exists(fin_path):
+                    state['financials_done'].append(code)
+                    ok += 1
+                    log(f"  [{i}/{len(batch)}] ✅ {code}")
+                else:
+                    state['failed_financial'][code] = 'no_data'
+                    fail += 1
+                    log(f"  [{i}/{len(batch)}] ⚠️ {code}: 데이터 없음 (파일 미생성)")
             else:
-                state['failed_financial'][code] = 'returncode!=0'
+                state['failed_financial'][code] = f'returncode={r.returncode}'
                 fail += 1
                 log(f"  [{i}/{len(batch)}] ❌ {code}: 스크립트 오류")
         except subprocess.TimeoutExpired:
@@ -420,6 +433,12 @@ def phase_financials(state, batch_size=300):
             git_commit_push(f'Batch financials {ok} done (Phase 3 progress)')
 
         time.sleep(1)
+
+    if quota_exceeded:
+        save_state(state)
+        git_commit_push(f'Batch financials paused (DART quota): {ok} done (Phase 3)')
+        log(f"Phase 3 DART 한도 초과로 중단. 내일 재시도: python3 scripts/batch_add_all.py --phase financials --size {batch_size}")
+        return
 
     save_state(state)
     git_commit_push(f'Batch financials complete: {ok} done, {fail} failed (Phase 3)')

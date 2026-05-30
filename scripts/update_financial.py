@@ -35711,12 +35711,17 @@ STOCKS = [
 ]
 
 # ===== DART API 헬퍼 =====
+class DartQuotaExceeded(Exception):
+    pass
+
 def dart_get(endpoint, params):
     params['crtfc_key'] = DART_KEY
     url = f'https://opendart.fss.or.kr/api/{endpoint}?' + urllib.parse.urlencode(params)
     req = urllib.request.Request(url)
     with urllib.request.urlopen(req, timeout=30) as resp:
         data = json.loads(resp.read().decode('utf-8'))
+    if data.get('status') == '020':
+        raise DartQuotaExceeded(f"DART API 사용한도 초과: {data.get('message','')}")
     if data.get('status') == '000':
         return data.get('list', [])
     return []
@@ -36150,7 +36155,7 @@ def update_stock(stock_info, force=False):
 
     if not annual_results:
         print(f'[{name}] No annual data available.')
-        return False
+        return 'no_data'
 
     # PER/PBR 계산 (yfinance 연말 종가)
     print(f'[{name}] Getting year-end prices for PER/PBR...')
@@ -36239,11 +36244,23 @@ if __name__ == '__main__':
     for arg in sys.argv:
         if arg.startswith('--only='):
             only_filter = [x.strip() for x in arg.split('=')[1].split(',')]
+    quota_hit = False
+    any_created = False
     for s in STOCKS:
         if only_filter:
-            # annual_file에서 회사 키 추출하여 필터
             key = s['annual_file'].replace('_financial.html', '')
             if key not in only_filter:
                 continue
-        update_stock(s, force=force)
+        try:
+            result = update_stock(s, force=force)
+            if result is True:
+                any_created = True
+        except DartQuotaExceeded as e:
+            print(f'DART_QUOTA_EXCEEDED: {e}')
+            quota_hit = True
+            break
     print('Done.')
+    if quota_hit:
+        sys.exit(2)   # 한도 초과 - 배치에서 즉시 중단 신호
+    if only_filter and not any_created:
+        sys.exit(1)   # 단일 종목 모드에서 파일 미생성 = 데이터 없음
