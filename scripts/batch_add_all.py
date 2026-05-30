@@ -44,9 +44,11 @@ def load_state():
         'registered':       [],  # Phase1 완료 code 목록
         'charts_done':      [],  # Phase2 완료 code 목록
         'financials_done':  [],  # Phase3 완료 code 목록
+        'images_done':      [],  # Phase4 완료 code 목록
         'failed_register':  {},  # {code: error}
         'failed_chart':     {},  # {code: error}
         'failed_financial': {},  # {code: error}
+        'failed_images':    {},  # {code: error}
     }
 
 def save_state(state):
@@ -119,6 +121,14 @@ def get_registered_codes():
     with open(CHART_SCRIPT, 'r', encoding='utf-8') as f:
         content = f.read()
     return set(re.findall(r'"code":\s*"([^"]+)"', content))
+
+
+def get_code_to_filename():
+    """update_chart.py STOCKS에서 code → filename 매핑 반환 (확장자 포함)"""
+    with open(CHART_SCRIPT, 'r', encoding='utf-8') as f:
+        content = f.read()
+    entries = re.findall(r'"code":\s*"([^"]+)",\s*"filename":\s*"([^"]+)"', content)
+    return {code: fname for code, fname in entries}
 
 
 def add_to_chart(name, code, ticker, filename):
@@ -302,6 +312,7 @@ def phase_charts(state, batch_size=300):
     log("=" * 60)
     log(f"Phase 2: 차트 생성 시작 (배치 {batch_size}개/회)")
 
+    code_to_fname = get_code_to_filename()
     charts_done_set = set(state['charts_done'])
     failed_set      = set(state['failed_chart'].keys())
 
@@ -310,10 +321,11 @@ def phase_charts(state, batch_size=300):
         if code not in charts_done_set and code not in failed_set
     ]
 
-    # 이미 HTML이 있으면 done 처리
+    # 이미 HTML이 있으면 done 처리 (실제 파일명 기준으로 확인)
     truly_pending = []
     for code in pending:
-        html_path = os.path.join(BASE, f'{code}.html')
+        fname = code_to_fname.get(code, f'{code}.html')
+        html_path = os.path.join(BASE, fname)
         if os.path.exists(html_path):
             state['charts_done'].append(code)
         else:
@@ -332,11 +344,19 @@ def phase_charts(state, batch_size=300):
                 env={**os.environ, 'DART_API_KEY': DART_KEY}
             )
             if r.returncode == 0:
-                state['charts_done'].append(code)
-                ok += 1
-                log(f"  [{i}/{len(batch)}] ✅ {code}")
+                # 실제 파일 생성 여부 확인 (yfinance 데이터 없는 상장폐지 종목 대응)
+                fname = code_to_fname.get(code, f'{code}.html')
+                chart_path = os.path.join(BASE, fname)
+                if os.path.exists(chart_path):
+                    state['charts_done'].append(code)
+                    ok += 1
+                    log(f"  [{i}/{len(batch)}] ✅ {code}")
+                else:
+                    state['failed_chart'][code] = 'no_data'
+                    fail += 1
+                    log(f"  [{i}/{len(batch)}] ⚠️ {code}: 데이터 없음 (파일 미생성)")
             else:
-                state['failed_chart'][code] = 'returncode!=0'
+                state['failed_chart'][code] = f'returncode={r.returncode}'
                 fail += 1
                 log(f"  [{i}/{len(batch)}] ❌ {code}: 스크립트 오류")
         except subprocess.TimeoutExpired:
@@ -458,9 +478,11 @@ def show_status(state):
     reg      = len(state['registered'])
     ch_done  = len(state['charts_done'])
     fin_done = len(state['financials_done'])
+    img_done = len(state.get('images_done', []))
     fail_r   = len(state['failed_register'])
     fail_c   = len(state['failed_chart'])
     fail_f   = len(state['failed_financial'])
+    fail_i   = len(state.get('failed_images', {}))
 
     print(f"\n{'='*55}")
     print(f"  DART 배치 처리 현황")
@@ -481,6 +503,13 @@ def show_status(state):
     if reg > 0:
         fin_remain = reg - fin_done - fail_f
         print(f"    재무 남은 종목  : {fin_remain:>6,}개 (약 {max(0,(fin_remain-1)//300+1)}일)")
+    print(f"  Phase 4 (이미지)")
+    print(f"    이미지 생성 완료: {img_done:>6,}개")
+    print(f"    이미지 실패     : {fail_i:>6,}개")
+    if reg > 0:
+        img_remain = reg - img_done - fail_i
+        print(f"    이미지 남은 종목: {img_remain:>6,}개")
+        print(f"    → python3 scripts/batch_capture_images.py --size 100")
     print(f"{'='*55}\n")
 
 
