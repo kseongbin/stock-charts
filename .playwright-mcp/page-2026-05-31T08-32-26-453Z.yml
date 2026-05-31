@@ -1,0 +1,22 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - link "본문 바로가기" [ref=e2] [cursor=pointer]:
+      - /url: "#kakaoBody"
+    - link "메뉴 바로가기" [ref=e3] [cursor=pointer]:
+      - /url: "#kakaoGnb"
+  - generic [ref=e4]:
+    - main [ref=e5]:
+      - generic [ref=e11]:
+        - heading "에러 메세지" [level=2]
+        - strong [ref=e12]:
+          - text: 권한이 없거나 존재하지 않는
+          - text: 페이지입니다.
+        - paragraph [ref=e13]:
+          - text: 궁금하신 사항은
+          - link "고객센터" [ref=e14] [cursor=pointer]:
+            - /url: https://cs.daum.net
+          - text: 로 문의해 주시기 바랍니다.
+        - link "이전화면" [ref=e16] [cursor=pointer]:
+          - /url: javascript:window.history.back();
+    - paragraph [ref=e19]:
+      - strong [ref=e20]: TISTORY
