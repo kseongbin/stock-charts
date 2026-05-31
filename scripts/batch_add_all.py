@@ -203,7 +203,12 @@ def update_agent_mapping():
 # ─── Git ─────────────────────────────────────────────────────
 
 def git_commit_push(msg):
-    subprocess.run(['git', 'add', '.'], cwd=BASE)
+    # 명시 경로만 stage — 잠금 해제된 재무/이미지가 'deleted'로 잘못 staged 되는 사고 방지
+    # --ignore-removal: 삭제는 stage하지 않음 (skip-worktree 해제로 'deleted'된 파일 보호)
+    subprocess.run(['git', 'add', '--ignore-removal', '--', '*.html',
+                    'scripts/batch_state.json',
+                    'scripts/batch_log.txt',
+                    'AGENT_MAPPING.md'], cwd=BASE)
     r = subprocess.run(['git', 'commit', '-m', msg], cwd=BASE,
                        capture_output=True, text=True)
     if 'nothing to commit' in r.stdout + r.stderr:
