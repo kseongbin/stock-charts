@@ -269,21 +269,21 @@ def fetch_homepage_urls(state: dict, batch_size: int = 300):
 # ─── Git ─────────────────────────────────────────────────────
 
 def git_commit_push(msg: str):
-    subprocess.run(['git', 'add', 'images/'], cwd=BASE)
+    # --ignore-removal: 잠금 해제된 파일의 deletion 자동 stage 방지
+    subprocess.run(['git', 'add', '--ignore-removal', 'images/'], cwd=BASE)
     r = subprocess.run(['git', 'commit', '-m', msg], cwd=BASE,
                        capture_output=True, text=True)
     if 'nothing to commit' in r.stdout + r.stderr:
         return
     result = subprocess.run(['git', 'push', 'origin', 'main'], cwd=BASE)
     if result.returncode == 0:
-        _cleanup_local_images()
-        log("  ✅ push 완료 (로컬 PNG 삭제)")
+        log("  ✅ push 완료")
     else:
         log("  ⚠️  push 실패 (나중에 수동 push 필요)")
 
 
-def _cleanup_local_images():
-    """push 후 로컬 PNG 삭제 (GitHub에는 유지, 디스크 공간 확보)"""
+def lock_and_cleanup_all_images():
+    """배치 종료 시 1회만 호출. Why: 매 push마다 잠그면 다음 캡처가 git에 안 잡힘."""
     r = subprocess.run(
         ['git', 'ls-files', 'images/'],
         cwd=BASE, capture_output=True, text=True
@@ -299,7 +299,7 @@ def _cleanup_local_images():
             os.remove(path)
             removed += 1
     if removed:
-        log(f"  로컬 PNG {removed}개 삭제 (GitHub에는 유지)")
+        log(f"  배치 종료 후 로컬 PNG {removed}개 잠금 및 삭제")
 
 
 # ─── Phase 4 ─────────────────────────────────────────────────
@@ -401,6 +401,7 @@ def phase_images(state: dict, batch_size: int = 100):
 
     save_state(state)
     git_commit_push(f'Batch images complete: {ok} done, {fail} failed (Phase 4)')
+    lock_and_cleanup_all_images()
 
     remaining = len(truly_pending) - len(batch)
     log(f"Phase 4 배치 완료: ✅{ok} ❌{fail} | 남은 {remaining:,}개")

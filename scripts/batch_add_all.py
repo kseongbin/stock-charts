@@ -215,7 +215,6 @@ def git_commit_push(msg):
         return
     result = subprocess.run(['git', 'push', 'origin', 'main'], cwd=BASE)
     if result.returncode == 0:
-        _cleanup_local_html()
         try:
             urllib.request.urlopen(
                 'https://purge.jsdelivr.net/gh/kseongbin/stock-charts@main/AGENT_MAPPING.md',
@@ -228,8 +227,11 @@ def git_commit_push(msg):
         log("  ⚠️  push 실패 (나중에 수동 push 필요)")
 
 
-def _cleanup_local_html():
-    """push 완료 후 로컬 HTML 파일 삭제 (GitHub에는 유지, 디스크 공간 확보)"""
+def lock_and_cleanup_all_html():
+    """배치 종료 시 1회만 호출. 모든 HTML을 skip-worktree로 잠그고 로컬 파일 삭제.
+    Why: 매 push마다 잠그면 그 다음 batch 단계에서 git이 변경을 무시해 push가 누락됨.
+    배치 종료 시에만 잠가야 전체 변경이 정상 반영됨.
+    """
     r = subprocess.run(['git', 'ls-files', '*.html'], cwd=BASE,
                        capture_output=True, text=True)
     html_files = [f for f in r.stdout.splitlines() if f]
@@ -243,7 +245,7 @@ def _cleanup_local_html():
             os.remove(path)
             removed += 1
     if removed:
-        log(f"  🗑️  로컬 HTML {removed}개 삭제 (GitHub에는 유지)")
+        log(f"  🗑️  배치 종료 후 로컬 HTML {removed}개 삭제 및 잠금")
 
 
 # ─── Phase 1: Register ────────────────────────────────────────
@@ -306,6 +308,7 @@ def phase_register(state):
     save_state(state)
     update_agent_mapping()
     git_commit_push(f'Batch register {ok} companies (Phase 1)')
+    lock_and_cleanup_all_html()
     log(f"Phase 1 완료: 성공 {ok:,}개, 실패 {fail:,}개")
     if fail:
         log(f"  실패 목록은 batch_state.json 확인. --retry 로 재시도 가능.")
@@ -379,6 +382,7 @@ def phase_charts(state, batch_size=300):
 
     save_state(state)
     git_commit_push(f'Batch charts batch complete: {ok} done, {fail} failed (Phase 2)')
+    lock_and_cleanup_all_html()
 
     remaining = len(truly_pending) - len(batch)
     log(f"Phase 2 배치 완료: ✅{ok} ❌{fail} | 남은 {remaining:,}개")
@@ -462,11 +466,13 @@ def phase_financials(state, batch_size=300):
     if quota_exceeded:
         save_state(state)
         git_commit_push(f'Batch financials paused (DART quota): {ok} done (Phase 3)')
+        lock_and_cleanup_all_html()
         log(f"Phase 3 DART 한도 초과로 중단. 내일 재시도: python3 scripts/batch_add_all.py --phase financials --size {batch_size}")
         return
 
     save_state(state)
     git_commit_push(f'Batch financials complete: {ok} done, {fail} failed (Phase 3)')
+    lock_and_cleanup_all_html()
 
     remaining = len(truly_pending) - len(batch)
     log(f"Phase 3 배치 완료: ✅{ok} ❌{fail} | 남은 {remaining:,}개")

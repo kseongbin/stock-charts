@@ -36257,8 +36257,10 @@ if __name__ == '__main__':
     any_created = False
     for s in STOCKS:
         if only_filter:
-            key = s['annual_file'].replace('_financial.html', '')
-            if key not in only_filter:
+            # 종목코드 OR 파일명 베이스 둘 다 매칭 (예외 파일명 기업 지원)
+            file_key = s['annual_file'].replace('_financial.html', '')
+            code_key = s.get('code', '')
+            if file_key not in only_filter and code_key not in only_filter:
                 continue
         try:
             result = update_stock(s, force=force)

@@ -63,7 +63,10 @@ def make_delisted_html(name, code, ticker):
 
 
 def git_commit_push(msg):
-    subprocess.run(['git', 'add', '.'], cwd=BASE)
+    # 명시 경로 + --ignore-removal: deletion 자동 stage 방지
+    subprocess.run(['git', 'add', '--ignore-removal', '--', '*.html',
+                    'scripts/batch_state.json',
+                    'scripts/batch_log.txt'], cwd=BASE)
     r = subprocess.run(['git', 'commit', '-m', msg], cwd=BASE,
                        capture_output=True, text=True)
     if 'nothing to commit' in r.stdout + r.stderr:
@@ -71,13 +74,13 @@ def git_commit_push(msg):
         return
     result = subprocess.run(['git', 'push', 'origin', 'main'], cwd=BASE)
     if result.returncode == 0:
-        _cleanup_local_html()
         log("  ✅ push 완료")
     else:
         log("  ⚠️  push 실패")
 
 
-def _cleanup_local_html():
+def lock_and_cleanup_all_html():
+    """배치 종료 시 1회만 호출. Why: 매 push마다 잠그면 다음 단계 변경이 무시됨."""
     r = subprocess.run(['git', 'ls-files', '*.html'], cwd=BASE,
                        capture_output=True, text=True)
     html_files = [f for f in r.stdout.splitlines() if f]
@@ -91,7 +94,7 @@ def _cleanup_local_html():
             os.remove(path)
             removed += 1
     if removed:
-        log(f"  로컬 HTML {removed}개 삭제 (GitHub에는 유지)")
+        log(f"  배치 종료 후 로컬 HTML {removed}개 잠금 및 삭제")
 
 
 def main():
@@ -153,6 +156,7 @@ def main():
 
     save_state(state)
     git_commit_push(f'Batch delisted HTML complete: {ok} done, {skip} skipped')
+    lock_and_cleanup_all_html()
     log(f"완료: ✅ {ok}개 생성, ⏭️ {skip}개 스킵")
 
 
