@@ -4254,9 +4254,9 @@ def generate_chart(stock_info):
         ),
     )
 
-    # HTML 저장 (Plotly 내장 - 티스토리 iframe 호환)
+    # HTML 저장 (Plotly CDN - 파일 크기 최소화)
     out_path = os.path.join(BASE, filename)
-    html = fig.to_html(include_plotlyjs=True, full_html=True, config=chart_config)
+    html = fig.to_html(include_plotlyjs='cdn', full_html=True, config=chart_config)
     html = html.replace('</body>', autofit_js + '</body>')
     with open(out_path, 'w', encoding='utf-8') as f:
         f.write(html)

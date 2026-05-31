@@ -1,0 +1,62 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - img:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic: "0"
+            - generic:
+              - generic: 50,000
+            - generic:
+              - generic: 100,000
+            - generic:
+              - generic: 150,000
+            - generic:
+              - generic: 200,000
+            - generic:
+              - generic: 250,000
+            - generic:
+              - generic: 300,000
+        - generic:
+          - generic:
+            - generic:
+              - generic: "2005"
+            - generic:
+              - generic: "2010"
+            - generic:
+              - generic: "2015"
+            - generic:
+              - generic: "2020"
+            - generic:
+              - generic: "2025"
+    - img:
+      - generic:
+        - generic [ref=e28]:
+          - generic [ref=e30]: 주봉
+          - generic [ref=e38]: 60일선
+          - generic [ref=e41]: 거래량
+        - generic [ref=e46] [cursor=pointer]:
+          - generic [ref=e49]: 3M
+          - generic [ref=e52]: 6M
+          - generic [ref=e55]: 1Y
+          - generic [ref=e58]: 3Y
+          - generic [ref=e61]: 5Y
+          - generic [ref=e64]: ALL
+        - generic [ref=e65] [cursor=pointer]:
+          - generic [ref=e68]: 3M
+          - generic [ref=e71]: 6M
+          - generic [ref=e74]: 1Y
+          - generic [ref=e77]: 3Y
+          - generic [ref=e80]: 5Y
+          - generic [ref=e83]: ALL
+        - generic:
+          - generic: 삼성전자 (005930) 주가 차트 (주봉)
+    - toolbar [ref=e84]:
+      - generic [ref=e85]:
+        - button "Pan" [ref=e86] [cursor=pointer]:
+          - img [ref=e87]
+        - button "Draw line" [ref=e89] [cursor=pointer]:
+          - img [ref=e90]
+    - img
+  - img [ref=e92]
