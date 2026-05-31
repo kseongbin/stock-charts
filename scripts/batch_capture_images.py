@@ -68,11 +68,11 @@ def get_homepage_url(corp_code: str) -> str:
 # ─── 이미지 캡처 (add_by_name.py auto_capture 동일 로직) ─────
 
 NAV_KEYWORDS = [
-    ['제품', '사업', '솔루션', 'product', 'solution', 'business', 'service'],
-    ['기술', 'technology', 'tech', 'r&d', '연구개발', 'innovation'],
-    ['소재', '부품', '배터리', 'material', 'component', 'battery', 'semiconductor'],
-    ['회사소개', 'about', '기업소개', 'company', '소개', '개요'],
-    ['뉴스', '공지', 'news', 'press', '미디어', 'media', '보도'],
+    ['기술', 'technology', 'tech', 'r&d', '연구개발', 'innovation', '핵심기술', 'core'],
+    ['제품', '사업', '솔루션', 'product', 'solution', 'business', 'service', '사업영역', '주요사업'],
+    ['소재', '부품', '배터리', 'material', 'component', 'battery', 'semiconductor', '소자', '반도체'],
+    ['회사소개', 'about', '기업소개', 'company', '소개', '개요', 'overview', 'ir'],
+    ['뉴스', '공지', 'news', 'press', '미디어', 'media', '보도', '홍보', '실적'],
 ]
 
 
@@ -139,7 +139,14 @@ async def auto_capture(code: str, homepage_url: str) -> list:
                 selected.append(link['href'])
                 used.add(link['href'])
 
-        if len(selected) < 5:
+        # nav 링크가 부족하면 홈페이지 스크롤 위치별 fallback
+        SCROLL_FALLBACKS = [0, 600, 1400, 2200, 3200]
+        fallback_idx = 0
+        while len(selected) < 5 and fallback_idx < len(SCROLL_FALLBACKS):
+            selected.append(f'__scroll__{homepage_url}___{SCROLL_FALLBACKS[fallback_idx]}')
+            fallback_idx += 1
+
+        if homepage_url not in selected and not any(homepage_url in s for s in selected):
             selected.insert(0, homepage_url)
 
         await page.close()
@@ -148,8 +155,15 @@ async def auto_capture(code: str, homepage_url: str) -> list:
         for i, url in enumerate(selected[:5], 1):
             pg = await context.new_page()
             try:
-                await pg.goto(url, wait_until='networkidle', timeout=30000)
-                await pg.wait_for_timeout(3000)
+                scroll_y = 450
+                actual_url = url
+                if url.startswith('__scroll__'):
+                    _, actual_url, scroll_y = url.split('___', 2) if '___' in url else (None, homepage_url, 450)
+                    actual_url = actual_url.replace('__scroll__', '')
+                    scroll_y = int(scroll_y)
+
+                await pg.goto(actual_url, wait_until='networkidle', timeout=30000)
+                await pg.wait_for_timeout(2000)
                 await pg.evaluate("""
                     document.querySelectorAll('*').forEach(el => {
                         const st = getComputedStyle(el);
@@ -158,7 +172,7 @@ async def auto_capture(code: str, homepage_url: str) -> list:
                     });
                     document.body.style.overflow = 'auto';
                 """)
-                await pg.evaluate("window.scrollTo(0, 450)")
+                await pg.evaluate(f"window.scrollTo(0, {scroll_y})")
                 await pg.wait_for_timeout(800)
                 out = os.path.join(TEMP_DIR, f'{code}_{i}_full.png')
                 await pg.screenshot(path=out, full_page=False)
@@ -188,10 +202,11 @@ def cleanup_temp(code: str):
 
 
 def images_exist(code: str) -> bool:
-    return all(
-        os.path.exists(os.path.join(IMAGES_DIR, f'{code}_{i}.png'))
-        for i in range(1, 6)
+    count = sum(
+        1 for i in range(1, 6)
+        if os.path.exists(os.path.join(IMAGES_DIR, f'{code}_{i}.png'))
     )
+    return count >= 1
 
 
 # ─── URL 사전 수집 ────────────────────────────────────────────
