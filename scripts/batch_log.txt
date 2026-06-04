@@ -88791,3 +88791,54 @@ no data
 [와이엔텍] Quarterly: 067900_financial_q.html
 Done.
 [2026-06-05 02:56:17]   [500/554] ✅ 067900 (연간+분기)
+To https://github.com/kseongbin/stock-charts
+   770ec3f..8102c94  main -> main
+[2026-06-05 02:56:21]   ✅ push 완료
+[SFA반도체] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[SFA반도체] Getting year-end prices for PER/PBR...
+[SFA반도체] Market cap: 12,976 억원
+[SFA반도체] Annual: 036540_financial.html
+[SFA반도체] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+no data
+  2026/Q1... OK
+  2025/Q4... OK
+  2025/Q3... OK
+  2025/Q2... OK
+  2025/Q1... OK
+[SFA반도체] Quarterly: 036540_financial_q.html
+Done.
+[2026-06-05 02:56:35]   [501/554] ✅ 036540 (연간+분기)
+[에스에프에이] Fetching annual data...
+  2020... OK
+  2021... OK
+  2022... OK
+  2023... OK
+  2024... OK
+  2025... OK
+  2026...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+[에스에프에이] Getting year-end prices for PER/PBR...
+[에스에프에이] Market cap: 9,893 억원
+[에스에프에이] Annual: 056190_financial.html
+[에스에프에이] Fetching quarterly data...
+  2026/Q4...     CFS 없음 → OFS fallback (2026, 11011)
+no data
+  2026/Q3...     CFS 없음 → OFS fallback (2026, 11014)
+no data
+  2026/Q2...     CFS 없음 → OFS fallback (2026, 11012)
+DART_QUOTA_EXCEEDED: DART API 사용한도 초과: 사용한도를 초과하였습니다.
+Done.
+[2026-06-05 02:56:46]   ⚠️ DART API 사용한도 초과! 배치 중단. (502번째 종목 056190)
