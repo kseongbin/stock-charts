@@ -131,6 +131,21 @@ def get_code_to_filename():
     return {code: fname for code, fname in entries}
 
 
+def get_code_to_financial_files():
+    """update_financial.py STOCKS에서 code → (annual_file, quarter_file) 매핑 반환.
+    예외 파일명 기업(삼성전기·SKC·kmw 등)은 종목코드와 다른 파일명 사용."""
+    with open(FINANCIAL_SCRIPT, 'r', encoding='utf-8') as f:
+        content = f.read()
+    # STOCKS 항목: code, annual_file, quarter_file 추출
+    mapping = {}
+    for m in re.finditer(
+        r"'code':\s*'([^']+)',[^}]*?'annual_file':\s*'([^']+)',\s*'quarter_file':\s*'([^']+)'",
+        content, re.DOTALL):
+        code, annual, quarter = m.group(1), m.group(2), m.group(3)
+        mapping[code] = (annual, quarter)
+    return mapping
+
+
 def add_to_chart(name, code, ticker, filename):
     with open(CHART_SCRIPT, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -398,6 +413,7 @@ def phase_financials(state, batch_size=300):
     log("=" * 60)
     log(f"Phase 3: 재무 생성 시작 (배치 {batch_size}개/회)")
 
+    code_to_fin = get_code_to_financial_files()
     done_set   = set(state['financials_done'])
     failed_set = set(state['failed_financial'].keys())
 
@@ -406,10 +422,11 @@ def phase_financials(state, batch_size=300):
         if code not in done_set and code not in failed_set
     ]
 
-    # 이미 HTML이 있으면 done 처리
+    # 이미 HTML이 있으면 done 처리 (실제 파일명 사용 — 예외 파일명 기업 대응)
     truly_pending = []
     for code in pending:
-        fin_path = os.path.join(BASE, f'{code}_financial.html')
+        annual_fn, _ = code_to_fin.get(code, (f'{code}_financial.html', f'{code}_financial_q.html'))
+        fin_path = os.path.join(BASE, annual_fn)
         if os.path.exists(fin_path):
             state['financials_done'].append(code)
         else:
@@ -433,21 +450,34 @@ def phase_financials(state, batch_size=300):
                 log(f"  ⚠️ DART API 사용한도 초과! 배치 중단. ({i}번째 종목 {code})")
                 quota_exceeded = True
                 break
-            elif r.returncode == 0:
-                # 실제 파일 생성 여부 확인
-                fin_path = os.path.join(BASE, f'{code}_financial.html')
-                if os.path.exists(fin_path):
-                    state['financials_done'].append(code)
-                    ok += 1
-                    log(f"  [{i}/{len(batch)}] ✅ {code}")
-                else:
+            elif r.returncode in (0, 1):
+                # returncode 0 = 정상 처리, 1 = 데이터 없음 신호 (update_financial.py가 보내는 의도된 종료)
+                # 어느 경우든 파일 존재로 판단 (returncode 1이라도 일부 종목은 파일이 만들어졌을 수 있음)
+                annual_fn, quarter_fn = code_to_fin.get(code, (f'{code}_financial.html', f'{code}_financial_q.html'))
+                fin_path = os.path.join(BASE, annual_fn)
+                q_path = os.path.join(BASE, quarter_fn)
+
+                if not os.path.exists(fin_path):
                     state['failed_financial'][code] = 'no_data'
                     fail += 1
-                    log(f"  [{i}/{len(batch)}] ⚠️ {code}: 데이터 없음 (파일 미생성)")
+                    log(f"  [{i}/{len(batch)}] ⚠️ {code}: DART 데이터 없음")
+                elif os.path.getsize(fin_path) < 5000:
+                    sz = os.path.getsize(fin_path)
+                    state['failed_financial'][code] = f'too_small:{sz}'
+                    fail += 1
+                    log(f"  [{i}/{len(batch)}] ❌ {code}: 파일 비정상 크기 ({sz} bytes)")
+                else:
+                    state['financials_done'].append(code)
+                    ok += 1
+                    if os.path.exists(q_path):
+                        log(f"  [{i}/{len(batch)}] ✅ {code} (연간+분기)")
+                    else:
+                        log(f"  [{i}/{len(batch)}] ✅ {code} (연간만)")
             else:
+                # returncode 3 이상은 실제 스크립트 오류
                 state['failed_financial'][code] = f'returncode={r.returncode}'
                 fail += 1
-                log(f"  [{i}/{len(batch)}] ❌ {code}: 스크립트 오류")
+                log(f"  [{i}/{len(batch)}] ❌ {code}: 스크립트 오류 (rc={r.returncode})")
         except subprocess.TimeoutExpired:
             state['failed_financial'][code] = 'timeout'
             fail += 1
