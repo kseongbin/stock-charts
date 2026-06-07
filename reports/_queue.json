@@ -7,10 +7,6 @@
   ],
   "queue": [
     {
-      "name": "더블유씨피",
-      "category": "2차전지"
-    },
-    {
       "name": "삼성SDI",
       "category": "2차전지"
     },
@@ -109,6 +105,10 @@
     {
       "name": "LG디스플레이",
       "category": "LG그룹"
+    },
+    {
+      "name": "디앤디파마텍",
+      "category": "바이오"
     },
     {
       "name": "코아스템켐온",
