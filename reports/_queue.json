@@ -7,22 +7,6 @@
   ],
   "queue": [
     {
-      "name": "삼성SDI",
-      "category": "2차전지"
-    },
-    {
-      "name": "대주전자재료",
-      "category": "2차전지"
-    },
-    {
-      "name": "메가터치",
-      "category": "2차전지"
-    },
-    {
-      "name": "에이프로",
-      "category": "2차전지"
-    },
-    {
       "name": "나노팀",
       "category": "2차전지"
     },
