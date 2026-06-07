@@ -21,6 +21,7 @@
 | 6 | 한올바이오파마 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/한올바이오파마.html) | 2026-06-07 |
 | 7 | 네이처셀 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/네이처셀.html) | 2026-06-07 |
 | 8 | 지아이이노베이션 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/지아이이노베이션.html) | 2026-06-07 |
+| 9 | 현대바이오 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/현대바이오.html) | 2026-06-07 |
 
 ---
 
