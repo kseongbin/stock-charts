@@ -7,12 +7,16 @@
   ],
   "queue": [
     {
-      "name": "진원생명과학",
-      "category": "바이오"
+      "name": "세명전기",
+      "category": "전력"
     },
     {
-      "name": "코나아이",
-      "category": "핀테크"
+      "name": "한전산업",
+      "category": "전력"
+    },
+    {
+      "name": "그리드위즈",
+      "category": "전력"
     },
     {
       "name": "나이스정보통신",
