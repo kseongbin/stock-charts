@@ -19,6 +19,7 @@
 | 4 | 그리드위즈 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/그리드위즈.html) | 2026-06-07 |
 | 5 | HD한국조선해양 | 조선 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD한국조선해양.html) | 2026-06-07 |
 | 6 | 한올바이오파마 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/한올바이오파마.html) | 2026-06-07 |
+| 7 | 네이처셀 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/네이처셀.html) | 2026-06-07 |
 
 ---
 
