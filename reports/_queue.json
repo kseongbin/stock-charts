@@ -7,26 +7,6 @@
   ],
   "queue": [
     {
-      "name": "세명전기",
-      "category": "전력"
-    },
-    {
-      "name": "한전산업",
-      "category": "전력"
-    },
-    {
-      "name": "그리드위즈",
-      "category": "전력"
-    },
-    {
-      "name": "나이스정보통신",
-      "category": "핀테크"
-    },
-    {
-      "name": "웹케시",
-      "category": "핀테크"
-    },
-    {
       "name": "에스아이리소스",
       "category": "기타"
     },
