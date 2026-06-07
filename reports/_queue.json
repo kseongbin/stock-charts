@@ -7,22 +7,6 @@
   ],
   "queue": [
     {
-      "name": "HD한국조선해양",
-      "category": "조선"
-    },
-    {
-      "name": "에이치브이엠",
-      "category": "조선"
-    },
-    {
-      "name": "베셀",
-      "category": "조선"
-    },
-    {
-      "name": "LG이노텍",
-      "category": "LG그룹"
-    },
-    {
       "name": "LG",
       "category": "LG그룹"
     },
