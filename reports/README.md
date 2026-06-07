@@ -13,6 +13,7 @@
 
 | # | 기업명 | 카테고리 | Raw 링크 | 생성일 |
 |---:|---|---|---|---|
+| 1 | 세명전기 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/세명전기.html) | 2026-06-07 |
 
 ---
 

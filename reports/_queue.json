@@ -2,7 +2,6 @@
   "description": "priority_companies.md 131개 중 미처리 기업 큐 (2026-06-07 기준)",
   "skip": ["마키나락스", "코스모로보틱스", "코스텍놀로지"],
   "queue": [
-    {"name": "세명전기", "category": "전력"},
     {"name": "한전산업", "category": "전력"},
     {"name": "키스트론", "category": "전력"},
     {"name": "그리드위즈", "category": "전력"},
