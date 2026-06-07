@@ -7,6 +7,26 @@
   ],
   "queue": [
     {
+      "name": "네이처셀",
+      "category": "바이오"
+    },
+    {
+      "name": "지아이이노베이션",
+      "category": "바이오"
+    },
+    {
+      "name": "현대바이오",
+      "category": "바이오"
+    },
+    {
+      "name": "피플바이오",
+      "category": "바이오"
+    },
+    {
+      "name": "엑셀세라퓨틱스",
+      "category": "바이오"
+    },
+    {
       "name": "한올바이오파마",
       "category": "바이오"
     },
