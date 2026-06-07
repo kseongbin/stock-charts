@@ -7,6 +7,94 @@
   ],
   "queue": [
     {
+      "name": "테이팩스",
+      "category": "2차전지"
+    },
+    {
+      "name": "리튬포어스",
+      "category": "2차전지"
+    },
+    {
+      "name": "하이드로리튬",
+      "category": "2차전지"
+    },
+    {
+      "name": "강원에너지",
+      "category": "2차전지"
+    },
+    {
+      "name": "현대모비스",
+      "category": "자동차"
+    },
+    {
+      "name": "한온시스템",
+      "category": "자동차"
+    },
+    {
+      "name": "현대위아",
+      "category": "자동차"
+    },
+    {
+      "name": "에스엘",
+      "category": "자동차"
+    },
+    {
+      "name": "라온로보틱스",
+      "category": "로봇"
+    },
+    {
+      "name": "한국피아이엠",
+      "category": "로봇"
+    },
+    {
+      "name": "제닉스로보틱스",
+      "category": "로봇"
+    },
+    {
+      "name": "아이로보틱스",
+      "category": "로봇"
+    },
+    {
+      "name": "한화오션",
+      "category": "조선"
+    },
+    {
+      "name": "HD현대중공업",
+      "category": "조선"
+    },
+    {
+      "name": "HD한국조선해양",
+      "category": "조선"
+    },
+    {
+      "name": "에이치브이엠",
+      "category": "조선"
+    },
+    {
+      "name": "베셀",
+      "category": "조선"
+    },
+    {
+      "name": "LG이노텍",
+      "category": "LG그룹"
+    },
+    {
+      "name": "LG",
+      "category": "LG그룹"
+    },
+    {
+      "name": "LG디스플레이",
+      "category": "LG그룹"
+    },
+    {
+      "name": "디앤디파마텍",
+      "category": "바이오"
+    },
+    {
+      "name": "코아스템켐온",
+      "category": "바이오"
+    },
+    {
       "name": "네이처셀",
       "category": "바이오"
     },
