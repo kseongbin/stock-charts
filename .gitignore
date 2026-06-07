@@ -7,3 +7,4 @@ chart_output.txt
 financial_output.txt
 __pycache__/
 scripts/batch_state.json.bak.*
+.playwright-mcp/
