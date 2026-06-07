@@ -1,4 +1,8 @@
-.claude/
+.claude/*
+!.claude/agents/
+!.claude/agents/**
+!.claude/context/
+!.claude/context/**
 chart_output.txt
 financial_output.txt
 __pycache__/
