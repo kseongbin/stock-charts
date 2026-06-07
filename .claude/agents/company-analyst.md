@@ -1,3 +1,7 @@
+---
+tools: WebSearch,WebFetch
+---
+
 # 기업 분석 보고서 자동 생성 에이전트 (v24)
 
 ## 역할
