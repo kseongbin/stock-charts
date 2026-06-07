@@ -7,30 +7,6 @@
   ],
   "queue": [
     {
-      "name": "LG디스플레이",
-      "category": "LG그룹"
-    },
-    {
-      "name": "디앤디파마텍",
-      "category": "바이오"
-    },
-    {
-      "name": "코아스템켐온",
-      "category": "바이오"
-    },
-    {
-      "name": "네이처셀",
-      "category": "바이오"
-    },
-    {
-      "name": "지아이이노베이션",
-      "category": "바이오"
-    },
-    {
-      "name": "현대바이오",
-      "category": "바이오"
-    },
-    {
       "name": "피플바이오",
       "category": "바이오"
     },
