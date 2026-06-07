@@ -15,6 +15,7 @@
 |---:|---|---|---|---|
 | 1 | 세명전기 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/세명전기.html) | 2026-06-07 |
 | 2 | 한전산업 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/한전산업.html) | 2026-06-07 |
+| 3 | 키스트론 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/키스트론.html) | 2026-06-07 |
 
 ---
 

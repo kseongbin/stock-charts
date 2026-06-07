@@ -3,6 +3,7 @@
   "last_updated": "2026-06-07",
   "completed": {
     "세명전기": {"filename": "세명전기.html", "category": "전력", "generated_at": "2026-06-07"},
-    "한전산업": {"filename": "한전산업.html", "category": "전력", "generated_at": "2026-06-07"}
+    "한전산업": {"filename": "한전산업.html", "category": "전력", "generated_at": "2026-06-07"},
+    "키스트론": {"filename": "키스트론.html", "category": "전력", "generated_at": "2026-06-07"}
   }
 }
