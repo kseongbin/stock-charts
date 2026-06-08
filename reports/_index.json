@@ -96,6 +96,11 @@
       "filename": "대한전선.html",
       "category": "전력",
       "generated_at": "2026-06-08"
+    },
+    "가온전선": {
+      "filename": "가온전선.html",
+      "category": "전력",
+      "generated_at": "2026-06-08"
     }
   }
 }
