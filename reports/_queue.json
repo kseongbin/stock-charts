@@ -7,10 +7,6 @@
   ],
   "queue": [
     {
-      "name": "풍산",
-      "category": "전력"
-    },
-    {
       "name": "대창",
       "category": "전력"
     },
