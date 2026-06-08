@@ -78,6 +78,7 @@
 | 63 | CMG제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CMG%EC%A0%9C%EC%95%BD.html) | 2026-06-08 |
 | 64 | CNT85 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CNT85.html) | 2026-06-08 |
 | 65 | CS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CS.html) | 2026-06-08 |
+| 66 | CSA 코스믹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CSA%20%EC%BD%94%EC%8A%A4%EB%AF%B9.html) | 2026-06-08 |
 
 ---
 
