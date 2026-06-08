@@ -30,11 +30,10 @@
 | 15 | 제룡산업 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/제룡산업.html) | 2026-06-08 |
 | 16 | 보성파워텍 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/보성파워텍.html) | 2026-06-08 |
 | 17 | 지투파워 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/지투파워.html) | 2026-06-08 |
-
 | 18 | 산일전기 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/산일전기.html) | 2026-06-08 |
 | 19 | 대한전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/대한전선.html) | 2026-06-08 |
-
 | 20 | 가온전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/가온전선.html) | 2026-06-08 |
+| 21 | 대원전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/대원전선.html) | 2026-06-08 |
 
 ---
 
