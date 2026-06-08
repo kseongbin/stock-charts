@@ -35,6 +35,7 @@
 | 20 | 가온전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/가온전선.html) | 2026-06-08 |
 | 21 | 대원전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/대원전선.html) | 2026-06-08 |
 | 22 | LS | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS.html) | 2026-06-08 |
+| 23 | LS마린솔루션 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS%EB%A7%88%EB%A6%B0%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-08 |
 
 ---
 
