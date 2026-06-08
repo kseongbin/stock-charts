@@ -27,7 +27,6 @@
 | 12 | LS ELECTRIC | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS%20ELECTRIC.html) | 2026-06-08 |
 | 13 | 일진전기 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/일진전기.html) | 2026-06-08 |
 | 14 | 제룡전기 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/제룡전기.html) | 2026-06-08 |
-
 | 15 | 제룡산업 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/제룡산업.html) | 2026-06-08 |
 | 16 | 보성파워텍 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/보성파워텍.html) | 2026-06-08 |
 
