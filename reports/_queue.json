@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "BGF",
-      "category": "일반",
-      "code": "027410"
-    },
-    {
       "name": "BGF리테일",
       "category": "일반",
       "code": "282330"
