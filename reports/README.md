@@ -43,6 +43,7 @@
 | 28 | 에이스테크 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%97%90%EC%9D%B4%EC%8A%A4%ED%85%8C%ED%81%AC.html) | 2026-06-08 |
 | 29 | 쏠리드 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%8F%A0%EB%A6%AC%EB%93%9C.html) | 2026-06-08 |
 | 30 | 서진시스템 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%A7%84%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-06-08 |
+| 31 | 오이솔루션 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%98%A4%EC%9D%B4%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-08 |
 
 ---
 
