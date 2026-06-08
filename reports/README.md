@@ -47,6 +47,7 @@
 | 32 | 기가레인 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%B0%EA%B0%80%EB%A0%88%EC%9D%B8.html) | 2026-06-08 |
 | 33 | RFHIC | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/RFHIC.html) | 2026-06-08 |
 | 34 | 한국첨단소재 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%ED%95%9C%EA%B5%AD%EC%B2%A8%EB%8B%A8%EC%86%8C%EC%9E%AC.html) | 2026-06-08 |
+| 35 | 우리넷 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%9A%B0%EB%A6%AC%EB%84%B7.html) | 2026-06-08 |
 
 ---
 
