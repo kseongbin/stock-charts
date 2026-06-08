@@ -23,9 +23,7 @@
 | 8 | 지아이이노베이션 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/지아이이노베이션.html) | 2026-06-07 |
 | 9 | 현대바이오 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/현대바이오.html) | 2026-06-07 |
 | 10 | 피플바이오 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/피플바이오.html) | 2026-06-08 |
-
 | 11 | 효성중공업 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/효성중공업.html) | 2026-06-08 |
-
 | 12 | LS ELECTRIC | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS%20ELECTRIC.html) | 2026-06-08 |
 
 ---
