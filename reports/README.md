@@ -58,6 +58,7 @@
 | 43 | 이노인스트루먼트 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%9D%B4%EB%85%B8%EC%9D%B8%EC%8A%A4%ED%8A%B8%EB%A3%A8%EB%A8%BC%ED%8A%B8.html) | 2026-06-08 |
 | 44 | 옵티시스 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%98%B5%ED%8B%B0%EC%8B%9C%EC%8A%A4.html) | 2026-06-08 |
 | 45 | 드림시큐리티 | 보안 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%93%9C%EB%A6%BC%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0.html) | 2026-06-08 |
+| 46 | 엑스게이트 | 보안 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%97%91%EC%8A%A4%EA%B2%8C%EC%9D%B4%ED%8A%B8.html) | 2026-06-08 |
 
 ---
 
