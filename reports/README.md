@@ -61,6 +61,7 @@
 | 46 | 엑스게이트 | 보안 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%97%91%EC%8A%A4%EA%B2%8C%EC%9D%B4%ED%8A%B8.html) | 2026-06-08 |
 | 47 | 3S | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/3S.html) | 2026-06-08 |
 | 48 | AJ네트웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/AJ%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4.html) | 2026-06-08 |
+| 49 | AP시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/AP%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-06-08 |
 
 ---
 
