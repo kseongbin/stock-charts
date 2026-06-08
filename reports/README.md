@@ -79,6 +79,7 @@
 | 64 | CNT85 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CNT85.html) | 2026-06-08 |
 | 65 | CS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CS.html) | 2026-06-08 |
 | 66 | CSA 코스믹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CSA%20%EC%BD%94%EC%8A%A4%EB%AF%B9.html) | 2026-06-08 |
+| 67 | CS홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CS%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-08 |
 
 ---
 
