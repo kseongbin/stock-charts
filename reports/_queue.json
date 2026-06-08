@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "CJ CGV",
-      "category": "일반",
-      "code": "079160"
-    },
-    {
       "name": "CJ ENM",
       "category": "일반",
       "code": "035760"

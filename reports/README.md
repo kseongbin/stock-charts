@@ -68,6 +68,7 @@
 | 53 | BYC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BYC.html) | 2026-06-08 |
 | 54 | CG인바이츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CG%EC%9D%B8%EB%B0%94%EC%9D%B4%EC%B8%A0.html) | 2026-06-08 |
 | 55 | CJ | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ.html) | 2026-06-08 |
+| 56 | CJ CGV | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ%20CGV.html) | 2026-06-08 |
 
 ---
 
