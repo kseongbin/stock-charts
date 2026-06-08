@@ -26,6 +26,8 @@
 
 | 11 | 효성중공업 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/효성중공업.html) | 2026-06-08 |
 
+| 12 | LS ELECTRIC | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS%20ELECTRIC.html) | 2026-06-08 |
+
 ---
 
 *이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
