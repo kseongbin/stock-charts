@@ -34,6 +34,7 @@
 | 19 | 대한전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/대한전선.html) | 2026-06-08 |
 | 20 | 가온전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/가온전선.html) | 2026-06-08 |
 | 21 | 대원전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/대원전선.html) | 2026-06-08 |
+| 22 | LS | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS.html) | 2026-06-08 |
 
 ---
 
