@@ -7,10 +7,6 @@
   ],
   "queue": [
     {
-      "name": "대원전선",
-      "category": "전력"
-    },
-    {
       "name": "LS",
       "category": "전력"
     },
