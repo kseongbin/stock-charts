@@ -70,6 +70,7 @@
 | 55 | CJ | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ.html) | 2026-06-08 |
 | 56 | CJ CGV | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ%20CGV.html) | 2026-06-08 |
 | 57 | CJ ENM | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ%20ENM.html) | 2026-06-08 |
+| 58 | CJ 바이오사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ%20%EB%B0%94%EC%9D%B4%EC%98%A4%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-06-08 |
 
 ---
 
