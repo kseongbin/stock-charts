@@ -45,6 +45,7 @@
 | 30 | 서진시스템 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%A7%84%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-06-08 |
 | 31 | 오이솔루션 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%98%A4%EC%9D%B4%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-08 |
 | 32 | 기가레인 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%B0%EA%B0%80%EB%A0%88%EC%9D%B8.html) | 2026-06-08 |
+| 33 | RFHIC | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/RFHIC.html) | 2026-06-08 |
 
 ---
 
