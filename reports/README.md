@@ -76,6 +76,7 @@
 | 61 | CJ제일제당 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ%EC%A0%9C%EC%9D%BC%EC%A0%9C%EB%8B%B9.html) | 2026-06-08 |
 | 62 | CJ프레시웨이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ%ED%94%84%EB%A0%88%EC%8B%9C%EC%9B%A8%EC%9D%B4.html) | 2026-06-08 |
 | 63 | CMG제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CMG%EC%A0%9C%EC%95%BD.html) | 2026-06-08 |
+| 64 | CNT85 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CNT85.html) | 2026-06-08 |
 
 ---
 
