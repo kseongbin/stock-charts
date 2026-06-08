@@ -67,6 +67,7 @@
 | 52 | BGF에코머티리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BGF%EC%97%90%EC%BD%94%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-06-08 |
 | 53 | BYC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BYC.html) | 2026-06-08 |
 | 54 | CG인바이츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CG%EC%9D%B8%EB%B0%94%EC%9D%B4%EC%B8%A0.html) | 2026-06-08 |
+| 55 | CJ | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ.html) | 2026-06-08 |
 
 ---
 
