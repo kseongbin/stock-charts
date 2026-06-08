@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "BYC",
-      "category": "일반",
-      "code": "001460"
-    },
-    {
       "name": "CG인바이츠",
       "category": "일반",
       "code": "083790"
