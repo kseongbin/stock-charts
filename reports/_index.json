@@ -71,6 +71,11 @@
       "filename": "제룡전기.html",
       "category": "전력",
       "generated_at": "2026-06-08"
+    },
+    "제룡산업": {
+      "filename": "제룡산업.html",
+      "category": "전력",
+      "generated_at": "2026-06-08"
     }
   }
 }
