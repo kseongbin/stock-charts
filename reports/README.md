@@ -51,6 +51,7 @@
 | 36 | 유비쿼스 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%9C%A0%EB%B9%84%EC%BF%BC%EC%8A%A4.html) | 2026-06-08 |
 | 37 | 에프알텍 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%97%90%ED%94%84%EC%95%8C%ED%85%8D.html) | 2026-06-08 |
 | 38 | 옵티코어 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%98%B5%ED%8B%B0%EC%BD%94%EC%96%B4.html) | 2026-06-08 |
+| 39 | 라이콤 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%EC%9D%B4%EC%BD%A4.html) | 2026-06-08 |
 
 ---
 
