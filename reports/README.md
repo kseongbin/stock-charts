@@ -41,6 +41,7 @@
 | 26 | 지엔씨에너지 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%A7%80%EC%97%94%EC%94%A8%EC%97%90%EB%84%88%EC%A7%80.html) | 2026-06-08 |
 | 27 | 케이엠더블유 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%BC%80%EC%9D%B4%EC%97%A0%EB%8D%94%EB%B8%94%EC%9C%A0.html) | 2026-06-08 |
 | 28 | 에이스테크 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%97%90%EC%9D%B4%EC%8A%A4%ED%85%8C%ED%81%AC.html) | 2026-06-08 |
+| 29 | 쏠리드 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%8F%A0%EB%A6%AC%EB%93%9C.html) | 2026-06-08 |
 
 ---
 
