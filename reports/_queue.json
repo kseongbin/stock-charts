@@ -7,10 +7,6 @@
   ],
   "queue": [
     {
-      "name": "산일전기",
-      "category": "전력"
-    },
-    {
       "name": "대한전선",
       "category": "전력"
     },
