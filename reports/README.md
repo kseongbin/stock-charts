@@ -63,6 +63,7 @@
 | 48 | AJ네트웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/AJ%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4.html) | 2026-06-08 |
 | 49 | AP시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/AP%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-06-08 |
 | 50 | BGF | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BGF.html) | 2026-06-08 |
+| 51 | BGF리테일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BGF%EB%A6%AC%ED%85%8C%EC%9D%BC.html) | 2026-06-08 |
 
 ---
 
