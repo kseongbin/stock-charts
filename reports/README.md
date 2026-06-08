@@ -38,6 +38,7 @@
 | 23 | 대창 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%B0%BD.html) | 2026-06-08 |
 | 24 | 이구산업 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%9D%B4%EA%B5%AC%EC%82%B0%EC%97%85.html) | 2026-06-08 |
 | 25 | 티씨머티리얼즈 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%ED%8B%B0%EC%94%A8%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-06-08 |
+| 26 | 지엔씨에너지 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%A7%80%EC%97%94%EC%94%A8%EC%97%90%EB%84%88%EC%A7%80.html) | 2026-06-08 |
 
 ---
 
