@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "CJ대한통운",
-      "category": "일반",
-      "code": "000120"
-    },
-    {
       "name": "CJ씨푸드",
       "category": "일반",
       "code": "011150"
