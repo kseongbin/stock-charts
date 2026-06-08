@@ -2,22 +2,100 @@
   "description": "처리 완료된 기업 보고서 인덱스",
   "last_updated": "2026-06-08",
   "completed": {
-    "세명전기": {"filename": "세명전기.html", "category": "전력", "generated_at": "2026-06-07"},
-    "한전산업": {"filename": "한전산업.html", "category": "전력", "generated_at": "2026-06-07"},
-    "키스트론": {"filename": "키스트론.html", "category": "전력", "generated_at": "2026-06-07"},
-    "그리드위즈": {"filename": "그리드위즈.html", "category": "전력", "generated_at": "2026-06-07"},
-    "HD한국조선해양": {"filename": "HD한국조선해양.html", "category": "조선", "generated_at": "2026-06-07"},
-    "한올바이오파마": {"filename": "한올바이오파마.html", "category": "바이오", "generated_at": "2026-06-07"},
-    "네이처셀": {"filename": "네이처셀.html", "category": "바이오", "generated_at": "2026-06-07"},
-    "지아이이노베이션": {"filename": "지아이이노베이션.html", "category": "바이오", "generated_at": "2026-06-07"},
-    "현대바이오": {"filename": "현대바이오.html", "category": "바이오", "generated_at": "2026-06-07"},
-    "피플바이오": {"filename": "피플바이오.html", "category": "바이오", "generated_at": "2026-06-08"},
-    "효성중공업": {"filename": "효성중공업.html", "category": "전력", "generated_at": "2026-06-08"},
-    "LS ELECTRIC": {"filename": "LS ELECTRIC.html", "category": "전력", "generated_at": "2026-06-08"},
-    "일진전기": {"filename": "일진전기.html", "category": "전력", "generated_at": "2026-06-08"},
-    "제룡전기": {"filename": "제룡전기.html", "category": "전력", "generated_at": "2026-06-08"},
-    "제룡산업": {"filename": "제룡산업.html", "category": "전력", "generated_at": "2026-06-08"},
-    "보성파워텍": {"filename": "보성파워텍.html", "category": "전력", "generated_at": "2026-06-08"},
-    "지투파워": {"filename": "지투파워.html", "category": "전력", "generated_at": "2026-06-08"}
+    "세명전기": {
+      "filename": "세명전기.html",
+      "category": "전력",
+      "generated_at": "2026-06-07"
+    },
+    "한전산업": {
+      "filename": "한전산업.html",
+      "category": "전력",
+      "generated_at": "2026-06-07"
+    },
+    "키스트론": {
+      "filename": "키스트론.html",
+      "category": "전력",
+      "generated_at": "2026-06-07"
+    },
+    "그리드위즈": {
+      "filename": "그리드위즈.html",
+      "category": "전력",
+      "generated_at": "2026-06-07"
+    },
+    "HD한국조선해양": {
+      "filename": "HD한국조선해양.html",
+      "category": "조선",
+      "generated_at": "2026-06-07"
+    },
+    "한올바이오파마": {
+      "filename": "한올바이오파마.html",
+      "category": "바이오",
+      "generated_at": "2026-06-07"
+    },
+    "네이처셀": {
+      "filename": "네이처셀.html",
+      "category": "바이오",
+      "generated_at": "2026-06-07"
+    },
+    "지아이이노베이션": {
+      "filename": "지아이이노베이션.html",
+      "category": "바이오",
+      "generated_at": "2026-06-07"
+    },
+    "현대바이오": {
+      "filename": "현대바이오.html",
+      "category": "바이오",
+      "generated_at": "2026-06-07"
+    },
+    "피플바이오": {
+      "filename": "피플바이오.html",
+      "category": "바이오",
+      "generated_at": "2026-06-08"
+    },
+    "효성중공업": {
+      "filename": "효성중공업.html",
+      "category": "전력",
+      "generated_at": "2026-06-08"
+    },
+    "LS ELECTRIC": {
+      "filename": "LS ELECTRIC.html",
+      "category": "전력",
+      "generated_at": "2026-06-08"
+    },
+    "일진전기": {
+      "filename": "일진전기.html",
+      "category": "전력",
+      "generated_at": "2026-06-08"
+    },
+    "제룡전기": {
+      "filename": "제룡전기.html",
+      "category": "전력",
+      "generated_at": "2026-06-08"
+    },
+    "제룡산업": {
+      "filename": "제룡산업.html",
+      "category": "전력",
+      "generated_at": "2026-06-08"
+    },
+    "보성파워텍": {
+      "filename": "보성파워텍.html",
+      "category": "전력",
+      "generated_at": "2026-06-08"
+    },
+    "지투파워": {
+      "filename": "지투파워.html",
+      "category": "전력",
+      "generated_at": "2026-06-08"
+    },
+    "산일전기": {
+      "filename": "산일전기.html",
+      "category": "전력",
+      "generated_at": "2026-06-08"
+    },
+    "대한전선": {
+      "filename": "대한전선.html",
+      "category": "전력",
+      "generated_at": "2026-06-08"
+    }
   }
 }
