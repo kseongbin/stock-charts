@@ -63,6 +63,9 @@
 | 48 | AP시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/AP시스템.html) | 2026-06-09 |
 | 49 | BGF | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BGF.html) | 2026-06-09 |
 | 50 | BGF리테일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BGF리테일.html) | 2026-06-09 |
+| 51 | BGF에코머티리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BGF에코머티리얼즈.html) | 2026-06-09 |
+| 52 | BYC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BYC.html) | 2026-06-09 |
+| 53 | CG인바이츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CG인바이츠.html) | 2026-06-09 |
 
 ---
 

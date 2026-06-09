@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-10",
+  "last_updated": "2026-06-09",
   "completed": {
     "세명전기": {
       "filename": "세명전기.html",
@@ -249,6 +249,21 @@
     },
     "BGF리테일": {
       "filename": "BGF리테일.html",
+      "category": "일반",
+      "generated_at": "2026-06-09"
+    },
+    "BGF에코머티리얼즈": {
+      "filename": "BGF에코머티리얼즈.html",
+      "category": "일반",
+      "generated_at": "2026-06-09"
+    },
+    "BYC": {
+      "filename": "BYC.html",
+      "category": "일반",
+      "generated_at": "2026-06-09"
+    },
+    "CG인바이츠": {
+      "filename": "CG인바이츠.html",
       "category": "일반",
       "generated_at": "2026-06-09"
     }
