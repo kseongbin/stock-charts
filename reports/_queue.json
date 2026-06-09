@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "GS리테일",
-      "category": "일반",
-      "code": "007070"
-    },
-    {
       "name": "GS피앤엘",
       "category": "일반",
       "code": "499790"
