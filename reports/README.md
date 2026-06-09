@@ -57,6 +57,7 @@
 | 42 | 빛과전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/빛과전자.html) | 2026-06-09 |
 | 43 | 옵티시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/옵티시스.html) | 2026-06-09 |
 | 44 | 드림시큐리티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/드림시큐리티.html) | 2026-06-09 |
+| 45 | 엑스게이트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/엑스게이트.html) | 2026-06-09 |
 
 ---
 
