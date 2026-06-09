@@ -59,6 +59,10 @@
 | 44 | 드림시큐리티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/드림시큐리티.html) | 2026-06-09 |
 | 45 | 엑스게이트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/엑스게이트.html) | 2026-06-09 |
 | 46 | 3S | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/3S.html) | 2026-06-09 |
+| 47 | AJ네트웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/AJ네트웍스.html) | 2026-06-09 |
+| 48 | AP시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/AP시스템.html) | 2026-06-09 |
+| 49 | BGF | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BGF.html) | 2026-06-09 |
+| 50 | BGF리테일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BGF리테일.html) | 2026-06-09 |
 
 ---
 
