@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "HC홈센타",
-      "category": "일반",
-      "code": "060560"
-    },
-    {
       "name": "HDC",
       "category": "일반",
       "code": "012630"
