@@ -95,6 +95,7 @@
 | 80 | DSC인베스트먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DSC%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) | 2026-06-09 |
 | 81 | DSR | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DSR.html) | 2026-06-09 |
 | 82 | DSR제강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DSR%EC%A0%9C%EA%B0%95.html) | 2026-06-09 |
+| 83 | DS단석 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DS%EB%8B%A8%EC%84%9D.html) | 2026-06-09 |
 
 ---
 
