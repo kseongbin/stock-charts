@@ -53,6 +53,8 @@
 | 38 | 라이콤 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/라이콤.html) | 2026-06-09 |
 | 39 | 센서뷰 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/센서뷰.html) | 2026-06-09 |
 | 40 | 이노인스트루먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/이노인스트루먼트.html) | 2026-06-09 |
+| 41 | 대한광통신 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/대한광통신.html) | 2026-06-09 |
+| 42 | 빛과전자 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/빛과전자.html) | 2026-06-09 |
 
 ---
 
