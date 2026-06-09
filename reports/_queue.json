@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "DKME",
-      "category": "일반",
-      "code": "015590"
-    },
-    {
       "name": "DL",
       "category": "일반",
       "code": "000210"

@@ -86,6 +86,7 @@
 | 71 | DGI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DGI.html) | 2026-06-09 |
 | 72 | DH오토넥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DH%EC%98%A4%ED%86%A0%EB%84%A5%EC%8A%A4.html) | 2026-06-09 |
 | 73 | DH오토리드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DH%EC%98%A4%ED%86%A0%EB%A6%AC%EB%93%9C.html) | 2026-06-09 |
+| 74 | DKME | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DKME.html) | 2026-06-09 |
 
 ---
 
