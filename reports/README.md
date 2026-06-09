@@ -83,6 +83,7 @@
 | 68 | DB | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB.html) | 2026-06-08 |
 | 69 | DB증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB%EC%A6%9D%EA%B6%8C.html) | 2026-06-08 |
 | 70 | DB하이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB%ED%95%98%EC%9D%B4%ED%85%8D.html) | 2026-06-08 |
+| 71 | DGI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DGI.html) | 2026-06-09 |
 
 ---
 

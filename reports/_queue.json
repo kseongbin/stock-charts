@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "DGI",
-      "category": "일반",
-      "code": "099520"
-    },
-    {
       "name": "DH오토넥스",
       "category": "일반",
       "code": "000300"
