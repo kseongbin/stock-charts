@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "GS글로벌",
-      "category": "일반",
-      "code": "001250"
-    },
-    {
       "name": "GS리테일",
       "category": "일반",
       "code": "007070"
