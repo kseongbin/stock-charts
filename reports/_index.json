@@ -196,6 +196,11 @@
       "filename": "센서뷰.html",
       "category": "통신",
       "generated_at": "2026-06-09"
+    },
+    "이노인스트루먼트": {
+      "filename": "이노인스트루먼트.html",
+      "category": "일반",
+      "generated_at": "2026-06-09"
     }
   }
 }
