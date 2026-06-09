@@ -48,6 +48,7 @@
 | 33 | RFHIC | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/RFHIC.html) | 2026-06-08 |
 | 34 | 한국첨단소재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/한국첨단소재.html) | 2026-06-09 |
 | 35 | 우리넷 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/우리넷.html) | 2026-06-09 |
+| 36 | 유비쿼스 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/유비쿼스.html) | 2026-06-09 |
 
 ---
 
