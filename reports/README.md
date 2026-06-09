@@ -114,6 +114,7 @@
 | 99 | GRT | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GRT.html) | 2026-06-09 |
 | 100 | GS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GS.html) | 2026-06-09 |
 | 101 | GST | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GST.html) | 2026-06-09 |
+| 102 | GS건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GS%EA%B1%B4%EC%84%A4.html) | 2026-06-09 |
 
 ---
 
