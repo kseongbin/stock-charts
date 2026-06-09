@@ -120,6 +120,7 @@
 | 105 | GS피앤엘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GS%ED%94%BC%EC%95%A4%EC%97%98.html) | 2026-06-09 |
 | 106 | HB솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HB%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-09 |
 | 107 | HB인베스트먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HB%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) | 2026-06-09 |
+| 108 | HB테크놀러지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HB%ED%85%8C%ED%81%AC%EB%86%80%EB%9F%AC%EC%A7%80.html) | 2026-06-09 |
 
 ---
 
