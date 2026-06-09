@@ -105,6 +105,7 @@
 | 90 | EMB | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/EMB.html) | 2026-06-09 |
 | 91 | ESR켄달스퀘어리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/ESR%EC%BC%84%EB%8B%AC%EC%8A%A4%ED%80%98%EC%96%B4%EB%A6%AC%EC%B8%A0.html) | 2026-06-09 |
 | 92 | ES큐브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/ES%ED%81%90%EB%B8%8C.html) | 2026-06-09 |
+| 93 | F&F | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/F%26F.html) | 2026-06-09 |
 
 ---
 
