@@ -92,6 +92,7 @@
 | 77 | DMS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DMS.html) | 2026-06-09 |
 | 78 | DN오토모티브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DN%EC%98%A4%ED%86%A0%EB%AA%A8%ED%8B%B0%EB%B8%8C.html) | 2026-06-09 |
 | 79 | DRB동일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DRB%EB%8F%99%EC%9D%BC.html) | 2026-06-09 |
+| 80 | DSC인베스트먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DSC%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) | 2026-06-09 |
 
 ---
 
