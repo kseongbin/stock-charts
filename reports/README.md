@@ -50,6 +50,7 @@
 | 35 | 우리넷 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/우리넷.html) | 2026-06-09 |
 | 36 | 유비쿼스 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/유비쿼스.html) | 2026-06-09 |
 | 37 | 에프알텍 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/에프알텍.html) | 2026-06-09 |
+| 38 | 옵티코어 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/옵티코어.html) | 2026-06-09 |
 
 ---
 
