@@ -55,6 +55,7 @@
 | 40 | 이노인스트루먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/이노인스트루먼트.html) | 2026-06-09 |
 | 41 | 대한광통신 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/대한광통신.html) | 2026-06-09 |
 | 42 | 빛과전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/빛과전자.html) | 2026-06-09 |
+| 43 | 옵티시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/옵티시스.html) | 2026-06-09 |
 
 ---
 
