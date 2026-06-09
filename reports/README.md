@@ -72,6 +72,7 @@
 | 56 | CJ ENM | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ%20ENM.html) | 2026-06-09 |
 | 57 | CJ 바이오사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ%20%EB%B0%94%EC%9D%B4%EC%98%A4%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-06-09 |
 | 58 | CJ대한통운 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ%EB%8C%80%ED%95%9C%ED%86%B5%EC%9A%B4.html) | 2026-06-09 |
+| 59 | CJ씨푸드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ%EC%94%A8%ED%91%B8%EB%93%9C.html) | 2026-06-09 |
 ---
 
 *이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
