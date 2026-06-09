@@ -123,6 +123,7 @@
 | 108 | HB테크놀러지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HB%ED%85%8C%ED%81%AC%EB%86%80%EB%9F%AC%EC%A7%80.html) | 2026-06-09 |
 | 109 | HC보광산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HC%EB%B3%B4%EA%B4%91%EC%82%B0%EC%97%85.html) | 2026-06-09 |
 | 110 | HC홈센타 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HC%ED%99%88%EC%84%BC%ED%83%80.html) | 2026-06-09 |
+| 111 | HDC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HDC.html) | 2026-06-09 |
 
 ---
 
