@@ -102,6 +102,7 @@
 | 87 | E8 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/E8.html) | 2026-06-09 |
 | 88 | EDGC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/EDGC.html) | 2026-06-09 |
 | 89 | EG | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/EG.html) | 2026-06-09 |
+| 90 | EMB | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/EMB.html) | 2026-06-09 |
 
 ---
 
