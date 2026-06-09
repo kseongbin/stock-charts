@@ -53,6 +53,7 @@
 | 38 | 옵티코어 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/옵티코어.html) | 2026-06-09 |
 | 39 | 라이콤 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/라이콤.html) | 2026-06-09 |
 | 40 | 센서뷰 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/센서뷰.html) | 2026-06-09 |
+| 41 | 대한광통신 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/대한광통신.html) | 2026-06-09 |
 
 ---
 
