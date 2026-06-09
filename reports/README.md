@@ -97,6 +97,7 @@
 | 82 | DSR제강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DSR%EC%A0%9C%EA%B0%95.html) | 2026-06-09 |
 | 83 | DS단석 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DS%EB%8B%A8%EC%84%9D.html) | 2026-06-09 |
 | 84 | DXVX | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DXVX.html) | 2026-06-09 |
+| 85 | DYP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DYP.html) | 2026-06-09 |
 
 ---
 
