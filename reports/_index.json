@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-09",
+  "last_updated": "2026-06-10",
   "completed": {
     "세명전기": {
       "filename": "세명전기.html",
@@ -172,11 +172,6 @@
       "category": "일반",
       "generated_at": "2026-06-09"
     },
-    "우리넷": {
-      "filename": "우리넷.html",
-      "category": "일반",
-      "generated_at": "2026-06-09"
-    },
     "유비쿼스": {
       "filename": "유비쿼스.html",
       "category": "통신",
@@ -200,11 +195,6 @@
     "센서뷰": {
       "filename": "센서뷰.html",
       "category": "통신",
-      "generated_at": "2026-06-09"
-    },
-    "대한광통신": {
-      "filename": "대한광통신.html",
-      "category": "일반",
       "generated_at": "2026-06-09"
     }
   }

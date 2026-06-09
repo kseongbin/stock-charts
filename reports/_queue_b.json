@@ -7,6 +7,21 @@
   ],
   "queue": [
     {
+      "name": "우리넷",
+      "category": "통신",
+      "code": "115440"
+    },
+    {
+      "name": "센서뷰",
+      "category": "일반",
+      "code": "321370"
+    },
+    {
+      "name": "대한광통신",
+      "category": "일반",
+      "code": "010170"
+    },
+    {
       "name": "알에프텍",
       "category": "일반",
       "code": "061040"
