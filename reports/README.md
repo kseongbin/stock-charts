@@ -89,6 +89,7 @@
 | 74 | DKME | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DKME.html) | 2026-06-09 |
 | 75 | DL | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DL.html) | 2026-06-09 |
 | 76 | DL이앤씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DL%EC%9D%B4%EC%95%A4%EC%94%A8.html) | 2026-06-09 |
+| 77 | DMS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DMS.html) | 2026-06-09 |
 
 ---
 
