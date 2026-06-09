@@ -131,6 +131,7 @@
 | 116 | HD현대마린솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD%ED%98%84%EB%8C%80%EB%A7%88%EB%A6%B0%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-09 |
 | 117 | HD현대마린엔진 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD%ED%98%84%EB%8C%80%EB%A7%88%EB%A6%B0%EC%97%94%EC%A7%84.html) | 2026-06-09 |
 | 118 | HD현대에너지솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD%ED%98%84%EB%8C%80%EC%97%90%EB%84%88%EC%A7%80%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-09 |
+| 119 | HD현대일렉트릭 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD%ED%98%84%EB%8C%80%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A6%AD.html) | 2026-06-09 |
 
 ---
 
