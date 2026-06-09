@@ -67,6 +67,7 @@
 | 52 | BYC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BYC.html) | 2026-06-09 |
 | 53 | CG인바이츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CG인바이츠.html) | 2026-06-09 |
 
+| 54 | CJ | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ.html) | 2026-06-09 |
 ---
 
 *이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
