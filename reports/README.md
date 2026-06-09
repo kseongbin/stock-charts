@@ -99,6 +99,7 @@
 | 84 | DXVX | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DXVX.html) | 2026-06-09 |
 | 85 | DYP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DYP.html) | 2026-06-09 |
 | 86 | E1 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/E1.html) | 2026-06-09 |
+| 87 | E8 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/E8.html) | 2026-06-09 |
 
 ---
 
