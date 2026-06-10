@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-10",
+  "last_updated": "2026-06-11",
   "completed": {
     "세명전기": {
       "filename": "세명전기.html",
@@ -300,26 +300,6 @@
     "지투파워": {
       "filename": "지투파워.html",
       "category": "전력",
-      "generated_at": "2026-06-10"
-    },
-    "빛과전자": {
-      "filename": "빛과전자.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "이노인스트루먼트": {
-      "filename": "이노인스트루먼트.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "BGF리테일": {
-      "filename": "BGF리테일.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "CS": {
-      "filename": "CS.html",
-      "category": "통신",
       "generated_at": "2026-06-10"
     }
   }
