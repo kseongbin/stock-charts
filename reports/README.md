@@ -68,6 +68,7 @@
 | 53 | CJ프레시웨이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CJ%ED%94%84%EB%A0%88%EC%8B%9C%EC%9B%A8%EC%9D%B4.html) | 2026-06-09 |
 | 54 | CMG제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CMG%EC%A0%9C%EC%95%BD.html) | 2026-06-10 |
 | 55 | CNT85 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CNT85.html) | 2026-06-10 |
+| 56 | 가온전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%80%EC%98%A8%EC%A0%84%EC%84%A0.html) | 2026-06-10 |
 ---
 
 *이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
