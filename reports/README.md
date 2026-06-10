@@ -69,6 +69,7 @@
 | 54 | CMG제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CMG%EC%A0%9C%EC%95%BD.html) | 2026-06-10 |
 | 55 | CNT85 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CNT85.html) | 2026-06-10 |
 | 56 | 가온전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%80%EC%98%A8%EC%A0%84%EC%84%A0.html) | 2026-06-10 |
+| 57 | 네이처셀 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%9D%B4%EC%B2%98%EC%85%80.html) | 2026-06-10 |
 ---
 
 *이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
