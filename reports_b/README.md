@@ -32,6 +32,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | 17 | 애니플러스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/애니플러스.html) | 2026-06-10 |
 | 18 | 애닉 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/애닉.html) | 2026-06-10 |
 | 19 | 애드바이오텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/애드바이오텍.html) | 2026-06-10 |
+| 20 | 애드포러스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/애드포러스.html) | 2026-06-10 |
 
 ---
 
