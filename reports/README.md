@@ -77,6 +77,7 @@
 | 62 | CS | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CS.html) | 2026-06-10 |
 | 63 | 빛과전자 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%9B%EA%B3%BC%EC%A0%84%EC%9E%90.html) | 2026-06-10 |
 | 64 | 이노인스트루먼트 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%9D%B4%EB%85%B8%EC%9D%B8%EC%8A%A4%ED%8A%B8%EB%A3%A8%EB%A8%BC%ED%8A%B8.html) | 2026-06-10 |
+| 65 | CSA 코스믹 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CSA%20%EC%BD%94%EC%8A%A4%EB%AF%B9.html) | 2026-06-10 |
 
 ---
 
