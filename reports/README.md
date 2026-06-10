@@ -75,6 +75,7 @@
 | 60 | 지투파워 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%A7%80%ED%88%AC%ED%8C%8C%EC%9B%8C.html) | 2026-06-10 |
 | 61 | BGF리테일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BGF%EB%A6%AC%ED%85%8C%EC%9D%BC.html) | 2026-06-10 |
 | 62 | CS | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CS.html) | 2026-06-10 |
+| 63 | 빛과전자 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%9B%EA%B3%BC%EC%A0%84%EC%9E%90.html) | 2026-06-10 |
 
 ---
 
