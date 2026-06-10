@@ -1,5 +1,11 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
   "last_updated": "2026-06-10",
-  "completed": {}
+  "completed": {
+    "우리넷": {
+      "filename": "115440",
+      "category": "통신",
+      "generated_at": "2026-06-10"
+    }
+  }
 }

@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "우리넷",
-      "category": "통신",
-      "code": "115440"
-    },
-    {
       "name": "센서뷰",
       "category": "일반",
       "code": "321370"
