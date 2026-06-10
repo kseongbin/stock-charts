@@ -74,6 +74,7 @@
 | 59 | 현대바이오 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%ED%98%84%EB%8C%80%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-10 |
 | 60 | 지투파워 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%A7%80%ED%88%AC%ED%8C%8C%EC%9B%8C.html) | 2026-06-10 |
 | 61 | 빛과전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%9B%EA%B3%BC%EC%A0%84%EC%9E%90.html) | 2026-06-10 |
+| 62 | 이노인스트루먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%9D%B4%EB%85%B8%EC%9D%B8%EC%8A%A4%ED%8A%B8%EB%A3%A8%EB%A8%BC%ED%8A%B8.html) | 2026-06-10 |
 ---
 
 *이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
