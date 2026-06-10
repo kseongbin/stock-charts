@@ -90,6 +90,7 @@
 | 74 | DL | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DL.html) | 2026-06-10 |
 | 75 | DL이앤씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DL%EC%9D%B4%EC%95%A4%EC%94%A8.html) | 2026-06-10 |
 | 76 | DMS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DMS.html) | 2026-06-10 |
+| 77 | DN오토모티브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DN%EC%98%A4%ED%86%A0%EB%AA%A8%ED%8B%B0%EB%B8%8C.html) | 2026-06-10 |
 ---
 
 *이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
