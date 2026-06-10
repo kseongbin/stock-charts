@@ -23,6 +23,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | 8 | 알트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/알트.html) | 2026-06-10 |
 | 9 | 알티캐스트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/알티캐스트.html) | 2026-06-10 |
 | 10 | 알파AI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/알파AI.html) | 2026-06-10 |
+| 11 | 알파칩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/알파칩스.html) | 2026-06-10 |
 
 ---
 
