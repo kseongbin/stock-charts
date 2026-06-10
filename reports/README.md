@@ -78,6 +78,7 @@
 | 62 | CMG제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CMG%EC%A0%9C%EC%95%BD.html) | 2026-06-10 |
 | 63 | CNT85 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CNT85.html) | 2026-06-10 |
 | 64 | CS | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CS.html) | 2026-06-10 |
+| 65 | CSA 코스믹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CSA%20%EC%BD%94%EC%8A%A4%EB%AF%B9.html) | 2026-06-10 |
 ---
 
 *이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
