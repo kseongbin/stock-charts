@@ -306,6 +306,11 @@
       "filename": "BGF리테일.html",
       "category": "일반",
       "generated_at": "2026-06-10"
+    },
+    "CS": {
+      "filename": "CS.html",
+      "category": "통신",
+      "generated_at": "2026-06-10"
     }
   }
 }

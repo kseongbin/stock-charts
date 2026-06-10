@@ -74,6 +74,7 @@
 | 59 | 현대바이오 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%ED%98%84%EB%8C%80%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-10 |
 | 60 | 지투파워 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%A7%80%ED%88%AC%ED%8C%8C%EC%9B%8C.html) | 2026-06-10 |
 | 61 | BGF리테일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/BGF%EB%A6%AC%ED%85%8C%EC%9D%BC.html) | 2026-06-10 |
+| 62 | CS | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CS.html) | 2026-06-10 |
 
 ---
 
