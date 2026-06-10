@@ -14,6 +14,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | # | 기업명 | 카테고리 | Raw 링크 | 생성일 |
 |---:|---|---|---|---|
 | 1 | 우리넷 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/우리넷.html) | 2026-06-10 |
+| 2 | 센서뷰 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/센서뷰.html) | 2026-06-10 |
 
 ---
 
