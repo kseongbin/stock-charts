@@ -7,6 +7,121 @@
   ],
   "queue": [
     {
+      "name": "가온전선",
+      "category": "전력",
+      "code": "000500"
+    },
+    {
+      "name": "네이처셀",
+      "category": "바이오",
+      "code": "007390"
+    },
+    {
+      "name": "지아이이노베이션",
+      "category": "바이오",
+      "code": "358570"
+    },
+    {
+      "name": "현대바이오",
+      "category": "바이오",
+      "code": "048410"
+    },
+    {
+      "name": "지투파워",
+      "category": "전력",
+      "code": "388390"
+    },
+    {
+      "name": "빛과전자",
+      "category": "일반",
+      "code": "069540"
+    },
+    {
+      "name": "이노인스트루먼트",
+      "category": "일반",
+      "code": "215790"
+    },
+    {
+      "name": "BGF리테일",
+      "category": "일반",
+      "code": "282330"
+    },
+    {
+      "name": "CS",
+      "category": "통신",
+      "code": "065770"
+    },
+    {
+      "name": "CSA 코스믹",
+      "category": "일반",
+      "code": "083660"
+    },
+    {
+      "name": "CS홀딩스",
+      "category": "일반",
+      "code": "000590"
+    },
+    {
+      "name": "DB",
+      "category": "일반",
+      "code": "012030"
+    },
+    {
+      "name": "DB증권",
+      "category": "일반",
+      "code": "016610"
+    },
+    {
+      "name": "DB하이텍",
+      "category": "일반",
+      "code": "000990"
+    },
+    {
+      "name": "DGI",
+      "category": "일반",
+      "code": ""
+    },
+    {
+      "name": "DH오토넥스",
+      "category": "일반",
+      "code": "083650"
+    },
+    {
+      "name": "DH오토리드",
+      "category": "일반",
+      "code": "064510"
+    },
+    {
+      "name": "DKME",
+      "category": "일반",
+      "code": ""
+    },
+    {
+      "name": "DL",
+      "category": "일반",
+      "code": "000210"
+    },
+    {
+      "name": "DL이앤씨",
+      "category": "일반",
+      "code": "375500"
+    },
+    {
+      "name": "DMS",
+      "category": "일반",
+      "code": "068790"
+    },
+    {
+      "name": "DN오토모티브",
+      "category": "일반",
+      "code": "007340"
+    },
+    {
+      "name": "DRB동일",
+      "category": "일반",
+      "code": "004840"
+    },
+    {
       "name": "DSC인베스트먼트",
       "category": "일반",
       "code": ""

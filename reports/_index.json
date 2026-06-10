@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-09",
+  "last_updated": "2026-06-10",
   "completed": {
     "세명전기": {
       "filename": "세명전기.html",
@@ -19,21 +19,6 @@
     },
     "한올바이오파마": {
       "filename": "한올바이오파마.html",
-      "category": "바이오",
-      "generated_at": "2026-06-07"
-    },
-    "네이처셀": {
-      "filename": "네이처셀.html",
-      "category": "바이오",
-      "generated_at": "2026-06-07"
-    },
-    "지아이이노베이션": {
-      "filename": "지아이이노베이션.html",
-      "category": "바이오",
-      "generated_at": "2026-06-07"
-    },
-    "현대바이오": {
-      "filename": "현대바이오.html",
       "category": "바이오",
       "generated_at": "2026-06-07"
     },
@@ -72,11 +57,6 @@
       "category": "전력",
       "generated_at": "2026-06-08"
     },
-    "지투파워": {
-      "filename": "지투파워.html",
-      "category": "전력",
-      "generated_at": "2026-06-08"
-    },
     "산일전기": {
       "filename": "산일전기.html",
       "category": "전력",
@@ -84,11 +64,6 @@
     },
     "대한전선": {
       "filename": "대한전선.html",
-      "category": "전력",
-      "generated_at": "2026-06-08"
-    },
-    "가온전선": {
-      "filename": "가온전선.html",
       "category": "전력",
       "generated_at": "2026-06-08"
     },
@@ -197,18 +172,8 @@
       "category": "통신",
       "generated_at": "2026-06-09"
     },
-    "이노인스트루먼트": {
-      "filename": "이노인스트루먼트.html",
-      "category": "일반",
-      "generated_at": "2026-06-09"
-    },
     "대한광통신": {
       "filename": "대한광통신.html",
-      "category": "일반",
-      "generated_at": "2026-06-09"
-    },
-    "빛과전자": {
-      "filename": "빛과전자.html",
       "category": "일반",
       "generated_at": "2026-06-09"
     },
@@ -244,11 +209,6 @@
     },
     "BGF": {
       "filename": "BGF.html",
-      "category": "일반",
-      "generated_at": "2026-06-09"
-    },
-    "BGF리테일": {
-      "filename": "BGF리테일.html",
       "category": "일반",
       "generated_at": "2026-06-09"
     },
@@ -314,81 +274,6 @@
     },
     "CNT85": {
       "filename": "CNT85.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "CS": {
-      "filename": "CS.html",
-      "category": "통신",
-      "generated_at": "2026-06-10"
-    },
-    "CSA 코스믹": {
-      "filename": "CSA 코스믹.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "CS홀딩스": {
-      "filename": "CS홀딩스.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DB": {
-      "filename": "DB.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DB증권": {
-      "filename": "DB증권.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DB하이텍": {
-      "filename": "DB하이텍.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DGI": {
-      "filename": "DGI.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DH오토넥스": {
-      "filename": "DH오토넥스.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DH오토리드": {
-      "filename": "DH오토리드.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DKME": {
-      "filename": "DKME.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DL": {
-      "filename": "DL.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DL이앤씨": {
-      "filename": "DL이앤씨.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DMS": {
-      "filename": "DMS.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DN오토모티브": {
-      "filename": "DN오토모티브.html",
-      "category": "일반",
-      "generated_at": "2026-06-10"
-    },
-    "DRB동일": {
-      "filename": "DRB동일.html",
       "category": "일반",
       "generated_at": "2026-06-10"
     }
