@@ -27,6 +27,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | 12 | 알피바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/알피바이오.html) | 2026-06-10 |
 | 13 | 압타머사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/압타머사이언스.html) | 2026-06-10 |
 | 14 | 압타바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/압타바이오.html) | 2026-06-10 |
+| 15 | 애경산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/애경산업.html) | 2026-06-10 |
 
 ---
 
