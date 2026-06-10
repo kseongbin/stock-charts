@@ -80,10 +80,6 @@
 | 65 | CSA 코스믹 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CSA%20%EC%BD%94%EC%8A%A4%EB%AF%B9.html) | 2026-06-10 |
 | 66 | CS홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CS%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-10 |
 | 67 | DB | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB.html) | 2026-06-10 |
-
----
-
-*이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
 | 68 | DB증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB%EC%A6%9D%EA%B6%8C.html) | 2026-06-10 |
 | 69 | DB하이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB%ED%95%98%EC%9D%B4%ED%85%8D.html) | 2026-06-10 |
 | 70 | DH오토넥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DH%EC%98%A4%ED%86%A0%EB%84%A5%EC%8A%A4.html) | 2026-06-10 |
@@ -96,5 +92,9 @@
 | 77 | HEM파마 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HEM%ED%8C%8C%EB%A7%88.html) | 2026-06-10 |
 | 78 | HJ중공업 | 조선 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HJ%EC%A4%91%EA%B3%B5%EC%97%85.html) | 2026-06-10 |
 | 79 | HK이노엔 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HK%EC%9D%B4%EB%85%B8%EC%97%94.html) | 2026-06-10 |
-| 80 | HL D&I | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HL%20D%26I.html) | 2026-06-10 |
+| 80 | HL D&I | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/014790) | 2026-06-10 |
 | 81 | HLB | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HLB.html) | 2026-06-10 |
+
+---
+
+*이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
