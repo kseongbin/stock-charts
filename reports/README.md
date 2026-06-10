@@ -79,6 +79,7 @@
 | 64 | 이노인스트루먼트 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%9D%B4%EB%85%B8%EC%9D%B8%EC%8A%A4%ED%8A%B8%EB%A3%A8%EB%A8%BC%ED%8A%B8.html) | 2026-06-10 |
 | 65 | CSA 코스믹 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CSA%20%EC%BD%94%EC%8A%A4%EB%AF%B9.html) | 2026-06-10 |
 | 66 | CS홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CS%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-10 |
+| 67 | DB | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB.html) | 2026-06-10 |
 
 ---
 
