@@ -81,6 +81,7 @@
 | 65 | CSA 코스믹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CSA%20%EC%BD%94%EC%8A%A4%EB%AF%B9.html) | 2026-06-10 |
 | 66 | CS홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/CS%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-10 |
 | 67 | DB | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB.html) | 2026-06-10 |
+| 68 | DB증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB%EC%A6%9D%EA%B6%8C.html) | 2026-06-10 |
 ---
 
 *이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
