@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "HLB",
-      "category": "일반",
-      "code": "028300"
-    },
-    {
       "name": "HLB글로벌",
       "category": "일반",
       "code": "003580"
