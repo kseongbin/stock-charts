@@ -93,3 +93,4 @@
 | 74 | DMS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DMS.html) | 2026-06-10 |
 | 75 | DN오토모티브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DN%EC%98%A4%ED%86%A0%EB%AA%A8%ED%8B%B0%EB%B8%8C.html) | 2026-06-10 |
 | 76 | DRB동일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DRB%EB%8F%99%EC%9D%BC.html) | 2026-06-10 |
+| 77 | HEM파마 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HEM%ED%8C%8C%EB%A7%88.html) | 2026-06-10 |
