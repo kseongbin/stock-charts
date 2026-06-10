@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "HL D&I",
-      "category": "일반",
-      "code": "014790"
-    },
-    {
       "name": "HLB",
       "category": "일반",
       "code": "028300"

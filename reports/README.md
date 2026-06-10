@@ -96,3 +96,4 @@
 | 77 | HEM파마 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HEM%ED%8C%8C%EB%A7%88.html) | 2026-06-10 |
 | 78 | HJ중공업 | 조선 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HJ%EC%A4%91%EA%B3%B5%EC%97%85.html) | 2026-06-10 |
 | 79 | HK이노엔 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HK%EC%9D%B4%EB%85%B8%EC%97%94.html) | 2026-06-10 |
+| 80 | HL D&I | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HL%20D%26I.html) | 2026-06-10 |
