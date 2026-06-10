@@ -84,3 +84,4 @@
 ---
 
 *이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
+| 68 | DB증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB%EC%A6%9D%EA%B6%8C.html) | 2026-06-10 |
