@@ -87,3 +87,4 @@
 | 68 | DB증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB%EC%A6%9D%EA%B6%8C.html) | 2026-06-10 |
 | 69 | DB하이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DB%ED%95%98%EC%9D%B4%ED%85%8D.html) | 2026-06-10 |
 | 70 | DH오토넥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DH%EC%98%A4%ED%86%A0%EB%84%A5%EC%8A%A4.html) | 2026-06-10 |
+| 71 | DH오토리드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DH%EC%98%A4%ED%86%A0%EB%A6%AC%EB%93%9C.html) | 2026-06-10 |
