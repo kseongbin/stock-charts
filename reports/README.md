@@ -71,6 +71,7 @@
 | 56 | 가온전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%80%EC%98%A8%EC%A0%84%EC%84%A0.html) | 2026-06-10 |
 | 57 | 네이처셀 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%9D%B4%EC%B2%98%EC%85%80.html) | 2026-06-10 |
 | 58 | 지아이이노베이션 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%A7%80%EC%95%84%EC%9D%B4%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98.html) | 2026-06-10 |
+| 59 | 현대바이오 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%ED%98%84%EB%8C%80%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-10 |
 ---
 
 *이 파일은 batch_reports.py가 보고서 생성 시 자동으로 갱신합니다.*
