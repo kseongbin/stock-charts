@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-10",
+  "last_updated": "2026-06-11",
   "completed": {
     "세명전기": {
       "filename": "세명전기.html",
@@ -406,6 +406,11 @@
       "filename": "HLB.html",
       "category": "일반",
       "generated_at": "2026-06-10"
+    },
+    "HLB글로벌": {
+      "filename": "HLB글로벌.html",
+      "category": "일반",
+      "generated_at": "2026-06-11"
     }
   }
 }
