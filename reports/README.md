@@ -1,9 +1,7 @@
-# 기업분석 보고서 목록
+# 기업 분석 보고서 목록
 
-총 104개 보고서 | 최종 업데이트: 2026-06-11
-
-| 기업명 | 카테고리 | 생성일 | 링크 |
-|--------|----------|--------|------|
+| 기업명 | 카테고리 | 생성일 | 보고서 |
+|--------|----------|--------|--------|
 | HD한국조선해양 | 조선 | 2026-06-07 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD%ED%95%9C%EA%B5%AD%EC%A1%B0%EC%84%A0%ED%95%B4%EC%96%91.html) |
 | 네이처셀 | 바이오 | 2026-06-07 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%9D%B4%EC%B2%98%EC%85%80.html) |
 | 세명전기 | 전력 | 2026-06-07 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%B8%EB%AA%85%EC%A0%84%EA%B8%B0.html) |
@@ -103,12 +101,12 @@
 | 3S | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/3S.html) |
 | DGI | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DGI.html) |
 | DKME | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DKME.html) |
-| DS단석 | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DS%EB%8B%A8%EC%84%9D.html) |
 | DSC인베스트먼트 | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DSC%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) |
 | DSR | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DSR.html) |
 | DSR제강 | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DSR%EC%A0%9C%EA%B0%95.html) |
+| DS단석 | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DS%EB%8B%A8%EC%84%9D.html) |
 | DXVX | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DXVX.html) |
+| DYP | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DYP.html) |
 
 ---
-
 *이 파일은 batch_reports.py가 자동으로 관리합니다.*
