@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "현대바이오",
-      "category": "바이오",
-      "code": "048410"
-    },
-    {
       "name": "DSR",
       "category": "일반",
       "code": "155660"
