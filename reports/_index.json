@@ -506,6 +506,11 @@
       "filename": "EG.html",
       "category": "일반",
       "generated_at": "2026-06-11"
+    },
+    "가온전선": {
+      "filename": "000500.html",
+      "category": "전력",
+      "generated_at": "2026-06-11"
     }
   }
 }
