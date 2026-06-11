@@ -39,6 +39,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | 24 | 앤디포스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앤디포스.html) | 2026-06-11 |
 | 25 | 앤로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앤로보틱스.html) | 2026-06-11 |
 | 26 | 앤에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앤에스.html) | 2026-06-11 |
+| 27 | 앱코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앱코.html) | 2026-06-11 |
 
 ---
 
