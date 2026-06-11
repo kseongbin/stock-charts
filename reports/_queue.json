@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "HPSP",
-      "category": "일반",
-      "code": "403870"
-    },
-    {
       "name": "HRS",
       "category": "일반",
       "code": "036640"

@@ -104,6 +104,7 @@
 | 89 | HLB파나진 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HLB%ED%8C%8C%EB%82%98%EC%A7%84.html) | 2026-06-11 |
 | 90 | HLB펩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HLB%ED%8E%A9.html) | 2026-06-11 |
 | 91 | HMM | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HMM.html) | 2026-06-11 |
+| 92 | HPSP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HPSP.html) | 2026-06-11 |
 
 ---
 
