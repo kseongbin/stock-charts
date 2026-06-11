@@ -73,6 +73,7 @@
 | 58 | 에스엔유프리시젼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%94%EC%9C%A0%ED%94%84%EB%A6%AC%EC%8B%9C%EC%A0%BC.html) | 2026-06-11 |
 | 59 | 에스엘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%98.html) | 2026-06-11 |
 | 60 | 에스엘에스바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%98%EC%97%90%EC%8A%A4%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-11 |
+| 61 | 에스엠벡셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%A8%EB%B2%A1%EC%85%80.html) | 2026-06-11 |
 
 ---
 
