@@ -40,6 +40,7 @@
 | 25 | 티씨머티리얼즈 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%ED%8B%B0%EC%94%A8%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-06-08 |
 | 26 | 지엔씨에너지 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%A7%80%EC%97%94%EC%94%A8%EC%97%90%EB%84%88%EC%A7%80.html) | 2026-06-08 |
 | 27 | 케이엠더블유 | 통신 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%BC%80%EC%9D%B4%EC%97%A0%EB%8D%94%EB%B8%94%EC%9C%A0.html) | 2026-06-08 |
+| 28 | 3S | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/060310.html) | 2026-06-11 |
 
 ---
 
