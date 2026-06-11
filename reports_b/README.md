@@ -54,6 +54,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | 39 | 에브리봇 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에브리봇.html) | 2026-06-11 |
 | 40 | 에스넷 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스넷.html) | 2026-06-11 |
 | 41 | 에스디바이오센서 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스디바이오센서.html) | 2026-06-11 |
+| 42 | 에스디생명공학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스디생명공학.html) | 2026-06-11 |
 
 ---
 
