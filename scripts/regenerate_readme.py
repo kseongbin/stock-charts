@@ -22,6 +22,19 @@ def regenerate(folder: str) -> None:
     with idx_path.open(encoding="utf-8") as f:
         idx = json.load(f)
 
+    fixed = []
+    for name, info in idx["completed"].items():
+        expected = f"{name}.html"
+        actual = info.get("filename", "")
+        if actual != expected and (base / expected).exists():
+            info["filename"] = expected
+            fixed.append(f"{name}: {actual} -> {expected}")
+    if fixed:
+        with idx_path.open("w", encoding="utf-8") as f:
+            json.dump(idx, f, ensure_ascii=False, indent=2)
+        for line in fixed:
+            print(f"[auto-fix] {line}")
+
     items = sorted(idx["completed"].items(), key=lambda x: x[1].get("generated_at", ""))
 
     is_b = folder == "reports_b"
