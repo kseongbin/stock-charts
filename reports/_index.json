@@ -22,21 +22,6 @@
       "category": "바이오",
       "generated_at": "2026-06-07"
     },
-    "네이처셀": {
-      "filename": "네이처셀.html",
-      "category": "바이오",
-      "generated_at": "2026-06-07"
-    },
-    "지아이이노베이션": {
-      "filename": "지아이이노베이션.html",
-      "category": "바이오",
-      "generated_at": "2026-06-07"
-    },
-    "현대바이오": {
-      "filename": "현대바이오.html",
-      "category": "바이오",
-      "generated_at": "2026-06-07"
-    },
     "피플바이오": {
       "filename": "피플바이오.html",
       "category": "바이오",
@@ -72,11 +57,6 @@
       "category": "전력",
       "generated_at": "2026-06-08"
     },
-    "지투파워": {
-      "filename": "지투파워.html",
-      "category": "전력",
-      "generated_at": "2026-06-08"
-    },
     "산일전기": {
       "filename": "산일전기.html",
       "category": "전력",
@@ -84,11 +64,6 @@
     },
     "대한전선": {
       "filename": "대한전선.html",
-      "category": "전력",
-      "generated_at": "2026-06-08"
-    },
-    "가온전선": {
-      "filename": "가온전선.html",
       "category": "전력",
       "generated_at": "2026-06-08"
     },
@@ -502,16 +477,6 @@
       "category": "일반",
       "generated_at": "2026-06-11"
     },
-    "DSR": {
-      "filename": "DSR.html",
-      "category": "일반",
-      "generated_at": "2026-06-11"
-    },
-    "DSR제강": {
-      "filename": "DSR제강.html",
-      "category": "일반",
-      "generated_at": "2026-06-11"
-    },
     "DS단석": {
       "filename": "DS단석.html",
       "category": "일반",
@@ -519,11 +484,6 @@
     },
     "DXVX": {
       "filename": "DXVX.html",
-      "category": "일반",
-      "generated_at": "2026-06-11"
-    },
-    "DYP": {
-      "filename": "DYP.html",
       "category": "일반",
       "generated_at": "2026-06-11"
     },

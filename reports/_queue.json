@@ -7,6 +7,46 @@
   ],
   "queue": [
     {
+      "name": "가온전선",
+      "category": "전력",
+      "code": "000500"
+    },
+    {
+      "name": "네이처셀",
+      "category": "바이오",
+      "code": "007390"
+    },
+    {
+      "name": "지아이이노베이션",
+      "category": "바이오",
+      "code": "358570"
+    },
+    {
+      "name": "지투파워",
+      "category": "전력",
+      "code": "388050"
+    },
+    {
+      "name": "현대바이오",
+      "category": "바이오",
+      "code": "048410"
+    },
+    {
+      "name": "DSR",
+      "category": "일반",
+      "code": "155660"
+    },
+    {
+      "name": "DSR제강",
+      "category": "일반",
+      "code": "069730"
+    },
+    {
+      "name": "DYP",
+      "category": "일반",
+      "code": "092780"
+    },
+    {
       "name": "EMB",
       "category": "일반",
       "code": "278990"
