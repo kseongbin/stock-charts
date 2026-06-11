@@ -44,6 +44,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | 29 | 앱토크롬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앱토크롬.html) | 2026-06-11 |
 | 30 | 앱튼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앱튼.html) | 2026-06-11 |
 | 31 | 야스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/야스.html) | 2026-06-11 |
+| 32 | 양지사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/양지사.html) | 2026-06-11 |
 
 ---
 
