@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "에브리봇",
-      "category": "일반",
-      "code": "270660"
-    },
-    {
       "name": "에스넷",
       "category": "일반",
       "code": "038680"
