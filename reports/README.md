@@ -124,6 +124,7 @@
 | 109 | DYP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/092780.html) | 2026-06-11 |
 | 110 | EMB | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/278990.html) | 2026-06-11 |
 | 111 | ESR켄달스퀘어리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/365550.html) | 2026-06-11 |
+| 112 | ES큐브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/050120.html) | 2026-06-11 |
 
 ---
 

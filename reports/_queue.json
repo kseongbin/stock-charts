@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "ES큐브",
-      "category": "일반",
-      "code": "050120"
-    },
-    {
       "name": "F&F",
       "category": "일반",
       "code": "383220"
