@@ -108,6 +108,7 @@
 | 93 | HRS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HRS.html) | 2026-06-11 |
 | 94 | HS애드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HS%EC%95%A0%EB%93%9C.html) | 2026-06-11 |
 | 95 | HS화성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HS%ED%99%94%EC%84%B1.html) | 2026-06-11 |
+| 96 | HS효성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HS%ED%9A%A8%EC%84%B1.html) | 2026-06-11 |
 
 ---
 
