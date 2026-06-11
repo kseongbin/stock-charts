@@ -109,6 +109,7 @@
 | DYP | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DYP.html) |
 | E1 | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/E1.html) |
 | E8 | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/E8.html) |
+| EDGC | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/EDGC.html) |
 
 ---
 *이 파일은 batch_reports.py가 자동으로 관리합니다.*

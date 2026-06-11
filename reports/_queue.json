@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "EDGC",
-      "category": "일반",
-      "code": "245620"
-    },
-    {
       "name": "EG",
       "category": "일반",
       "code": "037370"
