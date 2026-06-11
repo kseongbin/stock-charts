@@ -1,6 +1,6 @@
 # 기업분석 보고서 목록
 
-총 100개 보고서 | 최종 업데이트: 2026-06-11
+총 101개 보고서 | 최종 업데이트: 2026-06-11
 
 | 기업명 | 카테고리 | 생성일 | 링크 |
 |--------|----------|--------|------|
@@ -104,6 +104,7 @@
 | DGI | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DGI.html) |
 | DKME | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DKME.html) |
 | DSC인베스트먼트 | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DSC%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) |
+| DSR | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DSR.html) |
 
 ---
 
