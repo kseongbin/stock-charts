@@ -616,6 +616,11 @@
       "filename": "GS글로벌.html",
       "category": "일반",
       "generated_at": "2026-06-11"
+    },
+    "GS리테일": {
+      "filename": "GS리테일.html",
+      "category": "일반",
+      "generated_at": "2026-06-11"
     }
   }
 }

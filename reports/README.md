@@ -136,6 +136,7 @@
 | 121 | GST | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GST.html) | 2026-06-11 |
 | 122 | GS건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GS%EA%B1%B4%EC%84%A4.html) | 2026-06-11 |
 | 123 | GS글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GS%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-06-11 |
+| 124 | GS리테일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GS%EB%A6%AC%ED%85%8C%EC%9D%BC.html) | 2026-06-11 |
 
 ---
 
