@@ -49,6 +49,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | 34 | 어스앤에어로스페이스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/어스앤에어로스페이스.html) | 2026-06-11 |
 | 35 | 얼라인드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/얼라인드.html) | 2026-06-11 |
 | 36 | 에너토크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에너토크.html) | 2026-06-11 |
+| 37 | 에넥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에넥스.html) | 2026-06-11 |
 
 ---
 
