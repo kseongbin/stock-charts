@@ -61,6 +61,7 @@
 | 46 | 에스아이리소스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스아이리소스.html) | 2026-06-11 |
 | 47 | 에스앤더블류 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스앤더블류.html) | 2026-06-11 |
 | 48 | 에스앤디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스앤디.html) | 2026-06-11 |
+| 49 | 에스앤에스텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스앤에스텍.html) | 2026-06-11 |
 
 ---
 
