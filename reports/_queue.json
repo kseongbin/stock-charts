@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "HLB바이오스텝",
-      "category": "일반",
-      "code": "278650"
-    },
-    {
       "name": "HLB생명과학",
       "category": "일반",
       "code": "067630"
