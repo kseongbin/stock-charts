@@ -53,6 +53,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | 38 | 에르코스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에르코스.html) | 2026-06-11 |
 | 39 | 에브리봇 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에브리봇.html) | 2026-06-11 |
 | 40 | 에스넷 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스넷.html) | 2026-06-11 |
+| 41 | 에스디바이오센서 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스디바이오센서.html) | 2026-06-11 |
 
 ---
 
