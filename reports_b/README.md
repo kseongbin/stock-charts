@@ -40,6 +40,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | 25 | 앤로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앤로보틱스.html) | 2026-06-11 |
 | 26 | 앤에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앤에스.html) | 2026-06-11 |
 | 27 | 앱코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앱코.html) | 2026-06-11 |
+| 28 | 앱클론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앱클론.html) | 2026-06-11 |
 
 ---
 
