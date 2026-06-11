@@ -98,6 +98,7 @@
 | 83 | HLB바이오스텝 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HLB%EB%B0%94%EC%9D%B4%EC%98%A4%EC%8A%A4%ED%85%9D.html) | 2026-06-11 |
 | 84 | HLB생명과학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HLB%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99.html) | 2026-06-11 |
 | 85 | HLB이노베이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HLB%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98.html) | 2026-06-11 |
+| 86 | HLB제넥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HLB%EC%A0%9C%EB%84%A5%EC%8A%A4.html) | 2026-06-11 |
 
 ---
 

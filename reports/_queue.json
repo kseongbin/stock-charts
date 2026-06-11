@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "HLB제넥스",
-      "category": "일반",
-      "code": "187420"
-    },
-    {
       "name": "HLB제약",
       "category": "일반",
       "code": "047920"
