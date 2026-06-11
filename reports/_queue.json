@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "HRS",
-      "category": "일반",
-      "code": "036640"
-    },
-    {
       "name": "HS애드",
       "category": "일반",
       "code": "035000"

@@ -105,6 +105,7 @@
 | 90 | HLB펩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HLB%ED%8E%A9.html) | 2026-06-11 |
 | 91 | HMM | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HMM.html) | 2026-06-11 |
 | 92 | HPSP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HPSP.html) | 2026-06-11 |
+| 93 | HRS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HRS.html) | 2026-06-11 |
 
 ---
 
