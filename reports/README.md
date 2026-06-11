@@ -110,6 +110,7 @@
 | 95 | HS화성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HS%ED%99%94%EC%84%B1.html) | 2026-06-11 |
 | 96 | HS효성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HS%ED%9A%A8%EC%84%B1.html) | 2026-06-11 |
 | 97 | HS효성첨단소재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HS%ED%9A%A8%EC%84%B1%EC%B2%A8%EB%8B%A8%EC%86%8C%EC%9E%AC.html) | 2026-06-11 |
+| 98 | INVENI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/INVENI.html) | 2026-06-11 |
 
 ---
 
