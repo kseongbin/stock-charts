@@ -146,6 +146,7 @@
 | 131 | HDC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HDC.html) | 2026-06-11 |
 | 132 | HDC랩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HDC%EB%9E%A9%EC%8A%A4.html) | 2026-06-11 |
 | 133 | HDC현대EP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HDC%ED%98%84%EB%8C%80EP.html) | 2026-06-11 |
+| 134 | HD건설기계 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD%EA%B1%B4%EC%84%A4%EA%B8%B0%EA%B3%84.html) | 2026-06-11 |
 
 ---
 
