@@ -70,6 +70,7 @@
 | 55 | 에스에프씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%90%ED%94%84%EC%94%A8.html) | 2026-06-11 |
 | 56 | 에스에프에이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%90%ED%94%84%EC%97%90%EC%9D%B4.html) | 2026-06-11 |
 | 57 | 에스엔시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%94%EC%8B%9C%EC%8A%A4.html) | 2026-06-11 |
+| 58 | 에스엔유프리시젼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%94%EC%9C%A0%ED%94%84%EB%A6%AC%EC%8B%9C%EC%A0%BC.html) | 2026-06-11 |
 
 ---
 
