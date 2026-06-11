@@ -114,9 +114,9 @@
 | 99 | E8 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/E8.html) | 2026-06-11 |
 | 100 | EDGC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/EDGC.html) | 2026-06-11 |
 | 101 | EG | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/EG.html) | 2026-06-11 |
-| 102 | 가온전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/000500.html) | 2026-06-11 |
-| 103 | 네이처셀 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/007390.html) | 2026-06-11 |
-| 104 | 지아이이노베이션 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/358570.html) | 2026-06-11 |
+| 102 | 가온전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%80%EC%98%A8%EC%A0%84%EC%84%A0.html) | 2026-06-11 |
+| 103 | 네이처셀 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%9D%B4%EC%B2%98%EC%85%80.html) | 2026-06-11 |
+| 104 | 지아이이노베이션 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%A7%80%EC%95%84%EC%9D%B4%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98.html) | 2026-06-11 |
 
 ---
 
