@@ -107,6 +107,7 @@
 | DS단석 | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DS%EB%8B%A8%EC%84%9D.html) |
 | DXVX | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DXVX.html) |
 | DYP | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DYP.html) |
+| E1 | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/E1.html) |
 
 ---
 *이 파일은 batch_reports.py가 자동으로 관리합니다.*
