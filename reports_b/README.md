@@ -57,6 +57,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | 42 | 에스디생명공학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스디생명공학.html) | 2026-06-11 |
 | 43 | 에스디시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스디시스템.html) | 2026-06-11 |
 | 44 | 에스바이오메딕스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스바이오메딕스.html) | 2026-06-11 |
+| 45 | 에스씨디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/에스씨디.html) | 2026-06-11 |
 
 ---
 
