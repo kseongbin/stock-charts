@@ -37,6 +37,7 @@ B 루틴(회사 계정)이 자동 생성한 보고서 목록입니다.
 | 22 | 액토즈소프트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/액토즈소프트.html) | 2026-06-10 |
 | 23 | 액트로 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/액트로.html) | 2026-06-11 |
 | 24 | 앤디포스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앤디포스.html) | 2026-06-11 |
+| 25 | 앤로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/앤로보틱스.html) | 2026-06-11 |
 
 ---
 
