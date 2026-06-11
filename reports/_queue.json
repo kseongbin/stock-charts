@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "DSR제강",
-      "category": "일반",
-      "code": "069730"
-    },
-    {
       "name": "DYP",
       "category": "일반",
       "code": "092780"

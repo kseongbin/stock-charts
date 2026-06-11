@@ -120,6 +120,7 @@
 | 105 | 지투파워 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/388050.html) | 2026-06-11 |
 | 106 | 현대바이오 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/048410.html) | 2026-06-11 |
 | 107 | DSR | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/155660.html) | 2026-06-11 |
+| 108 | DSR제강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/069730.html) | 2026-06-11 |
 
 ---
 
