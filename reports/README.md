@@ -119,6 +119,7 @@
 | 104 | 지아이이노베이션 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%A7%80%EC%95%84%EC%9D%B4%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98.html) | 2026-06-11 |
 | 105 | 지투파워 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/388050.html) | 2026-06-11 |
 | 106 | 현대바이오 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/048410.html) | 2026-06-11 |
+| 107 | DSR | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/155660.html) | 2026-06-11 |
 
 ---
 
