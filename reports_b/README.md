@@ -66,6 +66,7 @@
 | 51 | 에스에너지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%90%EB%84%88%EC%A7%80.html) | 2026-06-11 |
 | 52 | 에스에스알 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%90%EC%8A%A4%EC%95%8C.html) | 2026-06-11 |
 | 53 | 에스에이치엔엘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%90%EC%9D%B4%EC%B9%98%EC%97%94%EC%97%98.html) | 2026-06-11 |
+| 54 | 에스에이티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%90%EC%9D%B4%ED%8B%B0.html) | 2026-06-11 |
 
 ---
 
