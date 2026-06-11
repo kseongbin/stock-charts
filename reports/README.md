@@ -148,6 +148,7 @@
 | 133 | HDC현대EP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HDC%ED%98%84%EB%8C%80EP.html) | 2026-06-11 |
 | 134 | HD건설기계 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD%EA%B1%B4%EC%84%A4%EA%B8%B0%EA%B3%84.html) | 2026-06-11 |
 | 135 | HD현대 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD%ED%98%84%EB%8C%80.html) | 2026-06-11 |
+| 136 | HD현대마린솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD%ED%98%84%EB%8C%80%EB%A7%88%EB%A6%B0%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-11 |
 
 ---
 
