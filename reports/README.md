@@ -1,6 +1,6 @@
 # 기업분석 보고서 목록
 
-총 98개 보고서 | 최종 업데이트: 2026-06-11
+총 99개 보고서 | 최종 업데이트: 2026-06-11
 
 | 기업명 | 카테고리 | 생성일 | 링크 |
 |--------|----------|--------|------|
@@ -102,6 +102,7 @@
 | 효성중공업 | 전력 | 2026-06-08 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%ED%9A%A8%EC%84%B1%EC%A4%91%EA%B3%B5%EC%97%85.html) |
 | 3S | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/3S.html) |
 | DGI | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DGI.html) |
+| DKME | 일반 | 2026-06-11 | [보고서](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/DKME.html) |
 
 ---
 
