@@ -127,6 +127,7 @@
 | 112 | ES큐브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/ES%ED%81%90%EB%B8%8C.html) | 2026-06-11 |
 | 113 | F&F | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/F%26F.html) | 2026-06-11 |
 | 114 | F&F 홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/F%26F%20%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-11 |
+| 115 | FSN | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/FSN.html) | 2026-06-11 |
 
 ---
 
