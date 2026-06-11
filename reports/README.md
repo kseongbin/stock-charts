@@ -138,6 +138,7 @@
 | 123 | GS글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GS%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-06-11 |
 | 124 | GS리테일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GS%EB%A6%AC%ED%85%8C%EC%9D%BC.html) | 2026-06-11 |
 | 125 | GS피앤엘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GS%ED%94%BC%EC%95%A4%EC%97%98.html) | 2026-06-11 |
+| 126 | HB솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HB%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-11 |
 
 ---
 
