@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "GS",
-      "category": "일반",
-      "code": "078930"
-    },
-    {
       "name": "GST",
       "category": "일반",
       "code": "083450"

@@ -132,6 +132,7 @@
 | 117 | GH신소재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GH%EC%8B%A0%EC%86%8C%EC%9E%AC.html) | 2026-06-11 |
 | 118 | GKL | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GKL.html) | 2026-06-11 |
 | 119 | GRT | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GRT.html) | 2026-06-11 |
+| 120 | GS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GS.html) | 2026-06-11 |
 
 ---
 
