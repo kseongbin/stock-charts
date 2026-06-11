@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "GST",
-      "category": "일반",
-      "code": "083450"
-    },
-    {
       "name": "GS건설",
       "category": "일반",
       "code": "006360"

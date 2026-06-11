@@ -133,6 +133,7 @@
 | 118 | GKL | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GKL.html) | 2026-06-11 |
 | 119 | GRT | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GRT.html) | 2026-06-11 |
 | 120 | GS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GS.html) | 2026-06-11 |
+| 121 | GST | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/GST.html) | 2026-06-11 |
 
 ---
 
