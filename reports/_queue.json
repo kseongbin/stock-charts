@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "HLB펩",
-      "category": "일반",
-      "code": "196300"
-    },
-    {
       "name": "HMM",
       "category": "일반",
       "code": "011200"
