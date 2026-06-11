@@ -116,6 +116,7 @@
 | 101 | EG | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/EG.html) | 2026-06-11 |
 | 102 | 가온전선 | 전력 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/000500.html) | 2026-06-11 |
 | 103 | 네이처셀 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/007390.html) | 2026-06-11 |
+| 104 | 지아이이노베이션 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/358570.html) | 2026-06-11 |
 
 ---
 
