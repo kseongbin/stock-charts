@@ -105,6 +105,7 @@
 | 90 | 에스피소프트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%ED%94%BC%EC%86%8C%ED%94%84%ED%8A%B8.html) | 2026-06-12 |
 | 91 | 에스피시스템스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%ED%94%BC%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%8A%A4.html) | 2026-06-12 |
 | 92 | 에쎈테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8E%88%ED%85%8C%ED%81%AC.html) | 2026-06-12 |
+| 93 | 에쓰씨엔지니어링 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%93%B0%EC%94%A8%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.html) | 2026-06-12 |
 
 ---
 
