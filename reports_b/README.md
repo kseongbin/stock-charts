@@ -90,6 +90,7 @@
 | 75 | 에스케이바이오팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8C%9C.html) | 2026-06-12 |
 | 76 | 에스케이브로드밴드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EB%B8%8C%EB%A1%9C%EB%93%9C%EB%B0%B4%EB%93%9C.html) | 2026-06-12 |
 | 77 | 에스케이엔펄스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%97%94%ED%8E%84%EC%8A%A4.html) | 2026-06-12 |
+| 78 | 에스켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BC%90.html) | 2026-06-12 |
 
 ---
 
