@@ -86,6 +86,7 @@
 | 71 | 에스지에이클라우드서비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%A7%80%EC%97%90%EC%9D%B4%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%84%9C%EB%B9%84%EC%8A%A4.html) | 2026-06-12 |
 | 72 | 에스지헬스케어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%A7%80%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4.html) | 2026-06-12 |
 | 73 | 에스케이렌터카 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EB%A0%8C%ED%84%B0%EC%B9%B4.html) | 2026-06-12 |
+| 74 | 에스케이머티리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-06-12 |
 
 ---
 
