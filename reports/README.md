@@ -156,6 +156,7 @@
 | 141 | ISC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/ISC.html) | 2026-06-12 |
 | 142 | JK리버스톤리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JK%EB%A6%AC%EB%B2%84%EC%8A%A4%ED%86%A4%EB%A6%AC%EC%B8%A0.html) | 2026-06-12 |
 | 143 | JTC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JTC.html) | 2026-06-12 |
+| 144 | JW생명과학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JW%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99.html) | 2026-06-12 |
 
 ---
 
