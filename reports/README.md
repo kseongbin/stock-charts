@@ -161,6 +161,7 @@
 | 146 | JW중외제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JW%EC%A4%91%EC%99%B8%EC%A0%9C%EC%95%BD.html) | 2026-06-12 |
 | 147 | JW홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JW%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-12 |
 | 148 | JYP Ent. | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JYP%20Ent..html) | 2026-06-12 |
+| 149 | KBG | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KBG.html) | 2026-06-12 |
 
 ---
 

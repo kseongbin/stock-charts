@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "KBG",
-      "category": "일반",
-      "code": "318000"
-    },
-    {
       "name": "KBI동양철관",
       "category": "일반",
       "code": "008970"
