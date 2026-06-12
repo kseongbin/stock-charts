@@ -111,6 +111,7 @@
 | 96 | 에이디칩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EB%94%94%EC%B9%A9%EC%8A%A4.html) | 2026-06-12 |
 | 97 | 에이디테크놀로지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EB%94%94%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80.html) | 2026-06-12 |
 | 98 | 에이럭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EB%9F%AD%EC%8A%A4.html) | 2026-06-12 |
+| 99 | 에이루트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EB%A3%A8%ED%8A%B8.html) | 2026-06-12 |
 
 ---
 
