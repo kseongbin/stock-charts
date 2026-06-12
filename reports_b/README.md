@@ -92,6 +92,7 @@
 | 77 | 에스케이엔펄스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EC%97%94%ED%8E%84%EC%8A%A4.html) | 2026-06-12 |
 | 78 | 에스켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BC%90.html) | 2026-06-12 |
 | 79 | 에스코넥 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BD%94%EB%84%A5.html) | 2026-06-12 |
+| 80 | 에스텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%ED%85%8D.html) | 2026-06-12 |
 
 ---
 
