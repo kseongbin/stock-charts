@@ -163,6 +163,7 @@
 | 148 | JYP Ent. | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JYP%20Ent..html) | 2026-06-12 |
 | 149 | KBG | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KBG.html) | 2026-06-12 |
 | 150 | KBI동양철관 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KBI%EB%8F%99%EC%96%91%EC%B2%A0%EA%B4%80.html) | 2026-06-12 |
+| 151 | KBI메탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KBI%EB%A9%94%ED%83%88.html) | 2026-06-12 |
 
 ---
 
