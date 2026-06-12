@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "KG모빌리티",
-      "category": "일반",
-      "code": "003620"
-    },
-    {
       "name": "KG스틸",
       "category": "일반",
       "code": "016380"
