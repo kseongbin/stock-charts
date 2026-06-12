@@ -159,6 +159,7 @@
 | 144 | JW생명과학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JW%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99.html) | 2026-06-12 |
 | 145 | JW신약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JW%EC%8B%A0%EC%95%BD.html) | 2026-06-12 |
 | 146 | JW중외제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JW%EC%A4%91%EC%99%B8%EC%A0%9C%EC%95%BD.html) | 2026-06-12 |
+| 147 | JW홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JW%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-12 |
 
 ---
 
