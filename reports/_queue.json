@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "JTC",
-      "category": "일반",
-      "code": "950170"
-    },
-    {
       "name": "JW생명과학",
       "category": "일반",
       "code": "234080"
