@@ -172,6 +172,7 @@
 | 157 | KD | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KD.html) | 2026-06-12 |
 | 158 | KG모빌리티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KG%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0.html) | 2026-06-12 |
 | 159 | KG스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KG%EC%8A%A4%ED%8B%B8.html) | 2026-06-12 |
+| 160 | KG에코솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KG%EC%97%90%EC%BD%94%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-12 |
 
 ---
 
