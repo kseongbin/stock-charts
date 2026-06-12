@@ -169,6 +169,7 @@
 | 154 | KCC건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KCC%EA%B1%B4%EC%84%A4.html) | 2026-06-12 |
 | 155 | KC그린홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KC%EA%B7%B8%EB%A6%B0%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-12 |
 | 156 | KC코트렐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KC%EC%BD%94%ED%8A%B8%EB%A0%90.html) | 2026-06-12 |
+| 157 | KD | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KD.html) | 2026-06-12 |
 
 ---
 
