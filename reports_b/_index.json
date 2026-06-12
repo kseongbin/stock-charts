@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-06-11",
+  "last_updated": "2026-06-12",
   "completed": {
     "우리넷": {
       "filename": "우리넷.html",
@@ -306,6 +306,11 @@
       "filename": "에스엠씨지.html",
       "category": "일반",
       "generated_at": "2026-06-11"
+    },
+    "에스엠화진": {
+      "filename": "에스엠화진.html",
+      "category": "일반",
+      "generated_at": "2026-06-12"
     }
   }
 }
