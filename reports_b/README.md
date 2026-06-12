@@ -87,6 +87,7 @@
 | 72 | 에스지헬스케어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%A7%80%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4.html) | 2026-06-12 |
 | 73 | 에스케이렌터카 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EB%A0%8C%ED%84%B0%EC%B9%B4.html) | 2026-06-12 |
 | 74 | 에스케이머티리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-06-12 |
+| 75 | 에스케이바이오팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8C%9C.html) | 2026-06-12 |
 
 ---
 
