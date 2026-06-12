@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "JW신약",
-      "category": "일반",
-      "code": "067290"
-    },
-    {
       "name": "JW중외제약",
       "category": "일반",
       "code": "001060"
