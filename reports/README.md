@@ -166,6 +166,7 @@
 | 151 | KBI메탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KBI%EB%A9%94%ED%83%88.html) | 2026-06-12 |
 | 152 | KB스타리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KB%EC%8A%A4%ED%83%80%EB%A6%AC%EC%B8%A0.html) | 2026-06-12 |
 | 153 | KB오토시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KB%EC%98%A4%ED%86%A0%EC%8B%9C%EC%8A%A4.html) | 2026-06-12 |
+| 154 | KCC건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KCC%EA%B1%B4%EC%84%A4.html) | 2026-06-12 |
 
 ---
 
