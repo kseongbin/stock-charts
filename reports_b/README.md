@@ -81,6 +81,7 @@
 | 66 | 에스제이그룹.html | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%A0%9C%EC%9D%B4%EA%B7%B8%EB%A3%B9.html) | 2026-06-12 |
 | 67 | 에스제이엠.html | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%A0%9C%EC%9D%B4%EC%97%A0.html) | 2026-06-12 |
 | 68 | 에스제이엠홀딩스.html | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%A0%9C%EC%9D%B4%EC%97%A0%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-12 |
+| 69 | 에스제이케이.html | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%A0%9C%EC%9D%B4%EC%BC%80%EC%9D%B4.html) | 2026-06-12 |
 
 ---
 
