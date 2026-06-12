@@ -100,6 +100,7 @@
 | 85 | 에스티큐브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%ED%8B%B0%ED%81%90%EB%B8%8C.html) | 2026-06-12 |
 | 86 | 에스티팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%ED%8B%B0%ED%8C%9C.html) | 2026-06-12 |
 | 87 | 에스팀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%ED%8C%80.html) | 2026-06-12 |
+| 88 | 에스폴리텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%ED%8F%B4%EB%A6%AC%ED%85%8D.html) | 2026-06-12 |
 
 ---
 
