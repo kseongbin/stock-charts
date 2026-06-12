@@ -107,6 +107,7 @@
 | 92 | 에쎈테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8E%88%ED%85%8C%ED%81%AC.html) | 2026-06-12 |
 | 93 | 에쓰씨엔지니어링 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%93%B0%EC%94%A8%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.html) | 2026-06-12 |
 | 94 | 에어레인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%96%B4%EB%A0%88%EC%9D%B8.html) | 2026-06-12 |
+| 95 | 에어부산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%96%B4%EB%B6%80%EC%82%B0.html) | 2026-06-12 |
 
 ---
 
