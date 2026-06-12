@@ -97,6 +97,7 @@
 | 82 | 에스트래픽 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%ED%8A%B8%EB%9E%98%ED%94%BD.html) | 2026-06-12 |
 | 83 | 에스티아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%ED%8B%B0%EC%95%84%EC%9D%B4.html) | 2026-06-12 |
 | 84 | 에스티오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%ED%8B%B0%EC%98%A4.html) | 2026-06-12 |
+| 85 | 에스티큐브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%ED%8B%B0%ED%81%90%EB%B8%8C.html) | 2026-06-12 |
 
 ---
 
