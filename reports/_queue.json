@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "KBI동양철관",
-      "category": "일반",
-      "code": "008970"
-    },
-    {
       "name": "KBI메탈",
       "category": "일반",
       "code": "024840"
