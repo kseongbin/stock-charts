@@ -78,6 +78,7 @@
 | 63 | 에스와이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%99%80%EC%9D%B4.html) | 2026-06-12 |
 | 64 | 에스와이스틸텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%99%80%EC%9D%B4%EC%8A%A4%ED%8B%B8%ED%85%8D.html) | 2026-06-12 |
 | 65 | 에스원.html | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%9B%90.html) | 2026-06-12 |
+| 66 | 에스제이그룹.html | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%A0%9C%EC%9D%B4%EA%B7%B8%EB%A3%B9.html) | 2026-06-12 |
 
 ---
 
