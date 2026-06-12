@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-11",
+  "last_updated": "2026-06-12",
   "completed": {
     "세명전기": {
       "filename": "세명전기.html",
@@ -686,6 +686,11 @@
       "filename": "HD현대마린엔진.html",
       "category": "일반",
       "generated_at": "2026-06-11"
+    },
+    "HD현대일렉트릭": {
+      "filename": "HD현대일렉트릭.html",
+      "category": "일반",
+      "generated_at": "2026-06-12"
     }
   },
   "HD현대에너지솔루션": {

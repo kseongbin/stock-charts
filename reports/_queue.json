@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "HD현대일렉트릭",
-      "category": "일반",
-      "code": "267260"
-    },
-    {
       "name": "HD현대중공업",
       "category": "일반",
       "code": "329180"
