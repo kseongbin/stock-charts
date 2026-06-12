@@ -75,6 +75,7 @@
 | 60 | 에스엠벡셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%A0%EB%B2%A1%EC%85%80.html) | 2026-06-11 |
 | 61 | 에스엠씨지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%A0%EC%94%A8%EC%A7%80.html) | 2026-06-11 |
 | 62 | 에스엠화진 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%97%A0%ED%99%94%EC%A7%84.html) | 2026-06-12 |
+| 63 | 에스와이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%8A%A4%EC%99%80%EC%9D%B4.html) | 2026-06-12 |
 
 ---
 
