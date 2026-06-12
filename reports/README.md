@@ -154,6 +154,7 @@
 | 139 | HD현대중공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD%ED%98%84%EB%8C%80%EC%A4%91%EA%B3%B5%EC%97%85.html) | 2026-06-12 |
 | 140 | IPARK현대산업개발 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/IPARK%ED%98%84%EB%8C%80%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C.html) | 2026-06-12 |
 | 141 | ISC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/ISC.html) | 2026-06-12 |
+| 142 | JK리버스톤리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/JK%EB%A6%AC%EB%B2%84%EC%8A%A4%ED%86%A4%EB%A6%AC%EC%B8%A0.html) | 2026-06-12 |
 
 ---
 
