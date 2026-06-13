@@ -35,6 +35,7 @@
 | 20 | 에이치와이티씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EC%B9%98%EC%99%80%EC%9D%B4%ED%8B%B0%EC%94%A8.html) | 2026-06-13 |
 | 21 | 에이치케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EC%B9%98%EC%BC%80%EC%9D%B4.html) | 2026-06-13 |
 | 22 | 에이치피오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EC%B9%98%ED%94%BC%EC%98%A4.html) | 2026-06-13 |
+| 23 | 에이텀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%85%80.html) | 2026-06-13 |
 
 ---
 
