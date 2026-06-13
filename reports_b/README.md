@@ -32,6 +32,7 @@
 | 17 | 에이치엔에스하이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EC%B9%98%EC%97%94%EC%97%90%EC%8A%A4%ED%95%98%EC%9D%B4%ED%85%8D.html) | 2026-06-13 |
 | 18 | 에이치엘사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EC%B9%98%EC%97%98%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-06-13 |
 | 19 | 에이치엠넥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EC%B9%98%EC%97%A0%EB%84%A5%EC%8A%A4.html) | 2026-06-13 |
+| 20 | 에이치와이티씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EC%B9%98%EC%99%80%EC%9D%B4%ED%8B%B0%EC%94%A8.html) | 2026-06-13 |
 
 ---
 
