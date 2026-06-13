@@ -182,6 +182,7 @@
 | 167 | KPX홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KPX%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-13 |
 | 168 | KR모터스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KR%EB%AA%A8%ED%84%B0%EC%8A%A4.html) | 2026-06-13 |
 | 169 | KSS해운 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KSS%ED%95%B4%EC%9A%B4.html) | 2026-06-13 |
+| 170 | KS인더스트리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KS%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC.html) | 2026-06-13 |
 
 ---
 

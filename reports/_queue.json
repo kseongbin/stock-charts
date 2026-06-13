@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "KS인더스트리",
-      "category": "일반",
-      "code": "101000"
-    },
-    {
       "name": "KTcs",
       "category": "일반",
       "code": "058850"
