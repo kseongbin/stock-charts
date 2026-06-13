@@ -153,6 +153,7 @@
 | 138 | 에코글로우 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%BD%94%EA%B8%80%EB%A1%9C%EC%9A%B0.html) | 2026-06-13 |
 | 139 | 에코마케팅 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%BD%94%EB%A7%88%EC%BC%80%ED%8C%85.html) | 2026-06-13 |
 | 140 | 에코바이브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%BD%94%EB%B0%94%EC%9D%B4%EB%B8%8C.html) | 2026-06-13 |
+| 141 | 에코볼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%BD%94%EB%B3%BC%ED%8A%B8.html) | 2026-06-13 |
 
 ---
 
