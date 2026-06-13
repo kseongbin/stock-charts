@@ -176,14 +176,16 @@
 | 161 | KG이니시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KG%EC%9D%B4%EB%8B%88%EC%8B%9C%EC%8A%A4.html) | 2026-06-12 |
 | 162 | KG파이낸셜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KG%ED%8C%8C%EC%9D%B4%EB%82%B8%EC%85%9C.html) | 2026-06-12 |
 | 163 | KH바텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KH%EB%B0%94%ED%85%8D.html) | 2026-06-12 |
-| 164 | KISCO홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KISCO%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-13 |
-| 165 | KNN | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KNN.html) | 2026-06-13 |
-| 166 | KPX케미칼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KPX%EC%BC%80%EB%AF%B8%EC%B9%BC.html) | 2026-06-13 |
-| 167 | KPX홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KPX%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-13 |
-| 168 | KR모터스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KR%EB%AA%A8%ED%84%B0%EC%8A%A4.html) | 2026-06-13 |
-| 169 | KSS해운 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KSS%ED%95%B4%EC%9A%B4.html) | 2026-06-13 |
-| 170 | KS인더스트리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KS%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC.html) | 2026-06-13 |
-| 171 | KTcs | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KTcs.html) | 2026-06-13 |
+| 164 | HD현대에너지솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/HD%ED%98%84%EB%8C%80%EC%97%90%EB%84%88%EC%A7%80%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-12 |
+| 165 | KISCO홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KISCO%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-13 |
+| 166 | KNN | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KNN.html) | 2026-06-13 |
+| 167 | KPX케미칼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KPX%EC%BC%80%EB%AF%B8%EC%B9%BC.html) | 2026-06-13 |
+| 168 | KPX홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KPX%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-13 |
+| 169 | KR모터스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KR%EB%AA%A8%ED%84%B0%EC%8A%A4.html) | 2026-06-13 |
+| 170 | KSS해운 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KSS%ED%95%B4%EC%9A%B4.html) | 2026-06-13 |
+| 171 | KS인더스트리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KS%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC.html) | 2026-06-13 |
+| 172 | KTcs | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KTcs.html) | 2026-06-13 |
+| 173 | KTis | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KTis.html) | 2026-06-13 |
 
 ---
 

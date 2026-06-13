@@ -856,11 +856,16 @@
       "filename": "KTcs.html",
       "category": "일반",
       "generated_at": "2026-06-13"
+    },
+    "HD현대에너지솔루션": {
+      "filename": "HD현대에너지솔루션.html",
+      "category": "일반",
+      "generated_at": "2026-06-12"
+    },
+    "KTis": {
+      "filename": "KTis.html",
+      "category": "일반",
+      "generated_at": "2026-06-13"
     }
-  },
-  "HD현대에너지솔루션": {
-    "filename": "HD현대에너지솔루션.html",
-    "category": "일반",
-    "generated_at": "2026-06-12"
   }
 }
