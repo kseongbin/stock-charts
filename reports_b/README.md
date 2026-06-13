@@ -28,6 +28,7 @@
 | 13 | 에이치디현대인프라코어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EC%B9%98%EB%94%94%ED%98%84%EB%8C%80%EC%9D%B8%ED%94%84%EB%9D%BC%EC%BD%94%EC%96%B4.html) | 2026-06-13 |
 | 14 | 에이치브이엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EC%B9%98%EB%B8%8C%EC%9D%B4%EC%97%A0.html) | 2026-06-13 |
 | 15 | 에이치시티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EC%B9%98%EC%8B%9C%ED%8B%B0.html) | 2026-06-13 |
+| 16 | 에이치씨코퍼레이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%EC%B9%98%EC%94%A8%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98.html) | 2026-06-13 |
 
 ---
 
