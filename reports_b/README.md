@@ -143,6 +143,8 @@
 | 128 | 에이팩트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%8C%A9%ED%8A%B8.html) | 2026-06-13 |
 | 129 | 에이팸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%8C%B8.html) | 2026-06-13 |
 | 130 | 에이프로 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%94%84%EB%A1%9C.html) | 2026-06-13 |
+| 131 | 에이프로젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%A0.html) | 2026-06-13 |
+| 132 | 에이프로젠바이오로직스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%94%84%EB%A1%9C%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A1%9C%EC%A7%81%EC%8A%A4.html) | 2026-06-13 |
 
 ---
 
