@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "에코캡",
-      "category": "일반",
-      "code": "128540"
-    },
-    {
       "name": "에코프로",
       "category": "일반",
       "code": "086520"
