@@ -138,6 +138,7 @@
 | 123 | 에이텀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%85%80.html) | 2026-06-13 |
 | 124 | 에이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%85%8D.html) | 2026-06-13 |
 | 125 | 에이텍모빌리티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%85%8D%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0.html) | 2026-06-13 |
+| 126 | 에이티넘인베스트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%8B%B0%EB%84%98%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8.html) | 2026-06-13 |
 
 ---
 
