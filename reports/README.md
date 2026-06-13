@@ -190,6 +190,7 @@
 | 175 | KT밀리의서재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KT%EB%B0%80%EB%A6%AC%EC%9D%98%EC%84%9C%EC%9E%AC.html) | 2026-06-13 |
 | 176 | KT지니뮤직 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KT%EC%A7%80%EB%8B%88%EB%AE%A4%EC%A7%81.html) | 2026-06-13 |
 | 177 | KX | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KX.html) | 2026-06-13 |
+| 178 | KX하이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KX%ED%95%98%EC%9D%B4%ED%85%8D.html) | 2026-06-13 |
 
 ---
 
