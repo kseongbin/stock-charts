@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "KR모터스",
-      "category": "일반",
-      "code": "000040"
-    },
-    {
       "name": "KSS해운",
       "category": "일반",
       "code": "044450"
