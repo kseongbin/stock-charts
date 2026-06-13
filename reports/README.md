@@ -197,6 +197,7 @@
 | 182 | LF | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LF.html) | 2026-06-13 |
 | 183 | LG | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LG.html) | 2026-06-13 |
 | 184 | LG디스플레이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LG%EB%94%94%EC%8A%A4%ED%94%8C%EB%A0%88%EC%9D%B4.html) | 2026-06-13 |
+| 185 | LG생활건강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LG%EC%83%9D%ED%99%9C%EA%B1%B4%EA%B0%95.html) | 2026-06-13 |
 
 ---
 
