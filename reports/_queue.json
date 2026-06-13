@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "KISCO홀딩스",
-      "category": "일반",
-      "code": "001940"
-    },
-    {
       "name": "KNN",
       "category": "일반",
       "code": "058400"
