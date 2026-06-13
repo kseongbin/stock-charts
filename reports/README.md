@@ -179,6 +179,7 @@
 | 164 | KISCO홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KISCO%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-13 |
 | 165 | KNN | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KNN.html) | 2026-06-13 |
 | 166 | KPX케미칼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KPX%EC%BC%80%EB%AF%B8%EC%B9%BC.html) | 2026-06-13 |
+| 167 | KPX홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KPX%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-13 |
 
 ---
 
