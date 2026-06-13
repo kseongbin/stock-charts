@@ -193,6 +193,7 @@
 | 178 | KX하이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KX%ED%95%98%EC%9D%B4%ED%85%8D.html) | 2026-06-13 |
 | 179 | KZ정밀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KZ%EC%A0%95%EB%B0%80.html) | 2026-06-13 |
 | 180 | LB세미콘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LB%EC%84%B8%EB%AF%B8%EC%BD%98.html) | 2026-06-13 |
+| 181 | LB인베스트먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LB%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) | 2026-06-13 |
 
 ---
 
