@@ -148,6 +148,7 @@
 | 133 | 에이프릴바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%94%84%EB%A6%B4%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-13 |
 | 134 | 에이플러스에셋 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%97%90%EC%85%8B.html) | 2026-06-13 |
 | 135 | 에이피알 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%94%BC%EC%95%8C.html) | 2026-06-13 |
+| 136 | 에임드바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9E%84%EB%93%9C%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-13 |
 
 ---
 
