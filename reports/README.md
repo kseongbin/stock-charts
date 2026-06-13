@@ -187,6 +187,7 @@
 | 172 | KTcs | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KTcs.html) | 2026-06-13 |
 | 173 | KTis | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KTis.html) | 2026-06-13 |
 | 174 | KT나스미디어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KT%EB%82%98%EC%8A%A4%EB%AF%B8%EB%94%94%EC%96%B4.html) | 2026-06-13 |
+| 175 | KT밀리의서재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KT%EB%B0%80%EB%A6%AC%EC%9D%98%EC%84%9C%EC%9E%AC.html) | 2026-06-13 |
 
 ---
 
