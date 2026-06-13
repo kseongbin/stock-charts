@@ -195,6 +195,7 @@
 | 180 | LB세미콘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LB%EC%84%B8%EB%AF%B8%EC%BD%98.html) | 2026-06-13 |
 | 181 | LB인베스트먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LB%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) | 2026-06-13 |
 | 182 | LF | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LF.html) | 2026-06-13 |
+| 183 | LG | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LG.html) | 2026-06-13 |
 
 ---
 
