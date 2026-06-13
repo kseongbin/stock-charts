@@ -159,6 +159,7 @@
 | 144 | 에코앤드림 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%BD%94%EC%95%A4%EB%93%9C%EB%A6%BC.html) | 2026-06-13 |
 | 145 | 에코캡 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%BD%94%EC%BA%A1.html) | 2026-06-13 |
 | 146 | 에코프로 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%BD%94%ED%94%84%EB%A1%9C.html) | 2026-06-13 |
+| 147 | 에코프로머티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%BD%94%ED%94%84%EB%A1%9C%EB%A8%B8%ED%8B%B0.html) | 2026-06-13 |
 
 ---
 
