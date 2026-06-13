@@ -186,6 +186,7 @@
 | 171 | KS인더스트리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KS%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC.html) | 2026-06-13 |
 | 172 | KTcs | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KTcs.html) | 2026-06-13 |
 | 173 | KTis | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KTis.html) | 2026-06-13 |
+| 174 | KT나스미디어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/KT%EB%82%98%EC%8A%A4%EB%AF%B8%EB%94%94%EC%96%B4.html) | 2026-06-13 |
 
 ---
 
