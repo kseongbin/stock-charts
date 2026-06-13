@@ -142,6 +142,7 @@
 | 127 | 에이티세미콘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%8B%B0%EC%84%B8%EB%AF%B8%EC%BD%98.html) | 2026-06-13 |
 | 128 | 에이팩트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%8C%A9%ED%8A%B8.html) | 2026-06-13 |
 | 129 | 에이팸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%8C%B8.html) | 2026-06-13 |
+| 130 | 에이프로 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%EC%9D%B4%ED%94%84%EB%A1%9C.html) | 2026-06-13 |
 
 ---
 
