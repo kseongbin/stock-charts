@@ -200,6 +200,7 @@
 | 185 | LG생활건강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LG%EC%83%9D%ED%99%9C%EA%B1%B4%EA%B0%95.html) | 2026-06-13 |
 | 186 | LG에너지솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LG%EC%97%90%EB%84%88%EC%A7%80%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-13 |
 | 187 | LG유플러스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LG%EC%9C%A0%ED%94%8C%EB%9F%AC%EC%8A%A4.html) | 2026-06-13 |
+| 188 | LG이노텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LG%EC%9D%B4%EB%85%B8%ED%85%8D.html) | 2026-06-13 |
 
 ---
 
