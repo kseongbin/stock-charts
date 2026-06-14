@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "엑셈",
-      "category": "일반",
-      "code": "205100"
-    },
-    {
       "name": "엑스큐어",
       "category": "일반",
       "code": "070300"
