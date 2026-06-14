@@ -206,6 +206,7 @@
 | 191 | LIG아큐버 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LIG%EC%95%84%ED%81%90%EB%B2%84.html) | 2026-06-13 |
 | 192 | LK삼양 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LK%EC%82%BC%EC%96%91.html) | 2026-06-14 |
 | 193 | LS네트웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4.html) | 2026-06-14 |
+| 194 | LS머트리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS%EB%A8%B8%ED%8A%B8%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-06-14 |
 
 ---
 
