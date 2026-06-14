@@ -173,6 +173,7 @@
 | 158 | 엑셀세라퓨틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%91%EC%85%80%EC%84%B8%EB%9D%BC%ED%93%A8%ED%8B%B1%EC%8A%A4.html) | 2026-06-14 |
 | 159 | 엑셈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%91%EC%85%88.html) | 2026-06-14 |
 | 160 | 엑스큐어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%91%EC%8A%A4%ED%81%90%EC%96%B4.html) | 2026-06-14 |
+| 161 | 엑스페릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%91%EC%8A%A4%ED%8E%98%EB%A6%AD%EC%8A%A4.html) | 2026-06-14 |
 
 ---
 
