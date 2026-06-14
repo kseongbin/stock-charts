@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-13",
+  "last_updated": "2026-06-14",
   "completed": {
     "세명전기": {
       "filename": "세명전기.html",
@@ -956,6 +956,11 @@
       "filename": "LIG아큐버.html",
       "category": "일반",
       "generated_at": "2026-06-13"
+    },
+    "LK삼양": {
+      "filename": "LK삼양.html",
+      "category": "일반",
+      "generated_at": "2026-06-14"
     }
   }
 }

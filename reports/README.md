@@ -204,6 +204,7 @@
 | 189 | LG헬로비전 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LG%ED%97%AC%EB%A1%9C%EB%B9%84%EC%A0%84.html) | 2026-06-13 |
 | 190 | LIG디펜스앤에어로스페이스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LIG%EB%94%94%ED%8E%9C%EC%8A%A4%EC%95%A4%EC%97%90%EC%96%B4%EB%A1%9C%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.html) | 2026-06-13 |
 | 191 | LIG아큐버 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LIG%EC%95%84%ED%81%90%EB%B2%84.html) | 2026-06-13 |
+| 192 | LK삼양 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LK%EC%82%BC%EC%96%91.html) | 2026-06-14 |
 
 ---
 
