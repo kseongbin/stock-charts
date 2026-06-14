@@ -209,6 +209,7 @@
 | 194 | LS머트리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS%EB%A8%B8%ED%8A%B8%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-06-14 |
 | 195 | LS에코에너지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS%EC%97%90%EC%BD%94%EC%97%90%EB%84%88%EC%A7%80.html) | 2026-06-14 |
 | 196 | LS증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS%EC%A6%9D%EA%B6%8C.html) | 2026-06-14 |
+| 197 | LX인터내셔널 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LX%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90.html) | 2026-06-14 |
 
 ---
 
