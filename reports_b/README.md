@@ -177,6 +177,7 @@
 | 162 | 엑스플러스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%91%EC%8A%A4%ED%94%8C%EB%9F%AC%EC%8A%A4.html) | 2026-06-14 |
 | 163 | 엑시온그룹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%91%EC%8B%9C%EC%98%A8%EA%B7%B8%EB%A3%B9.html) | 2026-06-14 |
 | 164 | 엑시콘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%91%EC%8B%9C%EC%BD%98.html) | 2026-06-14 |
+| 165 | 엔바이오니아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%94%EB%B0%94%EC%9D%B4%EC%98%A4%EB%8B%88%EC%95%84.html) | 2026-06-14 |
 
 ---
 
