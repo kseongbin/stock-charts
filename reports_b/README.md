@@ -167,6 +167,7 @@
 | 152 | 에프에스티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%ED%94%84%EC%97%90%EC%8A%A4%ED%8B%B0.html) | 2026-06-14 |
 | 153 | 에프엔씨엔터 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%ED%94%84%EC%97%94%EC%94%A8%EC%97%94%ED%84%B0.html) | 2026-06-14 |
 | 154 | 에프엔에스테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%ED%94%84%EC%97%94%EC%97%90%EC%8A%A4%ED%85%8C%ED%81%AC.html) | 2026-06-14 |
+| 155 | 에피소드컴퍼니 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C%EC%BB%B4%ED%8D%BC%EB%8B%88.html) | 2026-06-14 |
 
 ---
 
