@@ -170,6 +170,7 @@
 | 155 | 에피소드컴퍼니 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%90%ED%94%BC%EC%86%8C%EB%93%9C%EC%BB%B4%ED%8D%BC%EB%8B%88.html) | 2026-06-14 |
 | 156 | 엑사이엔씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%91%EC%82%AC%EC%9D%B4%EC%97%94%EC%94%A8.html) | 2026-06-14 |
 | 157 | 엑세스바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%91%EC%84%B8%EC%8A%A4%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-14 |
+| 158 | 엑셀세라퓨틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%91%EC%85%80%EC%84%B8%EB%9D%BC%ED%93%A8%ED%8B%B1%EC%8A%A4.html) | 2026-06-14 |
 
 ---
 
