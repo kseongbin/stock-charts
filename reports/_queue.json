@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "LS증권",
-      "category": "일반",
-      "code": "078020"
-    },
-    {
       "name": "LX인터내셔널",
       "category": "일반",
       "code": "001120"
