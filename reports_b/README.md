@@ -248,6 +248,7 @@
 | 233 | 엔알비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%94%EC%95%8C%EB%B9%84.html) | 2026-06-14 |
 | 234 | 오공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EA%B3%B5.html) | 2026-06-14 |
 | 235 | 오디텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%94%94%ED%85%8D.html) | 2026-06-14 |
+| 236 | 오뚜기 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%9A%9C%EA%B8%B0.html) | 2026-06-14 |
 
 ---
 
