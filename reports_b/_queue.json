@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "오공",
-      "category": "일반",
-      "code": "045060"
-    },
-    {
       "name": "오디텍",
       "category": "일반",
       "code": "080520"
