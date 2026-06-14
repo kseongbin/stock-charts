@@ -211,6 +211,7 @@
 | 196 | LS증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LS%EC%A6%9D%EA%B6%8C.html) | 2026-06-14 |
 | 197 | LX인터내셔널 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LX%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90.html) | 2026-06-14 |
 | 198 | LX하우시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LX%ED%95%98%EC%9A%B0%EC%8B%9C%EC%8A%A4.html) | 2026-06-14 |
+| 199 | LX홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LX%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-14 |
 
 ---
 
