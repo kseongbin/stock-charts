@@ -249,6 +249,7 @@
 | 234 | 오공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EA%B3%B5.html) | 2026-06-14 |
 | 235 | 오디텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%94%94%ED%85%8D.html) | 2026-06-14 |
 | 236 | 오뚜기 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%9A%9C%EA%B8%B0.html) | 2026-06-14 |
+| 237 | 오로라 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A1%9C%EB%9D%BC.html) | 2026-06-14 |
 
 ---
 
