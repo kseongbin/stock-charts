@@ -213,6 +213,7 @@
 | 198 | LX하우시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LX%ED%95%98%EC%9A%B0%EC%8B%9C%EC%8A%A4.html) | 2026-06-14 |
 | 199 | LX홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/LX%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-14 |
 | 200 | M83 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/M83.html) | 2026-06-14 |
+| 201 | MH에탄올 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/MH%EC%97%90%ED%83%84%EC%98%AC.html) | 2026-06-14 |
 
 ---
 
