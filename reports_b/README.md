@@ -183,6 +183,7 @@
 | 168 | 엔비티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%94%EB%B9%84%ED%8B%B0.html) | 2026-06-14 |
 | 169 | 엔시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%94%EC%8B%9C%EC%8A%A4.html) | 2026-06-14 |
 | 170 | 엔시트론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%94%EC%8B%9C%ED%8A%B8%EB%A1%A0.html) | 2026-06-14 |
+| 171 | 엔알비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%94%EC%95%8C%EB%B9%84.html) | 2026-06-14 |
 
 ---
 
