@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "NEW",
-      "category": "일반",
-      "code": "160550"
-    },
-    {
       "name": "NE능률",
       "category": "일반",
       "code": "053290"

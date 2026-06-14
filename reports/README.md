@@ -215,6 +215,7 @@
 | 200 | M83 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/M83.html) | 2026-06-14 |
 | 201 | MH에탄올 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/MH%EC%97%90%ED%83%84%EC%98%AC.html) | 2026-06-14 |
 | 202 | NC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NC.html) | 2026-06-14 |
+| 203 | NEW | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NEW.html) | 2026-06-14 |
 
 ---
 
