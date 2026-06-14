@@ -7,21 +7,6 @@
   ],
   "queue": [
     {
-      "name": "예림당",
-      "category": "일반",
-      "code": "036000"
-    },
-    {
-      "name": "예선테크",
-      "category": "일반",
-      "code": "250930"
-    },
-    {
-      "name": "예스24",
-      "category": "일반",
-      "code": "053280"
-    },
-    {
       "name": "예스티",
       "category": "일반",
       "code": "122640"
