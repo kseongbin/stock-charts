@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "NHN KCP",
-      "category": "일반",
-      "code": "060250"
-    },
-    {
       "name": "NHN벅스",
       "category": "일반",
       "code": "104200"

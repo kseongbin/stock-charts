@@ -217,6 +217,7 @@
 | 202 | NC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NC.html) | 2026-06-14 |
 | 203 | NEW | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NEW.html) | 2026-06-14 |
 | 204 | NE능률 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NE%EB%8A%A5%EB%A5%A0.html) | 2026-06-14 |
+| 205 | NHN KCP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NHN%20KCP.html) | 2026-06-14 |
 
 ---
 
