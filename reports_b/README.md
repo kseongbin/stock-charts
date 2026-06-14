@@ -181,6 +181,7 @@
 | 166 | 엔브이에이치코리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%94%EB%B8%8C%EC%9D%B4%EC%97%90%EC%9D%B4%EC%B9%98%EC%BD%94%EB%A6%AC%EC%95%84.html) | 2026-06-14 |
 | 167 | 엔비알모션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%94%EB%B9%84%EC%95%8C%EB%AA%A8%EC%85%98.html) | 2026-06-14 |
 | 168 | 엔비티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%94%EB%B9%84%ED%8B%B0.html) | 2026-06-14 |
+| 169 | 엔시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%97%94%EC%8B%9C%EC%8A%A4.html) | 2026-06-14 |
 
 ---
 
