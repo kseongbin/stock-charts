@@ -239,6 +239,7 @@
 | 224 | S-Oil | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/S-Oil.html) | 2026-06-15 |
 | 225 | SAMG엔터 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SAMG%EC%97%94%ED%84%B0.html) | 2026-06-15 |
 | 226 | SBI인베스트먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SBI%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) | 2026-06-15 |
+| 227 | SBI핀테크솔루션즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SBI%ED%95%80%ED%85%8C%ED%81%AC%EC%86%94%EB%A3%A8%EC%85%98%EC%A6%88.html) | 2026-06-15 |
 
 ---
 
