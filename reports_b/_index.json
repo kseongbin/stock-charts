@@ -1216,6 +1216,11 @@
       "filename": "오리온.html",
       "category": "일반",
       "generated_at": "2026-06-15"
+    },
+    "오리온홀딩스": {
+      "filename": "오리온홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-06-15"
     }
   },
   "에코캡": {
@@ -1265,6 +1270,11 @@
   },
   "오리온": {
     "filename": "오리온.html",
+    "category": "일반",
+    "generated_at": "2026-06-15"
+  },
+  "오리온홀딩스": {
+    "filename": "오리온홀딩스.html",
     "category": "일반",
     "generated_at": "2026-06-15"
   }
