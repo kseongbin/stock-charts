@@ -235,6 +235,7 @@
 | 220 | PS일렉트로닉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/PS%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C%EB%8B%89%EC%8A%A4.html) | 2026-06-15 |
 | 221 | RF머트리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/RF%EB%A8%B8%ED%8A%B8%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-06-15 |
 | 222 | RF시스템즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/RF%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88.html) | 2026-06-15 |
+| 223 | S&K폴리텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/S%26K%ED%8F%B4%EB%A6%AC%ED%85%8D.html) | 2026-06-15 |
 
 ---
 
