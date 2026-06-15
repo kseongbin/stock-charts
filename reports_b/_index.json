@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-06-14",
+  "last_updated": "2026-06-15",
   "completed": {
     "우리넷": {
       "filename": "우리넷.html",
@@ -1191,6 +1191,11 @@
       "filename": "오로스테크놀로지.html",
       "category": "일반",
       "generated_at": "2026-06-14"
+    },
+    "오르비텍": {
+      "filename": "오르비텍.html",
+      "category": "일반",
+      "generated_at": "2026-06-15"
     }
   },
   "에코캡": {
