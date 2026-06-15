@@ -232,6 +232,7 @@
 | 217 | PKC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/PKC.html) | 2026-06-15 |
 | 218 | PN풍년 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/PN%ED%92%8D%EB%85%84.html) | 2026-06-15 |
 | 219 | POSCO홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/POSCO%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-15 |
+| 220 | PS일렉트로닉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/PS%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C%EB%8B%89%EC%8A%A4.html) | 2026-06-15 |
 
 ---
 
