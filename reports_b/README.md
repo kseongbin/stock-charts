@@ -253,6 +253,7 @@
 | 238 | 오로스테크놀로지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A1%9C%EC%8A%A4%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80.html) | 2026-06-14 |
 | 239 | 오르비텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A5%B4%EB%B9%84%ED%85%8D.html) | 2026-06-15 |
 | 240 | 오리엔탈정공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A6%AC%EC%97%94%ED%83%88%EC%A0%95%EA%B3%B5.html) | 2026-06-15 |
+| 241 | 오리엔트바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A6%AC%EC%97%94%ED%8A%B8%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-15 |
 
 ---
 
