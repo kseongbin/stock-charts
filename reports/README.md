@@ -228,6 +228,7 @@
 | 213 | NI스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NI%EC%8A%A4%ED%8B%B8.html) | 2026-06-15 |
 | 214 | NPX | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NPX.html) | 2026-06-15 |
 | 215 | OCI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/OCI.html) | 2026-06-15 |
+| 216 | OCI홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/OCI%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-15 |
 
 ---
 
