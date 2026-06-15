@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "NICE평가정보",
-      "category": "일반",
-      "code": "030190"
-    },
-    {
       "name": "NI스틸",
       "category": "일반",
       "code": "008260"

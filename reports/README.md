@@ -224,6 +224,7 @@
 | 209 | NH올원리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NH%EC%98%AC%EC%9B%90%EB%A6%AC%EC%B8%A0.html) | 2026-06-15 |
 | 210 | NH프라임리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NH%ED%94%84%EB%9D%BC%EC%9E%84%EB%A6%AC%EC%B8%A0.html) | 2026-06-15 |
 | 211 | NICE | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NICE.html) | 2026-06-15 |
+| 212 | NICE평가정보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NICE%ED%8F%89%EA%B0%80%EC%A0%95%EB%B3%B4.html) | 2026-06-15 |
 
 ---
 
