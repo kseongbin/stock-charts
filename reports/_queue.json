@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SBS",
-      "category": "일반",
-      "code": "034120"
-    },
-    {
       "name": "SBS미디어홀딩스",
       "category": "일반",
       "code": "101060"
