@@ -227,6 +227,7 @@
 | 212 | NICE평가정보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NICE%ED%8F%89%EA%B0%80%EC%A0%95%EB%B3%B4.html) | 2026-06-15 |
 | 213 | NI스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NI%EC%8A%A4%ED%8B%B8.html) | 2026-06-15 |
 | 214 | NPX | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/NPX.html) | 2026-06-15 |
+| 215 | OCI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/OCI.html) | 2026-06-15 |
 
 ---
 
