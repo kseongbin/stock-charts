@@ -243,6 +243,7 @@
 | 228 | SBS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SBS.html) | 2026-06-15 |
 | 229 | SBS미디어홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SBS%EB%AF%B8%EB%94%94%EC%96%B4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-15 |
 | 230 | SB성보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SB%EC%84%B1%EB%B3%B4.html) | 2026-06-15 |
+| 231 | SCL사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SCL%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-06-15 |
 
 ---
 

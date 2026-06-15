@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SCL사이언스",
-      "category": "일반",
-      "code": "246960"
-    },
-    {
       "name": "SDN",
       "category": "일반",
       "code": "099220"
