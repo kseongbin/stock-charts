@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SB성보",
-      "category": "일반",
-      "code": "003080"
-    },
-    {
       "name": "SCL사이언스",
       "category": "일반",
       "code": "246960"
