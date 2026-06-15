@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "NI스틸",
-      "category": "일반",
-      "code": "008260"
-    },
-    {
       "name": "NPX",
       "category": "일반",
       "code": "222160"
