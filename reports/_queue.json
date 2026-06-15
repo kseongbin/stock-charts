@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "NICE",
-      "category": "일반",
-      "code": "034310"
-    },
-    {
       "name": "NICE인프라",
       "category": "일반",
       "code": "063570"
