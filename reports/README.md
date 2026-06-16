@@ -260,6 +260,7 @@
 | 245 | SK | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK.html) | 2026-06-16 |
 | 246 | SKAI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SKAI.html) | 2026-06-16 |
 | 247 | SK가스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EA%B0%80%EC%8A%A4.html) | 2026-06-16 |
+| 248 | SK네트웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4.html) | 2026-06-16 |
 
 ---
 
