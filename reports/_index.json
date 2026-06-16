@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-15",
+  "last_updated": "2026-06-16",
   "completed": {
     "NICE인프라": {
       "filename": "NICE인프라.html",
@@ -1156,6 +1156,11 @@
       "filename": "SCL사이언스.html",
       "category": "일반",
       "generated_at": "2026-06-15"
+    },
+    "SDN": {
+      "filename": "SDN.html",
+      "category": "일반",
+      "generated_at": "2026-06-16"
     }
   }
 }
