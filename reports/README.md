@@ -273,6 +273,7 @@
 | 258 | SM C&C | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SM%20C%26C.html) | 2026-06-16 |
 | 259 | SM Life Design | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SM%20Life%20Design.html) | 2026-06-16 |
 | 260 | SNT다이내믹스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SNT%EB%8B%A4%EC%9D%B4%EB%82%B4%EB%AF%B9%EC%8A%A4.html) | 2026-06-16 |
+| 261 | SNT모티브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SNT%EB%AA%A8%ED%8B%B0%EB%B8%8C.html) | 2026-06-16 |
 
 ---
 
