@@ -279,6 +279,7 @@
 | 264 | SOOP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SOOP.html) | 2026-06-16 |
 | 265 | SP삼화 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SP%EC%82%BC%ED%99%94.html) | 2026-06-16 |
 | 266 | STX | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/STX.html) | 2026-06-16 |
+| 267 | STX그린로지스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/STX%EA%B7%B8%EB%A6%B0%EB%A1%9C%EC%A7%80%EC%8A%A4.html) | 2026-06-16 |
 
 ---
 
