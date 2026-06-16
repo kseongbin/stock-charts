@@ -258,6 +258,7 @@
 | 243 | SIMPAC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SIMPAC.html) | 2026-06-16 |
 | 244 | SJG세종 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SJG%EC%84%B8%EC%A2%85.html) | 2026-06-16 |
 | 245 | SK | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK.html) | 2026-06-16 |
+| 246 | SKAI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SKAI.html) | 2026-06-16 |
 
 ---
 
