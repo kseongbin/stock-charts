@@ -260,6 +260,7 @@
 | 245 | 오리콤 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A6%AC%EC%BD%A4.html) | 2026-06-16 |
 | 246 | 오상자이엘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EC%83%81%EC%9E%90%EC%9D%B4%EC%97%98.html) | 2026-06-16 |
 | 247 | 오상헬스케어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EC%83%81%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4.html) | 2026-06-16 |
+| 248 | 오성첨단소재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EC%84%B1%EC%B2%A8%EB%8B%A8%EC%86%8C%EC%9E%AC.html) | 2026-06-16 |
 
 ---
 
