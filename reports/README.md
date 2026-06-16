@@ -259,6 +259,7 @@
 | 244 | SJG세종 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SJG%EC%84%B8%EC%A2%85.html) | 2026-06-16 |
 | 245 | SK | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK.html) | 2026-06-16 |
 | 246 | SKAI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SKAI.html) | 2026-06-16 |
+| 247 | SK가스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EA%B0%80%EC%8A%A4.html) | 2026-06-16 |
 
 ---
 

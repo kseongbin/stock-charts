@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SK가스",
-      "category": "일반",
-      "code": "018670"
-    },
-    {
       "name": "SK네트웍스",
       "category": "일반",
       "code": "001740"
