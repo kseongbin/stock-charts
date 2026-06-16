@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SIMPAC",
-      "category": "일반",
-      "code": "009160"
-    },
-    {
       "name": "SJG세종",
       "category": "일반",
       "code": "033530"
