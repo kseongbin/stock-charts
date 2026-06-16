@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SP삼화",
-      "category": "일반",
-      "code": "000390"
-    },
-    {
       "name": "STX",
       "category": "일반",
       "code": "011810"
