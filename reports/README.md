@@ -265,6 +265,7 @@
 | 250 | SK디앤디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EB%94%94%EC%95%A4%EB%94%94.html) | 2026-06-16 |
 | 251 | SK리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EB%A6%AC%EC%B8%A0.html) | 2026-06-16 |
 | 252 | SK바이오사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EB%B0%94%EC%9D%B4%EC%98%A4%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-06-16 |
+| 253 | SK스퀘어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EC%8A%A4%ED%80%98%EC%96%B4.html) | 2026-06-16 |
 
 ---
 
