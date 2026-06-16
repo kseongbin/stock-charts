@@ -278,6 +278,7 @@
 | 263 | SNT홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SNT%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-16 |
 | 264 | SOOP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SOOP.html) | 2026-06-16 |
 | 265 | SP삼화 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SP%EC%82%BC%ED%99%94.html) | 2026-06-16 |
+| 266 | STX | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/STX.html) | 2026-06-16 |
 
 ---
 
