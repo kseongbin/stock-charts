@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-06-15",
+  "last_updated": "2026-06-16",
   "completed": {
     "우리넷": {
       "filename": "우리넷.html",
@@ -1206,6 +1206,11 @@
       "filename": "오리엔트바이오.html",
       "category": "일반",
       "generated_at": "2026-06-15"
+    },
+    "오리엔트정공": {
+      "filename": "오리엔트정공.html",
+      "category": "일반",
+      "generated_at": "2026-06-16"
     }
   },
   "에코캡": {
