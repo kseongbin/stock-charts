@@ -268,6 +268,7 @@
 | 253 | SK스퀘어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EC%8A%A4%ED%80%98%EC%96%B4.html) | 2026-06-16 |
 | 254 | SK아이이테크놀로지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EC%95%84%EC%9D%B4%EC%9D%B4%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80.html) | 2026-06-16 |
 | 255 | SK오션플랜트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EC%98%A4%EC%85%98%ED%94%8C%EB%9E%9C%ED%8A%B8.html) | 2026-06-16 |
+| 256 | SK이터닉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EC%9D%B4%ED%84%B0%EB%8B%89%EC%8A%A4.html) | 2026-06-16 |
 
 ---
 
