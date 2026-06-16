@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SGC에너지",
-      "category": "일반",
-      "code": "005090"
-    },
-    {
       "name": "SG글로벌",
       "category": "일반",
       "code": "001380"
@@ -5327,5 +5322,5 @@
       "code": "096610"
     }
   ],
-  "last_updated": "2026-06-13"
+  "last_updated": "2026-06-16"
 }
