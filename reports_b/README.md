@@ -266,6 +266,7 @@
 | 251 | 오스테오닉 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EC%8A%A4%ED%85%8C%EC%98%A4%EB%8B%89.html) | 2026-06-16 |
 | 252 | 오스템 | 자동차부품 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EC%8A%A4%ED%85%9C.html) | 2026-06-16 |
 | 253 | 오아 | 생활가전 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EC%95%84.html) | 2026-06-16 |
+| 254 | 오에스피 | 펫푸드 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EC%97%90%EC%8A%A4%ED%94%BC.html) | 2026-06-16 |
 
 ---
 
