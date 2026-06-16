@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SGC E&C",
-      "category": "일반",
-      "code": "016250"
-    },
-    {
       "name": "SGC에너지",
       "category": "일반",
       "code": "005090"

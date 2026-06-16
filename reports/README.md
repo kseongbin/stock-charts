@@ -249,6 +249,7 @@
 | 234 | SG | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SG.html) | 2026-06-16 |
 | 235 | SG&G | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SG%26G.html) | 2026-06-16 |
 | 236 | SGA솔루션즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SGA%EC%86%94%EB%A3%A8%EC%85%98%EC%A6%88.html) | 2026-06-16 |
+| 237 | SGC E&C | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SGC%20E%26C.html) | 2026-06-16 |
 
 ---
 
