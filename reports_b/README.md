@@ -274,6 +274,7 @@
 | 259 | 오픈놀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%ED%94%88%EB%86%80.html) | 2026-06-16 |
 | 260 | 온코닉테라퓨틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A8%EC%BD%94%EB%8B%89%ED%85%8C%EB%9D%BC%ED%93%A8%ED%8B%B1%EC%8A%A4.html) | 2026-06-16 |
 | 261 | 온코크로스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A8%EC%BD%94%ED%81%AC%EB%A1%9C%EC%8A%A4.html) | 2026-06-16 |
+| 262 | 온타이드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A8%ED%83%80%EC%9D%B4%EB%93%9C.html) | 2026-06-16 |
 
 ---
 
