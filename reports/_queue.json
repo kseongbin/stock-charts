@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SOOP",
-      "category": "일반",
-      "code": "067160"
-    },
-    {
       "name": "SP삼화",
       "category": "일반",
       "code": "000390"
@@ -5197,5 +5192,6 @@
       "code": "096610"
     }
   ],
-  "last_updated": "2026-06-16"
+  "last_updated": "2026-06-16",
+  "companies": []
 }
