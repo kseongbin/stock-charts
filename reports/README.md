@@ -256,6 +256,7 @@
 | 241 | SHD | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SHD.html) | 2026-06-16 |
 | 242 | SH에너지화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SH%EC%97%90%EB%84%88%EC%A7%80%ED%99%94%ED%95%99.html) | 2026-06-16 |
 | 243 | SIMPAC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SIMPAC.html) | 2026-06-16 |
+| 244 | SJG세종 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SJG%EC%84%B8%EC%A2%85.html) | 2026-06-16 |
 
 ---
 
