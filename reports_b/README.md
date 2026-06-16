@@ -256,6 +256,7 @@
 | 241 | 오리엔트바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A6%AC%EC%97%94%ED%8A%B8%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-15 |
 | 242 | 오리엔트정공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A6%AC%EC%97%94%ED%8A%B8%EC%A0%95%EA%B3%B5.html) | 2026-06-16 |
 | 243 | 오리온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A6%AC%EC%98%A8.html) | 2026-06-16 |
+| 244 | 오리온홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A6%AC%EC%98%A8%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-16 |
 
 ---
 
