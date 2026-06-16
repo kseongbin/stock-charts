@@ -262,6 +262,7 @@
 | 247 | SK가스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EA%B0%80%EC%8A%A4.html) | 2026-06-16 |
 | 248 | SK네트웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4.html) | 2026-06-16 |
 | 249 | SK디스커버리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EB%94%94%EC%8A%A4%EC%BB%A4%EB%B2%84%EB%A6%AC.html) | 2026-06-16 |
+| 250 | SK디앤디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SK%EB%94%94%EC%95%A4%EB%94%94.html) | 2026-06-16 |
 
 ---
 
