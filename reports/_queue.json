@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SFA반도체",
-      "category": "일반",
-      "code": "036540"
-    },
-    {
       "name": "SG",
       "category": "일반",
       "code": "255220"
