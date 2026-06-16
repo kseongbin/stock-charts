@@ -247,6 +247,7 @@
 | 232 | SDN | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SDN.html) | 2026-06-16 |
 | 233 | SFA반도체 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SFA%EB%B0%98%EB%8F%84%EC%B2%B4.html) | 2026-06-16 |
 | 234 | SG | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SG.html) | 2026-06-16 |
+| 235 | SG&G | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SG%26G.html) | 2026-06-16 |
 
 ---
 
