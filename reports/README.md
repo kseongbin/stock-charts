@@ -254,6 +254,7 @@
 | 239 | SG글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SG%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-06-16 |
 | 240 | SG세계물산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SG%EC%84%B8%EA%B3%84%EB%AC%BC%EC%82%B0.html) | 2026-06-16 |
 | 241 | SHD | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SHD.html) | 2026-06-16 |
+| 242 | SH에너지화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SH%EC%97%90%EB%84%88%EC%A7%80%ED%99%94%ED%95%99.html) | 2026-06-16 |
 
 ---
 

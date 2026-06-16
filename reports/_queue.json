@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SH에너지화학",
-      "category": "일반",
-      "code": "002360"
-    },
-    {
       "name": "SIMPAC",
       "category": "일반",
       "code": "009160"
