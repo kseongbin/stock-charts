@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SK오션플랜트",
-      "category": "일반",
-      "code": "100090"
-    },
-    {
       "name": "SK이터닉스",
       "category": "일반",
       "code": "475150"
