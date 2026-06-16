@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "SG세계물산",
-      "category": "일반",
-      "code": "004060"
-    },
-    {
       "name": "SHD",
       "category": "일반",
       "code": "001770"

@@ -252,6 +252,7 @@
 | 237 | SGC E&C | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SGC%20E%26C.html) | 2026-06-16 |
 | 238 | SGC에너지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SGC%EC%97%90%EB%84%88%EC%A7%80.html) | 2026-06-16 |
 | 239 | SG글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SG%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-06-16 |
+| 240 | SG세계물산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SG%EC%84%B8%EA%B3%84%EB%AC%BC%EC%82%B0.html) | 2026-06-16 |
 
 ---
 
