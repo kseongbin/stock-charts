@@ -291,6 +291,7 @@
 | 276 | TJ미디어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TJ%EB%AF%B8%EB%94%94%EC%96%B4.html) | 2026-06-17 |
 | 277 | TP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TP.html) | 2026-06-17 |
 | 278 | TPC로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TPC%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-06-17 |
+| 279 | TS인베스트먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TS%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) | 2026-06-17 |
 
 ---
 
