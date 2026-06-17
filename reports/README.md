@@ -290,6 +290,7 @@
 | 275 | THE E&M | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/THE%20E%26M.html) | 2026-06-17 |
 | 276 | TJ미디어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TJ%EB%AF%B8%EB%94%94%EC%96%B4.html) | 2026-06-17 |
 | 277 | TP | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TP.html) | 2026-06-17 |
+| 278 | TPC로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TPC%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-06-17 |
 
 ---
 
