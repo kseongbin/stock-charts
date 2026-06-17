@@ -288,6 +288,7 @@
 | 273 | TCC스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TCC%EC%8A%A4%ED%8B%B8.html) | 2026-06-17 |
 | 274 | THE CUBE& | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/THE%20CUBE%26.html) | 2026-06-17 |
 | 275 | THE E&M | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/THE%20E%26M.html) | 2026-06-17 |
+| 276 | TJ미디어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TJ%EB%AF%B8%EB%94%94%EC%96%B4.html) | 2026-06-17 |
 
 ---
 
