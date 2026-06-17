@@ -282,6 +282,7 @@
 | 267 | STX그린로지스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/STX%EA%B7%B8%EB%A6%B0%EB%A1%9C%EC%A7%80%EC%8A%A4.html) | 2026-06-16 |
 | 268 | STX엔진 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/STX%EC%97%94%EC%A7%84.html) | 2026-06-16 |
 | 269 | SUN&L | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SUN%26L.html) | 2026-06-17 |
+| 270 | SV인베스트먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SV%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) | 2026-06-17 |
 
 ---
 
