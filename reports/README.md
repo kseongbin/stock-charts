@@ -299,6 +299,7 @@
 | 284 | YG PLUS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/YG%20PLUS.html) | 2026-06-17 |
 | 285 | YTN | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/YTN.html) | 2026-06-17 |
 | 286 | YW | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/YW.html) | 2026-06-17 |
+| 287 | iMBC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/iMBC.html) | 2026-06-17 |
 
 ---
 

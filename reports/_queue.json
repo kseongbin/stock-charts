@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "iMBC",
-      "category": "일반",
-      "code": "052220"
-    },
-    {
       "name": "가온그룹",
       "category": "일반",
       "code": "078890"
