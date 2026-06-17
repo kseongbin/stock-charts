@@ -294,6 +294,7 @@
 | 279 | TS인베스트먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TS%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) | 2026-06-17 |
 | 280 | TS트릴리온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TS%ED%8A%B8%EB%A6%B4%EB%A6%AC%EC%98%A8.html) | 2026-06-17 |
 | 281 | TYM | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TYM.html) | 2026-06-17 |
+| 282 | WISCOM | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/WISCOM.html) | 2026-06-17 |
 
 ---
 

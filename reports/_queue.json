@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "WISCOM",
-      "category": "일반",
-      "code": "024070"
-    },
-    {
       "name": "YBM넷",
       "category": "일반",
       "code": "057030"
