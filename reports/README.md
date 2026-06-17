@@ -301,6 +301,7 @@
 | 286 | YW | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/YW.html) | 2026-06-17 |
 | 287 | iMBC | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/iMBC.html) | 2026-06-17 |
 | 288 | 가온그룹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%80%EC%98%A8%EA%B7%B8%EB%A3%B9.html) | 2026-06-17 |
+| 289 | 가온칩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%80%EC%98%A8%EC%B9%A9%EC%8A%A4.html) | 2026-06-17 |
 
 ---
 
