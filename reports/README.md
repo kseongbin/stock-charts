@@ -297,6 +297,7 @@
 | 282 | WISCOM | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/WISCOM.html) | 2026-06-17 |
 | 283 | YBM넷 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/YBM%EB%84%B7.html) | 2026-06-17 |
 | 284 | YG PLUS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/YG%20PLUS.html) | 2026-06-17 |
+| 285 | YTN | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/YTN.html) | 2026-06-17 |
 
 ---
 
