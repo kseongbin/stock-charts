@@ -285,6 +285,7 @@
 | 270 | SV인베스트먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SV%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8%EB%A8%BC%ED%8A%B8.html) | 2026-06-17 |
 | 271 | SYTS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SYTS.html) | 2026-06-17 |
 | 272 | SY동아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/SY%EB%8F%99%EC%95%84.html) | 2026-06-17 |
+| 273 | TCC스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/TCC%EC%8A%A4%ED%8B%B8.html) | 2026-06-17 |
 
 ---
 
