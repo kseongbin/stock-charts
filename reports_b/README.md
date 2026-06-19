@@ -289,6 +289,7 @@
 | 274 | 와이엠티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%EC%9D%B4%EC%97%A0%ED%8B%B0.html) | 2026-06-19 |
 | 275 | 와이제이링크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%EC%9D%B4%EC%A0%9C%EC%9D%B4%EB%A7%81%ED%81%AC.html) | 2026-06-19 |
 | 276 | 와이즈버즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%EC%9D%B4%EC%A6%88%EB%B2%84%EC%A6%88.html) | 2026-06-19 |
+| 277 | 와이지-원 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%EC%9D%B4%EC%A7%80-%EC%9B%90.html) | 2026-06-19 |
 
 ---
 
