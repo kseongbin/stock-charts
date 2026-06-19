@@ -306,6 +306,9 @@
 | 291 | 우리이앤엘하루틴 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EB%A6%AC%EC%9D%B4%EC%95%A4%EC%97%98%ED%95%98%EB%A3%A8%ED%8B%B4.html) | 2026-06-19 |
 | 292 | 우리종합금융 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EB%A6%AC%EC%A2%85%ED%95%A9%EA%B8%88%EC%9C%B5.html) | 2026-06-19 |
 | 293 | 우림피티에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EB%A6%BC%ED%94%BC%ED%8B%B0%EC%97%90%EC%8A%A4.html) | 2026-06-19 |
+| 294 | 우성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%84%B1.html) | 2026-06-19 |
+| 295 | 우신시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%8B%A0%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-06-19 |
+| 296 | 우성머티리얼스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%84%B1%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%8A%A4.html) | 2026-06-19 |
 
 ---
 
