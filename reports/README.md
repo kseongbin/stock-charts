@@ -310,6 +310,7 @@
 | 295 | 강원에너지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%95%EC%9B%90%EC%97%90%EB%84%88%EC%A7%80.html) | 2026-06-19 |
 | 296 | 갤럭시아머니트리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%A4%EB%9F%AD%EC%8B%9C%EC%95%84%EB%A8%B8%EB%8B%88%ED%8A%B8%EB%A6%AC.html) | 2026-06-19 |
 | 297 | 갤럭시아에스엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%A4%EB%9F%AD%EC%8B%9C%EC%95%84%EC%97%90%EC%8A%A4%EC%97%A0.html) | 2026-06-19 |
+| 298 | 경남기업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EB%82%A8%EA%B8%B0%EC%97%85.html) | 2026-06-19 |
 
 ---
 
