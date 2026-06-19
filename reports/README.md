@@ -306,6 +306,7 @@
 | 291 | 강남제비스코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%95%EB%82%A8%EC%A0%9C%EB%B9%84%EC%8A%A4%EC%BD%94.html) | 2026-06-17 |
 | 292 | 강동씨앤엘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%95%EB%8F%99%EC%94%A8%EC%95%A4%EC%97%98.html) | 2026-06-17 |
 | 293 | 강스템바이오텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%95%EC%8A%A4%ED%85%9C%EB%B0%94%EC%9D%B4%EC%98%A4%ED%85%8D.html) | 2026-06-18 |
+| 294 | 강원랜드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%95%EC%9B%90%EB%9E%9C%EB%93%9C.html) | 2026-06-19 |
 
 ---
 

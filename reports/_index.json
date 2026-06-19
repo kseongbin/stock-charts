@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-18",
+  "last_updated": "2026-06-19",
   "completed": {
     "강스템바이오텍": {
       "filename": "강스템바이오텍.html",
@@ -1466,6 +1466,11 @@
       "filename": "강동씨앤엘.html",
       "category": "일반",
       "generated_at": "2026-06-17"
+    },
+    "강원랜드": {
+      "filename": "강원랜드.html",
+      "category": "일반",
+      "generated_at": "2026-06-19"
     }
   }
 }
