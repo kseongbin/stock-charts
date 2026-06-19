@@ -311,6 +311,8 @@
 | 296 | 우성머티리얼스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%84%B1%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%8A%A4.html) | 2026-06-19 |
 | 297 | 우양 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%96%91.html) | 2026-06-19 |
 | 298 | 우양에이치씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%96%91%EC%97%90%EC%9D%B4%EC%B9%98%EC%94%A8.html) | 2026-06-19 |
+| 299 | 우원개발 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%9B%90%EA%B0%9C%EB%B0%9C.html) | 2026-06-19 |
+| 300 | 우전 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A0%84.html) | 2026-06-19 |
 
 ---
 
