@@ -330,6 +330,7 @@
 | 315 | 고려아연 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A0%EB%A0%A4%EC%95%84%EC%97%B0.html) | 2026-06-19 |
 | 316 | 고려제강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A0%EB%A0%A4%EC%A0%9C%EA%B0%95.html) | 2026-06-19 |
 | 317 | 고려제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A0%EB%A0%A4%EC%A0%9C%EC%95%BD.html) | 2026-06-19 |
+| 318 | 고바이오랩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A0%EB%B0%94%EC%9D%B4%EC%98%A4%EB%9E%A9.html) | 2026-06-19 |
 
 ---
 
