@@ -312,6 +312,7 @@
 | 297 | 갤럭시아에스엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%A4%EB%9F%AD%EC%8B%9C%EC%95%84%EC%97%90%EC%8A%A4%EC%97%A0.html) | 2026-06-19 |
 | 298 | 경남기업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EB%82%A8%EA%B8%B0%EC%97%85.html) | 2026-06-19 |
 | 299 | 경남스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EB%82%A8%EC%8A%A4%ED%8B%B8.html) | 2026-06-19 |
+| 300 | 경남제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EB%82%A8%EC%A0%9C%EC%95%BD.html) | 2026-06-19 |
 
 ---
 
