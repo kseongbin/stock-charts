@@ -284,6 +284,7 @@
 | 269 | 와이랩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%EC%9D%B4%EB%9E%A9.html) | 2026-06-19 |
 | 270 | 와이바이오로직스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%EC%9D%B4%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A1%9C%EC%A7%81%EC%8A%A4.html) | 2026-06-19 |
 | 271 | 와이솔 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%EC%9D%B4%EC%86%94.html) | 2026-06-19 |
+| 272 | 와이엠씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%EC%9D%B4%EC%97%A0%EC%94%A8.html) | 2026-06-19 |
 
 ---
 
