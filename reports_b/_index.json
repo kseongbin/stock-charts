@@ -1401,6 +1401,11 @@
       "filename": "우듬지팜.html",
       "category": "일반",
       "generated_at": "2026-06-19"
+    },
+    "우리금융캐피탈": {
+      "filename": "우리금융캐피탈.html",
+      "category": "일반",
+      "generated_at": "2026-06-19"
     }
   },
   "에코캡": {
@@ -1485,6 +1490,11 @@
   },
   "우듬지팜": {
     "filename": "우듬지팜.html",
+    "category": "일반",
+    "generated_at": "2026-06-19"
+  },
+  "우리금융캐피탈": {
+    "filename": "우리금융캐피탈.html",
     "category": "일반",
     "generated_at": "2026-06-19"
   }
