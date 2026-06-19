@@ -291,6 +291,7 @@
 | 276 | 와이즈버즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%EC%9D%B4%EC%A6%88%EB%B2%84%EC%A6%88.html) | 2026-06-19 |
 | 277 | 와이지-원 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%EC%9D%B4%EC%A7%80-%EC%9B%90.html) | 2026-06-19 |
 | 278 | 와이지엔터테인먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%EC%9D%B4%EC%A7%80%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8.html) | 2026-06-19 |
+| 279 | 와토스코리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%99%80%ED%86%A0%EC%8A%A4%EC%BD%94%EB%A6%AC%EC%95%84.html) | 2026-06-19 |
 
 ---
 
