@@ -340,6 +340,7 @@
 | 325 | 광동제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B4%91%EB%8F%99%EC%A0%9C%EC%95%BD.html) | 2026-06-19 |
 | 326 | 광동헬스바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B4%91%EB%8F%99%ED%97%AC%EC%8A%A4%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-19 |
 | 327 | 광림 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B4%91%EB%A6%BC.html) | 2026-06-19 |
+| 328 | 광명전기 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B4%91%EB%AA%85%EC%A0%84%EA%B8%B0.html) | 2026-06-19 |
 
 ---
 
