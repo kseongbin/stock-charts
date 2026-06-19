@@ -324,6 +324,7 @@
 | 309 | 경인전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EC%9D%B8%EC%A0%84%EC%9E%90.html) | 2026-06-19 |
 | 310 | 경창산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EC%B0%BD%EC%82%B0%EC%97%85.html) | 2026-06-19 |
 | 311 | 계룡건설산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%84%EB%A3%A1%EA%B1%B4%EC%84%A4%EC%82%B0%EC%97%85.html) | 2026-06-19 |
+| 312 | 계양전기 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%84%EC%96%91%EC%A0%84%EA%B8%B0.html) | 2026-06-19 |
 
 ---
 
