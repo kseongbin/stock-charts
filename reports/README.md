@@ -337,6 +337,7 @@
 | 322 | 골프존 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A8%ED%94%84%EC%A1%B4.html) | 2026-06-19 |
 | 323 | 골프존홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A8%ED%94%84%EC%A1%B4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-19 |
 | 324 | 공구우먼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%B5%EA%B5%AC%EC%9A%B0%EB%A8%BC.html) | 2026-06-19 |
+| 325 | 광동제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B4%91%EB%8F%99%EC%A0%9C%EC%95%BD.html) | 2026-06-19 |
 
 ---
 
