@@ -308,6 +308,7 @@
 | 293 | 강스템바이오텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%95%EC%8A%A4%ED%85%9C%EB%B0%94%EC%9D%B4%EC%98%A4%ED%85%8D.html) | 2026-06-18 |
 | 294 | 강원랜드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%95%EC%9B%90%EB%9E%9C%EB%93%9C.html) | 2026-06-19 |
 | 295 | 강원에너지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%95%EC%9B%90%EC%97%90%EB%84%88%EC%A7%80.html) | 2026-06-19 |
+| 296 | 갤럭시아머니트리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B0%A4%EB%9F%AD%EC%8B%9C%EC%95%84%EB%A8%B8%EB%8B%88%ED%8A%B8%EB%A6%AC.html) | 2026-06-19 |
 
 ---
 
