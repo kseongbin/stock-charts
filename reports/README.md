@@ -334,6 +334,7 @@
 | 319 | 고스트스튜디오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A0%EC%8A%A4%ED%8A%B8%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4.html) | 2026-06-19 |
 | 320 | 고영 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A0%EC%98%81.html) | 2026-06-19 |
 | 321 | 골드앤에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A8%EB%93%9C%EC%95%A4%EC%97%90%EC%8A%A4.html) | 2026-06-19 |
+| 322 | 골프존 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A8%ED%94%84%EC%A1%B4.html) | 2026-06-19 |
 
 ---
 
