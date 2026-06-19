@@ -344,6 +344,7 @@
 | 329 | 광무 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B4%91%EB%AC%B4.html) | 2026-06-19 |
 | 330 | 광전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B4%91%EC%A0%84%EC%9E%90.html) | 2026-06-19 |
 | 331 | 광주신세계 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B4%91%EC%A3%BC%EC%8B%A0%EC%84%B8%EA%B3%84.html) | 2026-06-19 |
+| 332 | 광진실업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B4%91%EC%A7%84%EC%8B%A4%EC%97%85.html) | 2026-06-19 |
 
 ---
 
