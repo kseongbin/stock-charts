@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "경인양행",
-      "category": "일반",
-      "code": "012610"
-    },
-    {
       "name": "경인전자",
       "category": "일반",
       "code": "009140"
@@ -4977,6 +4972,6 @@
       "code": "096610"
     }
   ],
-  "last_updated": "2026-06-16",
+  "last_updated": "2026-06-19",
   "companies": []
 }
