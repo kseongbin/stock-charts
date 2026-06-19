@@ -321,6 +321,7 @@
 | 306 | 경방 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EB%B0%A9.html) | 2026-06-19 |
 | 307 | 경보제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EB%B3%B4%EC%A0%9C%EC%95%BD.html) | 2026-06-19 |
 | 308 | 경인양행 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EC%9D%B8%EC%96%91%ED%96%89.html) | 2026-06-19 |
+| 309 | 경인전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EC%9D%B8%EC%A0%84%EC%9E%90.html) | 2026-06-19 |
 
 ---
 
