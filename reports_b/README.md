@@ -295,6 +295,7 @@
 | 280 | 우듬지팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EB%93%AC%EC%A7%80%ED%8C%9C.html) | 2026-06-19 |
 | 281 | 우리금융캐피탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EB%A6%AC%EA%B8%88%EC%9C%B5%EC%BA%90%ED%94%BC%ED%83%88.html) | 2026-06-19 |
 | 282 | 우리기술 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EB%A6%AC%EA%B8%B0%EC%88%A0.html) | 2026-06-19 |
+| 283 | 우리기술투자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EB%A6%AC%EA%B8%B0%EC%88%A0%ED%88%AC%EC%9E%90.html) | 2026-06-19 |
 
 ---
 
