@@ -300,6 +300,7 @@
 | 285 | 우리바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EB%A6%AC%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-19 |
 | 286 | 우리벤처파트너스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EB%A6%AC%EB%B2%A4%EC%B2%98%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8A%A4.html) | 2026-06-19 |
 | 287 | 우리산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EB%A6%AC%EC%82%B0%EC%97%85.html) | 2026-06-19 |
+| 288 | 우리산업홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EB%A6%AC%EC%82%B0%EC%97%85%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-19 |
 
 ---
 
