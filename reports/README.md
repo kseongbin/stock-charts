@@ -326,6 +326,7 @@
 | 311 | 계룡건설산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%84%EB%A3%A1%EA%B1%B4%EC%84%A4%EC%82%B0%EC%97%85.html) | 2026-06-19 |
 | 312 | 계양전기 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%84%EC%96%91%EC%A0%84%EA%B8%B0.html) | 2026-06-19 |
 | 313 | 고려산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A0%EB%A0%A4%EC%82%B0%EC%97%85.html) | 2026-06-19 |
+| 314 | 고려신용정보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B3%A0%EB%A0%A4%EC%8B%A0%EC%9A%A9%EC%A0%95%EB%B3%B4.html) | 2026-06-19 |
 
 ---
 
