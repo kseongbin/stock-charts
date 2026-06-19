@@ -317,6 +317,7 @@
 | 302 | 경동나비엔 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EB%8F%99%EB%82%98%EB%B9%84%EC%97%94.html) | 2026-06-19 |
 | 303 | 경동도시가스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EB%8F%99%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4.html) | 2026-06-19 |
 | 304 | 경동인베스트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EB%8F%99%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8A%B8.html) | 2026-06-19 |
+| 305 | 경동제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B2%BD%EB%8F%99%EC%A0%9C%EC%95%BD.html) | 2026-06-19 |
 
 ---
 
