@@ -399,6 +399,7 @@
 | 384 | 유진기업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EC%A7%84%EA%B8%B0%EC%97%85.html) | 2026-06-20 |
 | 385 | 유진증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EC%A7%84%EC%A6%9D%EA%B6%8C.html) | 2026-06-20 |
 | 386 | 유진테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EC%A7%84%ED%85%8C%ED%81%AC.html) | 2026-06-20 |
+| 387 | 유티아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%ED%8B%B0%EC%95%84%EC%9D%B4.html) | 2026-06-20 |
 
 ---
 
