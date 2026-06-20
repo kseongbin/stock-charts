@@ -1617,11 +1617,6 @@
       "category": "일반",
       "generated_at": "2026-06-20"
     },
-    "원텍": {
-      "filename": "원텍.html",
-      "category": "일반",
-      "generated_at": "2026-06-20"
-    },
     "원티드랩": {
       "filename": "원티드랩.html",
       "category": "일반",
@@ -1727,5 +1722,10 @@
     "filename": "우리기술.html",
     "category": "일반",
     "generated_at": "2026-06-19"
+  },
+  "원풍": {
+    "filename": "원풍.html",
+    "category": "일반",
+    "generated_at": "2026-06-20"
   }
 }
