@@ -409,6 +409,7 @@
 | 394 | 나인테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EC%9D%B8%ED%85%8C%ED%81%AC.html) | 2026-06-20 |
 | 395 | 남광토건 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%A8%EA%B4%91%ED%86%A0%EA%B1%B4.html) | 2026-06-20 |
 | 396 | 남선알미늄 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%A8%EC%84%A0%EC%95%8C%EB%AF%B8%EB%8A%84.html) | 2026-06-20 |
+| 397 | 남성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%A8%EC%84%B1.html) | 2026-06-20 |
 
 ---
 

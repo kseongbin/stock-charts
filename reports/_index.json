@@ -1981,6 +1981,11 @@
       "filename": "남선알미늄.html",
       "category": "일반",
       "generated_at": "2026-06-20"
+    },
+    "남성": {
+      "filename": "남성.html",
+      "category": "일반",
+      "generated_at": "2026-06-20"
     }
   }
 }
