@@ -402,6 +402,7 @@
 | 387 | 유티아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%ED%8B%B0%EC%95%84%EC%9D%B4.html) | 2026-06-20 |
 | 388 | 유틸렉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%ED%8B%B8%EB%A0%89%EC%8A%A4.html) | 2026-06-20 |
 | 389 | 유한양행 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%ED%95%9C%EC%96%91%ED%96%89.html) | 2026-06-20 |
+| 390 | 유한코스메틱 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%ED%95%9C%EC%BD%94%EC%8A%A4%EB%A9%94%ED%8B%B1.html) | 2026-06-20 |
 
 ---
 
