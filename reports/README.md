@@ -389,6 +389,7 @@
 | 374 | 나노 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%85%B8.html) | 2026-06-20 |
 | 375 | 깨끗한나라 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B9%A8%EB%81%97%ED%95%9C%EB%82%98%EB%9D%BC.html) | 2026-06-20 |
 | 376 | 꿈비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%BF%88%EB%B9%84.html) | 2026-06-20 |
+| 377 | 나노신소재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%85%B8%EC%8B%A0%EC%86%8C%EC%9E%AC.html) | 2026-06-20 |
 
 ---
 
