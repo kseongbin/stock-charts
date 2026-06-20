@@ -337,6 +337,7 @@
 | 322 | 원일티엔아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%90%EC%9D%BC%ED%8B%B0%EC%97%94%EC%95%84%EC%9D%B4.html) | 2026-06-20 |
 | 323 | 원텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%90%ED%85%8D.html) | 2026-06-20 |
 | 324 | 원티드랩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%9E%A9.html) | 2026-06-20 |
+| 325 | 원풍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%90%ED%92%8D.html) | 2026-06-20 |
 
 ---
 
