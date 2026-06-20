@@ -431,6 +431,7 @@
 | 416 | 넥센타이어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%84%BC%ED%83%80%EC%9D%B4%EC%96%B4.html) | 2026-06-20 |
 | 417 | 넥스쳐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%8A%A4%EC%B3%90.html) | 2026-06-20 |
 | 418 | 넥스턴앤롤코리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%8A%A4%ED%84%B4%EC%95%A4%EB%A1%A4%EC%BD%94%EB%A6%AC%EC%95%84.html) | 2026-06-20 |
+| 419 | 넥스트바이오메디컬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%8A%A4%ED%8A%B8%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A9%94%EB%94%94%EC%BB%AC.html) | 2026-06-20 |
 
 ---
 
