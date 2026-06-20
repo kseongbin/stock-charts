@@ -351,6 +351,7 @@
 | 336 | 국도화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EB%8F%84%ED%99%94%ED%95%99.html) | 2026-06-20 |
 | 337 | 국보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EB%B3%B4.html) | 2026-06-20 |
 | 338 | 국보디자인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EB%B3%B4%EB%94%94%EC%9E%90%EC%9D%B8.html) | 2026-06-20 |
+| 339 | 국순당 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EC%88%9C%EB%8B%B9.html) | 2026-06-20 |
 
 ---
 
