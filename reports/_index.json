@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-19",
+  "last_updated": "2026-06-20",
   "completed": {
     "강스템바이오텍": {
       "filename": "강스템바이오텍.html",
@@ -1661,6 +1661,11 @@
       "filename": "광진실업.html",
       "category": "일반",
       "generated_at": "2026-06-19"
+    },
+    "교보증권": {
+      "filename": "교보증권.html",
+      "category": "일반",
+      "generated_at": "2026-06-20"
     }
   }
 }

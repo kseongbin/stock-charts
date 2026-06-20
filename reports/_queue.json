@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "교보증권",
-      "category": "일반",
-      "code": "030610"
-    },
-    {
       "name": "교촌에프앤비",
       "category": "일반",
       "code": "339770"
@@ -4852,6 +4847,6 @@
       "code": "096610"
     }
   ],
-  "last_updated": "2026-06-19",
+  "last_updated": "2026-06-20",
   "companies": []
 }
