@@ -345,6 +345,7 @@
 | 330 | 웨이비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%A8%EC%9D%B4%EB%B9%84%EC%8A%A4.html) | 2026-06-20 |
 | 331 | 웰바이오텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%B0%EB%B0%94%EC%9D%B4%EC%98%A4%ED%85%8D.html) | 2026-06-20 |
 | 332 | 웰크론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%B0%ED%81%AC%EB%A1%A0.html) | 2026-06-20 |
+| 333 | 웰킵스하이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%B0%ED%82%B5%EC%8A%A4%ED%95%98%EC%9D%B4%ED%85%8D.html) | 2026-06-20 |
 
 ---
 
