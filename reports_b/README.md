@@ -353,6 +353,8 @@
 | 338 | 위노바 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%85%B8%EB%B0%94.html) | 2026-06-20 |
 | 339 | 위니아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%8B%88%EC%95%84.html) | 2026-06-20 |
 | 340 | 위닉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%8B%89%EC%8A%A4.html) | 2026-06-20 |
+| 341 | 위더스제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%8D%94%EC%8A%A4%EC%A0%9C%EC%95%BD.html) | 2026-06-20 |
+| 342 | 위드텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%93%9C%ED%85%8D.html) | 2026-06-20 |
 
 ---
 
