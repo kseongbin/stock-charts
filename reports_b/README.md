@@ -376,6 +376,8 @@
 | 361 | 유니셈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%8B%88%EC%85%88.html) | 2026-06-20 |
 | 362 | 유니슨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%8B%88%EC%8A%A8.html) | 2026-06-20 |
 | 363 | 유니온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%8B%88%EC%98%A8.html) | 2026-06-20 |
+| 364 | 유니온바이오메트릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%8B%88%EC%98%A8%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A9%94%ED%8A%B8%EB%A6%AD%EC%8A%A4.html) | 2026-06-20 |
+| 365 | 유니켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%8B%88%EC%BC%90.html) | 2026-06-20 |
 
 ---
 
