@@ -364,6 +364,9 @@
 | 349 | 위지트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EC%A7%80%ED%8A%B8.html) | 2026-06-20 |
 | 350 | 위츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EC%B8%A0.html) | 2026-06-20 |
 | 351 | 윈스테크넷 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%88%EC%8A%A4%ED%85%8C%ED%81%AC%EB%84%B7.html) | 2026-06-20 |
+| 352 | 윈팩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%88%ED%8C%A9.html) | 2026-06-20 |
+| 353 | 윈하이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%88%ED%95%98%EC%9D%B4%ED%85%8D.html) | 2026-06-20 |
+| 354 | 윌비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%8C%EB%B9%84%EC%8A%A4.html) | 2026-06-20 |
 
 ---
 
