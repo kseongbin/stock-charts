@@ -441,6 +441,7 @@
 | 426 | 넷마블 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%B7%EB%A7%88%EB%B8%94.html) | 2026-06-20 |
 | 427 | 노드메이슨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%93%9C%EB%A9%94%EC%9D%B4%EC%8A%A8.html) | 2026-06-20 |
 | 428 | 노랑풍선 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%9E%91%ED%92%8D%EC%84%A0.html) | 2026-06-20 |
+| 429 | 노루페인트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%A3%A8%ED%8E%98%EC%9D%B8%ED%8A%B8.html) | 2026-06-20 |
 
 ---
 
