@@ -2,6 +2,11 @@
   "description": "처리 완료된 기업 보고서 인덱스",
   "last_updated": "2026-06-20",
   "completed": {
+    "네오리진": {
+      "filename": "네오리진.html",
+      "category": "일반",
+      "generated_at": "2026-06-20"
+    },
     "강스템바이오텍": {
       "filename": "강스템바이오텍.html",
       "category": "일반",
