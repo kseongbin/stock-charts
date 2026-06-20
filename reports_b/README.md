@@ -317,6 +317,7 @@
 | 302 | 우주일렉트로 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A3%BC%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C.html) | 2026-06-20 |
 | 303 | 우진 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A7%84.html) | 2026-06-20 |
 | 304 | 우진비앤지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A7%84%EB%B9%84%EC%95%A4%EC%A7%80.html) | 2026-06-20 |
+| 305 | 우진아이엔에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A7%84%EC%95%84%EC%9D%B4%EC%97%94%EC%97%90%EC%8A%A4.html) | 2026-06-20 |
 
 ---
 
