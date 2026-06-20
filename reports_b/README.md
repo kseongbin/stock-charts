@@ -333,6 +333,7 @@
 | 318 | 웅진씽크빅 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%85%EC%A7%84%EC%94%BD%ED%81%AC%EB%B9%85.html) | 2026-06-20 |
 | 319 | 웅진에너지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%85%EC%A7%84%EC%97%90%EB%84%88%EC%A7%80.html) | 2026-06-20 |
 | 320 | 원익홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%90%EC%9D%B5%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-20 |
+| 321 | 원일특강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%90%EC%9D%BC%ED%8A%B9%EA%B0%95.html) | 2026-06-20 |
 
 ---
 
