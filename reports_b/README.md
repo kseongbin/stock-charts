@@ -314,6 +314,7 @@
 | 299 | 우원개발 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%9B%90%EA%B0%9C%EB%B0%9C.html) | 2026-06-19 |
 | 300 | 우전 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A0%84.html) | 2026-06-19 |
 | 301 | 우정바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A0%95%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-20 |
+| 302 | 우주일렉트로 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A3%BC%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C.html) | 2026-06-20 |
 
 ---
 
