@@ -1,0 +1,47 @@
+#!/bin/sh
+# 보고서 HTML 구조 검증 게이트.
+# reports_b/ 또는 reports/ 의 *.html 파일이 추가/수정된 커밋은
+# scripts/validate_report.py 를 통과해야만 진행된다.
+#
+# 설치: bash scripts/setup_hooks.sh
+# 우회(긴급용): git commit --no-verify  ← 사용자 명시적 허락이 있을 때만.
+
+set -e
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+# 스테이지된 파일 중 보고서 HTML만 추출
+STAGED_REPORTS="$(git diff --cached --name-only --diff-filter=ACM | grep -E '^reports(_b)?/[^/]+\.html$' || true)"
+
+if [ -z "$STAGED_REPORTS" ]; then
+    exit 0
+fi
+
+echo "[pre-commit] 보고서 HTML 검증 중..."
+echo "$STAGED_REPORTS" | tr ' ' '\n'
+echo "---"
+
+# 한 줄씩 검증
+FAILED=0
+while IFS= read -r f; do
+    [ -z "$f" ] && continue
+    if ! python3 scripts/validate_report.py "$f" >/dev/null 2>&1; then
+        echo "❌ FAIL: $f"
+        python3 scripts/validate_report.py "$f" 2>&1 | sed 's/^/   /'
+        FAILED=1
+    fi
+done <<EOF
+$STAGED_REPORTS
+EOF
+
+if [ "$FAILED" = "1" ]; then
+    echo ""
+    echo "❌ 보고서 구조 검증 실패. 커밋이 중단되었습니다."
+    echo "   풀 템플릿은 .claude/agents/company-analyst.md 참고."
+    echo "   문제가 있는 보고서는 company-analyst 에이전트로 재생성하세요."
+    exit 1
+fi
+
+echo "✓ 모든 보고서 통과"
+exit 0

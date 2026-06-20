@@ -75,6 +75,30 @@ https://raw.githubusercontent.com/kseongbin/stock-charts/main/images/available.t
 **[Tistory 태그]**
 {회사명}, {영문명}, {종목코드}, {상장시장}, {주력제품/서비스1}, {주력제품/서비스2}, {핵심기술1}, {핵심기술2}, {산업분류}, 주식, 기업분석, 재무제표, 주가차트
 
+**[STEP 9] Self-verify (생성 직후 본인이 직접 실행, 통과해야만 푸시)**
+
+파일 작성 직후 같은 회차에서 반드시 아래를 모두 수행한다. 어느 하나라도 실패하면 푸시 금지.
+
+1. **Validator 실행** :
+   ```
+   python3 scripts/validate_report.py reports_b/<파일명>.html
+   ```
+   결과가 `OK   reports_b/<파일명>.html` 이어야 한다.
+
+2. **본문 끝 툴호출 XML 누출 점검** (위 validator가 잡지만 자체 확인) :
+   ```
+   tail -3 reports_b/<파일명>.html
+   ```
+   다음이 절대 보이면 안 된다: `</content>`, `</invoke>`, `</function_calls>`, `<parameter>`, `antml:` 등.
+   2026-06-20 우림피티에스/우신시스템 사고 패턴.
+
+3. **실패 시 처리** :
+   - 같은 회차에서 원인 수정 후 재검증
+   - "사용자가 확인할 거니까 일단 푸시" 같은 우회 금지
+   - 수정 어려우면 푸시하지 않고 실패 보고만 ("FAIL: 회사명: 사유")
+
+4. **통과 후에만** 커밋·푸시 진행 (pre-commit 훅은 백스톱일 뿐, 에이전트 self-check가 1차 게이트).
+
 ---
 
 ## HTML 규칙 (반드시 준수)
