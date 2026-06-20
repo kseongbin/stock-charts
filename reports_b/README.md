@@ -351,6 +351,7 @@
 | 336 | 웹케시 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%B9%EC%BC%80%EC%8B%9C.html) | 2026-06-20 |
 | 337 | 위너스일렉 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%84%88%EC%8A%A4%EC%9D%BC%EB%A0%89.html) | 2026-06-20 |
 | 338 | 위노바 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%85%B8%EB%B0%94.html) | 2026-06-20 |
+| 339 | 위니아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%8B%88%EC%95%84.html) | 2026-06-20 |
 
 ---
 
