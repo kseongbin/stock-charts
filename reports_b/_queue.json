@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "원익IPS",
-      "category": "일반",
-      "code": "240810"
-    },
-    {
       "name": "원익QnC",
       "category": "일반",
       "code": "074600"
