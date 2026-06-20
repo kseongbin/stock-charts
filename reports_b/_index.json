@@ -2,6 +2,11 @@
   "description": "B 계정 처리 보고서 인덱스",
   "last_updated": "2026-06-20",
   "completed": {
+    "원텍": {
+      "filename": "원텍.html",
+      "category": "일반",
+      "generated_at": "2026-06-20"
+    },
     "원익피앤이": {
       "filename": "원익피앤이.html",
       "category": "일반",
