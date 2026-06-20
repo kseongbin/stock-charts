@@ -398,6 +398,7 @@
 | 383 | 나라스페이스테크놀로지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%9D%BC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80.html) | 2026-06-20 |
 | 384 | 나라셀라 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%9D%BC%EC%85%80%EB%9D%BC.html) | 2026-06-20 |
 | 385 | 나래나노텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%9E%98%EB%82%98%EB%85%B8%ED%85%8D.html) | 2026-06-20 |
+| 386 | 나무가 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%AC%B4%EA%B0%80.html) | 2026-06-20 |
 
 ---
 
