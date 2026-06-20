@@ -446,6 +446,7 @@
 | 431 | 노머스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%A8%B8%EC%8A%A4.html) | 2026-06-20 |
 | 432 | 노바렉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%B0%94%EB%A0%89%EC%8A%A4.html) | 2026-06-20 |
 | 433 | 노바텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%B0%94%ED%85%8D.html) | 2026-06-20 |
+| 434 | 노보믹스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%B3%B4%EB%AF%B9%EC%8A%A4.html) | 2026-06-20 |
 
 ---
 
