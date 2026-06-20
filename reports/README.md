@@ -423,6 +423,7 @@
 | 408 | 네오이뮨텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%EC%9D%B4%EB%AE%A8%ED%85%8D.html) | 2026-06-20 |
 | 409 | 네오크레마 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%ED%81%AC%EB%A0%88%EB%A7%88.html) | 2026-06-20 |
 | 410 | 네오티스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%ED%8B%B0%EC%8A%A4.html) | 2026-06-20 |
+| 411 | 네오팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%ED%8C%9C.html) | 2026-06-20 |
 
 ---
 
