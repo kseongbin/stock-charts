@@ -343,6 +343,7 @@
 | 328 | 웨이버스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%A8%EC%9D%B4%EB%B2%84%EC%8A%A4.html) | 2026-06-20 |
 | 329 | 웨이브일렉트로닉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%A8%EC%9D%B4%EB%B8%8C%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C%EB%8B%89%EC%8A%A4.html) | 2026-06-20 |
 | 330 | 웨이비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%A8%EC%9D%B4%EB%B9%84%EC%8A%A4.html) | 2026-06-20 |
+| 331 | 웰바이오텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%B0%EB%B0%94%EC%9D%B4%EC%98%A4%ED%85%8D.html) | 2026-06-20 |
 
 ---
 
