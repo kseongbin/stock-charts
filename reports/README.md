@@ -374,6 +374,8 @@
 | 359 | 금강철강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%EA%B0%95%EC%B2%A0%EA%B0%95.html) | 2026-06-20 |
 | 360 | 금빛 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%EB%B9%9B.html) | 2026-06-20 |
 | 361 | 금비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%EB%B9%84.html) | 2026-06-20 |
+| 362 | 금양 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%EC%96%91.html) | 2026-06-20 |
+| 363 | 금호건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%ED%98%B8%EA%B1%B4%EC%84%A4.html) | 2026-06-20 |
 
 ---
 
