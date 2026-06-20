@@ -379,6 +379,7 @@
 | 364 | 금양그린파워 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%EC%96%91%EA%B7%B8%EB%A6%B0%ED%8C%8C%EC%9B%8C.html) | 2026-06-20 |
 | 365 | 금호전기 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%ED%98%B8%EC%A0%84%EA%B8%B0.html) | 2026-06-20 |
 | 366 | 금호석유화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%ED%98%B8%EC%84%9D%EC%9C%A0%ED%99%94%ED%95%99.html) | 2026-06-20 |
+| 367 | 금호에이치티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%ED%98%B8%EC%97%90%EC%9D%B4%EC%B9%98%ED%8B%B0.html) | 2026-06-20 |
 
 ---
 
