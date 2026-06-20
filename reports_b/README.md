@@ -361,6 +361,9 @@
 | 346 | 위세아이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EC%84%B8%EC%95%84%EC%9D%B4%ED%85%8D.html) | 2026-06-20 |
 | 347 | 위즈코프 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EC%A6%88%EC%BD%94%ED%94%84.html) | 2026-06-20 |
 | 348 | 위지윅스튜디오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EC%A7%80%EC%9C%85%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4.html) | 2026-06-20 |
+| 349 | 위지트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EC%A7%80%ED%8A%B8.html) | 2026-06-20 |
+| 350 | 위츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EC%B8%A0.html) | 2026-06-20 |
+| 351 | 윈스테크넷 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%88%EC%8A%A4%ED%85%8C%ED%81%AC%EB%84%B7.html) | 2026-06-20 |
 
 ---
 
