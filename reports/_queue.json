@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "그린광학",
-      "category": "일반",
-      "code": "0015G0"
-    },
-    {
       "name": "그린리소스",
       "category": "일반",
       "code": "402490"
