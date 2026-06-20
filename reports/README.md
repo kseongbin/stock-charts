@@ -386,6 +386,7 @@
 | 371 | 금화피에스시 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%ED%99%94%ED%94%BC%EC%97%90%EC%8A%A4%EC%8B%9C.html) | 2026-06-20 |
 | 372 | 기신정기 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%B0%EC%8B%A0%EC%A0%95%EA%B8%B0.html) | 2026-06-20 |
 | 373 | 까뮤이앤씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B9%8C%EB%AE%A4%EC%9D%B4%EC%95%A4%EC%94%A8.html) | 2026-06-20 |
+| 374 | 나노 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%85%B8.html) | 2026-06-20 |
 
 ---
 
