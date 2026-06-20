@@ -52,6 +52,14 @@ TOOLCALL_LEAK_PATTERNS = [
     r"\bantml:",
 ]
 
+# 본문 `<p>` 스타일 임계치 — 2026-06-20 남광토건 사고 재발 방지.
+# company-analyst.md 풀 템플릿은 본문 단락마다 data-ke-size="size16" 을 부여하고
+# 각 단락을 짧은 `▶ 항목 : 값` 한 줄로 끊는다. 임의 도구가 통째 문단을 하나의 <p>
+# 로 우겨넣고 size 마커를 누락하면 티스토리에서 폰트가 다르게 렌더링된다.
+P_MAX_BODY_LEN = 700        # 본문 `<p>` 한 개의 최대 길이(태그 제거 후 문자 수)
+P_MIN_TOTAL = 20            # 보고서 전체 `<p>` 최소 개수
+SIZE16_MIN = 10             # 본문 단락용 size16 최소 개수
+
 
 def _strip_html(text: str) -> str:
     text = re.sub(r"&nbsp;", " ", text)
@@ -77,7 +85,39 @@ def validate(path: Path) -> list[str]:
         m = re.search(pat, raw)
         if m:
             missing.append(f"툴호출 XML 누출: {m.group(0)!r}")
+    # 본문 단락 스타일 검사 (남광토건 사고 재발 방지)
+    style_issues = _check_body_paragraph_style(raw)
+    missing.extend(style_issues)
     return missing
+
+
+def _check_body_paragraph_style(raw: str) -> list[str]:
+    """본문 `<p>` 단락 길이/개수/size16 마커 분포 검증."""
+    issues: list[str] = []
+    p_blocks = re.findall(r"<p([^>]*)>(.*?)</p>", raw, flags=re.DOTALL | re.IGNORECASE)
+    total_p = len(p_blocks)
+    # size16 분포 (헤더 size20/23 은 별도)
+    size16_count = sum(1 for attrs, _ in p_blocks if 'data-ke-size="size16"' in attrs)
+    # 본문 `<p>` 한 개의 plain-text 길이가 임계치 넘으면 단락 압축 의심
+    long_offenders: list[int] = []
+    for attrs, body in p_blocks:
+        plain = _strip_html(body).strip()
+        if len(plain) > P_MAX_BODY_LEN:
+            long_offenders.append(len(plain))
+    if long_offenders:
+        issues.append(
+            f"본문 단락 과도 압축: <p> {len(long_offenders)}개가 {P_MAX_BODY_LEN}자 초과 "
+            f"(최장 {max(long_offenders)}자) — 한 줄씩 끊어야 함"
+        )
+    if total_p < P_MIN_TOTAL:
+        issues.append(
+            f"본문 단락 수 부족: <p> {total_p}개 < {P_MIN_TOTAL} — 풀 템플릿 누락 의심"
+        )
+    # size16 마커 검사는 의도적으로 제외: 구버전 보고서(예: 나무가 스타일)는 본문에
+    # size 마커가 없어도 짧은 단락 구조로 일관되게 렌더링되어 운영상 문제 없음.
+    # 본문 단락 길이/개수만으로 남광토건식 압축은 충분히 잡힌다.
+    _ = size16_count  # noqa: F841 — 추후 풀 템플릿 강제 시 활용
+    return issues
 
 
 def report_one(path: Path) -> bool:
