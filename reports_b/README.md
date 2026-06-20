@@ -381,6 +381,7 @@
 | 366 | 유니온머티리얼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%8B%88%EC%98%A8%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC.html) | 2026-06-20 |
 | 367 | 유니크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%8B%88%ED%81%AC.html) | 2026-06-20 |
 | 368 | 유니테스트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%8B%88%ED%85%8C%EC%8A%A4%ED%8A%B8.html) | 2026-06-20 |
+| 369 | 유니테크노 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%8B%88%ED%85%8C%ED%81%AC%EB%85%B8.html) | 2026-06-20 |
 
 ---
 
