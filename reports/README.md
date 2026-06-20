@@ -376,6 +376,7 @@
 | 361 | 금비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%EB%B9%84.html) | 2026-06-20 |
 | 362 | 금양 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%EC%96%91.html) | 2026-06-20 |
 | 363 | 금호건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%ED%98%B8%EA%B1%B4%EC%84%A4.html) | 2026-06-20 |
+| 364 | 금양그린파워 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%EC%96%91%EA%B7%B8%EB%A6%B0%ED%8C%8C%EC%9B%8C.html) | 2026-06-20 |
 
 ---
 
