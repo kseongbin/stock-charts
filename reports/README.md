@@ -436,6 +436,7 @@
 | 421 | 넥스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%8A%A4%ED%8B%B8.html) | 2026-06-20 |
 | 422 | 넥슨게임즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%8A%A8%EA%B2%8C%EC%9E%84%EC%A6%88.html) | 2026-06-20 |
 | 423 | 넥슨지티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%8A%A8%EC%A7%80%ED%8B%B0.html) | 2026-06-20 |
+| 424 | 넥써쓰 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%8D%A8%EC%93%B0.html) | 2026-06-20 |
 
 ---
 
