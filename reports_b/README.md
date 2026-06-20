@@ -339,6 +339,7 @@
 | 324 | 원티드랩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%9E%A9.html) | 2026-06-20 |
 | 325 | 원풍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%90%ED%92%8D.html) | 2026-06-20 |
 | 326 | 원풍물산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%90%ED%92%8D%EB%AC%BC%EC%82%B0.html) | 2026-06-20 |
+| 327 | 월덱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%94%EB%8D%B1%EC%8A%A4.html) | 2026-06-20 |
 
 ---
 
