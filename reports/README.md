@@ -429,6 +429,7 @@
 | 414 | 넥사다이내믹스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%82%AC%EB%8B%A4%EC%9D%B4%EB%82%B4%EB%AF%B9%EC%8A%A4.html) | 2026-06-20 |
 | 415 | 넥센 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%84%BC.html) | 2026-06-20 |
 | 416 | 넥센타이어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%84%BC%ED%83%80%EC%9D%B4%EC%96%B4.html) | 2026-06-20 |
+| 417 | 넥스쳐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%8A%A4%EC%B3%90.html) | 2026-06-20 |
 
 ---
 
