@@ -382,6 +382,7 @@
 | 367 | 금호에이치티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%ED%98%B8%EC%97%90%EC%9D%B4%EC%B9%98%ED%8B%B0.html) | 2026-06-20 |
 | 368 | 금호타이어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%ED%98%B8%ED%83%80%EC%9D%B4%EC%96%B4.html) | 2026-06-20 |
 | 369 | 기가비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%B0%EA%B0%80%EB%B9%84%EC%8A%A4.html) | 2026-06-20 |
+| 370 | 기산텔레콤 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%B0%EC%82%B0%ED%85%94%EB%A0%88%EC%BD%A4.html) | 2026-06-20 |
 
 ---
 
