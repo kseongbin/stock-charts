@@ -356,6 +356,8 @@
 | 341 | 위더스제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%8D%94%EC%8A%A4%EC%A0%9C%EC%95%BD.html) | 2026-06-20 |
 | 342 | 위드텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%93%9C%ED%85%8D.html) | 2026-06-20 |
 | 343 | 위메이드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%A9%94%EC%9D%B4%EB%93%9C.html) | 2026-06-20 |
+| 344 | 위메이드맥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%A9%94%EC%9D%B4%EB%93%9C%EB%A7%A5%EC%8A%A4.html) | 2026-06-20 |
+| 345 | 위메이드플레이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%84%EB%A9%94%EC%9D%B4%EB%93%9C%ED%94%8C%EB%A0%88%EC%9D%B4.html) | 2026-06-20 |
 
 ---
 
