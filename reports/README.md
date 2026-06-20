@@ -364,6 +364,7 @@
 | 349 | 그린광학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B7%B8%EB%A6%B0%EA%B4%91%ED%95%99.html) | 2026-06-20 |
 | 350 | 그린리소스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B7%B8%EB%A6%B0%EB%A6%AC%EC%86%8C%EC%8A%A4.html) | 2026-06-20 |
 | 351 | 그린생명과학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B7%B8%EB%A6%B0%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99.html) | 2026-06-20 |
+| 352 | 그린케미칼 | 화학 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B7%B8%EB%A6%B0%EC%BC%80%EB%AF%B8%EC%B9%BC.html) | 2026-06-20 |
 
 ---
 
