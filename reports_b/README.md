@@ -393,6 +393,7 @@
 | 378 | 유라클 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%9D%BC%ED%81%B4.html) | 2026-06-20 |
 | 379 | 유라테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%9D%BC%ED%85%8C%ED%81%AC.html) | 2026-06-20 |
 | 380 | 유신 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EC%8B%A0.html) | 2026-06-20 |
+| 381 | 유에스티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EC%97%90%EC%8A%A4%ED%8B%B0.html) | 2026-06-20 |
 
 ---
 
