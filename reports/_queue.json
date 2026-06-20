@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "국전",
-      "category": "일반",
-      "code": "307750"
-    },
-    {
       "name": "국제약품",
       "category": "일반",
       "code": "002720"
