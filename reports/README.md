@@ -356,6 +356,7 @@
 | 341 | 국일신동 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EC%9D%BC%EC%8B%A0%EB%8F%99.html) | 2026-06-20 |
 | 342 | 국일제지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EC%9D%BC%EC%A0%9C%EC%A7%80.html) | 2026-06-20 |
 | 343 | 국전 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EC%A0%84.html) | 2026-06-20 |
+| 344 | 국제약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EC%A0%9C%EC%95%BD%ED%92%88.html) | 2026-06-20 |
 
 ---
 
