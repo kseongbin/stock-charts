@@ -367,6 +367,9 @@
 | 352 | 윈팩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%88%ED%8C%A9.html) | 2026-06-20 |
 | 353 | 윈하이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%88%ED%95%98%EC%9D%B4%ED%85%8D.html) | 2026-06-20 |
 | 354 | 윌비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%8C%EB%B9%84%EC%8A%A4.html) | 2026-06-20 |
+| 355 | 윙스풋 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%99%EC%8A%A4%ED%92%8B.html) | 2026-06-20 |
+| 356 | 윙입푸드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%99%EC%9E%85%ED%91%B8%EB%93%9C.html) | 2026-06-20 |
+| 357 | 유나이티드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C.html) | 2026-06-20 |
 
 ---
 
