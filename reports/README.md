@@ -350,6 +350,7 @@
 | 335 | 구영테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AC%EC%98%81%ED%85%8C%ED%81%AC.html) | 2026-06-20 |
 | 336 | 국도화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EB%8F%84%ED%99%94%ED%95%99.html) | 2026-06-20 |
 | 337 | 국보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EB%B3%B4.html) | 2026-06-20 |
+| 338 | 국보디자인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EB%B3%B4%EB%94%94%EC%9E%90%EC%9D%B8.html) | 2026-06-20 |
 
 ---
 

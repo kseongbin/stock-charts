@@ -1686,6 +1686,11 @@
       "filename": "국보.html",
       "category": "일반",
       "generated_at": "2026-06-20"
+    },
+    "국보디자인": {
+      "filename": "국보디자인.html",
+      "category": "일반",
+      "generated_at": "2026-06-20"
     }
   }
 }
