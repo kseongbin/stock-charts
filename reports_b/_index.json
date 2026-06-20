@@ -1886,11 +1886,6 @@
       "filename": "유라테크.html",
       "category": "일반",
       "generated_at": "2026-06-20"
-    },
-    "유바이오로직스": {
-      "filename": "유바이오로직스.html",
-      "category": "일반",
-      "generated_at": "2026-06-20"
     }
   },
   "에코캡": {
@@ -1990,6 +1985,11 @@
   },
   "원풍": {
     "filename": "원풍.html",
+    "category": "일반",
+    "generated_at": "2026-06-20"
+  },
+  "유성티엔에스": {
+    "filename": "유성티엔에스.html",
     "category": "일반",
     "generated_at": "2026-06-20"
   }
