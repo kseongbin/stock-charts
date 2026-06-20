@@ -407,6 +407,7 @@
 | 392 | 나이벡 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EC%9D%B4%EB%B2%A1.html) | 2026-06-20 |
 | 393 | 나이스정보통신 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EC%9D%B4%EC%8A%A4%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0.html) | 2026-06-20 |
 | 394 | 나인테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EC%9D%B8%ED%85%8C%ED%81%AC.html) | 2026-06-20 |
+| 395 | 남광토건 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%A8%EA%B4%91%ED%86%A0%EA%B1%B4.html) | 2026-06-20 |
 
 ---
 
