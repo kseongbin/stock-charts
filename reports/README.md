@@ -418,6 +418,7 @@
 | 403 | 내츄럴엔도텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%B4%EC%B8%84%EB%9F%B4%EC%97%94%EB%8F%84%ED%85%8D.html) | 2026-06-20 |
 | 404 | 네오셈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%EC%85%88.html) | 2026-06-20 |
 | 405 | 네오오토 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%EC%98%A4%ED%86%A0.html) | 2026-06-20 |
+| 406 | 네오위즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%EC%9C%84%EC%A6%88.html) | 2026-06-20 |
 
 ---
 
