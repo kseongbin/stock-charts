@@ -419,6 +419,7 @@
 | 404 | 네오셈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%EC%85%88.html) | 2026-06-20 |
 | 405 | 네오오토 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%EC%98%A4%ED%86%A0.html) | 2026-06-20 |
 | 406 | 네오위즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%EC%9C%84%EC%A6%88.html) | 2026-06-20 |
+| 407 | 네오위즈홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%EC%9C%84%EC%A6%88%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-20 |
 
 ---
 
