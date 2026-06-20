@@ -319,6 +319,7 @@
 | 304 | 우진비앤지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A7%84%EB%B9%84%EC%95%A4%EC%A7%80.html) | 2026-06-20 |
 | 305 | 우진아이엔에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A7%84%EC%95%84%EC%9D%B4%EC%97%94%EC%97%90%EC%8A%A4.html) | 2026-06-20 |
 | 306 | 우진엔텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A7%84%EC%97%94%ED%85%8D.html) | 2026-06-20 |
+| 307 | 우진플라임 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A7%84%ED%94%8C%EB%9D%BC%EC%9E%84.html) | 2026-06-20 |
 
 ---
 
