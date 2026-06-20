@@ -415,6 +415,7 @@
 | 400 | 남화산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%A8%ED%99%94%EC%82%B0%EC%97%85.html) | 2026-06-20 |
 | 401 | 남화토건 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%A8%ED%99%94%ED%86%A0%EA%B1%B4.html) | 2026-06-20 |
 | 402 | 내츄럴엔도텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%B4%EC%B8%84%EB%9F%B4%EC%97%94%EB%8F%84%ED%85%8D.html) | 2026-06-20 |
+| 403 | 네오리진 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A4%EC%98%A4%EB%A6%AC%EC%A7%84.html) | 2026-06-20 |
 
 ---
 
