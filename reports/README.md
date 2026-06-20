@@ -371,6 +371,7 @@
 | 356 | 글로벌텍스프리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%80%EB%A1%9C%EB%B2%8C%ED%85%8D%EC%8A%A4%ED%94%84%EB%A6%AC.html) | 2026-06-20 |
 | 357 | 글로본 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%80%EB%A1%9C%EB%B3%B8.html) | 2026-06-20 |
 | 358 | 금강공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%EA%B0%95%EA%B3%B5%EC%97%85.html) | 2026-06-20 |
+| 359 | 금강철강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%EA%B0%95%EC%B2%A0%EA%B0%95.html) | 2026-06-20 |
 
 ---
 
