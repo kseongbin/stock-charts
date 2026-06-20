@@ -353,6 +353,7 @@
 | 338 | 국보디자인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EB%B3%B4%EB%94%94%EC%9E%90%EC%9D%B8.html) | 2026-06-20 |
 | 339 | 국순당 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EC%88%9C%EB%8B%B9.html) | 2026-06-20 |
 | 340 | 국영지앤엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EC%98%81%EC%A7%80%EC%95%A4%EC%97%A0.html) | 2026-06-20 |
+| 341 | 국일신동 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EC%9D%BC%EC%8B%A0%EB%8F%99.html) | 2026-06-20 |
 
 ---
 
