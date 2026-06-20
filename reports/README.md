@@ -438,6 +438,7 @@
 | 423 | 넥슨지티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%8A%A8%EC%A7%80%ED%8B%B0.html) | 2026-06-20 |
 | 424 | 넥써쓰 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%A5%EC%8D%A8%EC%93%B0.html) | 2026-06-20 |
 | 425 | 넵튠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%B5%ED%8A%A0.html) | 2026-06-20 |
+| 426 | 넷마블 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%84%B7%EB%A7%88%EB%B8%94.html) | 2026-06-20 |
 
 ---
 
