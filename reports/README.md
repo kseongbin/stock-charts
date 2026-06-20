@@ -357,6 +357,7 @@
 | 342 | 국일제지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EC%9D%BC%EC%A0%9C%EC%A7%80.html) | 2026-06-20 |
 | 343 | 국전 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EC%A0%84.html) | 2026-06-20 |
 | 344 | 국제약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AD%EC%A0%9C%EC%95%BD%ED%92%88.html) | 2026-06-20 |
+| 345 | 그래디언트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B7%B8%EB%9E%98%EB%94%94%EC%96%B8%ED%8A%B8.html) | 2026-06-20 |
 
 ---
 
