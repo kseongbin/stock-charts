@@ -362,6 +362,7 @@
 | 347 | 그리드위즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B7%B8%EB%A6%AC%EB%93%9C%EC%9C%84%EC%A6%88.html) | 2026-06-20 |
 | 348 | 그리티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B7%B8%EB%A6%AC%ED%8B%B0.html) | 2026-06-20 |
 | 349 | 그린광학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B7%B8%EB%A6%B0%EA%B4%91%ED%95%99.html) | 2026-06-20 |
+| 350 | 그린리소스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B7%B8%EB%A6%B0%EB%A6%AC%EC%86%8C%EC%8A%A4.html) | 2026-06-20 |
 
 ---
 
