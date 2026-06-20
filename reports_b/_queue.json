@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "웹젠",
-      "category": "일반",
-      "code": "069080"
-    },
-    {
       "name": "웹케시",
       "category": "일반",
       "code": "053580"
