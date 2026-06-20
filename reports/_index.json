@@ -1951,6 +1951,11 @@
       "filename": "나우IB.html",
       "category": "일반",
       "generated_at": "2026-06-20"
+    },
+    "나우코스": {
+      "filename": "나우코스.html",
+      "category": "일반",
+      "generated_at": "2026-06-20"
     }
   }
 }
