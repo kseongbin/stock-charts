@@ -321,6 +321,7 @@
 | 306 | 우진엔텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A7%84%EC%97%94%ED%85%8D.html) | 2026-06-20 |
 | 307 | 우진플라임 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9A%B0%EC%A7%84%ED%94%8C%EB%9D%BC%EC%9E%84.html) | 2026-06-20 |
 | 308 | 웅진 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%85%EC%A7%84.html) | 2026-06-20 |
+| 309 | 웅진씽크빅 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%85%EC%A7%84%EC%94%BD%ED%81%AC%EB%B9%85.html) | 2026-06-20 |
 
 ---
 
