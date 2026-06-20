@@ -393,6 +393,8 @@
 | 378 | 나노실리칸첨단소재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%85%B8%EC%8B%A4%EB%A6%AC%EC%B9%B8%EC%B2%A8%EB%8B%A8%EC%86%8C%EC%9E%AC.html) | 2026-06-20 |
 | 379 | 나노씨엠에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%85%B8%EC%94%A8%EC%97%A0%EC%97%90%EC%8A%A4.html) | 2026-06-20 |
 | 380 | 나노엔텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%85%B8%EC%97%94%ED%85%8D.html) | 2026-06-20 |
+| 381 | 나노캠텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%85%B8%EC%BA%A0%ED%85%8D.html) | 2026-06-20 |
+| 382 | 나노팀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EB%85%B8%ED%8C%80.html) | 2026-06-20 |
 
 ---
 
