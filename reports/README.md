@@ -368,6 +368,9 @@
 | 353 | 그린플러스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B7%B8%EB%A6%B0%ED%94%8C%EB%9F%AC%EC%8A%A4.html) | 2026-06-20 |
 | 354 | 극동유화 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B7%B9%EB%8F%99%EC%9C%A0%ED%99%94.html) | 2026-06-20 |
 | 355 | 글로벌에스엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%97%90%EC%8A%A4%EC%97%A0.html) | 2026-06-20 |
+| 356 | 글로벌텍스프리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%80%EB%A1%9C%EB%B2%8C%ED%85%8D%EC%8A%A4%ED%94%84%EB%A6%AC.html) | 2026-06-20 |
+| 357 | 글로본 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%80%EB%A1%9C%EB%B3%B8.html) | 2026-06-20 |
+| 358 | 금강공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B8%88%EA%B0%95%EA%B3%B5%EC%97%85.html) | 2026-06-20 |
 
 ---
 
