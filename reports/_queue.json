@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "국보",
-      "category": "일반",
-      "code": "001140"
-    },
-    {
       "name": "국보디자인",
       "category": "일반",
       "code": "066620"

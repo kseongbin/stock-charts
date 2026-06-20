@@ -1681,6 +1681,11 @@
       "filename": "국도화학.html",
       "category": "일반",
       "generated_at": "2026-06-20"
+    },
+    "국보": {
+      "filename": "국보.html",
+      "category": "일반",
+      "generated_at": "2026-06-20"
     }
   }
 }
