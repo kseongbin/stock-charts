@@ -412,6 +412,7 @@
 | 397 | 남성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%A8%EC%84%B1.html) | 2026-06-20 |
 | 398 | 남양유업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%A8%EC%96%91%EC%9C%A0%EC%97%85.html) | 2026-06-20 |
 | 399 | 남해화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%A8%ED%95%B4%ED%99%94%ED%95%99.html) | 2026-06-20 |
+| 400 | 남화산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%A8%ED%99%94%EC%82%B0%EC%97%85.html) | 2026-06-20 |
 
 ---
 
