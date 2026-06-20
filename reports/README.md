@@ -404,6 +404,7 @@
 | 389 | 나우로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EC%9A%B0%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-06-20 |
 | 390 | 나우IB | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EC%9A%B0IB.html) | 2026-06-20 |
 | 391 | 나우코스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EC%9A%B0%EC%BD%94%EC%8A%A4.html) | 2026-06-20 |
+| 392 | 나이벡 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%82%98%EC%9D%B4%EB%B2%A1.html) | 2026-06-20 |
 
 ---
 
