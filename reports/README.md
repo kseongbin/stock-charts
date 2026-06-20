@@ -444,6 +444,7 @@
 | 429 | 노루페인트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%A3%A8%ED%8E%98%EC%9D%B8%ED%8A%B8.html) | 2026-06-20 |
 | 430 | 노루홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%A3%A8%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-20 |
 | 431 | 노머스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%A8%B8%EC%8A%A4.html) | 2026-06-20 |
+| 432 | 노바렉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%B0%94%EB%A0%89%EC%8A%A4.html) | 2026-06-20 |
 
 ---
 
