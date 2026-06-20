@@ -341,6 +341,7 @@
 | 326 | 원풍물산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%90%ED%92%8D%EB%AC%BC%EC%82%B0.html) | 2026-06-20 |
 | 327 | 월덱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%94%EB%8D%B1%EC%8A%A4.html) | 2026-06-20 |
 | 328 | 웨이버스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%A8%EC%9D%B4%EB%B2%84%EC%8A%A4.html) | 2026-06-20 |
+| 329 | 웨이브일렉트로닉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9B%A8%EC%9D%B4%EB%B8%8C%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%9C%EB%8B%89%EC%8A%A4.html) | 2026-06-20 |
 
 ---
 
