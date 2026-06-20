@@ -2,6 +2,11 @@
   "description": "B 계정 처리 보고서 인덱스",
   "last_updated": "2026-06-20",
   "completed": {
+    "원익": {
+      "filename": "원익.html",
+      "category": "일반",
+      "generated_at": "2026-06-20"
+    },
     "원바이오젠": {
       "filename": "원바이오젠.html",
       "category": "일반",
