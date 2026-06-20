@@ -386,6 +386,7 @@
 | 371 | 유디엠텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%94%94%EC%97%A0%ED%85%8D.html) | 2026-06-20 |
 | 372 | 유라클 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%9D%BC%ED%81%B4.html) | 2026-06-20 |
 | 373 | 유라테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%9D%BC%ED%85%8C%ED%81%AC.html) | 2026-06-20 |
+| 374 | 유바이오로직스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A0%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A1%9C%EC%A7%81%EC%8A%A4.html) | 2026-06-20 |
 
 ---
 
