@@ -1761,6 +1761,21 @@
       "filename": "그린케미칼.html",
       "category": "화학",
       "generated_at": "2026-06-20"
+    },
+    "그린플러스": {
+      "filename": "그린플러스.html",
+      "category": "일반",
+      "generated_at": "2026-06-20"
+    },
+    "극동유화": {
+      "filename": "극동유화.html",
+      "category": "일반",
+      "generated_at": "2026-06-20"
+    },
+    "글로벌에스엠": {
+      "filename": "글로벌에스엠.html",
+      "category": "일반",
+      "generated_at": "2026-06-20"
     }
   }
 }
