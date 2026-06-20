@@ -347,6 +347,7 @@
 | 332 | 광진실업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B4%91%EC%A7%84%EC%8B%A4%EC%97%85.html) | 2026-06-19 |
 | 333 | 교보증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%90%EB%B3%B4%EC%A6%9D%EA%B6%8C.html) | 2026-06-20 |
 | 334 | 교촌에프앤비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%90%EC%B4%8C%EC%97%90%ED%94%84%EC%95%A4%EB%B9%84.html) | 2026-06-20 |
+| 335 | 구영테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EA%B5%AC%EC%98%81%ED%85%8C%ED%81%AC.html) | 2026-06-20 |
 
 ---
 
