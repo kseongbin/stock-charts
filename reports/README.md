@@ -470,6 +470,7 @@
 | 455 | 뉴키즈온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%89%B4%ED%82%A4%EC%A6%88%EC%98%A8.html) | 2026-06-21 |
 | 456 | 뉴트리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%89%B4%ED%8A%B8%EB%A6%AC.html) | 2026-06-21 |
 | 457 | 뉴파워프라즈마 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%89%B4%ED%8C%8C%EC%9B%8C%ED%94%84%EB%9D%BC%EC%A6%88%EB%A7%88.html) | 2026-06-21 |
+| 458 | 뉴프렉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%89%B4%ED%94%84%EB%A0%89%EC%8A%A4.html) | 2026-06-21 |
 
 ---
 
