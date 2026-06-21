@@ -484,6 +484,16 @@
 | 469 | 대영포장 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%98%81%ED%8F%AC%EC%9E%A5.html) | 2026-06-21 |
 | 470 | 대양금속 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%96%91%EA%B8%88%EC%86%8D.html) | 2026-06-21 |
 | 471 | 대우건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9A%B0%EA%B1%B4%EC%84%A4.html) | 2026-06-21 |
+| 472 | 대웅 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9B%85.html) | 2026-06-21 |
+| 473 | 대웅제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9B%85%EC%A0%9C%EC%95%BD.html) | 2026-06-21 |
+| 474 | 대원 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9B%90.html) | 2026-06-21 |
+| 475 | 대원강업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9B%90%EA%B0%95%EC%97%85.html) | 2026-06-21 |
+| 476 | 대원미디어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9B%90%EB%AF%B8%EB%94%94%EC%96%B4.html) | 2026-06-21 |
+| 477 | 대원산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9B%90%EC%82%B0%EC%97%85.html) | 2026-06-21 |
+| 478 | 대원제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9B%90%EC%A0%9C%EC%95%BD.html) | 2026-06-21 |
+| 479 | 대원화성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9B%90%ED%99%94%EC%84%B1.html) | 2026-06-21 |
+| 480 | 대유 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9C%A0.html) | 2026-06-21 |
+| 481 | 대정화금 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%A0%95%ED%99%94%EA%B8%88.html) | 2026-06-21 |
 
 ---
 

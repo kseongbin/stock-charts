@@ -7,56 +7,6 @@
   ],
   "queue": [
     {
-      "name": "대웅",
-      "category": "일반",
-      "code": "003090"
-    },
-    {
-      "name": "대웅제약",
-      "category": "일반",
-      "code": "069620"
-    },
-    {
-      "name": "대원",
-      "category": "일반",
-      "code": "007680"
-    },
-    {
-      "name": "대원강업",
-      "category": "일반",
-      "code": "000430"
-    },
-    {
-      "name": "대원미디어",
-      "category": "일반",
-      "code": "048910"
-    },
-    {
-      "name": "대원산업",
-      "category": "일반",
-      "code": "005710"
-    },
-    {
-      "name": "대원제약",
-      "category": "일반",
-      "code": "003220"
-    },
-    {
-      "name": "대원화성",
-      "category": "일반",
-      "code": "024890"
-    },
-    {
-      "name": "대유",
-      "category": "일반",
-      "code": "290380"
-    },
-    {
-      "name": "대정화금",
-      "category": "일반",
-      "code": "120240"
-    },
-    {
       "name": "대주산업",
       "category": "일반",
       "code": "003310"
