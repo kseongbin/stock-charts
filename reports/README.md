@@ -449,6 +449,7 @@
 | 434 | 노보믹스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%B3%B4%EB%AF%B9%EC%8A%A4.html) | 2026-06-20 |
 | 435 | 노브랜드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%B8%8C%EB%9E%9C%EB%93%9C.html) | 2026-06-20 |
 | 436 | 노블엠앤비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EB%B8%94%EC%97%A0%EC%95%A4%EB%B9%84.html) | 2026-06-20 |
+| 437 | 노을 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EC%9D%84.html) | 2026-06-21 |
 
 ---
 
