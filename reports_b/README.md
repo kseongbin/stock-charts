@@ -438,6 +438,7 @@
 | 423 | 이상네트웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EC%83%81%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4.html) | 2026-06-21 |
 | 424 | 이수앱지스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EC%88%98%EC%95%B1%EC%A7%80%EC%8A%A4.html) | 2026-06-21 |
 | 425 | 이수화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EC%88%98%ED%99%94%ED%95%99.html) | 2026-06-21 |
+| 426 | 이엔플러스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EC%97%94%ED%94%8C%EB%9F%AC%EC%8A%A4.html) | 2026-06-21 |
 
 ---
 
