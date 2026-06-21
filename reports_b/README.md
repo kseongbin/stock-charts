@@ -265,6 +265,7 @@
 | 250 | 오션인더블유 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EC%85%98%EC%9D%B8%EB%8D%94%EB%B8%94%EC%9C%A0.html) | 2026-06-21 |
 | 251 | 오스코텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EC%8A%A4%EC%BD%94%ED%85%8D.html) | 2026-06-21 |
 | 252 | 오스테오닉 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EC%8A%A4%ED%85%8C%EC%98%A4%EB%8B%89.html) | 2026-06-21 |
+| 253 | 오스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EC%8A%A4%ED%85%9C.html) | 2026-06-21 |
 
 ---
 
