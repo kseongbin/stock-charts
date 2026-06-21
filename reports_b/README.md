@@ -420,6 +420,7 @@
 | 405 | 이노테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%85%B8%ED%85%8C%ED%81%AC.html) | 2026-06-21 |
 | 406 | 이녹스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%85%B9%EC%8A%A4.html) | 2026-06-21 |
 | 407 | 이녹스첨단소재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%85%B9%EC%8A%A4%EC%B2%A8%EB%8B%A8%EC%86%8C%EC%9E%AC.html) | 2026-06-21 |
+| 408 | 이니텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%8B%88%ED%85%8D.html) | 2026-06-21 |
 
 ---
 
