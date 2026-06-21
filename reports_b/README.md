@@ -272,6 +272,7 @@
 | 257 | 오텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%ED%85%8D.html) | 2026-06-21 |
 | 258 | 오토앤 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%ED%86%A0%EC%95%A4.html) | 2026-06-21 |
 | 259 | 오파스넷 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%ED%8C%8C%EC%8A%A4%EB%84%B7.html) | 2026-06-21 |
+| 260 | 오픈놀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%ED%94%88%EB%86%80.html) | 2026-06-21 |
 
 ---
 
