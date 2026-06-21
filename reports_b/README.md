@@ -412,6 +412,7 @@
 | 397 | 이글벳 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EA%B8%80%EB%B2%B3.html) | 2026-06-21 |
 | 398 | 이노뎁 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%85%B8%EB%8E%81.html) | 2026-06-21 |
 | 399 | 이노메트리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%85%B8%EB%A9%94%ED%8A%B8%EB%A6%AC.html) | 2026-06-21 |
+| 400 | 이노션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%85%B8%EC%85%98.html) | 2026-06-21 |
 
 ---
 
