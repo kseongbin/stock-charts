@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "대구백화점",
-      "category": "일반",
-      "code": "006370"
-    },
-    {
       "name": "대덕",
       "category": "일반",
       "code": "008060"
