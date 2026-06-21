@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "오파스넷",
-      "category": "일반",
-      "code": "173130"
-    },
-    {
       "name": "오픈놀",
       "category": "일반",
       "code": "440320"
