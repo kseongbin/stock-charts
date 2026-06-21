@@ -277,6 +277,7 @@
 | 262 | 온코크로스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A8%EC%BD%94%ED%81%AC%EB%A1%9C%EC%8A%A4.html) | 2026-06-21 |
 | 263 | 온타이드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A8%ED%83%80%EC%9D%B4%EB%93%9C.html) | 2026-06-21 |
 | 264 | 올리패스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%AC%EB%A6%AC%ED%8C%A8%EC%8A%A4.html) | 2026-06-21 |
+| 265 | 올릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%AC%EB%A6%AD%EC%8A%A4.html) | 2026-06-21 |
 
 ---
 
