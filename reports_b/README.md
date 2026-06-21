@@ -434,6 +434,7 @@
 | 419 | 이미지스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%8A%A4.html) | 2026-06-21 |
 | 420 | 이브이첨단소재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%B8%8C%EC%9D%B4%EC%B2%A8%EB%8B%A8%EC%86%8C%EC%9E%AC.html) | 2026-06-21 |
 | 421 | 이삭엔지니어링 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EC%82%AD%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.html) | 2026-06-21 |
+| 422 | 이상네트웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EC%83%81%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4.html) | 2026-06-21 |
 
 ---
 
