@@ -494,6 +494,7 @@
 | 479 | 대원화성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9B%90%ED%99%94%EC%84%B1.html) | 2026-06-21 |
 | 480 | 대유 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%9C%A0.html) | 2026-06-21 |
 | 481 | 대정화금 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%A0%95%ED%99%94%EA%B8%88.html) | 2026-06-21 |
+| 482 | 대주산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%A3%BC%EC%82%B0%EC%97%85.html) | 2026-06-21 |
 
 ---
 
