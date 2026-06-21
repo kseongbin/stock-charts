@@ -409,6 +409,7 @@
 | 394 | 율촌화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A8%EC%B4%8C%ED%99%94%ED%95%99.html) | 2026-06-21 |
 | 395 | 이건산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EA%B1%B4%EC%82%B0%EC%97%85.html) | 2026-06-21 |
 | 396 | 이건홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EA%B1%B4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-21 |
+| 397 | 이글벳 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EA%B8%80%EB%B2%B3.html) | 2026-06-21 |
 
 ---
 
