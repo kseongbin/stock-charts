@@ -414,6 +414,7 @@
 | 399 | 이노메트리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%85%B8%EB%A9%94%ED%8A%B8%EB%A6%AC.html) | 2026-06-21 |
 | 400 | 이노션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%85%B8%EC%85%98.html) | 2026-06-21 |
 | 401 | 이노시뮬레이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%85%B8%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98.html) | 2026-06-21 |
+| 402 | 이노에이엑스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%85%B8%EC%97%90%EC%9D%B4%EC%97%91%EC%8A%A4.html) | 2026-06-21 |
 
 ---
 
