@@ -258,6 +258,7 @@
 | 243 | 오리온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A6%AC%EC%98%A8.html) | 2026-06-15 |
 | 244 | 오리온홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A6%AC%EC%98%A8%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-15 |
 | 245 | 오리콤 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%A4%EB%A6%AC%EC%BD%A4.html) | 2026-06-15 |
+| 246 | 이상네트웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EC%83%81%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4.html) | 2026-06-21 |
 
 ---
 
