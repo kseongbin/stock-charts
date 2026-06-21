@@ -480,6 +480,7 @@
 | 465 | 다올투자증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EC%98%AC%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.html) | 2026-06-21 |
 | 466 | 다원넥스뷰 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EC%9B%90%EB%84%A5%EC%8A%A4%EB%B7%B0.html) | 2026-06-21 |
 | 467 | 다원시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EC%9B%90%EC%8B%9C%EC%8A%A4.html) | 2026-06-21 |
+| 468 | 대아티아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%95%84%ED%8B%B0%EC%95%84%EC%9D%B4.html) | 2026-06-21 |
 
 ---
 
