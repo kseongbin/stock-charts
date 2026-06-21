@@ -476,6 +476,7 @@
 | 461 | 다산솔루에타 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EC%82%B0%EC%86%94%EB%A3%A8%EC%97%90%ED%83%80.html) | 2026-06-21 |
 | 462 | 다스코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EC%8A%A4%EC%BD%94.html) | 2026-06-21 |
 | 463 | 다올투자증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EC%98%AC%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.html) | 2026-06-21 |
+| 464 | 다원넥스뷰 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EC%9B%90%EB%84%A5%EC%8A%A4%EB%B7%B0.html) | 2026-06-21 |
 
 ---
 
