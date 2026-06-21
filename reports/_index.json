@@ -2,6 +2,11 @@
   "description": "처리 완료된 기업 보고서 인덱스",
   "last_updated": "2026-06-21",
   "completed": {
+    "더블유씨피": {
+      "filename": "더블유씨피.html",
+      "category": "일반",
+      "generated_at": "2026-06-21"
+    },
     "더블유게임즈": {
       "filename": "더블유게임즈.html",
       "category": "일반",
