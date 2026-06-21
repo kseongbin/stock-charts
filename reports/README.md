@@ -506,6 +506,7 @@
 | 491 | 대한약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%ED%95%9C%EC%95%BD%ED%92%88.html) | 2026-06-21 |
 | 492 | 대한과학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%ED%95%9C%EA%B3%BC%ED%95%99.html) | 2026-06-21 |
 | 493 | 대창솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%B0%BD%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-06-21 |
+| 494 | 대호특수강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%ED%98%B8%ED%8A%B9%EC%88%98%EA%B0%95.html) | 2026-06-21 |
 
 ---
 
