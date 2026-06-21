@@ -511,6 +511,7 @@
 | 496 | 대호특수강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%ED%98%B8%ED%8A%B9%EC%88%98%EA%B0%95.html) | 2026-06-21 |
 | 497 | 대화제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%ED%99%94%EC%A0%9C%EC%95%BD.html) | 2026-06-21 |
 | 498 | 더미동 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%94%EB%AF%B8%EB%8F%99.html) | 2026-06-21 |
+| 499 | 더블유에스아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%94%EB%B8%94%EC%9C%A0%EC%97%90%EC%8A%A4%EC%95%84%EC%9D%B4.html) | 2026-06-21 |
 
 ---
 
