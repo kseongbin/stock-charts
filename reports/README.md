@@ -452,6 +452,7 @@
 | 437 | 노을 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%EC%9D%84.html) | 2026-06-21 |
 | 438 | 노타 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B8%ED%83%80.html) | 2026-06-21 |
 | 439 | 녹십자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B9%EC%8B%AD%EC%9E%90.html) | 2026-06-21 |
+| 440 | 녹십자셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B9%EC%8B%AD%EC%9E%90%EC%85%80.html) | 2026-06-21 |
 
 ---
 
