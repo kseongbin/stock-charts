@@ -474,6 +474,7 @@
 | 459 | 다날 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EB%82%A0.html) | 2026-06-21 |
 | 460 | 다산디엠씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EC%82%B0%EB%94%94%EC%97%A0%EC%94%A8.html) | 2026-06-21 |
 | 461 | 다산솔루에타 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EC%82%B0%EC%86%94%EB%A3%A8%EC%97%90%ED%83%80.html) | 2026-06-21 |
+| 462 | 다스코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EC%8A%A4%EC%BD%94.html) | 2026-06-21 |
 
 ---
 
