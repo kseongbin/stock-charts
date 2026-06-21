@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "이트론",
-      "category": "일반",
-      "code": "096040"
-    },
-    {
       "name": "이퓨쳐",
       "category": "일반",
       "code": "134060"
