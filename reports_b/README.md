@@ -424,6 +424,7 @@
 | 409 | 이닉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%8B%89%EC%8A%A4.html) | 2026-06-21 |
 | 410 | 이랜시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%9E%9C%EC%8B%9C%EC%8A%A4.html) | 2026-06-21 |
 | 411 | 이렘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%A0%98.html) | 2026-06-21 |
+| 412 | 이루다 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%A3%A8%EB%8B%A4.html) | 2026-06-21 |
 
 ---
 
