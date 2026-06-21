@@ -497,6 +497,8 @@
 | 482 | 대주산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%A3%BC%EC%82%B0%EC%97%85.html) | 2026-06-21 |
 | 483 | 대창스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%B0%BD%EC%8A%A4%ED%8B%B8.html) | 2026-06-21 |
 | 484 | 대한유화 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%ED%95%9C%EC%9C%A0%ED%99%94.html) | 2026-06-21 |
+| 485 | 대주전자재료 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%A3%BC%EC%A0%84%EC%9E%90%EC%9E%AC%EB%A3%8C.html) | 2026-06-21 |
+| 486 | 대창단조 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%B0%BD%EB%8B%A8%EC%A1%B0.html) | 2026-06-21 |
 
 ---
 
