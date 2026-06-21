@@ -428,6 +428,7 @@
 | 413 | 이루온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%A3%A8%EC%98%A8.html) | 2026-06-21 |
 | 414 | 이리츠코크렙 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%A6%AC%EC%B8%A0%EC%BD%94%ED%81%AC%EB%A0%99.html) | 2026-06-21 |
 | 415 | 이마트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%A7%88%ED%8A%B8.html) | 2026-06-21 |
+| 416 | 이마트에브리데이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%A7%88%ED%8A%B8%EC%97%90%EB%B8%8C%EB%A6%AC%EB%8D%B0%EC%9D%B4.html) | 2026-06-21 |
 
 ---
 
