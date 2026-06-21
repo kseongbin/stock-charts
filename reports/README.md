@@ -454,6 +454,7 @@
 | 439 | 녹십자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B9%EC%8B%AD%EC%9E%90.html) | 2026-06-21 |
 | 440 | 녹십자셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B9%EC%8B%AD%EC%9E%90%EC%85%80.html) | 2026-06-21 |
 | 441 | 녹십자엠에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B9%EC%8B%AD%EC%9E%90%EC%97%A0%EC%97%90%EC%8A%A4.html) | 2026-06-21 |
+| 442 | 녹십자웰빙 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%85%B9%EC%8B%AD%EC%9E%90%EC%9B%B0%EB%B9%99.html) | 2026-06-21 |
 
 ---
 
