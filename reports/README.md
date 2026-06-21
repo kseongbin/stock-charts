@@ -462,6 +462,7 @@
 | 447 | 누리플랜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%88%84%EB%A6%AC%ED%94%8C%EB%9E%9C.html) | 2026-06-21 |
 | 448 | 누리플렉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%88%84%EB%A6%AC%ED%94%8C%EB%A0%89%EC%8A%A4.html) | 2026-06-21 |
 | 449 | 누보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%88%84%EB%B3%B4.html) | 2026-06-21 |
+| 450 | 뉴로메카 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%89%B4%EB%A1%9C%EB%A9%94%EC%B9%B4.html) | 2026-06-21 |
 
 ---
 
