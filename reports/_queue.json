@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "대상",
-      "category": "일반",
-      "code": "001680"
-    },
-    {
       "name": "대상홀딩스",
       "category": "일반",
       "code": "084690"
