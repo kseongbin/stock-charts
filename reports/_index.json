@@ -2,6 +2,11 @@
   "description": "처리 완료된 기업 보고서 인덱스",
   "last_updated": "2026-06-21",
   "completed": {
+    "대호에이엘": {
+      "filename": "대호에이엘.html",
+      "category": "일반",
+      "generated_at": "2026-06-21"
+    },
     "대한제강": {
       "filename": "대한제강.html",
       "category": "일반",
