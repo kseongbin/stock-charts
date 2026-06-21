@@ -410,6 +410,7 @@
 | 395 | 이건산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EA%B1%B4%EC%82%B0%EC%97%85.html) | 2026-06-21 |
 | 396 | 이건홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EA%B1%B4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-21 |
 | 397 | 이글벳 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EA%B8%80%EB%B2%B3.html) | 2026-06-21 |
+| 398 | 이노뎁 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%85%B8%EB%8E%81.html) | 2026-06-21 |
 
 ---
 
