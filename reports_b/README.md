@@ -406,6 +406,7 @@
 | 391 | 육일씨엔에쓰 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A1%EC%9D%BC%EC%94%A8%EC%97%94%EC%97%90%EC%93%B0.html) | 2026-06-20 |
 | 392 | 윤성에프앤씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A4%EC%84%B1%EC%97%90%ED%94%84%EC%95%A4%EC%94%A8.html) | 2026-06-20 |
 | 393 | 율촌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A8%EC%B4%8C.html) | 2026-06-21 |
+| 394 | 율촌화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9C%A8%EC%B4%8C%ED%99%94%ED%95%99.html) | 2026-06-21 |
 
 ---
 
