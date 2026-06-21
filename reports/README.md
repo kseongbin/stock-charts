@@ -466,6 +466,7 @@
 | 451 | 뉴로핏 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%89%B4%EB%A1%9C%ED%95%8F.html) | 2026-06-21 |
 | 452 | 뉴보텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%89%B4%EB%B3%B4%ED%85%8D.html) | 2026-06-21 |
 | 453 | 뉴엔AI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%89%B4%EC%97%94AI.html) | 2026-06-21 |
+| 454 | 뉴온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%89%B4%EC%98%A8.html) | 2026-06-21 |
 
 ---
 
