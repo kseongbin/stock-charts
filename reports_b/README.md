@@ -281,6 +281,7 @@
 | 266 | 옴니시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%B4%EB%8B%88%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-06-21 |
 | 267 | 옵투스제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%B5%ED%88%AC%EC%8A%A4%EC%A0%9C%EC%95%BD.html) | 2026-06-21 |
 | 268 | 옵트론텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%B5%ED%8A%B8%EB%A1%A0%ED%85%8D.html) | 2026-06-21 |
+| 269 | 옵티팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%98%B5%ED%8B%B0%ED%8C%9C.html) | 2026-06-21 |
 
 ---
 
