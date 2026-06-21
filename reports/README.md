@@ -500,6 +500,8 @@
 | 485 | 대주전자재료 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%A3%BC%EC%A0%84%EC%9E%90%EC%9E%AC%EB%A3%8C.html) | 2026-06-21 |
 | 486 | 대창단조 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%B0%BD%EB%8B%A8%EC%A1%B0.html) | 2026-06-21 |
 | 487 | 대한방직 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%ED%95%9C%EB%B0%A9%EC%A7%81.html) | 2026-06-21 |
+| 488 | 대한뉴팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%ED%95%9C%EB%89%B4%ED%8C%9C.html) | 2026-06-21 |
+| 489 | 대한약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%ED%95%9C%EC%95%BD%ED%92%88.html) | 2026-06-21 |
 
 ---
 
