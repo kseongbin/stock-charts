@@ -432,6 +432,7 @@
 | 417 | 이매진아시아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%A7%A4%EC%A7%84%EC%95%84%EC%8B%9C%EC%95%84.html) | 2026-06-21 |
 | 418 | 이뮨온시아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%AE%A8%EC%98%A8%EC%8B%9C%EC%95%84.html) | 2026-06-21 |
 | 419 | 이미지스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%8A%A4.html) | 2026-06-21 |
+| 420 | 이브이첨단소재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EB%B8%8C%EC%9D%B4%EC%B2%A8%EB%8B%A8%EC%86%8C%EC%9E%AC.html) | 2026-06-21 |
 
 ---
 
