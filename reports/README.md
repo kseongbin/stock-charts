@@ -482,6 +482,7 @@
 | 467 | 다원시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8B%A4%EC%9B%90%EC%8B%9C%EC%8A%A4.html) | 2026-06-21 |
 | 468 | 대아티아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%95%84%ED%8B%B0%EC%95%84%EC%9D%B4.html) | 2026-06-21 |
 | 469 | 대영포장 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%98%81%ED%8F%AC%EC%9E%A5.html) | 2026-06-21 |
+| 470 | 대양금속 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8C%80%EC%96%91%EA%B8%88%EC%86%8D.html) | 2026-06-21 |
 
 ---
 
