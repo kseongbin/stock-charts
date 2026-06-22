@@ -526,6 +526,7 @@
 | 511 | 데이원컴퍼니 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%B0%EC%9D%B4%EC%9B%90%EC%BB%B4%ED%8D%BC%EB%8B%88.html) | 2026-06-22 |
 | 512 | 데코앤에프 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%B0%EC%BD%94%EC%95%A4%EC%97%90%ED%94%84.html) | 2026-06-22 |
 | 513 | 덱스터 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%B1%EC%8A%A4%ED%84%B0.html) | 2026-06-22 |
+| 514 | 덴티스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%B4%ED%8B%B0%EC%8A%A4.html) | 2026-06-22 |
 
 ---
 
