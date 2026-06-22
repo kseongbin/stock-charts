@@ -605,6 +605,7 @@
 | 590 | 동운아나텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9A%B4%EC%95%84%EB%82%98%ED%85%8D.html) | 2026-06-22 |
 | 591 | 동원F&B | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9B%90F%26B.html) | 2026-06-22 |
 | 592 | 동원개발 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9B%90%EA%B0%9C%EB%B0%9C.html) | 2026-06-22 |
+| 593 | 동원금속 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9B%90%EA%B8%88%EC%86%8D.html) | 2026-06-22 |
 
 ---
 
