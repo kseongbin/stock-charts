@@ -595,6 +595,7 @@
 | 580 | 동아쏘시오홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%95%84%EC%8F%98%EC%8B%9C%EC%98%A4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-22 |
 | 581 | 동아엘텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%95%84%EC%97%98%ED%85%8D.html) | 2026-06-22 |
 | 582 | 동아지질 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%95%84%EC%A7%80%EC%A7%88.html) | 2026-06-22 |
+| 583 | 동아타이어공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%95%84%ED%83%80%EC%9D%B4%EC%96%B4%EA%B3%B5%EC%97%85.html) | 2026-06-22 |
 
 ---
 
