@@ -2659,9 +2659,8 @@
     },
     "동서": {
       "filename": "동서.html",
-      "code": "026960",
-      "market": "KOSPI",
-      "generated_at": "2026-06-22T00:00:00"
+      "category": "일반",
+      "generated_at": "2026-06-22"
     }
   },
   "네오셈": {
