@@ -601,6 +601,7 @@
 | 586 | 동양에스텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%96%91%EC%97%90%EC%8A%A4%ED%85%8D.html) | 2026-06-22 |
 | 587 | 동양이엔피 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%96%91%EC%9D%B4%EC%97%94%ED%94%BC.html) | 2026-06-22 |
 | 588 | 동양파일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%96%91%ED%8C%8C%EC%9D%BC.html) | 2026-06-22 |
+| 589 | 동우팜투테이블 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9A%B0%ED%8C%9C%ED%88%AC%ED%85%8C%EC%9D%B4%EB%B8%94.html) | 2026-06-22 |
 
 ---
 
