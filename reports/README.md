@@ -515,6 +515,7 @@
 | 500 | 더즌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%94%EC%A6%8C.html) | 2026-06-21 |
 | 501 | 더코디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%94%EC%BD%94%EB%94%94.html) | 2026-06-22 |
 | 502 | 더핑크퐁컴퍼니 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%94%ED%95%91%ED%81%AC%ED%90%81%EC%BB%B4%ED%8D%BC%EB%8B%88.html) | 2026-06-22 |
+| 503 | 덕산네오룩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%95%EC%82%B0%EB%84%A4%EC%98%A4%EB%A3%A9%EC%8A%A4.html) | 2026-06-22 |
 
 ---
 
