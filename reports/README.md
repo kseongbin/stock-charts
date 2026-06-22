@@ -543,6 +543,7 @@
 | 528 | 동방메디컬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EB%B0%A9%EB%A9%94%EB%94%94%EC%BB%AC.html) | 2026-06-22 |
 | 529 | 동방선기 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EB%B0%A9%EC%84%A0%EA%B8%B0.html) | 2026-06-22 |
 | 530 | 동방아그로 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EB%B0%A9%EC%95%84%EA%B7%B8%EB%A1%9C.html) | 2026-06-22 |
+| 531 | 동부건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EB%B6%80%EA%B1%B4%EC%84%A4.html) | 2026-06-22 |
 
 ---
 
