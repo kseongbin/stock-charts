@@ -522,6 +522,7 @@
 | 507 | 덕신이피씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%95%EC%8B%A0%EC%9D%B4%ED%94%BC%EC%94%A8.html) | 2026-06-22 |
 | 508 | 덕양에너젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%95%EC%96%91%EC%97%90%EB%84%88%EC%A0%A0.html) | 2026-06-22 |
 | 509 | 덕우전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%95%EC%9A%B0%EC%A0%84%EC%9E%90.html) | 2026-06-22 |
+| 510 | 데브시스터즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%B0%EB%B8%8C%EC%8B%9C%EC%8A%A4%ED%84%B0%EC%A6%88.html) | 2026-06-22 |
 
 ---
 
