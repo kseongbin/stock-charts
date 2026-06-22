@@ -592,6 +592,7 @@
 | 577 | 동성화인텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%84%B1%ED%99%94%EC%9D%B8%ED%85%8D.html) | 2026-06-22 |
 | 578 | 동성화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%84%B1%ED%99%94%ED%95%99.html) | 2026-06-22 |
 | 579 | 동신건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%8B%A0%EA%B1%B4%EC%84%A4.html) | 2026-06-22 |
+| 580 | 동아쏘시오홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%95%84%EC%8F%98%EC%8B%9C%EC%98%A4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-22 |
 
 ---
 
