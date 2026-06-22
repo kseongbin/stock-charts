@@ -532,6 +532,7 @@
 | 517 | 도이치모터스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%84%EC%9D%B4%EC%B9%98%EB%AA%A8%ED%84%B0%EC%8A%A4.html) | 2026-06-22 |
 | 518 | 도화엔지니어링 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%84%ED%99%94%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.html) | 2026-06-22 |
 | 519 | 동구바이오제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EA%B5%AC%EB%B0%94%EC%9D%B4%EC%98%A4%EC%A0%9C%EC%95%BD.html) | 2026-06-22 |
+| 520 | 동국S&C | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EA%B5%ADS%26C.html) | 2026-06-22 |
 
 ---
 

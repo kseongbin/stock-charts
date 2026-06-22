@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "동국S&C",
-      "category": "일반",
-      "code": "100130"
-    },
-    {
       "name": "동국산업",
       "category": "일반",
       "code": "005160"
