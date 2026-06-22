@@ -534,6 +534,7 @@
 | 519 | 동구바이오제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EA%B5%AC%EB%B0%94%EC%9D%B4%EC%98%A4%EC%A0%9C%EC%95%BD.html) | 2026-06-22 |
 | 520 | 동국S&C | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EA%B5%ADS%26C.html) | 2026-06-22 |
 | 521 | 동국산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EA%B5%AD%EC%82%B0%EC%97%85.html) | 2026-06-22 |
+| 522 | 동국씨엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EA%B5%AD%EC%94%A8%EC%97%A0.html) | 2026-06-22 |
 
 ---
 
