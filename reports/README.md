@@ -611,6 +611,7 @@
 | 596 | 동인기연 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%B8%EA%B8%B0%EC%97%B0.html) | 2026-06-22 |
 | 597 | 동일고무벨트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EA%B3%A0%EB%AC%B4%EB%B2%A8%ED%8A%B8.html) | 2026-06-22 |
 | 598 | 동일금속 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EA%B8%88%EC%86%8D.html) | 2026-06-22 |
+| 599 | 동일기연 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EA%B8%B0%EC%97%B0.html) | 2026-06-22 |
 
 ---
 
