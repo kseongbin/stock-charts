@@ -608,6 +608,7 @@
 | 593 | 동원금속 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9B%90%EA%B8%88%EC%86%8D.html) | 2026-06-22 |
 | 594 | 동원산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9B%90%EC%82%B0%EC%97%85.html) | 2026-06-22 |
 | 595 | 동원수산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9B%90%EC%88%98%EC%82%B0.html) | 2026-06-22 |
+| 596 | 동인기연 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%B8%EA%B8%B0%EC%97%B0.html) | 2026-06-22 |
 
 ---
 
