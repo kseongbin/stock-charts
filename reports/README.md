@@ -530,6 +530,7 @@
 | 515 | 덴티움 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%B4%ED%8B%B0%EC%9B%80.html) | 2026-06-22 |
 | 516 | 도우인시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%84%EC%9A%B0%EC%9D%B8%EC%8B%9C%EC%8A%A4.html) | 2026-06-22 |
 | 517 | 도이치모터스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%84%EC%9D%B4%EC%B9%98%EB%AA%A8%ED%84%B0%EC%8A%A4.html) | 2026-06-22 |
+| 518 | 도화엔지니어링 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%84%ED%99%94%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.html) | 2026-06-22 |
 
 ---
 
