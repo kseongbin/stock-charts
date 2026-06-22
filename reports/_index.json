@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-21",
+  "last_updated": "2026-06-22",
   "completed": {
     "더블유씨피": {
       "filename": "더블유씨피.html",
@@ -2494,6 +2494,11 @@
     },
     "더블유에스아이": {
       "filename": "더블유에스아이.html",
+      "category": "일반",
+      "generated_at": "2026-06-21"
+    },
+    "더즌": {
+      "filename": "더즌.html",
       "category": "일반",
       "generated_at": "2026-06-21"
     }
