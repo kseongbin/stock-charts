@@ -541,6 +541,7 @@
 | 526 | 동남합성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EB%82%A8%ED%95%A9%EC%84%B1.html) | 2026-06-22 |
 | 527 | 동방 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EB%B0%A9.html) | 2026-06-22 |
 | 528 | 동방메디컬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EB%B0%A9%EB%A9%94%EB%94%94%EC%BB%AC.html) | 2026-06-22 |
+| 529 | 동방선기 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EB%B0%A9%EC%84%A0%EA%B8%B0.html) | 2026-06-22 |
 
 ---
 
