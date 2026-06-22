@@ -517,6 +517,7 @@
 | 502 | 더핑크퐁컴퍼니 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%94%ED%95%91%ED%81%AC%ED%90%81%EC%BB%B4%ED%8D%BC%EB%8B%88.html) | 2026-06-22 |
 | 503 | 덕산네오룩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%95%EC%82%B0%EB%84%A4%EC%98%A4%EB%A3%A9%EC%8A%A4.html) | 2026-06-22 |
 | 504 | 덕산테코피아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%95%EC%82%B0%ED%85%8C%EC%BD%94%ED%94%BC%EC%95%84.html) | 2026-06-22 |
+| 505 | 덕산하이메탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8D%95%EC%82%B0%ED%95%98%EC%9D%B4%EB%A9%94%ED%83%88.html) | 2026-06-22 |
 
 ---
 
