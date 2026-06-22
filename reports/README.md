@@ -597,6 +597,7 @@
 | 582 | 동아지질 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%95%84%EC%A7%80%EC%A7%88.html) | 2026-06-22 |
 | 583 | 동아타이어공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%95%84%ED%83%80%EC%9D%B4%EC%96%B4%EA%B3%B5%EC%97%85.html) | 2026-06-22 |
 | 584 | 동양 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%96%91.html) | 2026-06-22 |
+| 585 | 동양고속 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%96%91%EA%B3%A0%EC%86%8D.html) | 2026-06-22 |
 
 ---
 
