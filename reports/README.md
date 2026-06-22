@@ -590,6 +590,7 @@
 | 575 | 동성제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%84%B1%EC%A0%9C%EC%95%BD.html) | 2026-06-22 |
 | 576 | 동성케미컬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%84%B1%EC%BC%80%EB%AF%B8%EC%BB%AC.html) | 2026-06-22 |
 | 577 | 동성화인텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%84%B1%ED%99%94%EC%9D%B8%ED%85%8D.html) | 2026-06-22 |
+| 578 | 동성화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%84%B1%ED%99%94%ED%95%99.html) | 2026-06-22 |
 
 ---
 
