@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "동양",
-      "category": "일반",
-      "code": "001520"
-    },
-    {
       "name": "동양고속",
       "category": "일반",
       "code": "084670"
