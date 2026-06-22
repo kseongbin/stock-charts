@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "동원F&B",
-      "category": "일반",
-      "code": "049770"
-    },
-    {
       "name": "동원개발",
       "category": "일반",
       "code": "013120"
