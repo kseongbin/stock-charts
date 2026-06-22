@@ -599,6 +599,7 @@
 | 584 | 동양 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%96%91.html) | 2026-06-22 |
 | 585 | 동양고속 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%96%91%EA%B3%A0%EC%86%8D.html) | 2026-06-22 |
 | 586 | 동양에스텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%96%91%EC%97%90%EC%8A%A4%ED%85%8D.html) | 2026-06-22 |
+| 587 | 동양이엔피 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%96%91%EC%9D%B4%EC%97%94%ED%94%BC.html) | 2026-06-22 |
 
 ---
 
