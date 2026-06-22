@@ -537,6 +537,7 @@
 | 522 | 동국씨엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EA%B5%AD%EC%94%A8%EC%97%A0.html) | 2026-06-22 |
 | 523 | 동국제강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EA%B5%AD%EC%A0%9C%EA%B0%95.html) | 2026-06-22 |
 | 524 | 동국제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EA%B5%AD%EC%A0%9C%EC%95%BD.html) | 2026-06-22 |
+| 525 | 동국홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EA%B5%AD%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-22 |
 
 ---
 
