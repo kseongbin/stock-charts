@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "동화약품",
-      "category": "일반",
-      "code": "000020"
-    },
-    {
       "name": "두산",
       "category": "일반",
       "code": "000150"
