@@ -2,6 +2,11 @@
   "description": "처리 완료된 기업 보고서 인덱스",
   "last_updated": "2026-06-23",
   "completed": {
+    "두산로보틱스": {
+      "filename": "두산로보틱스.html",
+      "category": "일반",
+      "generated_at": "2026-06-23"
+    },
     "더블유씨피": {
       "filename": "더블유씨피.html",
       "category": "일반",
