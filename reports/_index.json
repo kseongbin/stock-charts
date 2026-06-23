@@ -2,6 +2,11 @@
   "description": "처리 완료된 기업 보고서 인덱스",
   "last_updated": "2026-06-23",
   "completed": {
+    "디아이": {
+      "filename": "디아이.html",
+      "category": "일반",
+      "generated_at": "2026-06-23"
+    },
     "디씨엠": {
       "filename": "디씨엠.html",
       "category": "일반",
