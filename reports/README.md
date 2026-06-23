@@ -638,6 +638,7 @@
 | 623 | 드림씨아이에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%93%9C%EB%A6%BC%EC%94%A8%EC%95%84%EC%9D%B4%EC%97%90%EC%8A%A4.html) | 2026-06-23 |
 | 624 | 디아이동일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%95%84%EC%9D%B4%EB%8F%99%EC%9D%BC.html) | 2026-06-23 |
 | 625 | 디알젬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%95%8C%EC%A0%AC.html) | 2026-06-23 |
+| 626 | 디앤디파마텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%95%A4%EB%94%94%ED%8C%8C%EB%A7%88%ED%85%8D.html) | 2026-06-23 |
 
 ---
 
