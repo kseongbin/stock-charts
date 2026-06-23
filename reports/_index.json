@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-23",
   "completed": {
     "더블유씨피": {
       "filename": "더블유씨피.html",
@@ -3001,6 +3001,11 @@
       "filename": "동일산업.html",
       "category": "일반",
       "generated_at": "2026-06-22"
+    },
+    "동일스틸럭스": {
+      "filename": "동일스틸럭스.html",
+      "category": "일반",
+      "generated_at": "2026-06-23"
     }
   }
 }
