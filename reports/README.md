@@ -619,6 +619,7 @@
 | 604 | 동화기업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%ED%99%94%EA%B8%B0%EC%97%85.html) | 2026-06-23 |
 | 605 | 동화약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%ED%99%94%EC%95%BD%ED%92%88.html) | 2026-06-23 |
 | 606 | 두산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0.html) | 2026-06-23 |
+| 607 | 두산건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0%EA%B1%B4%EC%84%A4.html) | 2026-06-23 |
 
 ---
 
