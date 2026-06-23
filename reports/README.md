@@ -629,6 +629,7 @@
 | 614 | 두산테스나 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0%ED%85%8C%EC%8A%A4%EB%82%98.html) | 2026-06-23 |
 | 615 | 두올 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%98%AC.html) | 2026-06-23 |
 | 616 | 드림라인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%93%9C%EB%A6%BC%EB%9D%BC%EC%9D%B8.html) | 2026-06-23 |
+| 617 | 드림씨아이에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%93%9C%EB%A6%BC%EC%94%A8%EC%95%84%EC%9D%B4%EC%97%90%EC%8A%A4.html) | 2026-06-23 |
 
 ---
 
