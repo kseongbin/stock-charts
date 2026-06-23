@@ -613,14 +613,15 @@
 | 598 | 동일금속 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EA%B8%88%EC%86%8D.html) | 2026-06-22 |
 | 599 | 동일기연 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EA%B8%B0%EC%97%B0.html) | 2026-06-22 |
 | 600 | 동일산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EC%82%B0%EC%97%85.html) | 2026-06-22 |
-| 601 | 두산로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-06-23 |
-| 602 | 동일스틸럭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EC%8A%A4%ED%8B%B8%EB%9F%AD%EC%8A%A4.html) | 2026-06-23 |
-| 603 | 동일제강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EC%A0%9C%EA%B0%95.html) | 2026-06-23 |
-| 604 | 동진쎄미켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%A7%84%EC%8E%84%EB%AF%B8%EC%BC%90.html) | 2026-06-23 |
-| 605 | 동화기업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%ED%99%94%EA%B8%B0%EC%97%85.html) | 2026-06-23 |
-| 606 | 동화약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%ED%99%94%EC%95%BD%ED%92%88.html) | 2026-06-23 |
-| 607 | 두산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0.html) | 2026-06-23 |
-| 608 | 두산건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0%EA%B1%B4%EC%84%A4.html) | 2026-06-23 |
+| 601 | 두산밥캣 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0%EB%B0%A5%EC%BA%A3.html) | 2026-06-23 |
+| 602 | 두산로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-06-23 |
+| 603 | 동일스틸럭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EC%8A%A4%ED%8B%B8%EB%9F%AD%EC%8A%A4.html) | 2026-06-23 |
+| 604 | 동일제강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EC%A0%9C%EA%B0%95.html) | 2026-06-23 |
+| 605 | 동진쎄미켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%A7%84%EC%8E%84%EB%AF%B8%EC%BC%90.html) | 2026-06-23 |
+| 606 | 동화기업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%ED%99%94%EA%B8%B0%EC%97%85.html) | 2026-06-23 |
+| 607 | 동화약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%ED%99%94%EC%95%BD%ED%92%88.html) | 2026-06-23 |
+| 608 | 두산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0.html) | 2026-06-23 |
+| 609 | 두산건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0%EA%B1%B4%EC%84%A4.html) | 2026-06-23 |
 
 ---
 
