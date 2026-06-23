@@ -614,6 +614,7 @@
 | 599 | 동일기연 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EA%B8%B0%EC%97%B0.html) | 2026-06-22 |
 | 600 | 동일산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EC%82%B0%EC%97%85.html) | 2026-06-22 |
 | 601 | 동일스틸럭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EC%8A%A4%ED%8B%B8%EB%9F%AD%EC%8A%A4.html) | 2026-06-23 |
+| 602 | 동일제강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%8F%99%EC%9D%BC%EC%A0%9C%EA%B0%95.html) | 2026-06-23 |
 
 ---
 
