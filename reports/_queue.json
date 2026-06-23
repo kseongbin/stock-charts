@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "디모아",
-      "category": "일반",
-      "code": "016670"
-    },
-    {
       "name": "디바이스",
       "category": "일반",
       "code": "187870"

@@ -2,6 +2,11 @@
   "description": "처리 완료된 기업 보고서 인덱스",
   "last_updated": "2026-06-23",
   "completed": {
+    "디모아": {
+      "filename": "디모아.html",
+      "category": "일반",
+      "generated_at": "2026-06-23"
+    },
     "드림인사이트": {
       "filename": "드림인사이트.html",
       "category": "일반",
