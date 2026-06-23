@@ -628,6 +628,7 @@
 | 613 | 두산건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0%EA%B1%B4%EC%84%A4.html) | 2026-06-23 |
 | 614 | 두산테스나 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%82%B0%ED%85%8C%EC%8A%A4%EB%82%98.html) | 2026-06-23 |
 | 615 | 두올 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%91%90%EC%98%AC.html) | 2026-06-23 |
+| 616 | 드림라인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%93%9C%EB%A6%BC%EB%9D%BC%EC%9D%B8.html) | 2026-06-23 |
 
 ---
 
