@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "두산",
-      "category": "일반",
-      "code": "000150"
-    },
-    {
       "name": "두산건설",
       "category": "일반",
       "code": "011160"
