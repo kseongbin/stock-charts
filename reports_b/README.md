@@ -457,6 +457,7 @@
 | 442 | 인카금융서비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%B9%B4%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4.html) | 2026-06-26 |
 | 443 | 인콘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%BD%98.html) | 2026-06-26 |
 | 444 | 인크레더블버즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%81%AC%EB%A0%88%EB%8D%94%EB%B8%94%EB%B2%84%EC%A6%88.html) | 2026-06-26 |
+| 445 | 인크로스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%81%AC%EB%A1%9C%EC%8A%A4.html) | 2026-06-26 |
 
 ---
 
