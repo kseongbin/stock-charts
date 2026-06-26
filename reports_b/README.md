@@ -479,6 +479,7 @@
 | 464 | 일승 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%8A%B9.html) | 2026-06-26 |
 | 465 | 일신석재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%8B%A0%EC%84%9D%EC%9E%AC.html) | 2026-06-26 |
 | 466 | 일신방직 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%8B%A0%EB%B0%A9%EC%A7%81.html) | 2026-06-26 |
+| 467 | 일신바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%8B%A0%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-26 |
 
 ---
 
