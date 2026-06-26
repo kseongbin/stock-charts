@@ -454,6 +454,7 @@
 | 439 | 인지소프트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%A7%80%EC%86%8C%ED%94%84%ED%8A%B8.html) | 2026-06-26 |
 | 440 | 인지컨트롤스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%A7%80%EC%BB%A8%ED%8A%B8%EB%A1%A4%EC%8A%A4.html) | 2026-06-26 |
 | 441 | 인천도시가스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%B2%9C%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4.html) | 2026-06-26 |
+| 442 | 인카금융서비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%B9%B4%EA%B8%88%EC%9C%B5%EC%84%9C%EB%B9%84%EC%8A%A4.html) | 2026-06-26 |
 
 ---
 
