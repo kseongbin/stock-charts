@@ -462,6 +462,7 @@
 | 447 | 인터로이드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%84%B0%EB%A1%9C%EC%9D%B4%EB%93%9C.html) | 2026-06-26 |
 | 448 | 인터로조 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%84%B0%EB%A1%9C%EC%A1%B0.html) | 2026-06-26 |
 | 449 | 인터엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%84%B0%EC%97%A0.html) | 2026-06-26 |
+| 450 | 인터지스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%84%B0%EC%A7%80%EC%8A%A4.html) | 2026-06-26 |
 
 ---
 
