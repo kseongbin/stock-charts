@@ -449,6 +449,7 @@
 | 434 | 인성정보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%84%B1%EC%A0%95%EB%B3%B4.html) | 2026-06-26 |
 | 435 | 인스웨이브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%8A%A4%EC%9B%A8%EC%9D%B4%EB%B8%8C.html) | 2026-06-26 |
 | 436 | 인스코비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%8A%A4%EC%BD%94%EB%B9%84.html) | 2026-06-26 |
+| 437 | 인스피언 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%8A%A4%ED%94%BC%EC%96%B8.html) | 2026-06-26 |
 
 ---
 
