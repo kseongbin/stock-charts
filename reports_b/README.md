@@ -466,6 +466,7 @@
 | 451 | 인터플렉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%84%B0%ED%94%8C%EB%A0%89%EC%8A%A4.html) | 2026-06-26 |
 | 452 | 인투셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%88%AC%EC%85%80.html) | 2026-06-26 |
 | 453 | 인트로메딕 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%8A%B8%EB%A1%9C%EB%A9%94%EB%94%95.html) | 2026-06-26 |
+| 454 | 인트론바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%8A%B8%EB%A1%A0%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-26 |
 
 ---
 
