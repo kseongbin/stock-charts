@@ -442,6 +442,7 @@
 | 427 | 이엘케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EC%97%98%EC%BC%80%EC%9D%B4.html) | 2026-06-21 |
 | 428 | 인바이오젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EB%B0%94%EC%9D%B4%EC%98%A4%EC%A0%A0.html) | 2026-06-26 |
 | 429 | 인바이츠바이오코아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EB%B0%94%EC%9D%B4%EC%B8%A0%EB%B0%94%EC%9D%B4%EC%98%A4%EC%BD%94%EC%95%84.html) | 2026-06-26 |
+| 430 | 인베니아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EB%B2%A0%EB%8B%88%EC%95%84.html) | 2026-06-26 |
 
 ---
 
