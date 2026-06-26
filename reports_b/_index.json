@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-06-21",
+  "last_updated": "2026-06-26",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -2249,6 +2249,11 @@
     },
     "인터지스": {
       "filename": "인터지스.html",
+      "category": "일반",
+      "generated_at": "2026-06-26"
+    },
+    "인터플렉스": {
+      "filename": "인터플렉스.html",
       "category": "일반",
       "generated_at": "2026-06-26"
     }
