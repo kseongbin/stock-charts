@@ -440,6 +440,7 @@
 | 425 | 이수화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EC%88%98%ED%99%94%ED%95%99.html) | 2026-06-21 |
 | 426 | 이엔플러스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EC%97%94%ED%94%8C%EB%9F%AC%EC%8A%A4.html) | 2026-06-21 |
 | 427 | 이엘케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B4%EC%97%98%EC%BC%80%EC%9D%B4.html) | 2026-06-21 |
+| 428 | 인바이오젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EB%B0%94%EC%9D%B4%EC%98%A4%EC%A0%A0.html) | 2026-06-26 |
 
 ---
 
