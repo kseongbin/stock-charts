@@ -464,6 +464,7 @@
 | 449 | 인터엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%84%B0%EC%97%A0.html) | 2026-06-26 |
 | 450 | 인터지스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%84%B0%EC%A7%80%EC%8A%A4.html) | 2026-06-26 |
 | 451 | 인터플렉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%84%B0%ED%94%8C%EB%A0%89%EC%8A%A4.html) | 2026-06-26 |
+| 452 | 인투셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%88%AC%EC%85%80.html) | 2026-06-26 |
 
 ---
 
