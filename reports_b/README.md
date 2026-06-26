@@ -445,6 +445,7 @@
 | 430 | 인베니아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EB%B2%A0%EB%8B%88%EC%95%84.html) | 2026-06-26 |
 | 431 | 인벤티지랩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EB%B2%A4%ED%8B%B0%EC%A7%80%EB%9E%A9.html) | 2026-06-26 |
 | 432 | 인산가 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%82%B0%EA%B0%80.html) | 2026-06-26 |
+| 433 | 인선이엔티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%84%A0%EC%9D%B4%EC%97%94%ED%8B%B0.html) | 2026-06-26 |
 
 ---
 
