@@ -469,6 +469,7 @@
 | 454 | 인트론바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%8A%B8%EB%A1%A0%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-26 |
 | 455 | 인티큐브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%8B%B0%ED%81%90%EB%B8%8C.html) | 2026-06-26 |
 | 456 | 인팩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%8C%A9.html) | 2026-06-26 |
+| 457 | 인포바인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%8F%AC%EB%B0%94%EC%9D%B8.html) | 2026-06-26 |
 
 ---
 
