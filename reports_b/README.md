@@ -472,6 +472,7 @@
 | 457 | 인포바인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%8F%AC%EB%B0%94%EC%9D%B8.html) | 2026-06-26 |
 | 458 | 인피니트헬스케어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8A%B8%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4.html) | 2026-06-26 |
 | 459 | 인화정공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%99%94%EC%A0%95%EA%B3%B5.html) | 2026-06-26 |
+| 460 | 일동제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EB%8F%99%EC%A0%9C%EC%95%BD.html) | 2026-06-26 |
 
 ---
 
