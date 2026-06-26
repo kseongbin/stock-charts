@@ -482,6 +482,7 @@
 | 467 | 일신바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%8B%A0%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-26 |
 | 468 | 일양약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%96%91%EC%95%BD%ED%92%88.html) | 2026-06-26 |
 | 469 | 일월지엠엘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%9B%94%EC%A7%80%EC%97%A0%EC%97%98.html) | 2026-06-26 |
+| 470 | 일정실업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%A0%95%EC%8B%A4%EC%97%85.html) | 2026-06-26 |
 
 ---
 
