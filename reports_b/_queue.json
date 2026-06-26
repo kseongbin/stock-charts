@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "인터로조",
-      "category": "일반",
-      "code": "119610"
-    },
-    {
       "name": "인터엠",
       "category": "일반",
       "code": "017250"
