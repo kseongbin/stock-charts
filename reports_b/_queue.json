@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "인티큐브",
-      "category": "일반",
-      "code": "070590"
-    },
-    {
       "name": "인팩",
       "category": "일반",
       "code": "023810"
