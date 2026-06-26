@@ -485,6 +485,7 @@
 | 470 | 일정실업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%A0%95%EC%8B%A4%EC%97%85.html) | 2026-06-26 |
 | 471 | 일지테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%A7%80%ED%85%8C%ED%81%AC.html) | 2026-06-26 |
 | 472 | 일진다이아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%A7%84%EB%8B%A4%EC%9D%B4%EC%95%84.html) | 2026-06-26 |
+| 473 | 일진디스플 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%A7%84%EB%94%94%EC%8A%A4%ED%94%8C.html) | 2026-06-26 |
 
 ---
 
