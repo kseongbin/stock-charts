@@ -474,6 +474,7 @@
 | 459 | 인화정공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%99%94%EC%A0%95%EA%B3%B5.html) | 2026-06-26 |
 | 460 | 일동제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EB%8F%99%EC%A0%9C%EC%95%BD.html) | 2026-06-26 |
 | 461 | 일동홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EB%8F%99%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-26 |
+| 462 | 일성건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%84%B1%EA%B1%B4%EC%84%A4.html) | 2026-06-26 |
 
 ---
 
