@@ -458,6 +458,7 @@
 | 443 | 인콘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%EC%BD%98.html) | 2026-06-26 |
 | 444 | 인크레더블버즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%81%AC%EB%A0%88%EB%8D%94%EB%B8%94%EB%B2%84%EC%A6%88.html) | 2026-06-26 |
 | 445 | 인크로스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%81%AC%EB%A1%9C%EC%8A%A4.html) | 2026-06-26 |
+| 446 | 인탑스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%B8%ED%83%91%EC%8A%A4.html) | 2026-06-26 |
 
 ---
 
