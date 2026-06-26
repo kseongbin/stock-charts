@@ -475,6 +475,7 @@
 | 460 | 일동제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EB%8F%99%EC%A0%9C%EC%95%BD.html) | 2026-06-26 |
 | 461 | 일동홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EB%8F%99%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-26 |
 | 462 | 일성건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%84%B1%EA%B1%B4%EC%84%A4.html) | 2026-06-26 |
+| 463 | 일성아이에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%84%B1%EC%95%84%EC%9D%B4%EC%97%90%EC%8A%A4.html) | 2026-06-26 |
 
 ---
 
