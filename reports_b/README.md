@@ -513,6 +513,7 @@
 | 498 | 제넨바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%84%A8%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-27 |
 | 499 | 제노레이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%85%B8%EB%A0%88%EC%9D%B4.html) | 2026-06-27 |
 | 500 | 제놀루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%86%80%EB%A3%A8%EC%85%98.html) | 2026-06-27 |
+| 501 | 제닉 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%8B%89.html) | 2026-06-27 |
 
 ---
 
