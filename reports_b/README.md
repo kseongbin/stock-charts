@@ -529,6 +529,7 @@
 | 514 | 제이에스티나 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%97%90%EC%8A%A4%ED%8B%B0%EB%82%98.html) | 2026-06-27 |
 | 515 | 제이엔비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%97%94%EB%B9%84.html) | 2026-06-27 |
 | 516 | 제이엔케이글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%97%94%EC%BC%80%EC%9D%B4%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-06-27 |
+| 517 | 제이엘케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%97%98%EC%BC%80%EC%9D%B4.html) | 2026-06-27 |
 
 ---
 
