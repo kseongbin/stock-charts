@@ -488,6 +488,7 @@
 | 473 | 일진디스플 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%A7%84%EB%94%94%EC%8A%A4%ED%94%8C.html) | 2026-06-26 |
 | 474 | 일진파워 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%A7%84%ED%8C%8C%EC%9B%8C.html) | 2026-06-26 |
 | 475 | 일진하이솔루스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%A7%84%ED%95%98%EC%9D%B4%EC%86%94%EB%A3%A8%EC%8A%A4.html) | 2026-06-27 |
+| 476 | 일진홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%A7%84%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-27 |
 
 ---
 
