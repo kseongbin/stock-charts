@@ -490,6 +490,7 @@
 | 475 | 일진하이솔루스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%A7%84%ED%95%98%EC%9D%B4%EC%86%94%EB%A3%A8%EC%8A%A4.html) | 2026-06-27 |
 | 476 | 일진홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9D%BC%EC%A7%84%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-27 |
 | 477 | 잇츠한불 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%87%EC%B8%A0%ED%95%9C%EB%B6%88.html) | 2026-06-27 |
+| 478 | 잉글우드랩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%89%EA%B8%80%EC%9A%B0%EB%93%9C%EB%9E%A9.html) | 2026-06-27 |
 
 ---
 
