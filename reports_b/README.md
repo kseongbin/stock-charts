@@ -524,6 +524,7 @@
 | 509 | 제이씨현시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%94%A8%ED%98%84%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-06-27 |
 | 510 | 제이아이테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%95%84%EC%9D%B4%ED%85%8C%ED%81%AC.html) | 2026-06-27 |
 | 511 | 제이알글로벌리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%95%8C%EA%B8%80%EB%A1%9C%EB%B2%8C%EB%A6%AC%EC%B8%A0.html) | 2026-06-27 |
+| 512 | 제이에스링크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%97%90%EC%8A%A4%EB%A7%81%ED%81%AC.html) | 2026-06-27 |
 
 ---
 
