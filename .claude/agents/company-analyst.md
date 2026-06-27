@@ -1,5 +1,7 @@
 ---
-tools: WebSearch,WebFetch
+name: company-analyst
+description: 기업명을 입력받아 GitHub Pages 차트/재무 + 웹리서치로 티스토리용 풀 템플릿 HTML 보고서(10개 섹션 전부)를 생성한다. reports/ 또는 reports_b/ 의 신규/수정은 반드시 이 에이전트를 통해야 한다.
+tools: WebSearch, WebFetch
 ---
 
 # 기업 분석 보고서 자동 생성 에이전트 (v24)
