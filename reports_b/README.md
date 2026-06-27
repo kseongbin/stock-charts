@@ -540,6 +540,7 @@
 | 525 | 제이피아이헬스케어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%ED%94%BC%EC%95%84%EC%9D%B4%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4.html) | 2026-06-27 |
 | 526 | 제일기획 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%BC%EA%B8%B0%ED%9A%8D.html) | 2026-06-27 |
 | 527 | 제일바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%BC%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-27 |
+| 528 | 제일약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%BC%EC%95%BD%ED%92%88.html) | 2026-06-27 |
 
 ---
 
