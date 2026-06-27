@@ -506,6 +506,7 @@
 | 491 | 정다운 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%95%EB%8B%A4%EC%9A%B4.html) | 2026-06-27 |
 | 492 | 정상제이엘에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%95%EC%83%81%EC%A0%9C%EC%9D%B4%EC%97%98%EC%97%90%EC%8A%A4.html) | 2026-06-27 |
 | 493 | 정원엔시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%95%EC%9B%90%EC%97%94%EC%8B%9C%EC%8A%A4.html) | 2026-06-27 |
+| 494 | 제낙스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%82%99%EC%8A%A4.html) | 2026-06-27 |
 
 ---
 
