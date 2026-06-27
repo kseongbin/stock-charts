@@ -501,6 +501,7 @@
 | 486 | 장원테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%A5%EC%9B%90%ED%85%8C%ED%81%AC.html) | 2026-06-27 |
 | 487 | 저스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%80%EC%8A%A4%ED%85%9C.html) | 2026-06-27 |
 | 488 | 전방 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%84%EB%B0%A9.html) | 2026-06-27 |
+| 489 | 전진건설로봇 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%84%EC%A7%84%EA%B1%B4%EC%84%A4%EB%A1%9C%EB%B4%87.html) | 2026-06-27 |
 
 ---
 
