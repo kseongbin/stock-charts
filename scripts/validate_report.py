@@ -52,6 +52,16 @@ TOOLCALL_LEAK_PATTERNS = [
     r"\bantml:",
 ]
 
+# 차트/재무 iframe URL 검사 — 2026-06-27 제주항공 사고 재발 방지.
+# GitHub Pages의 차트 파일은 레포 루트에 평탄하게 배치돼 있다.
+# 모델이 임의로 `charts/` 같은 서브디렉토리를 끼워 넣으면 404.
+# 허용: https://kseongbin.github.io/stock-charts/<파일명>.html (슬래시 없음)
+# 차단: https://kseongbin.github.io/stock-charts/<무엇이든>/<파일명>.html
+IFRAME_BAD_PATH_PATTERN = (
+    r'<iframe[^>]*src="https://kseongbin\.github\.io/stock-charts/'
+    r'[^"/]+/[^"]+\.html"'
+)
+
 # 본문 `<p>` 스타일 임계치 — 2026-06-20 남광토건 사고 재발 방지.
 # company-analyst.md 풀 템플릿은 본문 단락마다 data-ke-size="size16" 을 부여하고
 # 각 단락을 짧은 `▶ 항목 : 값` 한 줄로 끊는다. 임의 도구가 통째 문단을 하나의 <p>
@@ -85,6 +95,17 @@ def validate(path: Path) -> list[str]:
         m = re.search(pat, raw)
         if m:
             missing.append(f"툴호출 XML 누출: {m.group(0)!r}")
+    # iframe URL에 잘못된 서브디렉토리 (예: `/charts/`) 끼어듦 차단
+    bad_iframes = re.findall(IFRAME_BAD_PATH_PATTERN, raw)
+    if bad_iframes:
+        sample = re.search(
+            r'src="(https://kseongbin\.github\.io/stock-charts/[^"]+)"',
+            bad_iframes[0],
+        )
+        url = sample.group(1) if sample else bad_iframes[0]
+        missing.append(
+            f"iframe URL 경로 오류: {url} — 차트 파일은 레포 루트 직속(서브디렉토리 금지)"
+        )
     # 본문 단락 스타일 검사 (남광토건 사고 재발 방지)
     style_issues = _check_body_paragraph_style(raw)
     missing.extend(style_issues)
