@@ -70,6 +70,15 @@ P_MAX_BODY_LEN = 700        # 본문 `<p>` 한 개의 최대 길이(태그 제�
 P_MIN_TOTAL = 20            # 보고서 전체 `<p>` 최소 개수
 SIZE16_MIN = 10             # 본문 단락용 size16 최소 개수
 
+# 섹션 10 (사업 검토) 깊이 검사 — 2026-06-27 제주항공/제이~ 시리즈 사고 재발 방지.
+# 풀 템플릿(.claude/agents/company-analyst.md L419~443)은 경쟁사 테이블 + 두 개의
+# 브래킷 헤더([핵심 분야별 상세 성장성 분석], [향후 극복 필요한 기술장벽]) +
+# 각 헤더 아래 ► 불릿 3개씩(총 6개)을 요구한다. 06-27 사고는 본문을 한두 단락으로
+# 요약해 templateted 구조를 잃었음(평균 811자 vs 정상시기 1866자).
+# 임계치는 정상 보고서 분포 하단을 기준으로 보수적 설정.
+SEC10_MIN_TEXT_LEN = 1000   # 섹션 10 plain-text 최소 길이
+SEC10_MIN_ARROWS = 3        # 섹션 10 ► 불릿 최소 개수 (템플릿 6개의 절반)
+
 
 def _strip_html(text: str) -> str:
     text = re.sub(r"&nbsp;", " ", text)
@@ -106,10 +115,49 @@ def validate(path: Path) -> list[str]:
         missing.append(
             f"iframe URL 경로 오류: {url} — 차트 파일은 레포 루트 직속(서브디렉토리 금지)"
         )
+    # 섹션 10 깊이 검사 (제주항공/제이~ 시리즈 사고 재발 방지)
+    sec10_issues = _check_section10_depth(raw)
+    missing.extend(sec10_issues)
     # 본문 단락 스타일 검사 (남광토건 사고 재발 방지)
     style_issues = _check_body_paragraph_style(raw)
     missing.extend(style_issues)
     return missing
+
+
+def _extract_section10(raw: str) -> str | None:
+    """섹션 10 `<h4>...10. 사업 검토...</h4>` 부터 다음 `<h4` 또는 EOF까지 추출."""
+    pattern = (
+        r"<h4\b[^>]*>(?:[^<]|<(?!h4\b))*?10\.\s*사업\s*검토"
+        r"(?:[^<]|<(?!h4\b))*?</h4>"
+    )
+    m = re.search(pattern, raw, flags=re.DOTALL)
+    if not m:
+        return None
+    end_m = re.search(r"<h4\b", raw[m.end():])
+    end = (m.end() + end_m.start()) if end_m else len(raw)
+    return raw[m.start():end]
+
+
+def _check_section10_depth(raw: str) -> list[str]:
+    """섹션 10 (사업 검토) 본문 깊이 검증 — 06-27 사고 재발 방지."""
+    issues: list[str] = []
+    sec = _extract_section10(raw)
+    if sec is None:
+        # 섹션 10 자체가 없는 경우는 REQUIRED_SECTIONS 가 별도로 잡으므로 여기선 통과.
+        return issues
+    plain = _strip_html(sec).strip()
+    arrows = sec.count("►")
+    if len(plain) < SEC10_MIN_TEXT_LEN:
+        issues.append(
+            f"10. 사업 검토 본문 부족: plain-text {len(plain)}자 < {SEC10_MIN_TEXT_LEN} "
+            f"— 풀 템플릿(분야별 성장성 3건 + 기술장벽 3건) 누락 의심"
+        )
+    if arrows < SEC10_MIN_ARROWS:
+        issues.append(
+            f"10. 사업 검토 ► 불릿 부족: {arrows}개 < {SEC10_MIN_ARROWS} "
+            f"— 분야 A/B/C + 장벽 A/B/C 구조 누락"
+        )
+    return issues
 
 
 def _check_body_paragraph_style(raw: str) -> list[str]:
