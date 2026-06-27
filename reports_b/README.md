@@ -519,6 +519,7 @@
 | 504 | 제이브이엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EB%B8%8C%EC%9D%B4%EC%97%A0.html) | 2026-06-27 |
 | 505 | 제이스로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%8A%A4%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-06-27 |
 | 506 | 제이스코홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%8A%A4%EC%BD%94%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-27 |
+| 507 | 제이시스메디칼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%8B%9C%EC%8A%A4%EB%A9%94%EB%94%94%EC%B9%BC.html) | 2026-06-27 |
 
 ---
 
