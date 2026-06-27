@@ -497,6 +497,7 @@
 | 482 | 자이글 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%90%EC%9D%B4%EA%B8%80.html) | 2026-06-27 |
 | 483 | 자이언트스텝 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%90%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%8A%A4%ED%85%9D.html) | 2026-06-27 |
 | 484 | 자이에스앤디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%90%EC%9D%B4%EC%97%90%EC%8A%A4%EC%95%A4%EB%94%94.html) | 2026-06-27 |
+| 485 | 잘만테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%98%EB%A7%8C%ED%85%8C%ED%81%AC.html) | 2026-06-27 |
 
 ---
 
