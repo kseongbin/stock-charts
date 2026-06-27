@@ -543,6 +543,7 @@
 | 528 | 제일약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%BC%EC%95%BD%ED%92%88.html) | 2026-06-27 |
 | 529 | 제일엠앤에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%BC%EC%97%A0%EC%95%A4%EC%97%90%EC%8A%A4.html) | 2026-06-27 |
 | 530 | 제일연마 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%BC%EC%97%B0%EB%A7%88.html) | 2026-06-27 |
+| 531 | 제일일렉트릭 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%BC%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A6%AD.html) | 2026-06-27 |
 
 ---
 
