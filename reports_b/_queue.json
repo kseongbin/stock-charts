@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "제주항공",
-      "category": "일반",
-      "code": "089590"
-    },
-    {
       "name": "제테마",
       "category": "일반",
       "code": "216080"

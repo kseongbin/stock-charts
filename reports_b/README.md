@@ -547,6 +547,7 @@
 | 532 | 제일테크노스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%BC%ED%85%8C%ED%81%AC%EB%85%B8%EC%8A%A4.html) | 2026-06-27 |
 | 533 | 제일파마홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%BC%ED%8C%8C%EB%A7%88%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-27 |
 | 534 | 제주반도체 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%A3%BC%EB%B0%98%EB%8F%84%EC%B2%B4.html) | 2026-06-27 |
+| 535 | 제주항공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%A3%BC%ED%95%AD%EA%B3%B5.html) | 2026-06-27 |
 
 ---
 
