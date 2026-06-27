@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "저스템",
-      "category": "일반",
-      "code": "417840"
-    },
-    {
       "name": "전방",
       "category": "일반",
       "code": "000950"

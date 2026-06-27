@@ -499,6 +499,7 @@
 | 484 | 자이에스앤디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%90%EC%9D%B4%EC%97%90%EC%8A%A4%EC%95%A4%EB%94%94.html) | 2026-06-27 |
 | 485 | 잘만테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%98%EB%A7%8C%ED%85%8C%ED%81%AC.html) | 2026-06-27 |
 | 486 | 장원테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%A5%EC%9B%90%ED%85%8C%ED%81%AC.html) | 2026-06-27 |
+| 487 | 저스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%80%EC%8A%A4%ED%85%9C.html) | 2026-06-27 |
 
 ---
 
