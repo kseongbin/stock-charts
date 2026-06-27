@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-06-27",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -2371,6 +2371,11 @@
       "filename": "일진파워.html",
       "category": "일반",
       "generated_at": "2026-06-26"
+    },
+    "일진하이솔루스": {
+      "filename": "일진하이솔루스.html",
+      "category": "일반",
+      "generated_at": "2026-06-27"
     }
   },
   "에코캡": {
