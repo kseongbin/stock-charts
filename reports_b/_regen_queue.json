@@ -2,20 +2,8 @@
   "description": "2026-06-27 사고: 섹션 10이 풀 템플릿 구조 없이 짧게 출력된 70개 보고서. company-analyst v24로 풀 재생성 필요.",
   "created": "2026-06-27",
   "validator_check": "python3 scripts/validate_report.py reports_b/<name>.html — text>=1000자, ►>=3개",
-  "count": 70,
+  "count": 67,
   "queue": [
-    {
-      "name": "인터플렉스",
-      "category": "일반"
-    },
-    {
-      "name": "인트로메딕",
-      "category": "일반"
-    },
-    {
-      "name": "인트론바이오",
-      "category": "일반"
-    },
     {
       "name": "인티큐브",
       "category": "일반"
@@ -284,5 +272,8 @@
       "name": "제주항공",
       "category": "일반"
     }
+  ],
+  "skipped_delisted": [
+    "인트로메딕"
   ]
 }
