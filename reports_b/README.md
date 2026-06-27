@@ -532,6 +532,7 @@
 | 517 | 제이엘케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%97%98%EC%BC%80%EC%9D%B4.html) | 2026-06-27 |
 | 518 | 제이엠아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%97%A0%EC%95%84%EC%9D%B4.html) | 2026-06-27 |
 | 519 | 제이엠티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%97%A0%ED%8B%B0.html) | 2026-06-27 |
+| 520 | 제이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%98%A4.html) | 2026-06-27 |
 
 ---
 
