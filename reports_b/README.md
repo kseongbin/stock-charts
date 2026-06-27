@@ -492,6 +492,7 @@
 | 477 | 잇츠한불 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%87%EC%B8%A0%ED%95%9C%EB%B6%88.html) | 2026-06-27 |
 | 478 | 잉글우드랩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%89%EA%B8%80%EC%9A%B0%EB%93%9C%EB%9E%A9.html) | 2026-06-27 |
 | 479 | 잉크테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%89%ED%81%AC%ED%85%8C%ED%81%AC.html) | 2026-06-27 |
+| 480 | 자안바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%90%EC%95%88%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-27 |
 
 ---
 
