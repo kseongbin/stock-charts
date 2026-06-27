@@ -515,6 +515,7 @@
 | 500 | 제놀루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%86%80%EB%A3%A8%EC%85%98.html) | 2026-06-27 |
 | 501 | 제닉 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%8B%89.html) | 2026-06-27 |
 | 502 | 제닉스로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%8B%89%EC%8A%A4%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-06-27 |
+| 503 | 제로투세븐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%A1%9C%ED%88%AC%EC%84%B8%EB%B8%90.html) | 2026-06-27 |
 
 ---
 
