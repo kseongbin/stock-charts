@@ -536,6 +536,7 @@
 | 521 | 제이웨이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%9B%A8%EC%9D%B4.html) | 2026-06-27 |
 | 522 | 제이케이시냅스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%EC%BC%80%EC%9D%B4%EC%8B%9C%EB%83%85%EC%8A%A4.html) | 2026-06-27 |
 | 523 | 제이투케이바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%ED%88%AC%EC%BC%80%EC%9D%B4%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-27 |
+| 524 | 제이티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%9D%B4%ED%8B%B0.html) | 2026-06-27 |
 
 ---
 
