@@ -495,6 +495,7 @@
 | 480 | 자안바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%90%EC%95%88%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-06-27 |
 | 481 | 자연과환경 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%90%EC%97%B0%EA%B3%BC%ED%99%98%EA%B2%BD.html) | 2026-06-27 |
 | 482 | 자이글 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%90%EC%9D%B4%EA%B8%80.html) | 2026-06-27 |
+| 483 | 자이언트스텝 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%9E%90%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%8A%A4%ED%85%9D.html) | 2026-06-27 |
 
 ---
 
