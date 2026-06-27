@@ -509,6 +509,7 @@
 | 494 | 제낙스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%82%99%EC%8A%A4.html) | 2026-06-27 |
 | 495 | 제너셈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%84%88%EC%85%88.html) | 2026-06-27 |
 | 496 | 제네시스디벨롭먼트홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%84%A4%EC%8B%9C%EC%8A%A4%EB%94%94%EB%B2%A8%EB%A1%AD%EB%A8%BC%ED%8A%B8%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-06-27 |
+| 497 | 제넥신 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EB%84%A5%EC%8B%A0.html) | 2026-06-27 |
 
 ---
 
