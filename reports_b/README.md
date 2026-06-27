@@ -502,6 +502,7 @@
 | 487 | 저스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%80%EC%8A%A4%ED%85%9C.html) | 2026-06-27 |
 | 488 | 전방 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%84%EB%B0%A9.html) | 2026-06-27 |
 | 489 | 전진건설로봇 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%84%EC%A7%84%EA%B1%B4%EC%84%A4%EB%A1%9C%EB%B4%87.html) | 2026-06-27 |
+| 490 | 전진바이오팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%84%EC%A7%84%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8C%9C.html) | 2026-06-27 |
 
 ---
 
