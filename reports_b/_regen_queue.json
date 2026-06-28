@@ -2,12 +2,8 @@
   "description": "2026-06-27 사고: 섹션 10이 풀 템플릿 구조 없이 짧게 출력된 70개 보고서. company-analyst v24로 풀 재생성 필요.",
   "created": "2026-06-27",
   "validator_check": "python3 scripts/validate_report.py reports_b/<name>.html — text>=1000자, ►>=3개",
-  "count": 51,
+  "count": 47,
   "queue": [
-    { "name": "자이언트스텝", "category": "일반" },
-    { "name": "자이에스앤디", "category": "일반" },
-    { "name": "잘만테크", "category": "일반" },
-    { "name": "장원테크", "category": "일반" },
     { "name": "저스템", "category": "일반" },
     { "name": "전방", "category": "일반" },
     { "name": "전진건설로봇", "category": "일반" },
@@ -60,7 +56,9 @@
   ],
   "skipped_delisted": [
     "인트로메딕",
-    "자안바이오"
+    "자안바이오",
+    "잘만테크",
+    "장원테크"
   ],
   "completed": [
     "인터플렉스",
@@ -77,6 +75,8 @@
     "잇츠한불",
     "잉크테크",
     "자연과환경",
-    "자이글"
+    "자이글",
+    "자이언트스텝",
+    "자이에스앤디"
   ]
 }
