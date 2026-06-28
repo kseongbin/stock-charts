@@ -2,20 +2,8 @@
   "description": "2026-06-27 사고: 섹션 10이 풀 템플릿 구조 없이 짧게 출력된 70개 보고서. company-analyst v24로 풀 재생성 필요.",
   "created": "2026-06-27",
   "validator_check": "python3 scripts/validate_report.py reports_b/<name>.html — text>=1000자, ►>=3개",
-  "count": 61,
+  "count": 58,
   "queue": [
-    {
-      "name": "일승",
-      "category": "일반"
-    },
-    {
-      "name": "일진다이아",
-      "category": "일반"
-    },
-    {
-      "name": "일진하이솔루스",
-      "category": "일반"
-    },
     {
       "name": "잇츠한불",
       "category": "일반"
@@ -260,6 +248,9 @@
     "인포바인",
     "인피니트헬스케어",
     "인화정공",
-    "일성건설"
+    "일성건설",
+    "일승",
+    "일진다이아",
+    "일진하이솔루스"
   ]
 }
