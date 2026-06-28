@@ -2,9 +2,8 @@
   "description": "2026-06-27 사고: 섹션 10이 풀 템플릿 구조 없이 짧게 출력된 70개 보고서. company-analyst v24로 풀 재생성 필요.",
   "created": "2026-06-27",
   "validator_check": "python3 scripts/validate_report.py reports_b/<name>.html — text>=1000자, ►>=3개",
-  "count": 47,
+  "count": 46,
   "queue": [
-    { "name": "저스템", "category": "일반" },
     { "name": "전방", "category": "일반" },
     { "name": "전진건설로봇", "category": "일반" },
     { "name": "전진바이오팜", "category": "일반" },
@@ -77,6 +76,7 @@
     "자연과환경",
     "자이글",
     "자이언트스텝",
-    "자이에스앤디"
+    "자이에스앤디",
+    "저스템"
   ]
 }
