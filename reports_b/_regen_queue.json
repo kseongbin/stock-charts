@@ -2,16 +2,12 @@
   "description": "2026-06-27 사고: 섹션 10이 풀 템플릿 구조 없이 짧게 출력된 70개 보고서. company-analyst v24로 풀 재생성 필요.",
   "created": "2026-06-27",
   "validator_check": "python3 scripts/validate_report.py reports_b/<name>.html — text>=1000자, ►>=3개",
-  "count": 43,
+  "count": 39,
   "queue": [
-    { "name": "정다운", "category": "일반" },
-    { "name": "정상제이엘에스", "category": "일반" },
     { "name": "정원엔시스", "category": "일반" },
     { "name": "제낙스", "category": "일반" },
     { "name": "제너셈", "category": "일반" },
-    { "name": "제네시스디벨롭먼트홀딩스", "category": "일반" },
     { "name": "제넥신", "category": "일반" },
-    { "name": "제넨바이오", "category": "일반" },
     { "name": "제노레이", "category": "일반" },
     { "name": "제놀루션", "category": "일반" },
     { "name": "제닉", "category": "일반" },
@@ -54,7 +50,9 @@
     "인트로메딕",
     "자안바이오",
     "잘만테크",
-    "장원테크"
+    "장원테크",
+    "제네시스디벨롭먼트홀딩스",
+    "제넨바이오"
   ],
   "completed": [
     "인터플렉스",
@@ -77,6 +75,8 @@
     "저스템",
     "전방",
     "전진건설로봇",
-    "전진바이오팜"
+    "전진바이오팜",
+    "정상제이엘에스",
+    "정다운"
   ]
 }
