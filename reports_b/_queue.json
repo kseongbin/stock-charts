@@ -7,11 +7,6 @@
   ],
   "queue": [
     {
-      "name": "젠큐릭스",
-      "category": "일반",
-      "code": "229000"
-    },
-    {
       "name": "젬백스",
       "category": "일반",
       "code": "082270"

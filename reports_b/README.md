@@ -550,6 +550,7 @@
 | 535 | 제주항공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%EC%A3%BC%ED%95%AD%EA%B3%B5.html) | 2026-06-27 |
 | 536 | 제테마 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9C%ED%85%8C%EB%A7%88.html) | 2026-06-27 |
 | 537 | 젝시믹스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%9D%EC%8B%9C%EB%AF%B9%EC%8A%A4.html) | 2026-06-27 |
+| 538 | 젠큐릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%A0%ED%81%90%EB%A6%AD%EC%8A%A4.html) | 2026-07-02 |
 
 ---
 
