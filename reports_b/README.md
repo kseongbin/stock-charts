@@ -556,6 +556,7 @@
 | 541 | 조광페인트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B0%EA%B4%91%ED%8E%98%EC%9D%B8%ED%8A%B8.html) | 2026-07-02 |
 | 542 | 조광피혁 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B0%EA%B4%91%ED%94%BC%ED%98%81.html) | 2026-07-02 |
 | 543 | 조비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B0%EB%B9%84.html) | 2026-07-02 |
+| 544 | 조선내화 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B0%EC%84%A0%EB%82%B4%ED%99%94.html) | 2026-07-02 |
 
 ---
 
