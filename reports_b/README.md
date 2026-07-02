@@ -553,6 +553,7 @@
 | 538 | 젠큐릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%A0%ED%81%90%EB%A6%AD%EC%8A%A4.html) | 2026-07-02 |
 | 539 | 젬백스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A0%AC%EB%B0%B1%EC%8A%A4.html) | 2026-07-02 |
 | 540 | 조광아이엘아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B0%EA%B4%91%EC%95%84%EC%9D%B4%EC%97%98%EC%95%84%EC%9D%B4.html) | 2026-07-02 |
+| 541 | 조광페인트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B0%EA%B4%91%ED%8E%98%EC%9D%B8%ED%8A%B8.html) | 2026-07-02 |
 
 ---
 
