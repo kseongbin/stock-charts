@@ -560,6 +560,7 @@
 | 545 | 조선선재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B0%EC%84%A0%EC%84%A0%EC%9E%AC.html) | 2026-07-02 |
 | 546 | 조아제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B0%EC%95%84%EC%A0%9C%EC%95%BD.html) | 2026-07-02 |
 | 547 | 조이시티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B0%EC%9D%B4%EC%8B%9C%ED%8B%B0.html) | 2026-07-03 |
+| 548 | 조이웍스앤코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B0%EC%9D%B4%EC%9B%8D%EC%8A%A4%EC%95%A4%EC%BD%94.html) | 2026-07-03 |
 
 ---
 
