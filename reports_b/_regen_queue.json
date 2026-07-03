@@ -2,47 +2,68 @@
   "description": "2026-06-27 사고: 섹션 10이 풀 템플릿 구조 없이 짧게 출력된 70개 보고서. company-analyst v24로 풀 재생성 필요.",
   "created": "2026-06-27",
   "validator_check": "python3 scripts/validate_report.py reports_b/<name>.html — text>=1000자, ►>=3개",
-  "count": 37,
+  "count": 29,
   "queue": [
-    { "name": "제너셈", "category": "일반" },
-    { "name": "제넥신", "category": "일반" },
-    { "name": "제노레이", "category": "일반" },
-    { "name": "제놀루션", "category": "일반" },
-    { "name": "제닉", "category": "일반" },
-    { "name": "제닉스로보틱스", "category": "일반" },
-    { "name": "제로투세븐", "category": "일반" },
-    { "name": "제이브이엠", "category": "일반" },
-    { "name": "제이스로보틱스", "category": "일반" },
-    { "name": "제이스코홀딩스", "category": "일반" },
-    { "name": "제이시스메디칼", "category": "일반" },
-    { "name": "제이씨케미칼", "category": "일반" },
-    { "name": "제이씨현시스템", "category": "일반" },
-    { "name": "제이아이테크", "category": "일반" },
-    { "name": "제이알글로벌리츠", "category": "일반" },
-    { "name": "제이에스링크", "category": "일반" },
-    { "name": "제이에스코퍼레이션", "category": "일반" },
-    { "name": "제이에스티나", "category": "일반" },
-    { "name": "제이엔비", "category": "일반" },
-    { "name": "제이엔케이글로벌", "category": "일반" },
-    { "name": "제이엘케이", "category": "일반" },
-    { "name": "제이엠아이", "category": "일반" },
-    { "name": "제이엠티", "category": "일반" },
-    { "name": "제이오", "category": "일반" },
-    { "name": "제이웨이", "category": "일반" },
-    { "name": "제이케이시냅스", "category": "일반" },
-    { "name": "제이투케이바이오", "category": "일반" },
-    { "name": "제이티", "category": "일반" },
-    { "name": "제이피아이헬스케어", "category": "일반" },
-    { "name": "제일기획", "category": "일반" },
-    { "name": "제일바이오", "category": "일반" },
-    { "name": "제일약품", "category": "일반" },
-    { "name": "제일엠앤에스", "category": "일반" },
-    { "name": "제일연마", "category": "일반" },
-    { "name": "제일일렉트릭", "category": "일반" },
-    { "name": "제일테크노스", "category": "일반" },
-    { "name": "제일파마홀딩스", "category": "일반" },
-    { "name": "제주반도체", "category": "일반" },
-    { "name": "제주항공", "category": "일반" }
+    {
+      "name": "제이엠티",
+      "category": "일반"
+    },
+    {
+      "name": "제이케이시냅스",
+      "category": "일반"
+    },
+    {
+      "name": "제이투케이바이오",
+      "category": "일반"
+    },
+    {
+      "name": "제이티",
+      "category": "일반"
+    },
+    {
+      "name": "제이피아이헬스케어",
+      "category": "일반"
+    },
+    {
+      "name": "제일기획",
+      "category": "일반"
+    },
+    {
+      "name": "제일바이오",
+      "category": "일반"
+    },
+    {
+      "name": "제일약품",
+      "category": "일반"
+    },
+    {
+      "name": "제일엠앤에스",
+      "category": "일반"
+    },
+    {
+      "name": "제일연마",
+      "category": "일반"
+    },
+    {
+      "name": "제일일렉트릭",
+      "category": "일반"
+    },
+    {
+      "name": "제일테크노스",
+      "category": "일반"
+    },
+    {
+      "name": "제일파마홀딩스",
+      "category": "일반"
+    },
+    {
+      "name": "제주반도체",
+      "category": "일반"
+    },
+    {
+      "name": "제주항공",
+      "category": "일반"
+    }
   ],
   "skipped_delisted": [
     "인트로메딕",
@@ -51,7 +72,9 @@
     "장원테크",
     "제네시스디벨롭먼트홀딩스",
     "제넨바이오",
-    "제낙스"
+    "제낙스",
+    "제이시스메디칼",
+    "제이웨이"
   ],
   "completed": [
     "인터플렉스",
@@ -77,6 +100,28 @@
     "전진바이오팜",
     "정상제이엘에스",
     "정다운",
-    "정원엔시스"
+    "정원엔시스",
+    "제너셈",
+    "제넥신",
+    "제놀루션",
+    "제노레이",
+    "제닉스로보틱스",
+    "제닉",
+    "제로투세븐",
+    "제이스로보틱스",
+    "제이브이엠",
+    "제이스코홀딩스",
+    "제이씨케미칼",
+    "제이씨현시스템",
+    "제이아이테크",
+    "제이알글로벌리츠",
+    "제이에스링크",
+    "제이에스코퍼레이션",
+    "제이에스티나",
+    "제이엠아이",
+    "제이엔비",
+    "제이엔케이글로벌",
+    "제이엘케이",
+    "제이오"
   ]
 }
