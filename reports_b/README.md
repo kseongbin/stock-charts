@@ -565,6 +565,7 @@
 | 550 | 조흥 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B0%ED%9D%A5.html) | 2026-07-04 |
 | 551 | 좋은사람들 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A2%8B%EC%9D%80%EC%82%AC%EB%9E%8C%EB%93%A4.html) | 2026-07-04 |
 | 552 | 종근당 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A2%85%EA%B7%BC%EB%8B%B9.html) | 2026-07-04 |
+| 553 | 졸스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B8%EC%8A%A4.html) | 2026-07-04 |
 
 ---
 
