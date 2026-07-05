@@ -2819,6 +2819,11 @@
       "filename": "지나인제약.html",
       "category": "일반",
       "generated_at": "2026-07-05"
+    },
+    "지노믹트리": {
+      "filename": "지노믹트리.html",
+      "category": "일반",
+      "generated_at": "2026-07-05"
     }
   },
   "에코캡": {
@@ -3120,5 +3125,11 @@
     "filename": "인바이오.html",
     "category": "일반",
     "generated_at": "2026-06-21"
+  },
+  "지노믹트리": {
+    "filename": "지노믹트리.html",
+    "code": "228760",
+    "category": "일반",
+    "date": "2026-07-05"
   }
 }
