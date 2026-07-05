@@ -573,6 +573,7 @@
 | 558 | 중앙백신 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A4%91%EC%95%99%EB%B0%B1%EC%8B%A0.html) | 2026-07-05 |
 | 559 | 중앙에너비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A4%91%EC%95%99%EC%97%90%EB%84%88%EB%B9%84%EC%8A%A4.html) | 2026-07-05 |
 | 560 | 지구홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EA%B5%AC%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-07-05 |
+| 561 | 지나인제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EB%82%98%EC%9D%B8%EC%A0%9C%EC%95%BD.html) | 2026-07-05 |
 
 ---
 
