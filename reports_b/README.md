@@ -568,6 +568,7 @@
 | 553 | 졸스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A1%B8%EC%8A%A4.html) | 2026-07-04 |
 | 554 | 종근당홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A2%85%EA%B7%BC%EB%8B%B9%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-07-04 |
 | 555 | 종근당바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A2%85%EA%B7%BC%EB%8B%B9%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-07-05 |
+| 556 | 주성코퍼레이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A3%BC%EC%84%B1%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98.html) | 2026-07-05 |
 
 ---
 
