@@ -2824,6 +2824,11 @@
       "filename": "지노믹트리.html",
       "category": "일반",
       "generated_at": "2026-07-05"
+    },
+    "지누스": {
+      "filename": "지누스.html",
+      "category": "일반",
+      "generated_at": "2026-07-05"
     }
   },
   "에코캡": {
@@ -3129,6 +3134,12 @@
   "지노믹트리": {
     "filename": "지노믹트리.html",
     "code": "228760",
+    "category": "일반",
+    "date": "2026-07-05"
+  },
+  "지누스": {
+    "filename": "지누스.html",
+    "code": "013890",
     "category": "일반",
     "date": "2026-07-05"
   }
