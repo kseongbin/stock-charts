@@ -576,6 +576,7 @@
 | 561 | 지나인제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EB%82%98%EC%9D%B8%EC%A0%9C%EC%95%BD.html) | 2026-07-05 |
 | 562 | 지노믹트리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EB%85%B8%EB%AF%B9%ED%8A%B8%EB%A6%AC.html) | 2026-07-05 |
 | 563 | 지누스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EB%88%84%EC%8A%A4.html) | 2026-07-05 |
+| 564 | 지니틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EB%8B%88%ED%8B%B1%EC%8A%A4.html) | 2026-07-05 |
 
 ---
 
