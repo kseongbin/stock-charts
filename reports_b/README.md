@@ -584,6 +584,7 @@
 | 569 | 지슨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%8A%A8.html) | 2026-07-06 |
 | 570 | 지슨(289860) | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%8A%A8%28289860%29.html) | 2026-07-06 |
 | 571 | 지씨셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%94%A8%EC%85%80.html) | 2026-07-06 |
+| 572 | 지씨지놈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%94%A8%EC%A7%80%EB%86%88.html) | 2026-07-06 |
 
 ---
 
