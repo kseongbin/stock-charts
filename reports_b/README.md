@@ -587,6 +587,7 @@
 | 572 | 지씨지놈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%94%A8%EC%A7%80%EB%86%88.html) | 2026-07-06 |
 | 573 | 지아이에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%95%84%EC%9D%B4%EC%97%90%EC%8A%A4.html) | 2026-07-06 |
 | 574 | 지아이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%95%84%EC%9D%B4%ED%85%8D.html) | 2026-07-06 |
+| 575 | 지앤비에스 에코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%95%A4%EB%B9%84%EC%97%90%EC%8A%A4%20%EC%97%90%EC%BD%94.html) | 2026-07-06 |
 
 ---
 
