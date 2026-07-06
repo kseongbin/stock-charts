@@ -578,6 +578,7 @@
 | 563 | 지누스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EB%88%84%EC%8A%A4.html) | 2026-07-05 |
 | 564 | 지니틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EB%8B%88%ED%8B%B1%EC%8A%A4.html) | 2026-07-05 |
 | 565 | 지더블유바이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EB%8D%94%EB%B8%94%EC%9C%A0%EB%B0%94%EC%9D%B4%ED%85%8D.html) | 2026-07-05 |
+| 566 | 지디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EB%94%94.html) | 2026-07-06 |
 
 ---
 
