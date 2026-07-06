@@ -582,6 +582,7 @@
 | 567 | 지란지교시큐리티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EB%9E%80%EC%A7%80%EA%B5%90%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0.html) | 2026-07-06 |
 | 568 | 지스마트글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-07-06 |
 | 569 | 지슨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%8A%A8.html) | 2026-07-06 |
+| 570 | 지슨(289860) | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%8A%A8%28289860%29.html) | 2026-07-06 |
 
 ---
 
