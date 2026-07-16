@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-07-16",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -2904,6 +2904,11 @@
       "filename": "지에스이.html",
       "category": "일반",
       "generated_at": "2026-07-06"
+    },
+    "지에스홈쇼핑": {
+      "filename": "지에스홈쇼핑.html",
+      "category": "일반",
+      "generated_at": "2026-07-16"
     }
   },
   "에코캡": {
