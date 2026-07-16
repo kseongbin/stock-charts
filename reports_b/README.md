@@ -593,6 +593,7 @@
 | 578 | 지에스이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%97%90%EC%8A%A4%EC%9D%B4.html) | 2026-07-06 |
 | 579 | 지에스홈쇼핑 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%97%90%EC%8A%A4%ED%99%88%EC%87%BC%ED%95%91.html) | 2026-07-16 |
 | 580 | 지에프씨생명과학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%97%90%ED%94%84%EC%94%A8%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99.html) | 2026-07-16 |
+| 581 | 지에프아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%97%90%ED%94%84%EC%95%84%EC%9D%B4.html) | 2026-07-16 |
 
 ---
 
