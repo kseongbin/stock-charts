@@ -657,6 +657,8 @@
 | 642 | 진도 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EB%8F%84.html) | 2026-07-17 |
 | 643 | 진시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-07-17 |
 | 644 | 진성티이씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%84%B1%ED%8B%B0%EC%9D%B4%EC%94%A8.html) | 2026-07-17 |
+| 645 | 진양산업 | 소재 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%96%91%EC%82%B0%EC%97%85.html) | 2026-07-17 |
+| 646 | 진바이오텍 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EB%B0%94%EC%9D%B4%EC%98%A4%ED%85%8D.html) | 2026-07-17 |
 
 ---
 
