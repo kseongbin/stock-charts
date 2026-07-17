@@ -668,6 +668,7 @@
 | 653 | 진원생명과학 | KOSPI | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%9B%90%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99.html) | 2026-07-17 |
 | 654 | 진영 | KOSDAQ | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%98%81.html) | 2026-07-17 |
 | 655 | 진에어 | KOSPI | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%97%90%EC%96%B4.html) | 2026-07-17 |
+| 656 | 질경이 | KONEX | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%88%EA%B2%BD%EC%9D%B4.html) | 2026-07-17 |
 
 ---
 
