@@ -8,11 +8,6 @@
   ],
   "queue": [
     {
-      "name": "카카오페이",
-      "category": "일반",
-      "code": "377300"
-    },
-    {
       "name": "캐리",
       "category": "일반",
       "code": "313760"
