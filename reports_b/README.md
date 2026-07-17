@@ -680,6 +680,8 @@
 | 665 | 창해에탄올 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B0%BD%ED%95%B4%EC%97%90%ED%83%84%EC%98%AC.html) | 2026-07-18 |
 | 666 | 청담글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B2%AD%EB%8B%B4%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-07-18 |
 | 667 | 체리부로 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B2%B4%EB%A6%AC%EB%B6%80%EB%A1%9C.html) | 2026-07-18 |
+| 668 | 카나프테라퓨틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B9%B4%EB%82%98%ED%94%84%ED%85%8C%EB%9D%BC%ED%93%A8%ED%8B%B1%EC%8A%A4.html) | 2026-07-18 |
+| 669 | 초록뱀미디어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B4%88%EB%A1%9D%EB%B1%80%EB%AF%B8%EB%94%94%EC%96%B4.html) | 2026-07-18 |
 
 ---
 
