@@ -596,6 +596,9 @@
 | 581 | 지에프아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%97%90%ED%94%84%EC%95%84%EC%9D%B4.html) | 2026-07-16 |
 | 582 | 지엔코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%97%94%EC%BD%94.html) | 2026-07-16 |
 | 583 | 지엘팜텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%97%98%ED%8C%9C%ED%85%8D.html) | 2026-07-16 |
+| 584 | 지엠비코리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%97%A0%EB%B9%84%EC%BD%94%EB%A6%AC%EC%95%84.html) | 2026-07-17 |
+| 585 | 지투지바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%ED%88%AC%EC%A7%80%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-07-17 |
+| 586 | 지역난방공사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%97%AD%EB%82%9C%EB%B0%A9%EA%B3%B5%EC%82%AC.html) | 2026-07-17 |
 
 ---
 
