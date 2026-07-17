@@ -678,6 +678,7 @@
 | 663 | 참좋은여행 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B0%B8%EC%A2%8B%EC%9D%80%EC%97%AC%ED%96%89.html) | 2026-07-17 |
 | 664 | 천일고속 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B2%9C%EC%9D%BC%EA%B3%A0%EC%86%8D.html) | 2026-07-17 |
 | 665 | 창해에탄올 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B0%BD%ED%95%B4%EC%97%90%ED%83%84%EC%98%AC.html) | 2026-07-18 |
+| 666 | 청담글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B2%AD%EB%8B%B4%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-07-18 |
 
 ---
 
