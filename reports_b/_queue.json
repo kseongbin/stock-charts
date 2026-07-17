@@ -8,26 +8,6 @@
   ],
   "queue": [
     {
-      "name": "진에어",
-      "category": "일반",
-      "code": "272450"
-    },
-    {
-      "name": "진영",
-      "category": "일반",
-      "code": "285800"
-    },
-    {
-      "name": "진원생명과학",
-      "category": "일반",
-      "code": "011000"
-    },
-    {
-      "name": "진코스텍",
-      "category": "일반",
-      "code": "250030"
-    },
-    {
       "name": "질경이",
       "category": "일반",
       "code": "233990"

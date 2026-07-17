@@ -3269,6 +3269,30 @@
       "filename": "진흥기업.html",
       "category": "건설",
       "generated_at": "2026-07-17"
+    },
+    "진코스텍": {
+      "filename": "진코스텍.html",
+      "generated_at": "2026-07-17",
+      "category": "KOSDAQ",
+      "code": "250030"
+    },
+    "진원생명과학": {
+      "filename": "진원생명과학.html",
+      "generated_at": "2026-07-17",
+      "category": "KOSPI",
+      "code": "011000"
+    },
+    "진영": {
+      "filename": "진영.html",
+      "generated_at": "2026-07-17",
+      "category": "KOSDAQ",
+      "code": "285800"
+    },
+    "진에어": {
+      "filename": "진에어.html",
+      "generated_at": "2026-07-17",
+      "category": "KOSPI",
+      "code": "272450"
     }
   },
   "에코캡": {
