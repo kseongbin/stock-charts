@@ -663,6 +663,7 @@
 | 648 | 진양폴리우레탄 | 소재 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%96%91%ED%8F%B4%EB%A6%AC%EC%9A%B0%EB%A0%88%ED%83%84.html) | 2026-07-17 |
 | 649 | 진양제약 | 제약 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%96%91%EC%A0%9C%EC%95%BD.html) | 2026-07-17 |
 | 650 | 진양화학 | 소재 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%96%91%ED%99%94%ED%95%99.html) | 2026-07-17 |
+| 651 | 진흥기업 | 건설 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%ED%9D%A5%EA%B8%B0%EC%97%85.html) | 2026-07-17 |
 
 ---
 
