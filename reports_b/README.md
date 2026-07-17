@@ -684,6 +684,7 @@
 | 669 | 초록뱀미디어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B4%88%EB%A1%9D%EB%B1%80%EB%AF%B8%EB%94%94%EC%96%B4.html) | 2026-07-18 |
 | 670 | 체시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B2%B4%EC%8B%9C%EC%8A%A4.html) | 2026-07-18 |
 | 671 | 카카오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B9%B4%EC%B9%B4%EC%98%A4.html) | 2026-07-18 |
+| 672 | 카스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B9%B4%EC%8A%A4.html) | 2026-07-18 |
 
 ---
 
