@@ -651,6 +651,9 @@
 | 636 | 지엠비코리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%97%A0%EB%B9%84%EC%BD%94%EB%A6%AC%EC%95%84.html) | 2026-07-17 |
 | 637 | 지투지바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%ED%88%AC%EC%A7%80%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-07-17 |
 | 638 | 지역난방공사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%97%AD%EB%82%9C%EB%B0%A9%EA%B3%B5%EC%82%AC.html) | 2026-07-17 |
+| 639 | 진로발효 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EB%A1%9C%EB%B0%9C%ED%9A%A8.html) | 2026-07-17 |
+| 640 | 진매트릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4.html) | 2026-07-17 |
+| 641 | 지오엘리먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%98%A4%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8.html) | 2026-07-17 |
 
 ---
 
