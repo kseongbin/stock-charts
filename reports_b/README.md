@@ -685,6 +685,7 @@
 | 670 | 체시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B2%B4%EC%8B%9C%EC%8A%A4.html) | 2026-07-18 |
 | 671 | 카카오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B9%B4%EC%B9%B4%EC%98%A4.html) | 2026-07-18 |
 | 672 | 카스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B9%B4%EC%8A%A4.html) | 2026-07-18 |
+| 673 | 카카오뱅크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC.html) | 2026-07-18 |
 
 ---
 
