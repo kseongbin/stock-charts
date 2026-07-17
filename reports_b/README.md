@@ -674,6 +674,7 @@
 | 659 | 차바이오텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B0%A8%EB%B0%94%EC%9D%B4%EC%98%A4%ED%85%8D.html) | 2026-07-17 |
 | 660 | 차이커뮤니케이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B0%A8%EC%9D%B4%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98.html) | 2026-07-17 |
 | 661 | 참존글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B0%B8%EC%A1%B4%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-07-17 |
+| 662 | 참엔지니어링 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B0%B8%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.html) | 2026-07-17 |
 
 ---
 
