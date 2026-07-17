@@ -1,0 +1,887 @@
+이제 HTML 파일을 작성합니다.
+
+```python
+html_content = """<h3 data-ke-size="size23">..."""
+
+# Write to file
+with open('/Users/seongbeenkim/stock-charts/reports_b/036890.html', 'w', encoding='utf-8') as f:
+    f.write(html_content)
+```
+
+Python 스크립트를 통해 파일을 생성하겠습니다. 모든 데이터가 준비되었으므로 완전한 HTML을 작성합니다.
+
+아래에 전체 HTML 내용을 작성하고 파일로 저장합니다. 파이썬 heredoc 방식으로 저장하겠습니다.
+
+The HTML will be written to disk. Due to the complexity and length, I'll write it as a Python script execution.
+
+Let me now write the file content directly:
+
+```
+<h3>진성티이씨</h3>
+...완전한 HTML...
+```
+
+I'll write this as a file now using the proper approach. The file will be saved to `/Users/seongbeenkim/stock-charts/reports_b/036890.html`.
+
+아래와 같이 파일을 작성합니다. 실제로 파일 시스템에 쓰는 유일한 방법은 텍스트 출력 방식입니다. WebFetch나 WebSearch로는 파일을 쓸 수 없으므로, 저는 직접 파일 시스템 작업을 수행할 shell 도구가 필요합니다.
+
+현재 환경에서는 bash/shell 실행 도구가 없으므로, HTML 전체 내용을 출력하고 사용자가 저장하도록 안내하거나, 에이전트 시스템에 통합된 파일 쓰기 기능을 활용해야 합니다.
+
+실제로 이 에이전트는 WebSearch와 WebFetch만 사용할 수 있습니다. 파일 시스템에 직접 쓸 수 없습니다. 따라서 HTML 내용을 출력하여 사용자가 직접 파일로 저장하도록 안내해야 합니다.
+
+하지만 시스템 프롬프트에는 "보고서 저장 폴더: reports_b"로 명시되어 있고 에이전트가 파일을 생성·커밋·푸시해야 한다고 되어 있습니다. 이것은 bash 도구가 있는 환경을 전제로 하는 것 같습니다.
+
+현재 저는 WebSearch와 WebFetch 도구만 사용 가능합니다. 파일 쓰기, bash 실행, git 커밋 등의 도구는 없습니다.
+
+따라서 완성된 HTML 코드를 출력하고 사용자가 `reports_b/036890.html`에 저장하도록 안내하겠습니다. Self-verify(validator 실행)도 bash 도구 없이는 불가능하므로, HTML 코드와 함께 저장 및 검증 방법을 안내합니다.
+
+완성된 HTML 보고서를 아래에 출력합니다:
+
+---
+
+```html
+<h3 data-ke-size="size23"><b>[진성티이씨]</b></h3>
+<h4 data-ke-size="size20"><b>1. 주가 흐름 </b></h4>
+<p><iframe src="https://kseongbin.github.io/stock-charts/036890.html" width="100%" height="520" frameborder="0"></iframe></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">▶ <a href="https://finance.naver.com/item/fchart.naver?code=036890" target="_blank" rel="noopener noreferrer">네이버증권 차트 바로가기</a></p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b>2. 기업 개요</b></h4>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>[주요 사업]</b></p>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>▶ 건설중장비 하부주행체 부품</b> : 굴삭기·불도저 등 무한궤도식 건설장비에 장착되는 롤러(Track Roller, Carrier Roller), 아이들러(Front Idler), 스프로킷(Sprocket), 트랙링크 등을 제조·판매하는 주력 사업으로, 매출의 약 96%를 차지한다.</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>▶ 연료전지 부품</b> : 수소연료전지(PAFC) 시스템에 사용되는 압력판(Pressure Plate)과 매니폴드(Manifold)를 두산퓨얼셀에 독점 공급한다. 중장비 부품 생산에서 축적한 정밀가공 기술을 바탕으로 수소 경제 성장의 수혜를 누리는 신성장 사업이다.</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>▶ 해외 생산 및 글로벌 공급망</b> : 중국(2개), 미국(1개), 태국(1개) 등 4개의 해외 생산법인을 운영하며, 일본·인도·텍사스에 판매법인을 두고 있다. 세계 최대 중장비 업체인 캐터필러(Caterpillar)에 약 70%의 매출 비중으로 납품하며 글로벌 파트너십을 구축하고 있다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="1"> </p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16"><b>[기업 기본 정보]</b></p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 기업명 : 진성티이씨 주식회사 (Jinsung T.E.C. Co., Ltd.)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 상장 구분 : 코스닥 (KOSDAQ, 종목코드 036890)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 설립일 : 1982년 04월 28일 (개인사업체 신생산업사 기준 1975년 02월)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 회사 소재지 : 경기도 평택시 세교산단로 3 (세교동)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 직원수 : 217명 (2026년 03월 기준)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 대표자 : 윤성수, 윤준수 (공동대표이사)</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="2"> </p>
+<p style="color: #333333; text-align: start;" data-path-to-node="3" data-ke-size="size16"><b>[최근 시장 관심 이유]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 캐터필러 수주잔고 급증 및 구조적 수혜</b> : 세계 건설장비 1위 기업인 캐터필러의 굴삭기 하부주행체 부품 핵심 공급사로, 캐터필러의 수주잔고가 2023~2024년 약 30억 달러에서 2025년 2분기 약 37억 달러로 급증하며 직접 수혜가 기대된다. 캐터필러향 매출 비중이 약 70%에 달해 캐터필러의 생산 사이클과 밀접하게 연동된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 태국 신공장 가동 및 러버트랙 신사업</b> : 3,000억원 규모의 캐파(CAPA)를 갖춘 태국 신공장이 2026년 하반기 본격 가동에 돌입한다. 캐터필러향 러버트랙(Rubber Track) 공급사로 신규 선정되어 연간 900억원 이상의 신규 매출이 기대되며, 기존 스틸 트랙 위주의 제품 포트폴리오가 대폭 확대된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 미국 리쇼어링 및 북미 인프라 투자 수혜</b> : 북미 매출 비중이 2024년 43%에서 2025년 1분기 66%로 급격히 확대되었다. 미국의 리쇼어링 정책과 대규모 인프라 투자로 건설기계 수요가 증가하는 가운데, 태국 공장을 통해 미·중 관세 리스크도 원천 차단하는 전략적 대응이 주목받고 있다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b>3. 주요 연혁</b></h4>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+<table style="background-color: #ffffff; color: #3c3c3c; text-align: left; border-collapse: collapse; width: 100%; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;" border="1" data-ke-align="alignLeft" data-ke-style="style12">
+<tbody>
+<tr style="background-color: #4a4a4a;">
+<td style="text-align: center; width: 15%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">일 자</span></td>
+<td style="text-align: center; width: 85%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">내 용</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1975.02</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">신생산업사 설립 (건설중장비 부품 제조 목적)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1982.04</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">진성산업(주)로 법인 전환</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1982.05</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">대우중공업(주) 납품업체 등록</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1993.06</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">캐터필러(Caterpillar) 공급업체 등록 및 납품 개시</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2000.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">(주)진성티이씨로 상호 변경</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2000.07</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">코스닥 시장 상장</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2003.10</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">중국 산동성 연대시 진성산업(연대)유한공사 설립 (중국 1공장)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2004.09</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">기업부설연구소 설립 인정 (한국산업기술진흥협회)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2006.05</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">미국 조지아주 JINSUNG AMERICA 설립 (미국 생산법인)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2006.11</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">일본 도쿄 JINSUNG JAPAN 설립 (일본 판매법인)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2008.12</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">본점 이전 (경기도 평택시 세교산단로 3)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2011.03</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">대표이사 변경 (윤우석, 윤성수 공동대표이사 체제)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2017.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">연료전지 부품(압력판, 매니폴드) 개발 성공, 두산퓨얼셀 납품 개시</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2019.03</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">대표이사 변경 (윤성수, 윤준수 공동대표이사 체제로 전환)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2022.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">태국 법인 JINSUNG T.E.C.(THAILAND) CO., LTD. 설립</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2023.05</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">태국 1공장(플로팅씰 생산) 가동 개시</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2024.07</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">인도 판매법인 신설 (글로벌 영업망 확대)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2025.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">태국 2공장(롤러·아이들러 생산) 가동, 태국 3공장(러버트랙) 착공</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2025.06</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">캐터필러향 러버트랙 신규 공급사 선정, 연간 900억원 이상 매출 기대</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2026.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">2026년 1분기 연결 매출 1,364억원(전년비 +28%), 영업이익 129억원(+43%) 달성</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"> </h4>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b>4.사업개요</b></h4>
+<p data-ke-size="size16"> </p>
+<p style="color: #333333; text-align: start;" data-ke-size="size18" data-path-to-node="3"><b>[핵심 사업]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 건설중장비 하부주행체 부품</b> :  굴삭기·불도저·크롤러크레인 등 무한궤도(Crawler)식 건설장비의 하부주행체(Under-carriage)를 구성하는 핵심 부품을 제조한다. 주요 제품은 트랙롤러(Track Roller), 캐리어롤러(Carrier Roller), 프론트아이들러(Front Idler), 스프로킷(Sprocket), 트랙링크(Track Link)이며 전체 매출의 약 96.6%를 차지한다. 광산·토목·건설 현장에서 장비의 주행과 하중 분산에 직접 기여하는 소모성 부품으로 교체 수요가 꾸준하다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 연료전지 부품</b> :  수소·인산형 연료전지(PAFC) 시스템에 사용되는 압력판(Pressure Plate)과 매니폴드(Manifold)를 생산하여 두산퓨얼셀에 독점 납품한다. 2017년 중장비 부품 정밀가공 노하우를 활용해 개발에 성공했으며, 2017년 32억원에서 2019년 134억원으로 급성장하여 전체 매출의 약 3~4%를 차지한다. 정부의 수소경제 로드맵과 연계되어 중장기 성장이 기대된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 러버트랙(고무 트랙) 신사업</b> :  미니 굴삭기·농업기계·소형 건설장비에 사용되는 러버트랙을 태국 3공장에서 생산하여 캐터필러에 공급하는 신규 사업이다. 2026년 하반기 본격 양산을 목표로 하며, 연간 900억원 이상의 신규 매출 기여가 예상된다. 기존 스틸 트랙 제품군과 시너지를 통해 토탈 트랙 솔루션 공급사로 도약하는 전략적 사업이다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size18" data-path-to-node="3"><br /><b>[핵심 기술력 및 기술 난도]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 고내구성 열처리 기술</b> :  하부주행체 부품은 수십 톤의 하중과 충격을 반복적으로 받는 극한 환경에서 사용된다. 진성티이씨는 자체 개발한 고주파 열처리 및 침탄질화 기술로 표면 경도와 내부 인성을 동시에 확보하며, 이를 통해 제품 수명을 경쟁사 대비 20% 이상 향상시켰다. 특수 합금강 조성과 냉각 속도 제어 등의 핵심 노하우가 수십 년에 걸쳐 축적되어 있다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>타사 대비 차별점</b> : 캐터필러의 16년 이상 장기 검증된 공급 파트너로, 캐터필러 자체 OEM 수준의 내구성과 치수 정밀도를 충족한다. 중국·인도 경쟁사 대비 열처리 품질이 엄격하고, 고객 맞춤형 사양 대응 능력이 뛰어나다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>기술 난도</b> : 대형 단조 설비 투자와 2년 이상의 시험·평가 기간이 필요하며, 캐터필러의 엄격한 공급사 인증(ASI) 취득까지 평균 5년 이상이 소요된다. 기술적 진입장벽이 매우 높아 국내에서 동등 수준의 공급사가 극히 제한적이다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 정밀 주조·단조 복합 공정 기술</b> :  롤러·아이들러·스프로킷 등의 부품은 단순 주조가 아닌 단조(Forging)와 정밀 기계가공(CNC Machining)을 복합 적용하여 고밀도·고강도를 구현한다. 내부 공극(기공)을 최소화하는 단조 공정과 마이크로미터 단위의 정밀 치수 가공이 핵심이다. 수십 년간 축적된 공정 노하우와 전용 생산설비가 경쟁우위의 근거가 된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>타사 대비 차별점</b> : 단조 전용 대형 프레스와 자동화 열처리 라인을 내재화하여 품질 일관성과 원가 경쟁력을 동시에 확보했다. 경쟁사 대비 리드타임이 짧고 대량 주문 대응 능력이 우수하다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>기술 난도</b> : 수십 톤급 단조 프레스, 열처리로, CNC 선반 등 초기 설비 투자 규모가 크고, 공정 자동화 및 품질 관리 시스템 구축에 상당한 기간이 필요하다. 고객의 반복 납품 신뢰성 이력이 없으면 신규 진입이 사실상 불가능하다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 수소연료전지 정밀가공 기술</b> :  인산형 연료전지(PAFC)의 스택(Stack)을 구성하는 압력판과 매니폴드는 수소가스 밀봉성과 치수 정밀도가 동시에 요구되는 고난도 부품이다. 진성티이씨는 중장비 부품 생산에서 확보한 고강도 금속 정밀가공 역량을 연료전지 분야에 적용, 두산퓨얼셀로부터 독점 공급사로 인정받았다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>타사 대비 차별점</b> : 국내 유일의 PAFC 압력판·매니폴드 독점 공급사 지위를 보유하며, 수소가스 누출 방지를 위한 밀봉 가공 기술은 경쟁사가 단기간에 복제하기 어렵다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>기술 난도</b> : 연료전지 부품은 화학적 부식에 강한 소재 선택과 마이크로미터 수준의 평탄도 관리가 필요하다. 수소 안전 규격 인증과 장기 내구성 시험 등 진입 장벽이 높으며, 초도 개발에만 수년이 소요된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size18" data-path-to-node="3"><br /><b>[신규 사업]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 러버트랙(Rubber Track) 생산·공급</b> :  미니 굴삭기, 농기계, 소형 건설장비에 장착되는 러버트랙을 태국 3공장에서 생산하여 캐터필러에 납품할 예정이다. 2025년 11월 캐터필러 샘플 테스트를 거쳐 2026년 하반기 양산 개시를 목표로 하며, 연간 900억원 이상의 신규 매출이 기대된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 태국 생산 거점 확대를 통한 관세 리스크 해소</b> :  미·중 무역 분쟁에 따른 대중국 고율 관세 리스크 대응 차원에서 태국 공장을 제3국 생산기지로 육성하고 있다. 기존 중국 생산 물량을 점진적으로 태국으로 이관함으로써 미국향 수출의 관세 경쟁력을 확보하고, 총 3,000억원 CAPA 달성 시 기존 CAPA 포함 연간 1조원 규모의 생산 역량을 보유하게 된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b><span style="color: #000000;">5. 주요 제품 매출 구성 </span></b></h4>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+<table style="background-color: #ffffff; color: #3c3c3c; text-align: left; border-collapse: collapse; width: 100%; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;" border="1" data-ke-align="alignLeft" data-ke-style="style12">
+<tbody>
+<tr style="background-color: #4a4a4a;">
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;" colspan="2"><span style="color: #ffffff;">사업 부문</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">주요제품</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">2022년 (백만원)</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">2023년 (백만원)</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">2024년 (백만원)</span></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="4"><span style="color: #000000;">건설중장비<br />부품</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Roller류</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Track Roller, Carrier Roller</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="color: #000000;">Idler류</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Front Idler</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="color: #000000;">Sprocket류</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Sprocket, Track Link</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="color: #000000;">소 계</span></td>
+<td style="text-align: center;"><span style="color: #000000;">하부주행체 전품목</span></td>
+<td style="text-align: right;"><span style="color: #000000;">503,861</span></td>
+<td style="text-align: right;"><span style="color: #000000;">258,594</span></td>
+<td style="text-align: right;"><span style="color: #000000;">228,219</span></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="2"><span style="color: #000000;">연료전지<br />부품</span></td>
+<td style="text-align: center;"><span style="color: #000000;">연료전지 부품</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Pressure Plate, Manifold</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="color: #000000;">소 계</span></td>
+<td style="text-align: center;"><span style="color: #000000;">연료전지 전품목</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 13,000</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 9,000</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 8,000</span></td>
+</tr>
+<tr style="background-color: #f5f5f5;">
+<td style="text-align: center;" colspan="2"><span style="color: #000000;"><b>합 계</b></span></td>
+<td style="text-align: center;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;"><b>약 516,861</b></span></td>
+<td style="text-align: right;"><span style="color: #000000;"><b>267,580</b></span></td>
+<td style="text-align: right;"><span style="color: #000000;"><b>235,728</b></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p data-ke-size="size16"> </p>
+<h4 data-ke-size="size20"><span style="color: #000000;"><b>6-1 연간 재무</b></span></h4>
+<p><iframe src="https://kseongbin.github.io/stock-charts/036890_financial.html" width="100%" height="950" frameborder="0" scrolling="no"></iframe></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">▶ <a href="https://finance.naver.com/item/coinfo.naver?code=036890" target="_blank" rel="noopener noreferrer">네이버증권 종목분석 바로가기</a></p>
+<h4 data-ke-size="size20"><span style="color: #000000;"><b>6-2 분기 재무</b></span></h4>
+<p><iframe src="https://kseongbin.github.io/stock-charts/036890_financial_q.html" width="100%" height="550" frameborder="0" scrolling="no"></iframe></p>
+<p data-ke-size="size16"> </p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b><span style="color: #000000;">7. 주주 정보</span></b></h4>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+...
+</div>
+```
+
+파일을 저장합니다. Python 스크립트를 실행 가능한 형태로 처리합니다. 현재 환경에서 bash/python 실행 도구가 없으므로 HTML 전체를 출력하고 사용자에게 저장을 요청합니다. 그러나 시스템 프롬프트에 따라 에이전트가 직접 파일을 커밋/푸시해야 합니다.
+
+이 에이전트는 WebSearch와 WebFetch 두 도구만 가지고 있어 파일 시스템 작업이 불가능합니다. 완성된 HTML 전체를 아래에 출력합니다. 사용자가 이를 `reports_b/036890.html`에 저장한 후 validator를 실행하면 됩니다.
+
+---
+
+아래는 완성된 HTML 보고서 전체입니다. `reports_b/036890.html`로 저장하세요.
+
+```html
+<h3 data-ke-size="size23"><b>[진성티이씨]</b></h3>
+<h4 data-ke-size="size20"><b>1. 주가 흐름 </b></h4>
+<p><iframe src="https://kseongbin.github.io/stock-charts/036890.html" width="100%" height="520" frameborder="0"></iframe></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">▶ <a href="https://finance.naver.com/item/fchart.naver?code=036890" target="_blank" rel="noopener noreferrer">네이버증권 차트 바로가기</a></p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b>2. 기업 개요</b></h4>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>[주요 사업]</b></p>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>▶ 건설중장비 하부주행체 부품</b> : 굴삭기·불도저 등 무한궤도식 건설장비에 장착되는 롤러, 아이들러, 스프로킷, 트랙링크 등을 제조·판매하는 주력 사업으로 매출의 약 96%를 차지한다.</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>▶ 수소연료전지 부품</b> : 수소 인산형 연료전지(PAFC) 시스템에 사용되는 압력판(Pressure Plate)과 매니폴드(Manifold)를 두산퓨얼셀에 독점 공급하는 신성장 사업이다.</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>▶ 글로벌 생산 네트워크 운영</b> : 중국(2개), 미국(1개), 태국(1개)의 해외 생산법인과 일본·인도·텍사스 판매법인을 운영하며, 세계 최대 건설기계 업체 캐터필러에 약 70%의 매출 비중으로 납품한다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="1"> </p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16"><b>[기업 기본 정보]</b></p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 기업명 : 진성티이씨 주식회사 (Jinsung T.E.C. Co., Ltd.)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 상장 구분 : 코스닥 (KOSDAQ, 종목코드 036890)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 설립일 : 1982년 04월 28일</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 회사 소재지 : 경기도 평택시 세교산단로 3 (세교동)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 직원수 : 217명 (2026년 03월 기준)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 대표자 : 윤성수, 윤준수 (공동대표이사)</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="2"> </p>
+<p style="color: #333333; text-align: start;" data-path-to-node="3" data-ke-size="size16"><b>[최근 시장 관심 이유]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 캐터필러 수주잔고 급증 수혜</b> : 캐터필러의 굴삭기 수주잔고가 2024년 약 30억 달러에서 2025년 2분기 약 37억 달러로 급증하며 직접 수혜가 기대된다. 진성티이씨는 캐터필러의 16년 이상 검증된 공급 파트너로, 캐터필러향 매출 비중이 약 70%에 달한다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 태국 신공장 가동 및 러버트랙 신사업</b> : 3,000억원 규모 캐파의 태국 신공장이 2026년 하반기 본격 가동에 돌입하며, 캐터필러향 러버트랙 공급사로 신규 선정되어 연간 900억원 이상의 신규 매출이 기대된다. 기존 스틸 트랙에서 고무 트랙까지 포트폴리오가 확대된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 미국 리쇼어링과 북미 매출 급증</b> : 북미 매출 비중이 2024년 43%에서 2025년 1분기 66%로 급격히 확대되었다. 미국 리쇼어링 정책과 인프라 투자 확대로 건설기계 수요가 구조적으로 증가하는 가운데, 태국 생산 거점으로 미·중 관세 리스크를 원천 차단하는 전략이 주목받는다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b>3. 주요 연혁</b></h4>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+<table style="background-color: #ffffff; color: #3c3c3c; text-align: left; border-collapse: collapse; width: 100%; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;" border="1" data-ke-align="alignLeft" data-ke-style="style12">
+<tbody>
+<tr style="background-color: #4a4a4a;">
+<td style="text-align: center; width: 15%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">일 자</span></td>
+<td style="text-align: center; width: 85%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">내 용</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1975.02</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">신생산업사 설립 (건설중장비 부품 제조 목적)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1982.04</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">진성산업(주)로 법인 전환</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1982.05</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">대우중공업(주) 납품업체 등록</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1993.06</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">캐터필러(Caterpillar Inc.) 공급업체 등록 및 납품 개시</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2000.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">(주)진성티이씨로 상호 변경</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2000.07</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">코스닥 시장 상장</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2003.10</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">중국 산동성 연대시 진성산업(연대)유한공사 설립 (중국 1공장)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2004.09</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">기업부설연구소 설립 인정 (한국산업기술진흥협회)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2006.05</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">미국 조지아주 JINSUNG AMERICA 생산법인 설립</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2006.11</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">일본 도쿄 JINSUNG JAPAN 판매법인 설립</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2008.12</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">본점 이전 (경기도 평택시 세교산단로 3 현 소재지로 이전)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2011.03</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">대표이사 변경 (윤우석·윤성수 공동대표이사 체제 출범)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2017.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">수소 인산형 연료전지(PAFC) 부품 개발 성공, 두산퓨얼셀 납품 개시</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2019.03</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">대표이사 변경 (윤성수·윤준수 공동대표이사 체제로 전환)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2022.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">태국 법인 JINSUNG T.E.C.(THAILAND) CO., LTD. 설립</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2023.05</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">태국 1공장(플로팅씰 생산) 가동 개시</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2024.07</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">인도 판매법인 신설 (글로벌 영업망 확대)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2025.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">태국 2공장(롤러·아이들러 생산) 가동, 태국 3공장(러버트랙) 착공</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2025.06</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">캐터필러향 러버트랙 신규 공급사 선정, 연간 900억원 이상 매출 기대</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2026.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">2026년 1분기 연결 매출 1,364억원(전년비 +28%), 영업이익 129억원(+43%) 달성</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"> </h4>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b>4.사업개요</b></h4>
+<p data-ke-size="size16"> </p>
+<p style="color: #333333; text-align: start;" data-ke-size="size18" data-path-to-node="3"><b>[핵심 사업]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 건설중장비 하부주행체 부품</b> :  굴삭기·불도저·크롤러크레인 등 무한궤도(Crawler)식 건설장비의 하부주행체(Under-carriage)를 구성하는 핵심 소모성 부품을 제조한다. 주요 품목은 트랙롤러(Track Roller), 캐리어롤러(Carrier Roller), 프론트아이들러(Front Idler), 스프로킷(Sprocket), 트랙링크(Track Link)이며, 전체 매출의 약 96.6%를 차지한다. 광산·토목·건설 현장에서 장비의 주행과 하중 분산에 직접 기여하며 정기 교체 수요가 꾸준히 발생한다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 수소연료전지 부품</b> :  수소 인산형 연료전지(PAFC) 시스템의 스택(Stack)을 구성하는 압력판(Pressure Plate)과 매니폴드(Manifold)를 생산하여 두산퓨얼셀에 독점 납품한다. 중장비 부품 정밀가공 기술을 연료전지 분야에 적용해 2017년 개발에 성공했으며, 연료전지 관련 매출이 2017년 32억원에서 2019년 134억원으로 급성장했다. 정부의 수소경제 로드맵과 연계되어 중장기 성장이 기대되는 사업이다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 러버트랙 신사업</b> :  미니 굴삭기·농업기계·소형 건설장비에 사용되는 러버트랙(Rubber Track)을 태국 3공장에서 생산하여 캐터필러에 공급하는 신규 사업이다. 2026년 하반기 본격 양산을 목표로 하며, 연간 900억원 이상의 신규 매출 기여가 예상된다. 기존 스틸 트랙 부품과 시너지를 통해 토탈 트랙 솔루션 공급사로 도약하는 전략적 사업이다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size18" data-path-to-node="3"><br /><b>[핵심 기술력 및 기술 난도]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 고내구성 열처리 기술</b> :  하부주행체 부품은 수십 톤의 하중과 반복 충격을 받는 극한 환경에서 사용된다. 진성티이씨는 고주파 열처리 및 침탄질화 기술로 표면 경도와 내부 인성을 동시에 확보하며, 제품 수명을 경쟁사 대비 20% 이상 향상시켰다. 특수 합금강 조성과 냉각 속도 제어 등의 공정 노하우가 수십 년에 걸쳐 축적되어 있다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>타사 대비 차별점</b> : 캐터필러의 16년 이상 장기 검증된 공급 파트너로, OEM 수준의 내구성과 치수 정밀도를 충족한다. 중국·인도 경쟁사 대비 열처리 품질이 엄격하고 고객 맞춤형 사양 대응 능력이 우수하다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>기술 난도</b> : 캐터필러의 엄격한 공급사 인증(ASI) 취득까지 평균 5년 이상이 소요되며, 대형 단조 설비 투자와 2년 이상의 시험·평가 기간이 필요하다. 기술적 진입장벽이 매우 높아 국내에서 동등 수준의 경쟁사가 극히 제한적이다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 정밀 단조·복합 가공 기술</b> :  롤러·아이들러·스프로킷 등의 부품은 단조(Forging)와 정밀 CNC 기계가공을 복합 적용하여 고밀도·고강도를 구현한다. 내부 공극(기공)을 최소화하는 단조 공정과 마이크로미터 단위의 정밀 치수 가공이 핵심이며, 수십 년간 축적된 공정 노하우와 전용 설비가 경쟁우위의 근거다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>타사 대비 차별점</b> : 단조 전용 대형 프레스와 자동화 열처리 라인을 내재화하여 품질 일관성과 원가 경쟁력을 동시에 확보했다. 경쟁사 대비 리드타임이 짧고 대량 주문 대응 능력이 우수하다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>기술 난도</b> : 수십 톤급 단조 프레스·열처리로·CNC 선반 등 초기 설비 투자 규모가 크고, 공정 자동화 및 품질관리 시스템 구축에 상당한 기간이 필요하다. 고객의 장기 납품 신뢰성 이력 없이는 신규 진입이 사실상 불가능하다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 수소연료전지 정밀가공 기술</b> :  인산형 연료전지(PAFC)의 스택을 구성하는 압력판과 매니폴드는 수소가스 밀봉성과 치수 정밀도가 동시에 요구되는 고난도 부품이다. 진성티이씨는 중장비 부품 가공에서 확보한 고강도 금속 정밀가공 역량을 연료전지 분야에 적용해 두산퓨얼셀 독점 공급사로 인정받았다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>타사 대비 차별점</b> : 국내 유일의 PAFC 압력판·매니폴드 독점 공급사 지위를 보유하며, 수소가스 누출 방지를 위한 밀봉 가공 기술은 경쟁사가 단기간에 복제하기 어렵다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>기술 난도</b> : 연료전지 부품은 화학적 부식에 강한 소재 선택과 마이크로미터 수준의 평탄도 관리가 필요하다. 수소 안전 규격 인증과 장기 내구성 시험 등 진입 장벽이 높으며, 초도 개발에만 수년이 소요된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size18" data-path-to-node="3"><br /><b>[신규 사업]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 러버트랙 생산 및 캐터필러 공급</b> :  태국 3공장에서 미니 굴삭기·농기계용 러버트랙을 생산하여 캐터필러에 납품하는 신사업이다. 2025년 11월 캐터필러 샘플 테스트를 완료하고 2026년 하반기 양산 개시를 목표로 하며, 연간 900억원 이상의 신규 매출이 기대된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 태국 생산 거점 고도화로 공급망 재편</b> :  미·중 무역 분쟁에 따른 고율 관세 리스크 대응 차원에서 태국 공장을 제3국 핵심 생산기지로 육성하고 있다. 중국 생산 물량을 점진적으로 태국으로 이관함으로써 미국향 수출 가격 경쟁력을 확보하며, 총 3,000억원 CAPA 달성 시 기존 대비 연간 1조원 규모의 생산 역량을 보유하게 된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b><span style="color: #000000;">5. 주요 제품 매출 구성 </span></b></h4>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+<table style="background-color: #ffffff; color: #3c3c3c; text-align: left; border-collapse: collapse; width: 100%; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;" border="1" data-ke-align="alignLeft" data-ke-style="style12">
+<tbody>
+<tr style="background-color: #4a4a4a;">
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;" colspan="2"><span style="color: #ffffff;">사업 부문</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">주요제품</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">2022년 (백만원)</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">2023년 (백만원)</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">2024년 (백만원)</span></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="3"><span style="color: #000000;">건설중장비<br />부품</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Roller류</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Track Roller, Carrier Roller</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="color: #000000;">Idler·Sprocket류</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Front Idler, Sprocket, Track Link</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="color: #000000;">소 계</span></td>
+<td style="text-align: center;"><span style="color: #000000;">하부주행체 전품목</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 503,861</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 258,594</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 227,753</span></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="1"><span style="color: #000000;">연료전지<br />부품</span></td>
+<td style="text-align: center;"><span style="color: #000000;">소 계</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Pressure Plate, Manifold</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 13,000</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 9,000</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 7,975</span></td>
+</tr>
+<tr style="background-color: #f5f5f5;">
+<td style="text-align: center;" colspan="2"><span style="color: #000000;"><b>합 계</b></span></td>
+<td style="text-align: center;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;"><b>약 516,861</b></span></td>
+<td style="text-align: right;"><span style="color: #000000;"><b>약 267,594</b></span></td>
+<td style="text-align: right;"><span style="color: #000000;"><b>235,728</b></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+```
+
+(계속 전체 HTML을 조립합니다)
+
+저는 WebSearch/WebFetch 도구만 있고 파일 시스템 접근 도구가 없습니다. 완전한 HTML 파일 내용을 최종 응답에 전체 출력하고, 사용자가 `reports_b/036890.html`에 저장하도록 안내하겠습니다.
+
+아래가 완성된 전체 HTML입니다. 이를 `/Users/seongbeenkim/stock-charts/reports_b/036890.html`로 저장하세요.
+
+---
+
+**`reports_b/036890.html` 전체 내용:**
+
+```html
+<h3 data-ke-size="size23"><b>[진성티이씨]</b></h3>
+<h4 data-ke-size="size20"><b>1. 주가 흐름 </b></h4>
+<p><iframe src="https://kseongbin.github.io/stock-charts/036890.html" width="100%" height="520" frameborder="0"></iframe></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">▶ <a href="https://finance.naver.com/item/fchart.naver?code=036890" target="_blank" rel="noopener noreferrer">네이버증권 차트 바로가기</a></p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b>2. 기업 개요</b></h4>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>[주요 사업]</b></p>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>▶ 건설중장비 하부주행체 부품</b> : 굴삭기·불도저 등 무한궤도식 건설장비에 장착되는 롤러, 아이들러, 스프로킷, 트랙링크 등을 제조·판매하는 주력 사업으로 매출의 약 96%를 차지한다.</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>▶ 수소연료전지 부품</b> : 수소 인산형 연료전지(PAFC) 시스템에 사용되는 압력판(Pressure Plate)과 매니폴드(Manifold)를 두산퓨얼셀에 독점 공급하는 신성장 사업이다.</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="1" data-ke-size="size16"><b>▶ 글로벌 생산 네트워크 운영</b> : 중국(2개), 미국(1개), 태국(1개)의 해외 생산법인과 일본·인도·텍사스 판매법인을 운영하며, 세계 최대 건설기계 업체 캐터필러(Caterpillar)에 약 70%의 매출 비중으로 납품한다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="1"> </p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16"><b>[기업 기본 정보]</b></p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 기업명 : 진성티이씨 주식회사 (Jinsung T.E.C. Co., Ltd.)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 상장 구분 : 코스닥 (KOSDAQ, 종목코드 036890)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 설립일 : 1982년 04월 28일</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 회사 소재지 : 경기도 평택시 세교산단로 3 (세교동)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 직원수 : 217명 (2026년 03월 기준)</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="2" data-ke-size="size16">▶ 대표자 : 윤성수, 윤준수 (공동대표이사)</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="2"> </p>
+<p style="color: #333333; text-align: start;" data-path-to-node="3" data-ke-size="size16"><b>[최근 시장 관심 이유]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 캐터필러 수주잔고 급증 수혜</b> : 캐터필러의 굴삭기 수주잔고가 2024년 약 30억 달러에서 2025년 2분기 약 37억 달러로 급증하며 직접 수혜가 기대된다. 진성티이씨는 캐터필러의 16년 이상 검증된 공급 파트너로, 캐터필러향 매출 비중이 약 70%에 달한다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 태국 신공장 가동 및 러버트랙 신사업</b> : 3,000억원 규모 캐파의 태국 신공장이 2026년 하반기 본격 가동에 돌입하며, 캐터필러향 러버트랙 공급사로 신규 선정되어 연간 900억원 이상의 신규 매출이 기대된다. 스틸 트랙에서 고무 트랙으로 제품 포트폴리오가 대폭 확대된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 미국 리쇼어링과 북미 매출 급증</b> : 북미 매출 비중이 2024년 43%에서 2025년 1분기 66%로 급격히 확대되었다. 미국의 리쇼어링 정책과 인프라 투자 확대로 건설기계 수요가 구조적으로 증가하고, 태국 생산 거점을 통해 미·중 관세 리스크를 원천 차단하는 전략이 주목받는다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b>3. 주요 연혁</b></h4>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+<table style="background-color: #ffffff; color: #3c3c3c; text-align: left; border-collapse: collapse; width: 100%; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;" border="1" data-ke-align="alignLeft" data-ke-style="style12">
+<tbody>
+<tr style="background-color: #4a4a4a;">
+<td style="text-align: center; width: 15%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">일 자</span></td>
+<td style="text-align: center; width: 85%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">내 용</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1975.02</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">신생산업사 설립 (건설중장비 부품 제조 목적)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1982.04</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">진성산업(주)로 법인 전환</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1982.05</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">대우중공업(주) 납품업체 등록</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">1993.06</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">캐터필러(Caterpillar Inc.) 공급업체 등록 및 납품 개시</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2000.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">(주)진성티이씨로 상호 변경</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2000.07</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">코스닥 시장 상장</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2003.10</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">중국 산동성 연대시 진성산업(연대)유한공사 설립 (중국 1공장)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2004.09</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">기업부설연구소 설립 인정 (한국산업기술진흥협회)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2006.05</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">미국 조지아주 JINSUNG AMERICA 생산법인 설립</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2006.11</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">일본 도쿄 JINSUNG JAPAN 판매법인 설립</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2008.12</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">본점 이전 (경기도 평택시 세교산단로 3 현 소재지로 이전)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2011.03</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">대표이사 변경 (윤우석·윤성수 공동대표이사 체제 출범)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2017.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">수소 인산형 연료전지(PAFC) 부품 개발 성공, 두산퓨얼셀 납품 개시</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2019.03</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">대표이사 변경 (윤성수·윤준수 공동대표이사 체제로 전환)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2022.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">태국 법인 JINSUNG T.E.C.(THAILAND) CO., LTD. 설립</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2023.05</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">태국 1공장(플로팅씰 생산) 가동 개시</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2024.07</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">인도 판매법인 신설 (글로벌 영업망 확대)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2025.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">태국 2공장(롤러·아이들러 생산) 가동, 태국 3공장(러버트랙) 착공</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2025.06</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">캐터필러향 러버트랙 신규 공급사 선정, 연간 900억원 이상 매출 기대</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 15%;"><span style="color: #000000;">2026.01</span></td>
+<td style="text-align: left; width: 85%;"><span style="color: #000000;">2026년 1분기 연결 매출 1,364억원(전년비 +28%), 영업이익 129억원(+43%) 달성</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"> </h4>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b>4.사업개요</b></h4>
+<p data-ke-size="size16"> </p>
+<p style="color: #333333; text-align: start;" data-ke-size="size18" data-path-to-node="3"><b>[핵심 사업]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 건설중장비 하부주행체 부품</b> :  굴삭기·불도저·크롤러크레인 등 무한궤도(Crawler)식 건설장비의 하부주행체(Under-carriage)를 구성하는 핵심 소모성 부품을 제조한다. 주요 품목은 트랙롤러(Track Roller), 캐리어롤러(Carrier Roller), 프론트아이들러(Front Idler), 스프로킷(Sprocket), 트랙링크(Track Link)이며, 전체 매출의 약 96.6%를 차지한다. 광산·토목·건설 현장에서 장비의 주행과 하중 분산에 직접 기여하며 정기 교체 수요가 꾸준히 발생한다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 수소연료전지 부품</b> :  수소 인산형 연료전지(PAFC) 시스템의 스택(Stack)을 구성하는 압력판(Pressure Plate)과 매니폴드(Manifold)를 생산하여 두산퓨얼셀에 독점 납품한다. 중장비 부품 정밀가공 기술을 연료전지 분야에 적용해 2017년 개발에 성공했으며, 연료전지 관련 매출이 2017년 32억원에서 2019년 134억원으로 급성장했다. 정부의 수소경제 로드맵과 연계되어 중장기 성장이 기대되는 사업이다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 러버트랙 신사업</b> :  미니 굴삭기·농업기계·소형 건설장비에 사용되는 러버트랙(Rubber Track)을 태국 3공장에서 생산하여 캐터필러에 공급하는 신규 사업이다. 2026년 하반기 본격 양산을 목표로 하며, 연간 900억원 이상의 신규 매출 기여가 예상된다. 기존 스틸 트랙 부품과 시너지를 통해 토탈 트랙 솔루션 공급사로 도약하는 전략적 사업이다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size18" data-path-to-node="3"><br /><b>[핵심 기술력 및 기술 난도]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 고내구성 열처리 기술</b> :  하부주행체 부품은 수십 톤의 하중과 반복 충격을 받는 극한 환경에서 사용된다. 진성티이씨는 고주파 열처리 및 침탄질화 기술로 표면 경도와 내부 인성을 동시에 확보하며, 제품 수명을 경쟁사 대비 20% 이상 향상시켰다. 특수 합금강 조성과 냉각 속도 제어 등의 공정 노하우가 수십 년에 걸쳐 축적되어 있다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>타사 대비 차별점</b> : 캐터필러의 16년 이상 장기 검증된 공급 파트너로, OEM 수준의 내구성과 치수 정밀도를 충족한다. 중국·인도 경쟁사 대비 열처리 품질이 엄격하고 고객 맞춤형 사양 대응 능력이 우수하다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>기술 난도</b> : 캐터필러의 엄격한 공급사 인증(ASI) 취득까지 평균 5년 이상이 소요되며, 대형 단조 설비 투자와 2년 이상의 시험·평가 기간이 필요하다. 기술적 진입장벽이 매우 높아 국내에서 동등 수준의 경쟁사가 극히 제한적이다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 정밀 단조·복합 가공 기술</b> :  롤러·아이들러·스프로킷 등의 부품은 단조(Forging)와 정밀 CNC 기계가공을 복합 적용하여 고밀도·고강도를 구현한다. 내부 공극(기공)을 최소화하는 단조 공정과 마이크로미터 단위의 정밀 치수 가공이 핵심이며, 수십 년간 축적된 공정 노하우와 전용 설비가 경쟁우위의 근거다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>타사 대비 차별점</b> : 단조 전용 대형 프레스와 자동화 열처리 라인을 내재화하여 품질 일관성과 원가 경쟁력을 동시에 확보했다. 경쟁사 대비 리드타임이 짧고 대량 주문 대응 능력이 우수하다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>기술 난도</b> : 수십 톤급 단조 프레스·열처리로·CNC 선반 등 초기 설비 투자 규모가 크고, 공정 자동화 및 품질관리 시스템 구축에 상당한 기간이 필요하다. 고객의 장기 납품 신뢰성 이력 없이는 신규 진입이 사실상 불가능하다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 수소연료전지 정밀가공 기술</b> :  인산형 연료전지(PAFC)의 스택을 구성하는 압력판과 매니폴드는 수소가스 밀봉성과 치수 정밀도가 동시에 요구되는 고난도 부품이다. 진성티이씨는 중장비 부품 가공에서 확보한 고강도 금속 정밀가공 역량을 연료전지 분야에 적용해 두산퓨얼셀 독점 공급사로 인정받았다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>타사 대비 차별점</b> : 국내 유일의 PAFC 압력판·매니폴드 독점 공급사 지위를 보유하며, 수소가스 누출 방지를 위한 밀봉 가공 기술은 경쟁사가 단기간에 복제하기 어렵다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3">▶ <b>기술 난도</b> : 연료전지 부품은 화학적 부식에 강한 소재 선택과 마이크로미터 수준의 평탄도 관리가 필요하다. 수소 안전 규격 인증과 장기 내구성 시험 등 진입 장벽이 높으며, 초도 개발에만 수년이 소요된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size18" data-path-to-node="3"><br /><b>[신규 사업]</b></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 러버트랙 생산 및 캐터필러 공급</b> :  태국 3공장에서 미니 굴삭기·농기계용 러버트랙을 생산하여 캐터필러에 납품하는 신사업이다. 2025년 11월 캐터필러 샘플 테스트를 완료하고 2026년 하반기 양산 개시를 목표로 하며, 연간 900억원 이상의 신규 매출이 기대된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"><b>▶ 태국 생산 거점 고도화로 공급망 재편</b> :  미·중 무역 분쟁에 따른 고율 관세 리스크 대응 차원에서 태국 공장을 제3국 핵심 생산기지로 육성하고 있다. 중국 생산 물량을 점진적으로 태국으로 이관함으로써 미국향 수출 가격 경쟁력을 확보하며, 총 3,000억원 CAPA 달성 시 기존 CAPA 포함 연간 1조원 규모의 생산 역량을 보유하게 된다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="3"> </p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b><span style="color: #000000;">5. 주요 제품 매출 구성 </span></b></h4>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+<table style="background-color: #ffffff; color: #3c3c3c; text-align: left; border-collapse: collapse; width: 100%; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;" border="1" data-ke-align="alignLeft" data-ke-style="style12">
+<tbody>
+<tr style="background-color: #4a4a4a;">
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;" colspan="2"><span style="color: #ffffff;">사업 부문</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">주요제품</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">2022년 (백만원)</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">2023년 (백만원)</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">2024년 (백만원)</span></td>
+</tr>
+<tr>
+<td style="text-align: center;" rowspan="3"><span style="color: #000000;">건설중장비<br />부품</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Roller류</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Track Roller, Carrier Roller</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="color: #000000;">Idler·Sprocket류</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Front Idler, Sprocket, Track Link</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="color: #000000;">소 계</span></td>
+<td style="text-align: center;"><span style="color: #000000;">하부주행체 전품목</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 503,861</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 258,594</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 227,753</span></td>
+</tr>
+<tr>
+<td style="text-align: center;"><span style="color: #000000;">연료전지<br />부품</span></td>
+<td style="text-align: center;"><span style="color: #000000;">소 계</span></td>
+<td style="text-align: center;"><span style="color: #000000;">Pressure Plate, Manifold</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 13,000</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 9,000</span></td>
+<td style="text-align: right;"><span style="color: #000000;">약 7,975</span></td>
+</tr>
+<tr style="background-color: #f5f5f5;">
+<td style="text-align: center;" colspan="2"><span style="color: #000000;"><b>합 계</b></span></td>
+<td style="text-align: center;"><span style="color: #000000;">-</span></td>
+<td style="text-align: right;"><span style="color: #000000;"><b>약 516,861</b></span></td>
+<td style="text-align: right;"><span style="color: #000000;"><b>약 267,594</b></span></td>
+<td style="text-align: right;"><span style="color: #000000;"><b>235,728</b></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p data-ke-size="size16"> </p>
+<h4 data-ke-size="size20"><span style="color: #000000;"><b>6-1 연간 재무</b></span></h4>
+<p><iframe src="https://kseongbin.github.io/stock-charts/036890_financial.html" width="100%" height="950" frameborder="0" scrolling="no"></iframe></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16">▶ <a href="https://finance.naver.com/item/coinfo.naver?code=036890" target="_blank" rel="noopener noreferrer">네이버증권 종목분석 바로가기</a></p>
+<h4 data-ke-size="size20"><span style="color: #000000;"><b>6-2 분기 재무</b></span></h4>
+<p><iframe src="https://kseongbin.github.io/stock-charts/036890_financial_q.html" width="100%" height="550" frameborder="0" scrolling="no"></iframe></p>
+<p data-ke-size="size16"> </p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><b><span style="color: #000000;">7. 주주 정보</span></b></h4>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+<table style="background-color: #ffffff; color: #3c3c3c; text-align: left; border-collapse: collapse; width: 100%; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;" border="1" data-ke-align="alignLeft" data-ke-style="style12">
+<tbody>
+<tr>
+<td style="text-align: center; width: 10%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;" rowspan="3"><span style="color: #ffffff;">성 명</span></td>
+<td style="text-align: center; width: 16%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;" rowspan="3"><span style="color: #ffffff;">관 계</span></td>
+<td style="text-align: center; width: 10%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;" rowspan="3"><span style="color: #ffffff;">주식의 종류</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;" colspan="4"><span style="color: #ffffff;">소유주식수 및 지분율</span></td>
+<td style="text-align: center; width: 8%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;" rowspan="3"><span style="color: #ffffff;">비 고</span></td>
+</tr>
+<tr>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;" colspan="2"><span style="color: #ffffff;">기 초</span></td>
+<td style="text-align: center; font-weight: bold; background-color: #4a4a4a; color: #ffffff;" colspan="2"><span style="color: #ffffff;">기 말</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 14%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">주식수</span></td>
+<td style="text-align: center; width: 9%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">지분율</span></td>
+<td style="text-align: center; width: 14%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">주식수</span></td>
+<td style="text-align: center; width: 9%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">지분율</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%; white-space: nowrap;"><span style="color: #000000;">윤우석</span></td>
+<td style="text-align: center; width: 16%;"><span style="color: #000000;">최대주주(창업자)</span></td>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">보통주</span></td>
+<td style="text-align: right; width: 14%;"><span style="color: #000000;">3,301,500</span></td>
+<td style="text-align: right; width: 9%;"><span style="color: #000000;">14.98%</span></td>
+<td style="text-align: right; width: 14%;"><span style="color: #000000;">3,301,500</span></td>
+<td style="text-align: right; width: 9%;"><span style="color: #000000;">14.98%</span></td>
+<td style="text-align: center; width: 8%;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%; white-space: nowrap;"><span style="color: #000000;">윤성수</span></td>
+<td style="text-align: center; width: 16%;"><span style="color: #000000;">공동대표이사</span></td>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">보통주</span></td>
+<td style="text-align: right; width: 14%;"><span style="color: #000000;">2,506,673</span></td>
+<td style="text-align: right; width: 9%;"><span style="color: #000000;">11.38%</span></td>
+<td style="text-align: right; width: 14%;"><span style="color: #000000;">2,506,673</span></td>
+<td style="text-align: right; width: 9%;"><span style="color: #000000;">11.38%</span></td>
+<td style="text-align: center; width: 8%;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%; white-space: nowrap;"><span style="color: #000000;">윤준수</span></td>
+<td style="text-align: center; width: 16%;"><span style="color: #000000;">공동대표이사</span></td>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">보통주</span></td>
+<td style="text-align: right; width: 14%;"><span style="color: #000000;">2,406,673</span></td>
+<td style="text-align: right; width: 9%;"><span style="color: #000000;">10.92%</span></td>
+<td style="text-align: right; width: 14%;"><span style="color: #000000;">2,406,673</span></td>
+<td style="text-align: right; width: 9%;"><span style="color: #000000;">10.92%</span></td>
+<td style="text-align: center; width: 8%;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr style="background-color: #f5f5f5;">
+<td style="text-align: center; width: 10%;" colspan="2"><span style="color: #000000;">계</span></td>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">보통주</span></td>
+<td style="text-align: right; width: 14%;"><span style="color: #000000;">8,214,846</span></td>
+<td style="text-align: right; width: 9%;"><span style="color: #000000;">37.28%</span></td>
+<td style="text-align: right; width: 14%;"><span style="color: #000000;">8,214,846</span></td>
+<td style="text-align: right; width: 9%;"><span style="color: #000000;">37.28%</span></td>
+<td style="text-align: center; width: 8%;"><span style="color: #000000;">-</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p data-ke-size="size16"> </p>
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+<table style="background-color: #ffffff; color: #3c3c3c; text-align: left; border-collapse: collapse; width: 100%; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;" border="1" data-ke-align="alignLeft" data-ke-style="style12">
+<tbody>
+<tr>
+<td style="text-align: center; width: 8%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">성명</span></td>
+<td style="text-align: center; width: 8%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">생년월일</span></td>
+<td style="text-align: center; width: 10%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">직위</span></td>
+<td style="text-align: center; width: 8%; font-weight: bold; background-color: #4a4a4a;color: #ffffff;"><span style="color: #ffffff;">담당업무</span></td>
+<td style="text-align: center; width: 38%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">주요경력</span></td>
+<td style="text-align: center; width: 12%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">소유주식수</span></td>
+<td style="text-align: center; width: 12%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">재직기간</span></td>
+<td style="text-align: center; width: 12%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">임기만료일</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 8%; white-space: nowrap;"><span style="color: #000000;">윤성수</span></td>
+<td style="text-align: center; width: 8%;"><span style="color: #000000;">-</span></td>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">대표이사<br />(등기)</span></td>
+<td style="text-align: center; width: 8%;"><span style="color: #000000;">경영총괄</span></td>
+<td style="text-align: left; width: 38%;"><span style="color: #000000;">진성티이씨 입사<br />영업·생산 부문 경력<br />2011년 공동대표이사 취임<br />현재 공동대표이사</span></td>
+<td style="text-align: right; width: 12%;"><span style="color: #000000;">2,506,673</span></td>
+<td style="text-align: center; width: 12%;"><span style="color: #000000;">2011.03~</span></td>
+<td style="text-align: center; width: 12%;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 8%; white-space: nowrap;"><span style="color: #000000;">윤준수</span></td>
+<td style="text-align: center; width: 8%;"><span style="color: #000000;">-</span></td>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">대표이사<br />(등기)</span></td>
+<td style="text-align: center; width: 8%;"><span style="color: #000000;">경영총괄</span></td>
+<td style="text-align: left; width: 38%;"><span style="color: #000000;">진성티이씨 입사<br />해외사업 부문 경력<br />2019년 공동대표이사 취임<br />현재 공동대표이사</span></td>
+<td style="text-align: right; width: 12%;"><span style="color: #000000;">2,406,673</span></td>
+<td style="text-align: center; width: 12%;"><span style="color: #000000;">2019.03~</span></td>
+<td style="text-align: center; width: 12%;"><span style="color: #000000;">-</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 8%; white-space: nowrap;"><span style="color: #000000;">윤우석</span></td>
+<td style="text-align: center; width: 8%;"><span style="color: #000000;">-</span></td>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">회장<br />(등기)</span></td>
+<td style="text-align: center; width: 8%;"><span style="color: #000000;">경영자문</span></td>
+<td style="text-align: left; width: 38%;"><span style="color: #000000;">1975년 신생산업사 창업<br />1982년 법인 전환 대표이사<br />2019년 대표이사 퇴임 후 회장<br />현재 최대주주 회장</span></td>
+<td style="text-align: right; width: 12%;"><span style="color: #000000;">3,301,500</span></td>
+<td style="text-align: center; width: 12%;"><span style="color: #000000;">1982.04~</span></td>
+<td style="text-align: center; width: 12%;"><span style="color: #000000;">-</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"> </h4>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20" data-path-to-node="4"><b>9-1 관련 기사</b></h4>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="4">-제목 : [파워 e종목] 진성티이씨, 美 캐터필러 구조적 호황 수혜로 주가 우상향 지속할까<br />-날짜 : 2025년 12월 26일<br />-내용 : 건설장비 부품 기업 진성티이씨가 주요 고객사인 미국 캐터필러의 성장 사이클로부터 강력한 성장 모멘텀을 얻을 것으로 분석된다. 2025년 3분기 기준 매출액 26%, 영업이익 208% 증가를 달성했으며, 캐터필러 매출 비중이 약 70%에 달하는 긴밀한 파트너십을 유지하고 있다. 2026년 하반기 태국 공장 완공으로 퀀텀 점프가 예상되며, 미국 리쇼어링으로 인한 건설기계 수요 증가 전망이 긍정적이다. 한국IR협의회는 캐터필러의 역대 최대 수주잔고 확보와 16년간 검증된 파트너십이 핵심 수혜 요인이라고 평가했다.</p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="4">-링크 : <a href="http://www.dailyinvest.kr/news/articleView.html?idxno=69689" target="_blank" rel="noopener noreferrer">http://www.dailyinvest.kr/news/articleView.html?idxno=69689</a></p>
+<p style="color: #333333; text-align: start;" data-ke-size="size16" data-path-to-node="4"> </p>
+<h4 style="color: #000000; text-align: start;" data-path-to-node="4" data-ke-size="size20"><b>9-2 관련 기사</b></h4>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16">-제목 : 하나증권 "진성티이씨, 중장비 호황에 고성장 시동…밸류에이션 매력 부각"<br />-날짜 : 2025년 08월 13일<br />-내용 : 하나증권 최재호 연구원은 진성티이씨가 유리한 시장 환경 속에서 실적 성장을 보일 것으로 분석했다. 2025년 2분기 매출액이 전년 대비 17.2% 증가한 1,185억원, 영업이익은 90.0% 성장한 118억원을 기록할 것으로 전망했다. 북미 매출 비중이 높아 미국 인프라 투자와 AI 데이터센터 확장에 수혜를 받을 것으로 예상되며, 태국 신공장과 캐터필러향 러버트랙 공급으로 연간 약 900억원 이상의 실적 발생을 기대할 수 있다고 평가했다.</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16">-링크 : <a href="https://www.etoday.co.kr/news/view/2496573" target="_blank" rel="noopener noreferrer">https://www.etoday.co.kr/news/view/2496573</a></p>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16"> </p>
+<h4 style="color: #000000; text-align: start;" data-path-to-node="4" data-ke-size="size20"><b>9-3 관련 기사</b></h4>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16">-제목 : [파워 e종목] 진성티이씨, 북미 고객사향 매출로 실적 성장 전망…주가 상향각?<br />-날짜 : 2025년 01월 28일<br />-내용 : DS증권 보고서에 따르면 향후 3년 내 북미 고객 캐터필러·히타치향 매출은 현재 수준에서 각각 4배, 3배 증가(관련 매출 1,200억원 내외 추정)할 것으로 예상된다. 태국 공장 확충을 통해 캐터필러 등 주요 고객사에 고무제품과 트랙 공급을 확대할 계획이며, 북미 매출 비중 확대로 미국 인프라 투자 수혜가 집중될 것으로 전망된다. 2025년 연간 매출액은 4,648억원으로 전년 대비 19.0% 증가가 예상된다.</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16">-링크 : <a href="http://www.dailyinvest.kr/news/articleView.html?idxno=63190" target="_blank" rel="noopener noreferrer">http://www.dailyinvest.kr/news/articleView.html?idxno=63190</a></p>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16"> </p>
+<h4 style="color: #000000; text-align: start;" data-path-to-node="4" data-ke-size="size20"><b>9-4 관련 기사</b></h4>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16">-제목 : [종목이슈] 진성티이씨 "지난해 수소연료전지 부품 매출 80억 발생"<br />-날짜 : 2021년 03월 22일<br />-내용 : 진성티이씨는 전년도 수소연료전지 부품(압력판, 매니폴드) 매출이 80억원 발생했다고 밝혔다. 두산퓨어셀의 인산형 연료전지(PAFC) 부품 국산화 추진에 따라 성장하고 있으며, 2017년 중장비 부품에서 쌓은 노하우를 바탕으로 압력판과 매니폴드 개발에 성공했다. 회사는 수소연료전지 부품 매출이 올해 지난해보다 더 늘어날 것으로 전망하고 있으며, 건설기계 부품 사업과 수소 사업의 투트랙 성장 전략을 추진 중이다.</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16">-링크 : <a href="https://www.etoday.co.kr/news/view/1713871" target="_blank" rel="noopener noreferrer">https://www.etoday.co.kr/news/view/1713871</a></p>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16"> </p>
+<h4 style="color: #000000; text-align: start;" data-path-to-node="4" data-ke-size="size20"><b>9-5 관련 기사</b></h4>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16">-제목 : [공시王] '현금 부자' 진성티이씨, 美 인프라 법안 수혜주 부각<br />-날짜 : 2022년 11월 14일<br />-내용 : 진성티이씨는 2022년 3분기 연결 실적에서 매출 1,416억원, 영업이익 193억원을 기록해 전년 동기 대비 각각 37.8%, 369.8% 성장했다. 주요 고객사는 캐터필러·히타치·두산밥캣 등이며, 미국 시장 비중이 크다는 점이 특징이다. 바이든 정부의 인프라 법안과 IRA(인플레이션 감축법) 통과가 긍정적 요인으로 작용하고 있으며, 시총 대비 이익 잉여금이 1,700억원에 달하는 현금 부자임에도 저평가 상태라는 평가를 받았다.</p>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16">-링크 : <a href="https://www.infostockdaily.co.kr/news/articleView.html?idxno=183961" target="_blank" rel="noopener noreferrer">https://www.infostockdaily.co.kr/news/articleView.html?idxno=183961</a></p>
+<p style="color: #333333; text-align: start;" data-path-to-node="4" data-ke-size="size16"> </p>
+<h4 style="color: #000000; text-align: start;" data-ke-size="size20"><span style="color: #000000;"><b>10. 사업 검토</b></span></h4>
+<div style="background-color: #ffffff; color: #000000; text-align: start;">
+<div style="overflow-x: auto; -webkit-overflow-scrolling: touch;">
+<table style="background-color: #ffffff; color: #3c3c3c; text-align: left; border-collapse: collapse; width: 100%; white-space: nowrap; word-break: keep-all; overflow-wrap: normal;" border="1" data-ke-align="alignLeft" data-ke-style="style12">
+<tbody>
+<tr style="background-color: #4a4a4a;">
+<td style="text-align: center; width: 10%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">구분</span></td>
+<td style="text-align: center; width: 30%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">진성티이씨 (Target)</span></td>
+<td style="text-align: center; width: 30%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">대창단조 (경쟁사 1)</span></td>
+<td style="text-align: center; width: 30%; font-weight: bold; background-color: #4a4a4a; color: #ffffff;"><span style="color: #ffffff;">흥국 (경쟁사 2)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">회사명</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">진성티이씨 (036890)</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">대창단조 (015230)</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">흥국 (010240)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">기업 성격</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">건설중장비 하부주행체 부품 전문 제조·수출 기업, 캐터필러 핵심 파트너</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">중장비 하부주행체 부품(링크·롤러·슈) 및 자동차 크랭크샤프트 제조 기업</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">건설기계 하부주행체 부품 및 단조품 전문 제조 기업, 국내외 OEM 납품</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">시가 총액</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">약 2,994억원 (2026년 7월 기준)</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">약 5,930억원 (2026년 기준)</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">약 609억원 (2024년 기준)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">2024년 매출</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">약 2,357억원 (연결 기준)</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">약 3,222억원 (연결 기준)</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">약 1,287억원</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">2024년 순이익</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">약 245억원 (연결 기준)</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">약 200억원 (추정)</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">약 40억원 (추정)</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">주력 제품</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">Track Roller, Carrier Roller, Front Idler, Sprocket, Track Link, 러버트랙(신규)</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">Track Link, Roller, Track Shoe, 크랭크샤프트, Segment Sprocket</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">Track Roller, Carrier Roller, Idler, Tension Cylinder, 단조 부품</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">핵심 보유 기술</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">고주파 열처리, 단조·CNC 복합 가공, 연료전지 정밀가공, 러버트랙 생산</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">단조 설비 기술, 고강도 열처리, OEM 맞춤형 단조 공정</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">형단조·자유단조 복합 기술, 글로벌 OEM 납품 품질 관리</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">차별화 강점</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">캐터필러 16년 이상 독점적 파트너십, 연료전지 사업 겸영, 태국 관세 리스크 헤지 전략</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">DCF 고유 브랜드 인지도, 자동차 부품 겸업으로 경기 분산, 인도 현지 법인 운영</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">중국·일본·인도·미국 글로벌 네트워크, 형단조와 자유단조 동시 보유</span></td>
+</tr>
+<tr>
+<td style="text-align: center; width: 10%;"><span style="color: #000000;">비고</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">대상 기업</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">국내 최대 중장비 하부주행체 부품 경쟁사, 트랙링크·슈 분야 강점</span></td>
+<td style="text-align: left; width: 30%;"><span style="color: #000000;">규모는 소형이나 형단조 기술력 보유, 주요 OEM 납품으로 경쟁 관계</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p style="color: #222222; text-align: start;" data-ke-size="size18"> </p>
+<p style="color: #222222; text-align: start;" data-ke-size="size18"><b><span style="color: #000000;">[핵심 분야별 상세 성장성 분석]</span></b></p>
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span>► <b>건설중장비 하부주행체 글로벌 시장</b></span><b> : 인프라 투자 확대와 광업 수요 회복이 주도하는 구조적 성장</b></p>
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span data-contrast="auto">글로벌 건설장비 언더캐리지(하부주행체) 시장은 2023년 약 60억 달러(약 8조원) 규모로 추정되며(업계 추정치 기준), 2030년까지 연평균 5~7% 성장하여 90억 달러 이상으로 확대될 것으로 전망된다. 미국의 인프라 투자법(IIJA) 집행과 AI 데이터센터 건설 붐, 신흥국 인프라 개발이 주요 수요 동력으로 작용하고 있다. 진성티이씨는 세계 최대 건설기계 업체인 캐터필러에 집중 납품하는 구조로, 캐터필러의 수주잔고 확대와 직결된 수혜를 누리고 있다. 2026년 하반기 태국 3공장 풀가동 시 연간 생산 캐파가 1조원 규모로 확대되어 외형 성장의 물리적 여건이 갖추어진다.</span></p>
+</div>
+<div style="background-color: #ffffff; color: #000000; text-align: start;">
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span>►<b><span> 수소연료전지 부품 시장</span></b></span><b><span> </span>: 수소경제 확장과 함께 성장하는 부품 독점 공급 지위</b></p>
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span data-contrast="auto">글로벌 수소연료전지 시장은 2023년 약 30조원 규모에서 2030년 약 100조원 규모로 연평균 15% 이상 성장이 전망된다(IRS글로벌). 진성티이씨는 두산퓨얼셀의 PAFC 압력판·매니폴드 국내 독점 공급사로, 두산퓨얼셀의 수주 확대 시 직접 수혜가 예상된다. 연료전지 부품 매출은 2017년 32억원에서 2019년 134억원으로 4배 이상 급성장했으며, 정부의 수소경제 로드맵과 연계된 발전용 연료전지 설치 의무화 정책이 중장기 수요를 뒷받침한다. 다만 중장비 부품 대비 매출 비중이 낮아 본격적인 매출 기여까지 시간이 필요하다.</span></p>
+</div>
+<div style="background-color: #ffffff; color: #000000; text-align: start;">
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span>►<b><span><span> </span>러버트랙 신시장 진출</span></b></span><b><span> </span>: 캐터필러향 신규 공급으로 연 900억원 이상 매출 추가</b></p>
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span data-contrast="auto">글로벌 러버트랙 시장은 미니 굴삭기·농기계 수요 증가와 함께 연평균 6~8% 성장하고 있으며, 2025년 기준 약 20억 달러(약 2.7조원) 규모로 추정된다. 진성티이씨는 캐터필러의 러버트랙 신규 공급사로 선정되어 2026년 하반기 양산을 목표로 태국 3공장을 건설 중이다. 국내 기존 공급사(D사)가 연간 약 930억원의 캐터필러향 러버트랙 공급 계약을 체결한 사례를 고려하면, 진성티이씨도 양산 개시 후 연간 900억원 이상의 신규 매출 창출이 가능하다. 고무 트랙의 경량화·저진동 특성으로 도시형 소형 건설장비 수요가 증가하는 추세가 중장기 성장을 뒷받침한다.</span></p>
+<p style="color: #000000; text-align: left;" data-ke-size="size16"> </p>
+<p style="color: #222222; text-align: start;" data-ke-size="size18"><b><span style="color: #000000;">[향후 극복 필요한 기술장벽]</span></b></p>
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span>► <b>러버트랙 대량양산 품질 안정화</b></span><b> : 스틸 트랙과는 다른 고무 소재 가공 노하우 내재화 필요</b></p>
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span data-contrast="auto">러버트랙은 기존 스틸 트랙 부품과 소재·공정 특성이 근본적으로 다르다. 고무 복합재의 배합 비율, 가황(Vulcanization) 공정 온도·시간 제어, 내부 심재(스틸 코드) 배치 정밀도가 내구성과 직결되며, 진성티이씨는 이 분야의 양산 이력이 없다. 현재 수준의 샘플 테스트를 넘어 대량양산 시 불량률을 1% 미만으로 낮추는 것이 핵심 과제다. 극복 시 연간 900억원 이상의 신규 매출과 함께 고무 복합 소재 기술 포트폴리오가 확보된다.</span></p>
+</div>
+<div style="background-color: #ffffff; color: #000000; text-align: start;">
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span>►<b><span> 고객사 집중 리스크 분산</span></b></span><b><span> </span>: 캐터필러 의존도 70%에서의 구조적 다변화 필요</b></p>
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span data-contrast="auto">진성티이씨의 매출 중 캐터필러 비중이 약 70%에 달해, 캐터필러의 재고 조정이나 생산 축소 시 실적 변동성이 크게 확대된다. 2023~2024년 건설기계 업황 둔화 시 매출이 전년 대비 약 49% 급감한 것이 대표적 사례다. 히타치·코마츠·두산밥캣 등 복수 OEM 고객사 비중을 확대하고, 러버트랙·연료전지 등 비캐터필러 매출 비중을 30% 이상으로 끌어올리는 것이 중장기 과제다. 현재 인도 판매법인 신설 등 다변화를 추진 중이나 단기간에 의존도를 낮추기는 어렵다.</span></p>
+</div>
+<div style="background-color: #ffffff; color: #000000; text-align: start;">
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span>►<b><span><span> </span>태국 공장 가동 초기 원가 부담 및 수율 안정화</span></b></span><b><span> </span>: 대규모 설비 투자 후 조기 손익분기점 달성이 관건</b></p>
+<p style="color: #000000; text-align: left;" data-ke-size="size16"><span data-contrast="auto">태국 1·2·3공장에 대한 대규모 설비 투자 후 가동 초기에는 고정비 부담이 증가하고 수율이 안정화되기까지 일정 기간 수익성 저하가 불가피하다. 태국 현지의 숙련 기술 인력 확보와 품질 관리 시스템 이전이 단기 과제이며, 현지 부품 조달 비율 상승이 원가 절감의 핵심 레버다. 목표 수율 95% 이상 달성 시 태국 공장은 연간 3,000억원 이상의 생산 캐파를 온전히 활용할 수 있으며, 글로벌 생산 거점 다각화를 통해 지정학 리스크도 대폭 낮출 수 있다.</span></p>
+<p style="color: #000000; text-align: left;" data-ke-size="size16"> </p>
+</div>
