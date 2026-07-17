@@ -655,6 +655,7 @@
 | 640 | 진매트릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4.html) | 2026-07-17 |
 | 641 | 지오엘리먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%80%EC%98%A4%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8.html) | 2026-07-17 |
 | 642 | 진도 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EB%8F%84.html) | 2026-07-17 |
+| 643 | 진시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-07-17 |
 
 ---
 
