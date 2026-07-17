@@ -659,6 +659,10 @@
 | 644 | 진성티이씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%84%B1%ED%8B%B0%EC%9D%B4%EC%94%A8.html) | 2026-07-17 |
 | 645 | 진양산업 | 소재 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%96%91%EC%82%B0%EC%97%85.html) | 2026-07-17 |
 | 646 | 진바이오텍 | 바이오 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EB%B0%94%EC%9D%B4%EC%98%A4%ED%85%8D.html) | 2026-07-17 |
+| 647 | 진양홀딩스 | 지주사 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%96%91%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-07-17 |
+| 648 | 진양폴리우레탄 | 소재 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%96%91%ED%8F%B4%EB%A6%AC%EC%9A%B0%EB%A0%88%ED%83%84.html) | 2026-07-17 |
+| 649 | 진양제약 | 제약 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%96%91%EC%A0%9C%EC%95%BD.html) | 2026-07-17 |
+| 650 | 진양화학 | 소재 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%96%91%ED%99%94%ED%95%99.html) | 2026-07-17 |
 
 ---
 
