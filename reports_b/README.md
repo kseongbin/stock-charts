@@ -669,6 +669,8 @@
 | 654 | 진영 | KOSDAQ | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%98%81.html) | 2026-07-17 |
 | 655 | 진에어 | KOSPI | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%84%EC%97%90%EC%96%B4.html) | 2026-07-17 |
 | 656 | 질경이 | KONEX | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%A7%88%EA%B2%BD%EC%9D%B4.html) | 2026-07-17 |
+| 657 | 차AI헬스케어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B0%A8AI%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4.html) | 2026-07-17 |
+| 658 | 차백신연구소 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B0%A8%EB%B0%B1%EC%8B%A0%EC%97%B0%EA%B5%AC%EC%86%8C.html) | 2026-07-17 |
 
 ---
 
