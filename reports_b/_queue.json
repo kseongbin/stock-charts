@@ -8,11 +8,6 @@
   ],
   "queue": [
     {
-      "name": "진도",
-      "category": "일반",
-      "code": "088790"
-    },
-    {
       "name": "진바이오텍",
       "category": "일반",
       "code": "086060"
