@@ -688,6 +688,7 @@
 | 673 | 카카오뱅크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC.html) | 2026-07-18 |
 | 674 | 카프로 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B9%B4%ED%94%84%EB%A1%9C.html) | 2026-07-18 |
 | 675 | 카카오페이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4.html) | 2026-07-18 |
+| 676 | 케스피온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%8A%A4%ED%94%BC%EC%98%A8.html) | 2026-07-18 |
 
 ---
 
