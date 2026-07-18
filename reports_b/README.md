@@ -699,6 +699,9 @@
 | 684 | 컴퍼니케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BB%B4%ED%8D%BC%EB%8B%88%EC%BC%80%EC%9D%B4.html) | 2026-07-18 |
 | 685 | 케이비증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%A6%9D%EA%B6%8C.html) | 2026-07-18 |
 | 686 | 동국홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EB%8F%99%EA%B5%AD%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-07-18 |
+| 687 | 케이쓰리아이 | K | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%93%B0%EB%A6%AC%EC%95%84%EC%9D%B4.html) | 2026-07-18 |
+| 688 | 케이비아이동국실업 | K | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%95%84%EC%9D%B4%EB%8F%99%EA%B5%AD%EC%8B%A4%EC%97%85.html) | 2026-07-18 |
+| 689 | 케이씨 | K | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%94%A8.html) | 2026-07-18 |
 
 ---
 
