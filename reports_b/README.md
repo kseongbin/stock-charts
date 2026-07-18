@@ -734,6 +734,7 @@
 | 719 | 케이피에프 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%ED%94%BC%EC%97%90%ED%94%84.html) | 2026-07-19 |
 | 720 | 케이프 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%ED%94%84.html) | 2026-07-19 |
 | 721 | 케일럼 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%BC%EB%9F%BC.html) | 2026-07-19 |
+| 722 | 케이피티유 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%ED%94%BC%ED%8B%B0%EC%9C%A0.html) | 2026-07-19 |
 
 ---
 
