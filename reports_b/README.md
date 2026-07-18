@@ -724,6 +724,7 @@
 | 709 | 케이옥션 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%98%A5%EC%85%98.html) | 2026-07-18 |
 | 710 | 케이이엠텍 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%9D%B4%EC%97%A0%ED%85%8D.html) | 2026-07-18 |
 | 711 | 케이카 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%B9%B4.html) | 2026-07-18 |
+| 712 | 케이탑리츠 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%ED%83%91%EB%A6%AC%EC%B8%A0.html) | 2026-07-18 |
 
 ---
 
