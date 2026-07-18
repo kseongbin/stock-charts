@@ -716,6 +716,8 @@
 | 701 | 바이오플러스 | 바 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EB%B0%94%EC%9D%B4%EC%98%A4%ED%94%8C%EB%9F%AC%EC%8A%A4.html) | 2026-07-18 |
 | 702 | 케이엔에스 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%97%94%EC%97%90%EC%8A%A4.html) | 2026-07-18 |
 | 703 | 케이엘넷 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%97%98%EB%84%B7.html) | 2026-07-18 |
+| 704 | 케이엠 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%97%A0.html) | 2026-07-18 |
+| 705 | 케이엔알시스템 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%97%94%EC%95%8C%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-07-18 |
 
 ---
 
