@@ -707,6 +707,10 @@
 | 692 | 케이씨텍 | 케이 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%94%A8%ED%85%8D.html) | 2026-07-18 |
 | 693 | 케이씨씨글라스 | 케이 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%94%A8%EC%94%A8%EA%B8%80%EB%9D%BC%EC%8A%A4.html) | 2026-07-18 |
 | 694 | 케이씨티 | 케이 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%94%A8%ED%8B%B0.html) | 2026-07-18 |
+| 695 | 케이알엠 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%95%8C%EC%97%A0.html) | 2026-07-18 |
+| 696 | 케이씨티시 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%94%A8%ED%8B%B0%EC%8B%9C.html) | 2026-07-18 |
+| 697 | 케이에스피 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%97%90%EC%8A%A4%ED%94%BC.html) | 2026-07-18 |
+| 698 | 케이씨피드 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%94%A8%ED%94%BC%EB%93%9C.html) | 2026-07-18 |
 
 ---
 
