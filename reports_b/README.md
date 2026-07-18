@@ -737,6 +737,7 @@
 | 722 | 케이피티유 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%ED%94%BC%ED%8B%B0%EC%9C%A0.html) | 2026-07-19 |
 | 723 | 코나아이 | 코 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BD%94%EB%82%98%EC%95%84%EC%9D%B4.html) | 2026-07-19 |
 | 724 | 켐온 | 켐 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%90%EC%98%A8.html) | 2026-07-19 |
+| 725 | 코닉오토메이션 | 코 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BD%94%EB%8B%89%EC%98%A4%ED%86%A0%EB%A9%94%EC%9D%B4%EC%85%98.html) | 2026-07-19 |
 
 ---
 
