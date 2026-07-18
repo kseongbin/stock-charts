@@ -692,6 +692,7 @@
 | 677 | 컴투스홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BB%B4%ED%88%AC%EC%8A%A4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-07-18 |
 | 678 | 컴투스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BB%B4%ED%88%AC%EC%8A%A4.html) | 2026-07-18 |
 | 679 | 케어랩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%96%B4%EB%9E%A9%EC%8A%A4.html) | 2026-07-18 |
+| 680 | 케어젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%96%B4%EC%A0%A0.html) | 2026-07-18 |
 
 ---
 
