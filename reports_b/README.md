@@ -690,6 +690,7 @@
 | 675 | 카카오페이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4.html) | 2026-07-18 |
 | 676 | 케스피온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%8A%A4%ED%94%BC%EC%98%A8.html) | 2026-07-18 |
 | 677 | 컴투스홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BB%B4%ED%88%AC%EC%8A%A4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-07-18 |
+| 678 | 컴투스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BB%B4%ED%88%AC%EC%8A%A4.html) | 2026-07-18 |
 
 ---
 
