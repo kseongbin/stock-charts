@@ -706,6 +706,7 @@
 | 691 | 케이씨에스 | 케이 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%94%A8%EC%97%90%EC%8A%A4.html) | 2026-07-18 |
 | 692 | 케이씨텍 | 케이 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%94%A8%ED%85%8D.html) | 2026-07-18 |
 | 693 | 케이씨씨글라스 | 케이 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%94%A8%EC%94%A8%EA%B8%80%EB%9D%BC%EC%8A%A4.html) | 2026-07-18 |
+| 694 | 케이씨티 | 케이 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%94%A8%ED%8B%B0.html) | 2026-07-18 |
 
 ---
 
