@@ -713,6 +713,7 @@
 | 698 | 케이씨피드 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%94%A8%ED%94%BC%EB%93%9C.html) | 2026-07-18 |
 | 699 | 케이엔더블유 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%97%94%EB%8D%94%EB%B8%94%EC%9C%A0.html) | 2026-07-18 |
 | 700 | 케이엔제이 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%97%94%EC%A0%9C%EC%9D%B4.html) | 2026-07-18 |
+| 701 | 바이오플러스 | 바 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EB%B0%94%EC%9D%B4%EC%98%A4%ED%94%8C%EB%9F%AC%EC%8A%A4.html) | 2026-07-18 |
 
 ---
 
