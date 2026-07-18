@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -3482,6 +3482,11 @@
     "케이씨": {
       "filename": "케이씨.html",
       "category": "K",
+      "generated_at": "2026-07-18"
+    },
+    "케이씨씨": {
+      "filename": "케이씨씨.html",
+      "category": "케이",
       "generated_at": "2026-07-18"
     }
   },
