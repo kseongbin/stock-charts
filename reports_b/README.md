@@ -695,6 +695,10 @@
 | 680 | 케어젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%96%B4%EC%A0%A0.html) | 2026-07-18 |
 | 681 | 케이바이오랩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EB%B0%94%EC%9D%B4%EC%98%A4%EB%9E%A9%EC%8A%A4.html) | 2026-07-18 |
 | 682 | 케이디켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EB%94%94%EC%BC%90.html) | 2026-07-18 |
+| 683 | 케이사인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%82%AC%EC%9D%B8.html) | 2026-07-18 |
+| 684 | 컴퍼니케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BB%B4%ED%8D%BC%EB%8B%88%EC%BC%80%EC%9D%B4.html) | 2026-07-18 |
+| 685 | 케이비증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%A6%9D%EA%B6%8C.html) | 2026-07-18 |
+| 686 | 동국홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EB%8F%99%EA%B5%AD%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-07-18 |
 
 ---
 
