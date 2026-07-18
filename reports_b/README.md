@@ -728,6 +728,8 @@
 | 713 | 케이지에이 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%EC%A7%80%EC%97%90%EC%9D%B4.html) | 2026-07-18 |
 | 714 | 케이티 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%ED%8B%B0.html) | 2026-07-18 |
 | 715 | 케이티스카이라이프 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%ED%8B%B0%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%94%84.html) | 2026-07-18 |
+| 716 | 케이티알파 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%ED%8B%B0%EC%95%8C%ED%8C%8C.html) | 2026-07-19 |
+| 717 | 케이티앤지 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%ED%8B%B0%EC%95%A4%EC%A7%80.html) | 2026-07-19 |
 
 ---
 
