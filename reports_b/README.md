@@ -741,6 +741,7 @@
 | 726 | 케이피항공산업 | 케 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BC%80%EC%9D%B4%ED%94%BC%ED%95%AD%EA%B3%B5%EC%82%B0%EC%97%85.html) | 2026-07-19 |
 | 727 | 코리아센터 | 코 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BD%94%EB%A6%AC%EC%95%84%EC%84%BC%ED%84%B0.html) | 2026-07-19 |
 | 728 | 코렌텍 | 코 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BD%94%EB%A0%8C%ED%85%8D.html) | 2026-07-19 |
+| 729 | 코람코라이프인프라리츠 | 코 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%EC%BD%94%EB%9E%8C%EC%BD%94%EB%9D%BC%EC%9D%B4%ED%94%84%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A6%AC%EC%B8%A0.html) | 2026-07-19 |
 
 ---
 
