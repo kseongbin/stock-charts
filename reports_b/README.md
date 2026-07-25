@@ -798,6 +798,10 @@
 | 783 | 큐에이드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%90%EC%97%90%EC%9D%B4%EB%93%9C.html) | 2026-07-25 |
 | 784 | 큐캐피탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%90%EC%BA%90%ED%94%BC%ED%83%88.html) | 2026-07-25 |
 | 785 | 크라운제과 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%9D%BC%EC%9A%B4%EC%A0%9C%EA%B3%BC.html) | 2026-07-25 |
+| 786 | 크라운해태홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%9D%BC%EC%9A%B4%ED%95%B4%ED%83%9C%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-07-26 |
+| 787 | 크래프톤 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4.html) | 2026-07-26 |
+| 788 | 크레버스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%A0%88%EB%B2%84%EC%8A%A4.html) | 2026-07-26 |
+| 789 | 크레오에스지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%A0%88%EC%98%A4%EC%97%90%EC%8A%A4%EC%A7%80.html) | 2026-07-26 |
 
 ---
 

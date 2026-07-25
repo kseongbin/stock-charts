@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-07-25",
+  "last_updated": "2026-07-26",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -3963,6 +3963,26 @@
       "filename": "크라운제과.html",
       "category": "일반",
       "generated_at": "2026-07-25"
+    },
+    "크라운해태홀딩스": {
+      "filename": "크라운해태홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-07-26"
+    },
+    "크래프톤": {
+      "filename": "크래프톤.html",
+      "category": "일반",
+      "generated_at": "2026-07-26"
+    },
+    "크레버스": {
+      "filename": "크레버스.html",
+      "category": "일반",
+      "generated_at": "2026-07-26"
+    },
+    "크레오에스지": {
+      "filename": "크레오에스지.html",
+      "category": "일반",
+      "generated_at": "2026-07-26"
     }
   },
   "에코캡": {
