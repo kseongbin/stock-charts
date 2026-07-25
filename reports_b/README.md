@@ -788,6 +788,11 @@
 | 773 | 퀀타매트릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%80%80%ED%83%80%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4.html) | 2026-07-25 |
 | 774 | 큐라클 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%90%EB%9D%BC%ED%81%B4.html) | 2026-07-25 |
 | 775 | 큐라티스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%90%EB%9D%BC%ED%8B%B0%EC%8A%A4.html) | 2026-07-25 |
+| 776 | 큐렉소 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%90%EB%A0%89%EC%86%8C.html) | 2026-07-25 |
+| 777 | 큐로홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%90%EB%A1%9C%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-07-25 |
+| 778 | 큐리언트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%90%EB%A6%AC%EC%96%B8%ED%8A%B8.html) | 2026-07-25 |
+| 779 | 큐리오시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%90%EB%A6%AC%EC%98%A4%EC%8B%9C%EC%8A%A4.html) | 2026-07-25 |
+| 780 | 큐리옥스바이오시스템즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%90%EB%A6%AC%EC%98%A5%EC%8A%A4%EB%B0%94%EC%9D%B4%EC%98%A4%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88.html) | 2026-07-25 |
 
 ---
 
