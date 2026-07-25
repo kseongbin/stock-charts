@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-25",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -3718,6 +3718,181 @@
       "filename": "코람코더원리츠.html",
       "category": "리츠",
       "generated_at": "2026-07-19"
+    },
+    "코미코": {
+      "filename": "코미코.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코미팜": {
+      "filename": "코미팜.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코세스": {
+      "filename": "코세스.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코셈": {
+      "filename": "코셈.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코스리거글로벌": {
+      "filename": "코스리거글로벌.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코스맥스": {
+      "filename": "코스맥스.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코스맥스비티아이": {
+      "filename": "코스맥스비티아이.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코스맥스엔비티": {
+      "filename": "코스맥스엔비티.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코스메카코리아": {
+      "filename": "코스메카코리아.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코스모신소재": {
+      "filename": "코스모신소재.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코스모화학": {
+      "filename": "코스모화학.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코스텍시스": {
+      "filename": "코스텍시스.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코아스": {
+      "filename": "코아스.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코아스템켐온": {
+      "filename": "코아스템켐온.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코아시아": {
+      "filename": "코아시아.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코아시아씨엠": {
+      "filename": "코아시아씨엠.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코엔텍": {
+      "filename": "코엔텍.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코오롱": {
+      "filename": "코오롱.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코오롱글로벌": {
+      "filename": "코오롱글로벌.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코오롱생명과학": {
+      "filename": "코오롱생명과학.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코오롱이앤피": {
+      "filename": "코오롱이앤피.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코오롱인더": {
+      "filename": "코오롱인더.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코오롱티슈진": {
+      "filename": "코오롱티슈진.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코웨이": {
+      "filename": "코웨이.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코윈테크": {
+      "filename": "코윈테크.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코이즈": {
+      "filename": "코이즈.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코츠테크놀로지": {
+      "filename": "코츠테크놀로지.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코텍": {
+      "filename": "코텍.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "코퍼스코리아": {
+      "filename": "코퍼스코리아.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "콘텐트리중앙": {
+      "filename": "콘텐트리중앙.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "콜마비앤에이치": {
+      "filename": "콜마비앤에이치.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "콜마홀딩스": {
+      "filename": "콜마홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "쿠콘": {
+      "filename": "쿠콘.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "쿠쿠홀딩스": {
+      "filename": "쿠쿠홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
+    },
+    "쿠쿠홈시스": {
+      "filename": "쿠쿠홈시스.html",
+      "category": "일반",
+      "generated_at": "2026-07-25"
     }
   },
   "에코캡": {
