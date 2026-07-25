@@ -807,6 +807,11 @@
 | 792 | 크린앤사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%A6%B0%EC%95%A4%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-07-26 |
 | 793 | 클로봇 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%B4%EB%A1%9C%EB%B4%87.html) | 2026-07-26 |
 | 794 | 클리오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%B4%EB%A6%AC%EC%98%A4.html) | 2026-07-26 |
+| 795 | 키네마스터 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%82%A4%EB%84%A4%EB%A7%88%EC%8A%A4%ED%84%B0.html) | 2026-07-26 |
+| 796 | 키다리스튜디오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%82%A4%EB%8B%A4%EB%A6%AC%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4.html) | 2026-07-26 |
+| 797 | 키움증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%82%A4%EC%9B%80%EC%A6%9D%EA%B6%8C.html) | 2026-07-26 |
+| 798 | 키이스트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%82%A4%EC%9D%B4%EC%8A%A4%ED%8A%B8.html) | 2026-07-26 |
+| 799 | 킵스파마 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%82%B5%EC%8A%A4%ED%8C%8C%EB%A7%88.html) | 2026-07-26 |
 
 ---
 
