@@ -802,6 +802,11 @@
 | 787 | 크래프톤 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4.html) | 2026-07-26 |
 | 788 | 크레버스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%A0%88%EB%B2%84%EC%8A%A4.html) | 2026-07-26 |
 | 789 | 크레오에스지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%A0%88%EC%98%A4%EC%97%90%EC%8A%A4%EC%A7%80.html) | 2026-07-26 |
+| 790 | 크리스에프앤씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%A6%AC%EC%8A%A4%EC%97%90%ED%94%84%EC%95%A4%EC%94%A8.html) | 2026-07-26 |
+| 791 | 크리스탈신소재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88%EC%8B%A0%EC%86%8C%EC%9E%AC.html) | 2026-07-26 |
+| 792 | 크린앤사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%AC%EB%A6%B0%EC%95%A4%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-07-26 |
+| 793 | 클로봇 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%B4%EB%A1%9C%EB%B4%87.html) | 2026-07-26 |
+| 794 | 클리오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%81%B4%EB%A6%AC%EC%98%A4.html) | 2026-07-26 |
 
 ---
 
