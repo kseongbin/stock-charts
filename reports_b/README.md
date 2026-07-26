@@ -832,6 +832,8 @@
 | 817 | 테고사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%85%8C%EA%B3%A0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-07-26 |
 | 818 | 테라젠이텍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%85%8C%EB%9D%BC%EC%A0%A0%EC%9D%B4%ED%85%8D%EC%8A%A4.html) | 2026-07-26 |
 | 819 | 테스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%85%8C%EC%8A%A4.html) | 2026-07-26 |
+| 820 | 테이팩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%85%8C%EC%9D%B4%ED%8C%A9%EC%8A%A4.html) | 2026-07-26 |
+| 821 | 테크엘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%85%8C%ED%81%AC%EC%97%98.html) | 2026-07-26 |
 
 ---
 
