@@ -826,6 +826,10 @@
 | 811 | 태양 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EC%96%91.html) | 2026-07-26 |
 | 812 | 태양금속공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EC%96%91%EA%B8%88%EC%86%8D%EA%B3%B5%EC%97%85.html) | 2026-07-26 |
 | 813 | 태영건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EC%98%81%EA%B1%B4%EC%84%A4.html) | 2026-07-26 |
+| 814 | 태웅 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EC%9B%85.html) | 2026-07-26 |
+| 815 | 태웅로직스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EC%9B%85%EB%A1%9C%EC%A7%81%EC%8A%A4.html) | 2026-07-26 |
+| 816 | 태원물산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EC%9B%90%EB%AC%BC%EC%82%B0.html) | 2026-07-26 |
+| 817 | 테고사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%85%8C%EA%B3%A0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-07-26 |
 
 ---
 
