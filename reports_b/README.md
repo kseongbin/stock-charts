@@ -843,6 +843,10 @@
 | 828 | 토비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%86%A0%EB%B9%84%EC%8A%A4.html) | 2026-07-27 |
 | 829 | 토탈소프트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%86%A0%ED%83%88%EC%86%8C%ED%94%84%ED%8A%B8.html) | 2026-07-27 |
 | 830 | 톱텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%86%B1%ED%85%8D.html) | 2026-07-27 |
+| 831 | 투비소프트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%88%AC%EB%B9%84%EC%86%8C%ED%94%84%ED%8A%B8.html) | 2026-07-27 |
+| 832 | 툴젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%88%B4%EC%A0%A0.html) | 2026-07-27 |
+| 833 | 트루엔 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8A%B8%EB%A3%A8%EC%97%94.html) | 2026-07-27 |
+| 834 | 트리니티항공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8A%B8%EB%A6%AC%EB%8B%88%ED%8B%B0%ED%95%AD%EA%B3%B5.html) | 2026-07-27 |
 
 ---
 
