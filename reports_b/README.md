@@ -821,6 +821,11 @@
 | 806 | 태경케미컬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EA%B2%BD%EC%BC%80%EB%AF%B8%EC%BB%AC.html) | 2026-07-26 |
 | 807 | 태광 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EA%B4%91.html) | 2026-07-26 |
 | 808 | 태광산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EA%B4%91%EC%82%B0%EC%97%85.html) | 2026-07-26 |
+| 809 | 태림포장 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EB%A6%BC%ED%8F%AC%EC%9E%A5.html) | 2026-07-26 |
+| 810 | 태성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EC%84%B1.html) | 2026-07-26 |
+| 811 | 태양 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EC%96%91.html) | 2026-07-26 |
+| 812 | 태양금속공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EC%96%91%EA%B8%88%EC%86%8D%EA%B3%B5%EC%97%85.html) | 2026-07-26 |
+| 813 | 태영건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%83%9C%EC%98%81%EA%B1%B4%EC%84%A4.html) | 2026-07-26 |
 
 ---
 
