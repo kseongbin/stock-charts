@@ -852,6 +852,11 @@
 | 837 | 티디에스팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8B%B0%EB%94%94%EC%97%90%EC%8A%A4%ED%8C%9C.html) | 2026-07-27 |
 | 838 | 티비씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8B%B0%EB%B9%84%EC%94%A8.html) | 2026-07-27 |
 | 839 | 티비에이치글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8B%B0%EB%B9%84%EC%97%90%EC%9D%B4%EC%B9%98%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-07-27 |
+| 840 | 티사이언티픽 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8B%B0%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%ED%94%BD.html) | 2026-07-28 |
+| 841 | 티쓰리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8B%B0%EC%93%B0%EB%A6%AC.html) | 2026-07-28 |
+| 842 | 티씨케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8B%B0%EC%94%A8%EC%BC%80%EC%9D%B4.html) | 2026-07-28 |
+| 843 | 티앤알바이오팹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8B%B0%EC%95%A4%EC%95%8C%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8C%B9.html) | 2026-07-28 |
+| 844 | 티앤엘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8B%B0%EC%95%A4%EC%97%98.html) | 2026-07-28 |
 
 ---
 

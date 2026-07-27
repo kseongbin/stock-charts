@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-07-27",
+  "last_updated": "2026-07-28",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -4233,6 +4233,31 @@
       "filename": "티비에이치글로벌.html",
       "category": "일반",
       "generated_at": "2026-07-27"
+    },
+    "티사이언티픽": {
+      "filename": "티사이언티픽.html",
+      "category": "일반",
+      "generated_at": "2026-07-28"
+    },
+    "티쓰리": {
+      "filename": "티쓰리.html",
+      "category": "일반",
+      "generated_at": "2026-07-28"
+    },
+    "티씨케이": {
+      "filename": "티씨케이.html",
+      "category": "일반",
+      "generated_at": "2026-07-28"
+    },
+    "티앤알바이오팹": {
+      "filename": "티앤알바이오팹.html",
+      "category": "일반",
+      "generated_at": "2026-07-28"
+    },
+    "티앤엘": {
+      "filename": "티앤엘.html",
+      "category": "일반",
+      "generated_at": "2026-07-28"
     }
   },
   "에코캡": {
