@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-08-02",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -4608,6 +4608,31 @@
       "filename": "포스코퓨처엠.html",
       "category": "일반",
       "generated_at": "2026-08-01"
+    },
+    "포시에스": {
+      "filename": "포시에스.html",
+      "category": "일반",
+      "generated_at": "2026-08-02"
+    },
+    "포인트모바일": {
+      "filename": "포인트모바일.html",
+      "category": "일반",
+      "generated_at": "2026-08-02"
+    },
+    "포인트엔지니어링": {
+      "filename": "포인트엔지니어링.html",
+      "category": "일반",
+      "generated_at": "2026-08-02"
+    },
+    "포커스에이아이": {
+      "filename": "포커스에이아이.html",
+      "category": "일반",
+      "generated_at": "2026-08-02"
+    },
+    "폴라리스AI": {
+      "filename": "폴라리스AI.html",
+      "category": "일반",
+      "generated_at": "2026-08-02"
     }
   },
   "에코캡": {
