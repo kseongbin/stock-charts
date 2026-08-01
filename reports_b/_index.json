@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-07-28",
+  "last_updated": "2026-08-01",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -4531,6 +4531,31 @@
     },
     "팬오션": {
       "filename": "팬오션.html",
+      "category": "일반",
+      "generated_at": "2026-08-01"
+    },
+    "판타지오": {
+      "filename": "판타지오.html",
+      "category": "일반",
+      "generated_at": "2026-08-01"
+    },
+    "팬젠": {
+      "filename": "팬젠.html",
+      "category": "일반",
+      "generated_at": "2026-08-01"
+    },
+    "펄어비스": {
+      "filename": "펄어비스.html",
+      "category": "일반",
+      "generated_at": "2026-08-01"
+    },
+    "페니트리움바이오": {
+      "filename": "페니트리움바이오.html",
+      "category": "일반",
+      "generated_at": "2026-08-01"
+    },
+    "페스카로": {
+      "filename": "페스카로.html",
       "category": "일반",
       "generated_at": "2026-08-01"
     }
