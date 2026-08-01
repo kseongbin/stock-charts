@@ -926,6 +926,7 @@
 | 911 | 포스코DX | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AC%EC%8A%A4%EC%BD%94DX.html) | 2026-08-01 |
 | 912 | 포스코스틸리온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%8A%A4%ED%8B%B8%EB%A6%AC%EC%98%A8.html) | 2026-08-01 |
 | 913 | 포스코엠텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%97%A0%ED%85%8D.html) | 2026-08-01 |
+| 914 | 포스코퓨처엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AC%EC%8A%A4%EC%BD%94%ED%93%A8%EC%B2%98%EC%97%A0.html) | 2026-08-01 |
 
 ---
 
