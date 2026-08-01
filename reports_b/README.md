@@ -922,6 +922,7 @@
 | 907 | 포메탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AC%EB%A9%94%ED%83%88.html) | 2026-08-01 |
 | 908 | 포바이포 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AC%EB%B0%94%EC%9D%B4%ED%8F%AC.html) | 2026-08-01 |
 | 909 | 포스뱅크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AC%EC%8A%A4%EB%B1%85%ED%81%AC.html) | 2026-08-01 |
+| 910 | 포스코인터내셔널 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AC%EC%8A%A4%EC%BD%94%EC%9D%B8%ED%84%B0%EB%82%B4%EC%85%94%EB%84%90.html) | 2026-08-01 |
 
 ---
 
