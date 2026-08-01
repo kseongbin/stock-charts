@@ -908,6 +908,10 @@
 | 893 | 팜스코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%9C%EC%8A%A4%EC%BD%94.html) | 2026-08-01 |
 | 894 | 팜스토리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%9C%EC%8A%A4%ED%86%A0%EB%A6%AC.html) | 2026-08-01 |
 | 895 | 팜젠사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%9C%EC%A0%A0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-08-01 |
+| 896 | 판도라티비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%90%EB%8F%84%EB%9D%BC%ED%8B%B0%EB%B9%84.html) | 2026-08-01 |
+| 897 | 팬스타엔터프라이즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%AC%EC%8A%A4%ED%83%80%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88.html) | 2026-08-01 |
+| 898 | 팬엔터테인먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%AC%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8.html) | 2026-08-01 |
+| 899 | 팬오션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%AC%EC%98%A4%EC%85%98.html) | 2026-08-01 |
 
 ---
 
