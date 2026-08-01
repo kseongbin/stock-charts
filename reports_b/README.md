@@ -903,6 +903,11 @@
 | 888 | 파인텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%8C%EC%9D%B8%ED%85%8D.html) | 2026-08-01 |
 | 889 | 파커스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%8C%EC%BB%A4%EC%8A%A4.html) | 2026-08-01 |
 | 890 | 파크시스템스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%8C%ED%81%AC%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%8A%A4.html) | 2026-08-01 |
+| 891 | 파트론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%8C%ED%8A%B8%EB%A1%A0.html) | 2026-08-01 |
+| 892 | 팜스빌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%9C%EC%8A%A4%EB%B9%8C.html) | 2026-08-01 |
+| 893 | 팜스코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%9C%EC%8A%A4%EC%BD%94.html) | 2026-08-01 |
+| 894 | 팜스토리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%9C%EC%8A%A4%ED%86%A0%EB%A6%AC.html) | 2026-08-01 |
+| 895 | 팜젠사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%9C%EC%A0%A0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-08-01 |
 
 ---
 
