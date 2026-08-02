@@ -969,6 +969,9 @@
 | 954 | 하림지주 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EB%A6%BC%EC%A7%80%EC%A3%BC.html) | 2026-08-03 |
 | 955 | 하스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%8A%A4.html) | 2026-08-03 |
 | 956 | 하이드로리튬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%EB%93%9C%EB%A1%9C%EB%A6%AC%ED%8A%AC.html) | 2026-08-03 |
+| 957 | 하이딥 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%EB%94%A5.html) | 2026-08-03 |
+| 958 | 하이로닉 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%EB%A1%9C%EB%8B%89.html) | 2026-08-03 |
+| 959 | 하이록코리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%EB%A1%9D%EC%BD%94%EB%A6%AC%EC%95%84.html) | 2026-08-03 |
 
 ---
 
