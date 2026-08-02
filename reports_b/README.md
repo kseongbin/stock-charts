@@ -941,6 +941,9 @@
 | 926 | 프로텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%9C%ED%85%8D.html) | 2026-08-02 |
 | 927 | 플리토 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%A6%AC%ED%86%A0.html) | 2026-08-02 |
 | 928 | 프로티나 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%9C%ED%8B%B0%EB%82%98.html) | 2026-08-02 |
+| 929 | 플레이위드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%9C%84%EB%93%9C.html) | 2026-08-02 |
+| 930 | 피델릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EB%8D%B8%EB%A6%AD%EC%8A%A4.html) | 2026-08-02 |
+| 931 | 피씨디렉트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%94%A8%EB%94%94%EB%A0%89%ED%8A%B8.html) | 2026-08-02 |
 
 ---
 
