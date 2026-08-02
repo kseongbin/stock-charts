@@ -932,6 +932,10 @@
 | 917 | 포인트엔지니어링 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AC%EC%9D%B8%ED%8A%B8%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.html) | 2026-08-02 |
 | 918 | 포커스에이아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AC%EC%BB%A4%EC%8A%A4%EC%97%90%EC%9D%B4%EC%95%84%EC%9D%B4.html) | 2026-08-02 |
 | 919 | 폴라리스AI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%B4%EB%9D%BC%EB%A6%AC%EC%8A%A4AI.html) | 2026-08-02 |
+| 920 | 폴라리스AI파마 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%B4%EB%9D%BC%EB%A6%AC%EC%8A%A4AI%ED%8C%8C%EB%A7%88.html) | 2026-08-02 |
+| 921 | 폴라리스세원 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%B4%EB%9D%BC%EB%A6%AC%EC%8A%A4%EC%84%B8%EC%9B%90.html) | 2026-08-02 |
+| 922 | 폴라리스우노 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%B4%EB%9D%BC%EB%A6%AC%EC%8A%A4%EC%9A%B0%EB%85%B8.html) | 2026-08-02 |
+| 923 | 프럼파스트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%9F%BC%ED%8C%8C%EC%8A%A4%ED%8A%B8.html) | 2026-08-02 |
 
 ---
 
