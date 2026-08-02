@@ -936,6 +936,9 @@
 | 921 | 폴라리스세원 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%B4%EB%9D%BC%EB%A6%AC%EC%8A%A4%EC%84%B8%EC%9B%90.html) | 2026-08-02 |
 | 922 | 폴라리스우노 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%B4%EB%9D%BC%EB%A6%AC%EC%8A%A4%EC%9A%B0%EB%85%B8.html) | 2026-08-02 |
 | 923 | 프럼파스트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%9F%BC%ED%8C%8C%EC%8A%A4%ED%8A%B8.html) | 2026-08-02 |
+| 924 | 프레스티지바이오로직스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A0%88%EC%8A%A4%ED%8B%B0%EC%A7%80%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A1%9C%EC%A7%81%EC%8A%A4.html) | 2026-08-02 |
+| 925 | 프로이천 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%9C%EC%9D%B4%EC%B2%9C.html) | 2026-08-02 |
+| 926 | 프로텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%9C%ED%85%8D.html) | 2026-08-02 |
 
 ---
 
