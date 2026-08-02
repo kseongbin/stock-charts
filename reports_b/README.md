@@ -944,6 +944,8 @@
 | 929 | 플레이위드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%9C%84%EB%93%9C.html) | 2026-08-02 |
 | 930 | 피델릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EB%8D%B8%EB%A6%AD%EC%8A%A4.html) | 2026-08-02 |
 | 931 | 피씨디렉트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%94%A8%EB%94%94%EB%A0%89%ED%8A%B8.html) | 2026-08-02 |
+| 932 | 피아이이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%95%84%EC%9D%B4%EC%9D%B4.html) | 2026-08-02 |
+| 933 | 피에스케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4.html) | 2026-08-02 |
 
 ---
 
