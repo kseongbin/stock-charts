@@ -940,6 +940,7 @@
 | 925 | 프로이천 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%9C%EC%9D%B4%EC%B2%9C.html) | 2026-08-02 |
 | 926 | 프로텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%9C%ED%85%8D.html) | 2026-08-02 |
 | 927 | 플리토 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%A6%AC%ED%86%A0.html) | 2026-08-02 |
+| 928 | 프로티나 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%9C%ED%8B%B0%EB%82%98.html) | 2026-08-02 |
 
 ---
 
