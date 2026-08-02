@@ -960,6 +960,9 @@
 | 945 | 피제이메탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%A0%9C%EC%9D%B4%EB%A9%94%ED%83%88.html) | 2026-08-02 |
 | 946 | 피제이전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%A0%9C%EC%9D%B4%EC%A0%84%EC%9E%90.html) | 2026-08-02 |
 | 947 | 피코그램 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%BD%94%EA%B7%B8%EB%9E%A8.html) | 2026-08-02 |
+| 948 | 하나기술 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EB%82%98%EA%B8%B0%EC%88%A0.html) | 2026-08-02 |
+| 949 | 하나마이크론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EB%82%98%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%A0.html) | 2026-08-02 |
+| 950 | 하나머티리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EB%82%98%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-08-02 |
 
 ---
 
