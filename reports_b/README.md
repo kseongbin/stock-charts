@@ -947,6 +947,8 @@
 | 932 | 피아이이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%95%84%EC%9D%B4%EC%9D%B4.html) | 2026-08-02 |
 | 933 | 피에스케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4.html) | 2026-08-02 |
 | 934 | 피에이치에이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%90%EC%9D%B4%EC%B9%98%EC%97%90%EC%9D%B4.html) | 2026-08-02 |
+| 935 | 피엔에이치테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%94%EC%97%90%EC%9D%B4%EC%B9%98%ED%85%8C%ED%81%AC.html) | 2026-08-02 |
+| 936 | 피엔티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%94%ED%8B%B0.html) | 2026-08-02 |
 
 ---
 
