@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-08-02",
+  "last_updated": "2026-08-03",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -4803,6 +4803,21 @@
       "filename": "하림.html",
       "category": "일반",
       "generated_at": "2026-08-02"
+    },
+    "하림지주": {
+      "filename": "하림지주.html",
+      "category": "일반",
+      "generated_at": "2026-08-03"
+    },
+    "하스": {
+      "filename": "하스.html",
+      "category": "일반",
+      "generated_at": "2026-08-03"
+    },
+    "하이드로리튬": {
+      "filename": "하이드로리튬.html",
+      "category": "일반",
+      "generated_at": "2026-08-03"
     }
   },
   "에코캡": {
