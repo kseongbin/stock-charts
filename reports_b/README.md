@@ -957,6 +957,9 @@
 | 942 | 피에스텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%90%EC%8A%A4%ED%85%8D.html) | 2026-08-02 |
 | 943 | 피엔케이피부임상연구센타 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%94%EC%BC%80%EC%9D%B4%ED%94%BC%EB%B6%80%EC%9E%84%EC%83%81%EC%97%B0%EA%B5%AC%EC%84%BC%ED%83%80.html) | 2026-08-02 |
 | 944 | 피엔티엠에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%94%ED%8B%B0%EC%97%A0%EC%97%90%EC%8A%A4.html) | 2026-08-02 |
+| 945 | 피제이메탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%A0%9C%EC%9D%B4%EB%A9%94%ED%83%88.html) | 2026-08-02 |
+| 946 | 피제이전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%A0%9C%EC%9D%B4%EC%A0%84%EC%9E%90.html) | 2026-08-02 |
+| 947 | 피코그램 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%BD%94%EA%B7%B8%EB%9E%A8.html) | 2026-08-02 |
 
 ---
 
