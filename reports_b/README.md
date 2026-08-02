@@ -939,6 +939,7 @@
 | 924 | 프레스티지바이오로직스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A0%88%EC%8A%A4%ED%8B%B0%EC%A7%80%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A1%9C%EC%A7%81%EC%8A%A4.html) | 2026-08-02 |
 | 925 | 프로이천 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%9C%EC%9D%B4%EC%B2%9C.html) | 2026-08-02 |
 | 926 | 프로텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%9C%ED%85%8D.html) | 2026-08-02 |
+| 927 | 플리토 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%A6%AC%ED%86%A0.html) | 2026-08-02 |
 
 ---
 
