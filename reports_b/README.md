@@ -952,6 +952,8 @@
 | 937 | 피노 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EB%85%B8.html) | 2026-08-02 |
 | 938 | 피씨엘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%94%A8%EC%97%98.html) | 2026-08-02 |
 | 939 | 피앤씨테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%95%A4%EC%94%A8%ED%85%8C%ED%81%AC.html) | 2026-08-02 |
+| 940 | 피앤에스로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%95%A4%EC%97%90%EC%8A%A4%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-08-02 |
+| 941 | 피에스케이홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-02 |
 
 ---
 
