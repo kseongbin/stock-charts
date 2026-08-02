@@ -954,6 +954,9 @@
 | 939 | 피앤씨테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%95%A4%EC%94%A8%ED%85%8C%ED%81%AC.html) | 2026-08-02 |
 | 940 | 피앤에스로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%95%A4%EC%97%90%EC%8A%A4%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-08-02 |
 | 941 | 피에스케이홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-02 |
+| 942 | 피에스텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%90%EC%8A%A4%ED%85%8D.html) | 2026-08-02 |
+| 943 | 피엔케이피부임상연구센타 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%94%EC%BC%80%EC%9D%B4%ED%94%BC%EB%B6%80%EC%9E%84%EC%83%81%EC%97%B0%EA%B5%AC%EC%84%BC%ED%83%80.html) | 2026-08-02 |
+| 944 | 피엔티엠에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%BC%EC%97%94%ED%8B%B0%EC%97%A0%EC%97%90%EC%8A%A4.html) | 2026-08-02 |
 
 ---
 
