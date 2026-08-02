@@ -963,6 +963,9 @@
 | 948 | 하나기술 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EB%82%98%EA%B8%B0%EC%88%A0.html) | 2026-08-02 |
 | 949 | 하나마이크론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EB%82%98%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%A0.html) | 2026-08-02 |
 | 950 | 하나머티리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EB%82%98%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-08-02 |
+| 951 | 하나제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EB%82%98%EC%A0%9C%EC%95%BD.html) | 2026-08-02 |
+| 952 | 하나투어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EB%82%98%ED%88%AC%EC%96%B4.html) | 2026-08-02 |
+| 953 | 하림 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EB%A6%BC.html) | 2026-08-02 |
 
 ---
 
