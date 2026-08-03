@@ -981,6 +981,7 @@
 | 966 | 하이트진로 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%ED%8A%B8%EC%A7%84%EB%A1%9C.html) | 2026-08-04 |
 | 967 | 하이트진로홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%ED%8A%B8%EC%A7%84%EB%A1%9C%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-04 |
 | 968 | 하이퍼코퍼레이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%ED%8D%BC%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98.html) | 2026-08-04 |
+| 969 | 하츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%B8%A0.html) | 2026-08-04 |
 
 ---
 
