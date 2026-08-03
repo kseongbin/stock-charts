@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-04",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -4833,6 +4833,21 @@
       "filename": "하이록코리아.html",
       "category": "일반",
       "generated_at": "2026-08-03"
+    },
+    "하이브": {
+      "filename": "하이브.html",
+      "category": "일반",
+      "generated_at": "2026-08-04"
+    },
+    "하이비젼시스템": {
+      "filename": "하이비젼시스템.html",
+      "category": "일반",
+      "generated_at": "2026-08-04"
+    },
+    "하이스틸": {
+      "filename": "하이스틸.html",
+      "category": "일반",
+      "generated_at": "2026-08-04"
     }
   },
   "에코캡": {
