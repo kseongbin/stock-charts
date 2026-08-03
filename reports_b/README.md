@@ -975,6 +975,9 @@
 | 960 | 하이브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%EB%B8%8C.html) | 2026-08-04 |
 | 961 | 하이비젼시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%EB%B9%84%EC%A0%BC%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-08-04 |
 | 962 | 하이스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%EC%8A%A4%ED%8B%B8.html) | 2026-08-04 |
+| 963 | 하이젠알앤엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%EC%A0%A0%EC%95%8C%EC%95%A4%EC%97%A0.html) | 2026-08-04 |
+| 964 | 하이즈항공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%EC%A6%88%ED%95%AD%EA%B3%B5.html) | 2026-08-04 |
+| 965 | 하이텍팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%ED%85%8D%ED%8C%9C.html) | 2026-08-04 |
 
 ---
 
