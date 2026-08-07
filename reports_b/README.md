@@ -990,6 +990,9 @@
 | 975 | 펌텍코리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8E%8C%ED%85%8D%EC%BD%94%EB%A6%AC%EC%95%84.html) | 2026-08-07 |
 | 976 | 펨트론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8E%A8%ED%8A%B8%EB%A1%A0.html) | 2026-08-07 |
 | 977 | 펩트론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8E%A9%ED%8A%B8%EB%A1%A0.html) | 2026-08-07 |
+| 978 | 평화산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%89%ED%99%94%EC%82%B0%EC%97%85.html) | 2026-08-07 |
+| 979 | 평화홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%89%ED%99%94%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-07 |
+| 980 | 폭스소프트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AD%EC%8A%A4%EC%86%8C%ED%94%84%ED%8A%B8.html) | 2026-08-07 |
 
 ---
 
