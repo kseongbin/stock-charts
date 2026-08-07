@@ -987,6 +987,9 @@
 | 972 | 퍼스텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8D%BC%EC%8A%A4%ED%85%8D.html) | 2026-08-07 |
 | 973 | 퍼시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8D%BC%EC%8B%9C%EC%8A%A4.html) | 2026-08-07 |
 | 974 | 팸텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%B8%ED%85%8D.html) | 2026-08-07 |
+| 975 | 펌텍코리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8E%8C%ED%85%8D%EC%BD%94%EB%A6%AC%EC%95%84.html) | 2026-08-07 |
+| 976 | 펨트론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8E%A8%ED%8A%B8%EB%A1%A0.html) | 2026-08-07 |
+| 977 | 펩트론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8E%A9%ED%8A%B8%EB%A1%A0.html) | 2026-08-07 |
 
 ---
 
