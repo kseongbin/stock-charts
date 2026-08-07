@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-07",
   "completed": {
     "이수스페셜티케미컬": {
       "filename": "이수스페셜티케미컬.html",
@@ -4888,6 +4888,11 @@
       "filename": "파라택시스이더리움.html",
       "category": "일반",
       "generated_at": "2026-08-04"
+    },
+    "패션플랫폼": {
+      "filename": "패션플랫폼.html",
+      "category": "일반",
+      "generated_at": "2026-08-07"
     }
   },
   "에코캡": {

@@ -983,6 +983,7 @@
 | 968 | 하이퍼코퍼레이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%9D%B4%ED%8D%BC%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98.html) | 2026-08-04 |
 | 969 | 하츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%98%EC%B8%A0.html) | 2026-08-04 |
 | 970 | 파라택시스이더리움 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%8C%EB%9D%BC%ED%83%9D%EC%8B%9C%EC%8A%A4%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80.html) | 2026-08-04 |
+| 971 | 패션플랫폼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%A8%EC%85%98%ED%94%8C%EB%9E%AB%ED%8F%BC.html) | 2026-08-07 |
 
 ---
 
