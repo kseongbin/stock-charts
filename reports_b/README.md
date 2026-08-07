@@ -1005,6 +1005,8 @@
 | 990 | 풍원정밀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%92%8D%EC%9B%90%EC%A0%95%EB%B0%80.html) | 2026-08-08 |
 | 991 | 풍전약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%92%8D%EC%A0%84%EC%95%BD%ED%92%88.html) | 2026-08-08 |
 | 992 | 퓨릿 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%93%A8%EB%A6%BF.html) | 2026-08-08 |
+| 993 | 퓨전 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%93%A8%EC%A0%84.html) | 2026-08-08 |
+| 994 | 퓨쳐켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%93%A8%EC%B3%90%EC%BC%90.html) | 2026-08-08 |
 
 ---
 
