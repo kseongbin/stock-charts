@@ -993,6 +993,8 @@
 | 978 | 평화산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%89%ED%99%94%EC%82%B0%EC%97%85.html) | 2026-08-07 |
 | 979 | 평화홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%89%ED%99%94%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-07 |
 | 980 | 폭스소프트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%AD%EC%8A%A4%EC%86%8C%ED%94%84%ED%8A%B8.html) | 2026-08-07 |
+| 981 | 폰드그룹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8F%B0%EB%93%9C%EA%B7%B8%EB%A3%B9.html) | 2026-08-07 |
+| 982 | 푸드나무 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%91%B8%EB%93%9C%EB%82%98%EB%AC%B4.html) | 2026-08-07 |
 
 ---
 
