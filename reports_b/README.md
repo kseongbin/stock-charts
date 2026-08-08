@@ -1060,6 +1060,9 @@
 | 1045 | 한국큐빅 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%ED%81%90%EB%B9%85.html) | 2026-08-08 |
 | 1046 | 한국타이어앤테크놀로지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%ED%83%80%EC%9D%B4%EC%96%B4%EC%95%A4%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80.html) | 2026-08-08 |
 | 1047 | 한국토지신탁 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%ED%86%A0%EC%A7%80%EC%8B%A0%ED%83%81.html) | 2026-08-08 |
+| 1048 | 한국특강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%ED%8A%B9%EA%B0%95.html) | 2026-08-08 |
+| 1049 | 한국파마 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%ED%8C%8C%EB%A7%88.html) | 2026-08-08 |
+| 1050 | 한국팩키지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%ED%8C%A9%ED%82%A4%EC%A7%80.html) | 2026-08-08 |
 
 ---
 
