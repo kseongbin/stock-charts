@@ -5299,6 +5299,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한국철강.html"
+    },
+    "한국카본": {
+      "code": "017960",
+      "file": "한국카본.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국카본.html"
+    },
+    "한국컴퓨터": {
+      "code": "054040",
+      "file": "한국컴퓨터.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국컴퓨터.html"
+    },
+    "한국콜마": {
+      "code": "161890",
+      "file": "한국콜마.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국콜마.html"
     }
   }
 }

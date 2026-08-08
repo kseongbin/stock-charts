@@ -1054,6 +1054,9 @@
 | 1039 | 한국주강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A3%BC%EA%B0%95.html) | 2026-08-08 |
 | 1040 | 한국주철관공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A3%BC%EC%B2%A0%EA%B4%80%EA%B3%B5%EC%97%85.html) | 2026-08-08 |
 | 1041 | 한국철강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%B2%A0%EA%B0%95.html) | 2026-08-08 |
+| 1042 | 한국카본 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%B9%B4%EB%B3%B8.html) | 2026-08-08 |
+| 1043 | 한국컴퓨터 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%BB%B4%ED%93%A8%ED%84%B0.html) | 2026-08-08 |
+| 1044 | 한국콜마 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%BD%9C%EB%A7%88.html) | 2026-08-08 |
 
 ---
 
