@@ -1084,6 +1084,9 @@
 | 1069 | 한성기업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%84%B1%EA%B8%B0%EC%97%85.html) | 2026-08-08 |
 | 1070 | 한성크린텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%84%B1%ED%81%AC%EB%A6%B0%ED%85%8D.html) | 2026-08-08 |
 | 1071 | 한세실업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%84%B8%EC%8B%A4%EC%97%85.html) | 2026-08-08 |
+| 1072 | 한세엠케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%84%B8%EC%97%A0%EC%BC%80%EC%9D%B4.html) | 2026-08-09 |
+| 1073 | 한세예스24홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%84%B8%EC%98%88%EC%8A%A424%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-09 |
+| 1074 | 한솔로지스틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%86%94%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%EC%8A%A4.html) | 2026-08-09 |
 
 ---
 
