@@ -1022,6 +1022,8 @@
 | 1007 | 필에너지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%84%EC%97%90%EB%84%88%EC%A7%80.html) | 2026-08-08 |
 | 1008 | 핌스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%8C%EC%8A%A4.html) | 2026-08-08 |
 | 1009 | 핑거 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%91%EA%B1%B0.html) | 2026-08-08 |
+| 1010 | 핑거스토리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%91%EA%B1%B0%EC%8A%A4%ED%86%A0%EB%A6%AC.html) | 2026-08-08 |
+| 1011 | 한국가구 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EA%B0%80%EA%B5%AC.html) | 2026-08-08 |
 
 ---
 
