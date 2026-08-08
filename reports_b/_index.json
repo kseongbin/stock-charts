@@ -5192,6 +5192,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한국알콜.html"
+    },
+    "한국앤컴퍼니": {
+      "code": "000240",
+      "file": "한국앤컴퍼니.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국앤컴퍼니.html"
+    },
+    "한국유니온제약": {
+      "code": "080720",
+      "file": "한국유니온제약.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국유니온제약.html"
+    },
+    "한국자산신탁": {
+      "code": "123890",
+      "file": "한국자산신탁.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국자산신탁.html"
     }
   },
   "에코캡": {

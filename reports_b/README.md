@@ -1039,6 +1039,9 @@
 | 1024 | 한국수출포장공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%88%98%EC%B6%9C%ED%8F%AC%EC%9E%A5%EA%B3%B5%EC%97%85.html) | 2026-08-08 |
 | 1025 | 한국쉘석유 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%89%98%EC%84%9D%EC%9C%A0.html) | 2026-08-08 |
 | 1026 | 한국알콜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%95%8C%EC%BD%9C.html) | 2026-08-08 |
+| 1027 | 한국앤컴퍼니 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%95%A4%EC%BB%B4%ED%8D%BC%EB%8B%88.html) | 2026-08-08 |
+| 1028 | 한국유니온제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%9C%A0%EB%8B%88%EC%98%A8%EC%A0%9C%EC%95%BD.html) | 2026-08-08 |
+| 1029 | 한국자산신탁 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%9E%90%EC%82%B0%EC%8B%A0%ED%83%81.html) | 2026-08-08 |
 
 ---
 
