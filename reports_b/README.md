@@ -1030,6 +1030,9 @@
 | 1015 | 한국금융지주 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EA%B8%88%EC%9C%B5%EC%A7%80%EC%A3%BC.html) | 2026-08-08 |
 | 1016 | 한국기업평가 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EA%B8%B0%EC%97%85%ED%8F%89%EA%B0%80.html) | 2026-08-08 |
 | 1017 | 한국내화 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EB%82%B4%ED%99%94.html) | 2026-08-08 |
+| 1018 | 한국맥널티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EB%A7%A5%EB%84%90%ED%8B%B0.html) | 2026-08-08 |
+| 1019 | 한국무브넥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EB%AC%B4%EB%B8%8C%EB%84%A5%EC%8A%A4.html) | 2026-08-08 |
+| 1020 | 한국비엔씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EB%B9%84%EC%97%94%EC%94%A8.html) | 2026-08-08 |
 
 ---
 
