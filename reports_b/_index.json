@@ -5467,6 +5467,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한빛소프트.html"
+    },
+    "한샘": {
+      "code": "009240",
+      "file": "한샘.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한샘.html"
+    },
+    "한선엔지니어링": {
+      "code": "452280",
+      "file": "한선엔지니어링.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한선엔지니어링.html"
+    },
+    "한섬": {
+      "code": "020000",
+      "file": "한섬.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한섬.html"
     }
   }
 }
