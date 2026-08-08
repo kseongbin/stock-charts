@@ -1036,6 +1036,9 @@
 | 1021 | 한국비티비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EB%B9%84%ED%8B%B0%EB%B9%84.html) | 2026-08-08 |
 | 1022 | 한국석유공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%84%9D%EC%9C%A0%EA%B3%B5%EC%97%85.html) | 2026-08-08 |
 | 1023 | 한국선재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%84%A0%EC%9E%AC.html) | 2026-08-08 |
+| 1024 | 한국수출포장공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%88%98%EC%B6%9C%ED%8F%AC%EC%9E%A5%EA%B3%B5%EC%97%85.html) | 2026-08-08 |
+| 1025 | 한국쉘석유 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%89%98%EC%84%9D%EC%9C%A0.html) | 2026-08-08 |
+| 1026 | 한국알콜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%95%8C%EC%BD%9C.html) | 2026-08-08 |
 
 ---
 
