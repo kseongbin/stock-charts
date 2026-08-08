@@ -5108,6 +5108,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한국공항.html"
+    },
+    "한국금융지주": {
+      "code": "071050",
+      "file": "한국금융지주.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국금융지주.html"
+    },
+    "한국기업평가": {
+      "code": "034950",
+      "file": "한국기업평가.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국기업평가.html"
+    },
+    "한국내화": {
+      "code": "010040",
+      "file": "한국내화.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국내화.html"
     }
   },
   "에코캡": {
