@@ -25,21 +25,6 @@
   ],
   "queue": [
     {
-      "name": "필에너지",
-      "category": "일반",
-      "code": "378340"
-    },
-    {
-      "name": "핌스",
-      "category": "일반",
-      "code": "347770"
-    },
-    {
-      "name": "핑거",
-      "category": "일반",
-      "code": "163730"
-    },
-    {
       "name": "핑거스토리",
       "category": "일반",
       "code": "417180"
