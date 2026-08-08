@@ -5425,6 +5425,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한라IMS.html"
+    },
+    "한라캐스트": {
+      "code": "125490",
+      "file": "한라캐스트.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한라캐스트.html"
+    },
+    "한미글로벌": {
+      "code": "053690",
+      "file": "한미글로벌.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한미글로벌.html"
+    },
+    "한미반도체": {
+      "code": "042700",
+      "file": "한미반도체.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한미반도체.html"
     }
   }
 }

@@ -1072,6 +1072,9 @@
 | 1057 | 한독 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%8F%85.html) | 2026-08-08 |
 | 1058 | 한독크린텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%8F%85%ED%81%AC%EB%A6%B0%ED%85%8D.html) | 2026-08-08 |
 | 1059 | 한라IMS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%9D%BCIMS.html) | 2026-08-08 |
+| 1060 | 한라캐스트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%9D%BC%EC%BA%90%EC%8A%A4%ED%8A%B8.html) | 2026-08-08 |
+| 1061 | 한미글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%AF%B8%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-08-08 |
+| 1062 | 한미반도체 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%AF%B8%EB%B0%98%EB%8F%84%EC%B2%B4.html) | 2026-08-08 |
 
 ---
 
