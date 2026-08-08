@@ -1014,6 +1014,7 @@
 | 999 | 플라즈맵 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%9D%BC%EC%A6%88%EB%A7%B5.html) | 2026-08-08 |
 | 1000 | 플래티어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%9E%98%ED%8B%B0%EC%96%B4.html) | 2026-08-08 |
 | 1001 | 플랜티넷 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%9E%9C%ED%8B%B0%EB%84%B7.html) | 2026-08-08 |
+| 1002 | 파이온엑스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%8C%8C%EC%9D%B4%EC%98%A8%EC%97%91%EC%8A%A4.html) | 2026-08-08 |
 
 ---
 
