@@ -5404,6 +5404,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한농화성.html"
+    },
+    "한독": {
+      "code": "002390",
+      "file": "한독.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한독.html"
+    },
+    "한독크린텍": {
+      "code": "256150",
+      "file": "한독크린텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한독크린텍.html"
+    },
+    "한라IMS": {
+      "code": "092460",
+      "file": "한라IMS.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한라IMS.html"
     }
   }
 }

@@ -1069,6 +1069,9 @@
 | 1054 | 한국화장품제조 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%ED%99%94%EC%9E%A5%ED%92%88%EC%A0%9C%EC%A1%B0.html) | 2026-08-08 |
 | 1055 | 한네트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%84%A4%ED%8A%B8.html) | 2026-08-08 |
 | 1056 | 한농화성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%86%8D%ED%99%94%EC%84%B1.html) | 2026-08-08 |
+| 1057 | 한독 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%8F%85.html) | 2026-08-08 |
+| 1058 | 한독크린텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%8F%85%ED%81%AC%EB%A6%B0%ED%85%8D.html) | 2026-08-08 |
+| 1059 | 한라IMS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%9D%BCIMS.html) | 2026-08-08 |
 
 ---
 
