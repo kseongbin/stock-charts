@@ -1081,6 +1081,9 @@
 | 1066 | 한샘 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%83%98.html) | 2026-08-08 |
 | 1067 | 한선엔지니어링 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%84%A0%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.html) | 2026-08-08 |
 | 1068 | 한섬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%84%AC.html) | 2026-08-08 |
+| 1069 | 한성기업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%84%B1%EA%B8%B0%EC%97%85.html) | 2026-08-08 |
+| 1070 | 한성크린텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%84%B1%ED%81%AC%EB%A6%B0%ED%85%8D.html) | 2026-08-08 |
+| 1071 | 한세실업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%84%B8%EC%8B%A4%EC%97%85.html) | 2026-08-08 |
 
 ---
 

@@ -5488,6 +5488,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한섬.html"
+    },
+    "한성기업": {
+      "code": "003680",
+      "file": "한성기업.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한성기업.html"
+    },
+    "한성크린텍": {
+      "code": "066980",
+      "file": "한성크린텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한성크린텍.html"
+    },
+    "한세실업": {
+      "code": "105630",
+      "file": "한세실업.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한세실업.html"
     }
   }
 }
