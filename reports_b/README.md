@@ -1018,6 +1018,7 @@
 | 1003 | 플레이그램 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%A0%88%EC%9D%B4%EA%B7%B8%EB%9E%A8.html) | 2026-08-08 |
 | 1004 | 플레이디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%A0%88%EC%9D%B4%EB%94%94.html) | 2026-08-08 |
 | 1005 | 플루토스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%A3%A8%ED%86%A0%EC%8A%A4.html) | 2026-08-08 |
+| 1006 | 핀텔 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%80%ED%85%94.html) | 2026-08-08 |
 
 ---
 
