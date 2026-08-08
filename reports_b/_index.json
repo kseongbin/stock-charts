@@ -5530,6 +5530,27 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한솔로지스틱스.html"
+    },
+    "한솔아이원스": {
+      "code": "114810",
+      "file": "한솔아이원스.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한솔아이원스.html"
+    },
+    "한솔제지": {
+      "code": "213500",
+      "file": "한솔제지.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한솔제지.html"
+    },
+    "한솔케미칼": {
+      "code": "014680",
+      "file": "한솔케미칼.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한솔케미칼.html"
     }
   }
 }
