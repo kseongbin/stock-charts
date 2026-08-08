@@ -5551,6 +5551,27 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한솔케미칼.html"
+    },
+    "한솔테크닉스": {
+      "code": "004710",
+      "file": "한솔테크닉스.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한솔테크닉스.html"
+    },
+    "한솔피엔에스": {
+      "code": "010420",
+      "file": "한솔피엔에스.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한솔피엔에스.html"
+    },
+    "한솔홀딩스": {
+      "code": "004150",
+      "file": "한솔홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한솔홀딩스.html"
     }
   }
 }
