@@ -1024,6 +1024,9 @@
 | 1009 | 핑거 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%91%EA%B1%B0.html) | 2026-08-08 |
 | 1010 | 핑거스토리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%91%EA%B1%B0%EC%8A%A4%ED%86%A0%EB%A6%AC.html) | 2026-08-08 |
 | 1011 | 한국가구 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EA%B0%80%EA%B5%AC.html) | 2026-08-08 |
+| 1012 | 한국가스공사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EA%B0%80%EC%8A%A4%EA%B3%B5%EC%82%AC.html) | 2026-08-08 |
+| 1013 | 한국경제TV | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9CTV.html) | 2026-08-08 |
+| 1014 | 한국공항 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EA%B3%B5%ED%95%AD.html) | 2026-08-08 |
 
 ---
 
