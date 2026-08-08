@@ -5383,6 +5383,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한국화장품.html"
+    },
+    "한국화장품제조": {
+      "code": "003350",
+      "file": "한국화장품제조.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국화장품제조.html"
+    },
+    "한네트": {
+      "code": "052600",
+      "file": "한네트.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한네트.html"
+    },
+    "한농화성": {
+      "code": "011500",
+      "file": "한농화성.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한농화성.html"
     }
   }
 }
