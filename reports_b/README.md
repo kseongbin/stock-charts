@@ -1007,6 +1007,8 @@
 | 992 | 퓨릿 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%93%A8%EB%A6%BF.html) | 2026-08-08 |
 | 993 | 퓨전 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%93%A8%EC%A0%84.html) | 2026-08-08 |
 | 994 | 퓨쳐켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%93%A8%EC%B3%90%EC%BC%90.html) | 2026-08-08 |
+| 995 | 프로티아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%9C%ED%8B%B0%EC%95%84.html) | 2026-08-08 |
+| 996 | 프롬바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%AC%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-08-08 |
 
 ---
 
