@@ -1045,6 +1045,9 @@
 | 1030 | 한국전력공사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A0%84%EB%A0%A5%EA%B3%B5%EC%82%AC.html) | 2026-08-08 |
 | 1031 | 한국전자인증 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EC%9D%B8%EC%A6%9D.html) | 2026-08-08 |
 | 1032 | 한국전자홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-08 |
+| 1033 | 한국정밀기계 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B0%80%EA%B8%B0%EA%B3%84.html) | 2026-08-08 |
+| 1034 | 한국정보공학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B3%B4%EA%B3%B5%ED%95%99.html) | 2026-08-08 |
+| 1035 | 한국정보인증 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B3%B4%EC%9D%B8%EC%A6%9D.html) | 2026-08-08 |
 
 ---
 
