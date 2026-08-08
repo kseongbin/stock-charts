@@ -5278,6 +5278,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한국종합기술.html"
+    },
+    "한국주강": {
+      "code": "025890",
+      "file": "한국주강.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국주강.html"
+    },
+    "한국주철관공업": {
+      "code": "000970",
+      "file": "한국주철관공업.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국주철관공업.html"
+    },
+    "한국철강": {
+      "code": "104700",
+      "file": "한국철강.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국철강.html"
     }
   }
 }

@@ -1051,6 +1051,9 @@
 | 1036 | 한국정보통신 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0.html) | 2026-08-08 |
 | 1037 | 한국제지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A0%9C%EC%A7%80.html) | 2026-08-08 |
 | 1038 | 한국종합기술 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A2%85%ED%95%A9%EA%B8%B0%EC%88%A0.html) | 2026-08-08 |
+| 1039 | 한국주강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A3%BC%EA%B0%95.html) | 2026-08-08 |
+| 1040 | 한국주철관공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%A3%BC%EC%B2%A0%EA%B4%80%EA%B3%B5%EC%97%85.html) | 2026-08-08 |
+| 1041 | 한국철강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%B2%A0%EA%B0%95.html) | 2026-08-08 |
 
 ---
 
