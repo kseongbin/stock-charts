@@ -1075,6 +1075,9 @@
 | 1060 | 한라캐스트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%9D%BC%EC%BA%90%EC%8A%A4%ED%8A%B8.html) | 2026-08-08 |
 | 1061 | 한미글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%AF%B8%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-08-08 |
 | 1062 | 한미반도체 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%AF%B8%EB%B0%98%EB%8F%84%EC%B2%B4.html) | 2026-08-08 |
+| 1063 | 한미사이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%AF%B8%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-08-08 |
+| 1064 | 한미약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%AF%B8%EC%95%BD%ED%92%88.html) | 2026-08-08 |
+| 1065 | 한빛소프트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EB%B9%9B%EC%86%8C%ED%94%84%ED%8A%B8.html) | 2026-08-08 |
 
 ---
 

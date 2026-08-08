@@ -5446,6 +5446,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한미반도체.html"
+    },
+    "한미사이언스": {
+      "code": "008930",
+      "file": "한미사이언스.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한미사이언스.html"
+    },
+    "한미약품": {
+      "code": "128940",
+      "file": "한미약품.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한미약품.html"
+    },
+    "한빛소프트": {
+      "code": "047080",
+      "file": "한빛소프트.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한빛소프트.html"
     }
   }
 }
