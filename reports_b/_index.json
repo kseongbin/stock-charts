@@ -5362,6 +5362,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한국팩키지.html"
+    },
+    "한국피아이엠": {
+      "code": "448900",
+      "file": "한국피아이엠.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국피아이엠.html"
+    },
+    "한국항공우주": {
+      "code": "047810",
+      "file": "한국항공우주.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국항공우주.html"
+    },
+    "한국화장품": {
+      "code": "123690",
+      "file": "한국화장품.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국화장품.html"
     }
   }
 }
