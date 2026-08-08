@@ -1011,6 +1011,7 @@
 | 996 | 프롬바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A1%AC%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-08-08 |
 | 997 | 프리엠스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A6%AC%EC%97%A0%EC%8A%A4.html) | 2026-08-08 |
 | 998 | 프리시젼바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%84%EB%A6%AC%EC%8B%9C%EC%A0%BC%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-08-08 |
+| 999 | 플라즈맵 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%94%8C%EB%9D%BC%EC%A6%88%EB%A7%B5.html) | 2026-08-08 |
 
 ---
 
