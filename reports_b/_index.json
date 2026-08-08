@@ -5320,6 +5320,27 @@
       "category": "일반",
       "generated_at": "2026-08-08",
       "filename": "한국콜마.html"
+    },
+    "한국큐빅": {
+      "code": "021650",
+      "file": "한국큐빅.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국큐빅.html"
+    },
+    "한국타이어앤테크놀로지": {
+      "code": "161390",
+      "file": "한국타이어앤테크놀로지.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국타이어앤테크놀로지.html"
+    },
+    "한국토지신탁": {
+      "code": "034830",
+      "file": "한국토지신탁.html",
+      "category": "일반",
+      "generated_at": "2026-08-08",
+      "filename": "한국토지신탁.html"
     }
   }
 }

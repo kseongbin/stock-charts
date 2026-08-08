@@ -1057,6 +1057,9 @@
 | 1042 | 한국카본 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%B9%B4%EB%B3%B8.html) | 2026-08-08 |
 | 1043 | 한국컴퓨터 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%BB%B4%ED%93%A8%ED%84%B0.html) | 2026-08-08 |
 | 1044 | 한국콜마 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%EC%BD%9C%EB%A7%88.html) | 2026-08-08 |
+| 1045 | 한국큐빅 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%ED%81%90%EB%B9%85.html) | 2026-08-08 |
+| 1046 | 한국타이어앤테크놀로지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%ED%83%80%EC%9D%B4%EC%96%B4%EC%95%A4%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80.html) | 2026-08-08 |
+| 1047 | 한국토지신탁 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EA%B5%AD%ED%86%A0%EC%A7%80%EC%8B%A0%ED%83%81.html) | 2026-08-08 |
 
 ---
 
