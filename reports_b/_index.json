@@ -5614,6 +5614,27 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한양디지텍.html"
+    },
+    "한양이엔지": {
+      "code": "045100",
+      "file": "한양이엔지.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한양이엔지.html"
+    },
+    "한양증권": {
+      "code": "001750",
+      "file": "한양증권.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한양증권.html"
+    },
+    "한온시스템": {
+      "code": "018880",
+      "file": "한온시스템.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한온시스템.html"
     }
   }
 }

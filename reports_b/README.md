@@ -1099,6 +1099,9 @@
 | 1084 | 한신기계공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%8B%A0%EA%B8%B0%EA%B3%84%EA%B3%B5%EC%97%85.html) | 2026-08-09 |
 | 1085 | 한싹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%8B%B9.html) | 2026-08-09 |
 | 1086 | 한양디지텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%96%91%EB%94%94%EC%A7%80%ED%85%8D.html) | 2026-08-09 |
+| 1087 | 한양이엔지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%96%91%EC%9D%B4%EC%97%94%EC%A7%80.html) | 2026-08-09 |
+| 1088 | 한양증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%96%91%EC%A6%9D%EA%B6%8C.html) | 2026-08-09 |
+| 1089 | 한온시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%98%A8%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-08-09 |
 
 ---
 
