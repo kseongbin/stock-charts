@@ -30,21 +30,6 @@
   ],
   "queue": [
     {
-      "name": "한일홀딩스",
-      "category": "일반",
-      "code": "003300"
-    },
-    {
-      "name": "한일화학",
-      "category": "일반",
-      "code": "007770"
-    },
-    {
-      "name": "한전KPS",
-      "category": "일반",
-      "code": "051600"
-    },
-    {
       "name": "한전기술",
       "category": "일반",
       "code": "052690"

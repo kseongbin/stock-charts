@@ -1108,6 +1108,9 @@
 | 1093 | 한일사료 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%BC%EC%82%AC%EB%A3%8C.html) | 2026-08-09 |
 | 1094 | 한일시멘트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%BC%EC%8B%9C%EB%A9%98%ED%8A%B8.html) | 2026-08-09 |
 | 1095 | 한일철강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%BC%EC%B2%A0%EA%B0%95.html) | 2026-08-09 |
+| 1096 | 한일홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%BC%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-09 |
+| 1097 | 한일화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%BC%ED%99%94%ED%95%99.html) | 2026-08-09 |
+| 1098 | 한전KPS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%A0%84KPS.html) | 2026-08-09 |
 
 ---
 

@@ -5677,6 +5677,27 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한일철강.html"
+    },
+    "한일홀딩스": {
+      "code": "003300",
+      "file": "한일홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한일홀딩스.html"
+    },
+    "한일화학": {
+      "code": "007770",
+      "file": "한일화학.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한일화학.html"
+    },
+    "한전KPS": {
+      "code": "051600",
+      "file": "한전KPS.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한전KPS.html"
     }
   }
 }
