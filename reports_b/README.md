@@ -1106,6 +1106,8 @@
 | 1091 | 한익스프레스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%B5%EC%8A%A4%ED%94%84%EB%A0%88%EC%8A%A4.html) | 2026-08-09 |
 | 1092 | 한일단조 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%BC%EB%8B%A8%EC%A1%B0.html) | 2026-08-09 |
 | 1093 | 한일사료 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%BC%EC%82%AC%EB%A3%8C.html) | 2026-08-09 |
+| 1094 | 한일시멘트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%BC%EC%8B%9C%EB%A9%98%ED%8A%B8.html) | 2026-08-09 |
+| 1095 | 한일철강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%BC%EC%B2%A0%EA%B0%95.html) | 2026-08-09 |
 
 ---
 

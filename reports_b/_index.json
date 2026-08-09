@@ -5663,6 +5663,20 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한일사료.html"
+    },
+    "한일시멘트": {
+      "code": "300720",
+      "file": "한일시멘트.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한일시멘트.html"
+    },
+    "한일철강": {
+      "code": "002220",
+      "file": "한일철강.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한일철강.html"
     }
   }
 }
