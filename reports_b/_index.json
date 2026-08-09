@@ -5649,6 +5649,20 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한익스프레스.html"
+    },
+    "한일단조": {
+      "code": "024740",
+      "file": "한일단조.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한일단조.html"
+    },
+    "한일사료": {
+      "code": "005860",
+      "file": "한일사료.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한일사료.html"
     }
   }
 }
