@@ -5593,6 +5593,27 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한신공영.html"
+    },
+    "한신기계공업": {
+      "code": "011700",
+      "file": "한신기계공업.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한신기계공업.html"
+    },
+    "한싹": {
+      "code": "430690",
+      "file": "한싹.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한싹.html"
+    },
+    "한양디지텍": {
+      "code": "078350",
+      "file": "한양디지텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한양디지텍.html"
     }
   }
 }

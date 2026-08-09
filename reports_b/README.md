@@ -1096,6 +1096,9 @@
 | 1081 | 한솔홈데코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%86%94%ED%99%88%EB%8D%B0%EC%BD%94.html) | 2026-08-09 |
 | 1082 | 한스바이오메드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%8A%A4%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A9%94%EB%93%9C.html) | 2026-08-09 |
 | 1083 | 한신공영 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%8B%A0%EA%B3%B5%EC%98%81.html) | 2026-08-09 |
+| 1084 | 한신기계공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%8B%A0%EA%B8%B0%EA%B3%84%EA%B3%B5%EC%97%85.html) | 2026-08-09 |
+| 1085 | 한싹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%8B%B9.html) | 2026-08-09 |
+| 1086 | 한양디지텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%96%91%EB%94%94%EC%A7%80%ED%85%8D.html) | 2026-08-09 |
 
 ---
 
