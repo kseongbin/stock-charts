@@ -1093,6 +1093,9 @@
 | 1078 | 한솔테크닉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%86%94%ED%85%8C%ED%81%AC%EB%8B%89%EC%8A%A4.html) | 2026-08-09 |
 | 1079 | 한솔피엔에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%86%94%ED%94%BC%EC%97%94%EC%97%90%EC%8A%A4.html) | 2026-08-09 |
 | 1080 | 한솔홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%86%94%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-09 |
+| 1081 | 한솔홈데코 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%86%94%ED%99%88%EB%8D%B0%EC%BD%94.html) | 2026-08-09 |
+| 1082 | 한스바이오메드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%8A%A4%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A9%94%EB%93%9C.html) | 2026-08-09 |
+| 1083 | 한신공영 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%8B%A0%EA%B3%B5%EC%98%81.html) | 2026-08-09 |
 
 ---
 

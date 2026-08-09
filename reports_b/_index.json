@@ -5572,6 +5572,27 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한솔홀딩스.html"
+    },
+    "한솔홈데코": {
+      "code": "025750",
+      "file": "한솔홈데코.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한솔홈데코.html"
+    },
+    "한스바이오메드": {
+      "code": "042520",
+      "file": "한스바이오메드.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한스바이오메드.html"
+    },
+    "한신공영": {
+      "code": "004960",
+      "file": "한신공영.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한신공영.html"
     }
   }
 }
