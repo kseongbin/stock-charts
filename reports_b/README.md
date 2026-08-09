@@ -1111,6 +1111,9 @@
 | 1096 | 한일홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%BC%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-09 |
 | 1097 | 한일화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%9D%BC%ED%99%94%ED%95%99.html) | 2026-08-09 |
 | 1098 | 한전KPS | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%A0%84KPS.html) | 2026-08-09 |
+| 1099 | 한전기술 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%A0%84%EA%B8%B0%EC%88%A0.html) | 2026-08-09 |
+| 1100 | 한전산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%A0%84%EC%82%B0%EC%97%85.html) | 2026-08-09 |
+| 1101 | 한주라이트메탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A9%94%ED%83%88.html) | 2026-08-09 |
 
 ---
 

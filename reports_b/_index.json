@@ -5698,6 +5698,27 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한전KPS.html"
+    },
+    "한전기술": {
+      "code": "052690",
+      "file": "한전기술.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한전기술.html"
+    },
+    "한전산업": {
+      "code": "130660",
+      "file": "한전산업.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한전산업.html"
+    },
+    "한주라이트메탈": {
+      "code": "198940",
+      "file": "한주라이트메탈.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한주라이트메탈.html"
     }
   }
 }
