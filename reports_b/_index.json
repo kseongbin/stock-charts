@@ -5719,6 +5719,27 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한주라이트메탈.html"
+    },
+    "한주에이알티": {
+      "code": "058450",
+      "file": "한주에이알티.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한주에이알티.html"
+    },
+    "한중엔시에스": {
+      "code": "107640",
+      "file": "한중엔시에스.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한중엔시에스.html"
+    },
+    "한진": {
+      "code": "002320",
+      "file": "한진.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한진.html"
     }
   }
 }
