@@ -5740,6 +5740,27 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한진.html"
+    },
+    "한진중공업홀딩스": {
+      "code": "003480",
+      "file": "한진중공업홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한진중공업홀딩스.html"
+    },
+    "한진칼": {
+      "code": "180640",
+      "file": "한진칼.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한진칼.html"
+    },
+    "한창": {
+      "code": "005110",
+      "file": "한창.html",
+      "category": "일반",
+      "generated_at": "2026-08-09",
+      "filename": "한창.html"
     }
   }
 }

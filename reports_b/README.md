@@ -1117,6 +1117,9 @@
 | 1102 | 한주에이알티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%A3%BC%EC%97%90%EC%9D%B4%EC%95%8C%ED%8B%B0.html) | 2026-08-09 |
 | 1103 | 한중엔시에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%A4%91%EC%97%94%EC%8B%9C%EC%97%90%EC%8A%A4.html) | 2026-08-09 |
 | 1104 | 한진 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%A7%84.html) | 2026-08-09 |
+| 1105 | 한진중공업홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%A7%84%EC%A4%91%EA%B3%B5%EC%97%85%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-09 |
+| 1106 | 한진칼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%A7%84%EC%B9%BC.html) | 2026-08-09 |
+| 1107 | 한창 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%B0%BD.html) | 2026-08-09 |
 
 ---
 
