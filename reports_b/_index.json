@@ -5761,6 +5761,21 @@
       "category": "일반",
       "generated_at": "2026-08-09",
       "filename": "한창.html"
+    },
+    "한창산업": {
+      "filename": "한창산업.html",
+      "category": "일반",
+      "generated_at": "2026-08-13"
+    },
+    "한창제지": {
+      "filename": "한창제지.html",
+      "category": "일반",
+      "generated_at": "2026-08-13"
+    },
+    "한컴라이프케어": {
+      "filename": "한컴라이프케어.html",
+      "category": "일반",
+      "generated_at": "2026-08-13"
     }
   }
 }
