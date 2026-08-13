@@ -1138,6 +1138,9 @@
 | 1123 | 한화에어로스페이스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%EC%97%90%EC%96%B4%EB%A1%9C%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.html) | 2026-08-13 |
 | 1124 | 한화엔진 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%EC%97%94%EC%A7%84.html) | 2026-08-13 |
 | 1125 | 한화오션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98.html) | 2026-08-13 |
+| 1126 | 한화투자증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.html) | 2026-08-13 |
+| 1127 | 해성디에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B4%EC%84%B1%EB%94%94%EC%97%90%EC%8A%A4.html) | 2026-08-13 |
+| 1128 | 해성산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B4%EC%84%B1%EC%82%B0%EC%97%85.html) | 2026-08-13 |
 
 ---
 
