@@ -1132,6 +1132,9 @@
 | 1117 | 한화 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94.html) | 2026-08-13 |
 | 1118 | 한화갤러리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%95%84.html) | 2026-08-13 |
 | 1119 | 한화리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%EB%A6%AC%EC%B8%A0.html) | 2026-08-13 |
+| 1120 | 한화비전 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%EB%B9%84%EC%A0%84.html) | 2026-08-13 |
+| 1121 | 한화솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-08-13 |
+| 1122 | 한화시스템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%EC%8B%9C%EC%8A%A4%ED%85%9C.html) | 2026-08-13 |
 
 ---
 
