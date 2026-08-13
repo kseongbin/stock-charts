@@ -1150,6 +1150,9 @@
 | 1135 | 헝셩그룹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%97%9D%EC%85%A9%EA%B7%B8%EB%A3%B9.html) | 2026-08-13 |
 | 1136 | 헥토이노베이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%97%A5%ED%86%A0%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98.html) | 2026-08-13 |
 | 1137 | 헥토파이낸셜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%97%A5%ED%86%A0%ED%8C%8C%EC%9D%B4%EB%82%B8%EC%85%9C.html) | 2026-08-13 |
+| 1138 | 헬릭스미스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%97%AC%EB%A6%AD%EC%8A%A4%EB%AF%B8%EC%8A%A4.html) | 2026-08-13 |
+| 1139 | 현대건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EA%B1%B4%EC%84%A4.html) | 2026-08-13 |
+| 1140 | 현대공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EA%B3%B5%EC%97%85.html) | 2026-08-13 |
 
 ---
 
