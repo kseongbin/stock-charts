@@ -1162,6 +1162,9 @@
 | 1147 | 현대바이오랜드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EB%B0%94%EC%9D%B4%EC%98%A4%EB%9E%9C%EB%93%9C.html) | 2026-08-13 |
 | 1148 | 현대백화점 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EB%B0%B1%ED%99%94%EC%A0%90.html) | 2026-08-13 |
 | 1149 | 현대비앤지스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EB%B9%84%EC%95%A4%EC%A7%80%EC%8A%A4%ED%8B%B8.html) | 2026-08-13 |
+| 1150 | 현대사료 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EC%82%AC%EB%A3%8C.html) | 2026-08-13 |
+| 1151 | 현대약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EC%95%BD%ED%92%88.html) | 2026-08-13 |
+| 1152 | 현대에버다임 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EC%97%90%EB%B2%84%EB%8B%A4%EC%9E%84.html) | 2026-08-13 |
 
 ---
 
