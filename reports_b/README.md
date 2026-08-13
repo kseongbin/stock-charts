@@ -1126,6 +1126,9 @@
 | 1111 | 한컴위드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%BB%B4%EC%9C%84%EB%93%9C.html) | 2026-08-13 |
 | 1112 | 한켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%EC%BC%90.html) | 2026-08-13 |
 | 1113 | 한탑 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%83%91.html) | 2026-08-13 |
+| 1114 | 한텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%85%8D.html) | 2026-08-13 |
+| 1115 | 한패스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%8C%A8%EC%8A%A4.html) | 2026-08-13 |
+| 1116 | 한프 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%94%84.html) | 2026-08-13 |
 
 ---
 
