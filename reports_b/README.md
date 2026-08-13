@@ -1141,6 +1141,9 @@
 | 1126 | 한화투자증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%ED%88%AC%EC%9E%90%EC%A6%9D%EA%B6%8C.html) | 2026-08-13 |
 | 1127 | 해성디에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B4%EC%84%B1%EB%94%94%EC%97%90%EC%8A%A4.html) | 2026-08-13 |
 | 1128 | 해성산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B4%EC%84%B1%EC%82%B0%EC%97%85.html) | 2026-08-13 |
+| 1129 | 해성에어로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B4%EC%84%B1%EC%97%90%EC%96%B4%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-08-13 |
+| 1130 | 해성옵틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B4%EC%84%B1%EC%98%B5%ED%8B%B1%EC%8A%A4.html) | 2026-08-13 |
+| 1131 | 해태제과식품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%EC%8B%9D%ED%92%88.html) | 2026-08-13 |
 
 ---
 
