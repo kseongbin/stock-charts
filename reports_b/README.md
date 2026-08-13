@@ -1168,6 +1168,9 @@
 | 1153 | 현대엘리베이터 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EC%97%98%EB%A6%AC%EB%B2%A0%EC%9D%B4%ED%84%B0.html) | 2026-08-13 |
 | 1154 | 현대위아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EC%9C%84%EC%95%84.html) | 2026-08-13 |
 | 1155 | 현대이지웰 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EC%9D%B4%EC%A7%80%EC%9B%B0.html) | 2026-08-13 |
+| 1156 | 현대제철 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EC%A0%9C%EC%B2%A0.html) | 2026-08-13 |
+| 1157 | 현대지에프홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EC%A7%80%EC%97%90%ED%94%84%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-13 |
+| 1158 | 현대차증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EC%B0%A8%EC%A6%9D%EA%B6%8C.html) | 2026-08-13 |
 
 ---
 
