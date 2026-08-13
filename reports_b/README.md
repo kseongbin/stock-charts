@@ -1153,6 +1153,9 @@
 | 1138 | 헬릭스미스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%97%AC%EB%A6%AD%EC%8A%A4%EB%AF%B8%EC%8A%A4.html) | 2026-08-13 |
 | 1139 | 현대건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EA%B1%B4%EC%84%A4.html) | 2026-08-13 |
 | 1140 | 현대공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EA%B3%B5%EC%97%85.html) | 2026-08-13 |
+| 1141 | 현대그린푸드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EA%B7%B8%EB%A6%B0%ED%91%B8%EB%93%9C.html) | 2026-08-13 |
+| 1142 | 현대글로비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EA%B8%80%EB%A1%9C%EB%B9%84%EC%8A%A4.html) | 2026-08-13 |
+| 1143 | 현대로템 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%EB%A1%9C%ED%85%9C.html) | 2026-08-13 |
 
 ---
 
