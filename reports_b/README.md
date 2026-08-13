@@ -1147,6 +1147,9 @@
 | 1132 | 핸디소프트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B8%EB%94%94%EC%86%8C%ED%94%84%ED%8A%B8.html) | 2026-08-13 |
 | 1133 | 핸즈코퍼레이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B8%EC%A6%88%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98.html) | 2026-08-13 |
 | 1134 | 행남사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%96%89%EB%82%A8%EC%82%AC.html) | 2026-08-13 |
+| 1135 | 헝셩그룹 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%97%9D%EC%85%A9%EA%B7%B8%EB%A3%B9.html) | 2026-08-13 |
+| 1136 | 헥토이노베이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%97%A5%ED%86%A0%EC%9D%B4%EB%85%B8%EB%B2%A0%EC%9D%B4%EC%85%98.html) | 2026-08-13 |
+| 1137 | 헥토파이낸셜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%97%A5%ED%86%A0%ED%8C%8C%EC%9D%B4%EB%82%B8%EC%85%9C.html) | 2026-08-13 |
 
 ---
 
