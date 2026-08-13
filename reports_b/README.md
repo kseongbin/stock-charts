@@ -1144,6 +1144,9 @@
 | 1129 | 해성에어로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B4%EC%84%B1%EC%97%90%EC%96%B4%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-08-13 |
 | 1130 | 해성옵틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B4%EC%84%B1%EC%98%B5%ED%8B%B1%EC%8A%A4.html) | 2026-08-13 |
 | 1131 | 해태제과식품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B4%ED%83%9C%EC%A0%9C%EA%B3%BC%EC%8B%9D%ED%92%88.html) | 2026-08-13 |
+| 1132 | 핸디소프트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B8%EB%94%94%EC%86%8C%ED%94%84%ED%8A%B8.html) | 2026-08-13 |
+| 1133 | 핸즈코퍼레이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%B8%EC%A6%88%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98.html) | 2026-08-13 |
+| 1134 | 행남사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%96%89%EB%82%A8%EC%82%AC.html) | 2026-08-13 |
 
 ---
 
