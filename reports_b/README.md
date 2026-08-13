@@ -1129,6 +1129,9 @@
 | 1114 | 한텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%85%8D.html) | 2026-08-13 |
 | 1115 | 한패스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%8C%A8%EC%8A%A4.html) | 2026-08-13 |
 | 1116 | 한프 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%94%84.html) | 2026-08-13 |
+| 1117 | 한화 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94.html) | 2026-08-13 |
+| 1118 | 한화갤러리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%EA%B0%A4%EB%9F%AC%EB%A6%AC%EC%95%84.html) | 2026-08-13 |
+| 1119 | 한화리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%95%9C%ED%99%94%EB%A6%AC%EC%B8%A0.html) | 2026-08-13 |
 
 ---
 
