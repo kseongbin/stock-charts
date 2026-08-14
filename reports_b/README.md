@@ -1180,6 +1180,9 @@
 | 1165 | 형지I&C | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%95%EC%A7%80I%26C.html) | 2026-08-15 |
 | 1166 | 형지글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%95%EC%A7%80%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-08-15 |
 | 1167 | 형지엘리트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%95%EC%A7%80%EC%97%98%EB%A6%AC%ED%8A%B8.html) | 2026-08-15 |
+| 1168 | 혜인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%9C%EC%9D%B8.html) | 2026-08-15 |
+| 1169 | 호전실업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%B8%EC%A0%84%EC%8B%A4%EC%97%85.html) | 2026-08-15 |
+| 1170 | 호텔신라 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%B8%ED%85%94%EC%8B%A0%EB%9D%BC.html) | 2026-08-15 |
 
 ---
 
