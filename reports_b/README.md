@@ -1177,6 +1177,9 @@
 | 1162 | 현대홈쇼핑 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%ED%99%88%EC%87%BC%ED%95%91.html) | 2026-08-13 |
 | 1163 | 현대힘스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EB%8C%80%ED%9E%98%EC%8A%A4.html) | 2026-08-13 |
 | 1164 | 현우산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%84%EC%9A%B0%EC%82%B0%EC%97%85.html) | 2026-08-13 |
+| 1165 | 형지I&C | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%95%EC%A7%80I%26C.html) | 2026-08-15 |
+| 1166 | 형지글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%95%EC%A7%80%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-08-15 |
+| 1167 | 형지엘리트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%98%95%EC%A7%80%EC%97%98%EB%A6%AC%ED%8A%B8.html) | 2026-08-15 |
 
 ---
 

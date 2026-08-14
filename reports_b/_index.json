@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-15",
   "completed": {
     "다이노나": {
       "filename": "다이노나.html",
@@ -6046,6 +6046,21 @@
       "filename": "현우산업.html",
       "category": "일반",
       "generated_at": "2026-08-13"
+    },
+    "형지I&C": {
+      "filename": "형지I&C.html",
+      "category": "일반",
+      "generated_at": "2026-08-15"
+    },
+    "형지글로벌": {
+      "filename": "형지글로벌.html",
+      "category": "일반",
+      "generated_at": "2026-08-15"
+    },
+    "형지엘리트": {
+      "filename": "형지엘리트.html",
+      "category": "일반",
+      "generated_at": "2026-08-15"
     }
   }
 }
