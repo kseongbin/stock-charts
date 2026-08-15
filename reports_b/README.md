@@ -1189,6 +1189,9 @@
 | 1174 | 화승엔터프라이즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%8A%B9%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88.html) | 2026-08-15 |
 | 1175 | 화승인더스트리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%8A%B9%EC%9D%B8%EB%8D%94%EC%8A%A4%ED%8A%B8%EB%A6%AC.html) | 2026-08-15 |
 | 1176 | 화승코퍼레이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%8A%B9%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98.html) | 2026-08-15 |
+| 1177 | 화신 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%8B%A0.html) | 2026-08-15 |
+| 1178 | 화신정공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%8B%A0%EC%A0%95%EA%B3%B5.html) | 2026-08-15 |
+| 1179 | 화신테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%8B%A0%ED%85%8C%ED%81%AC.html) | 2026-08-15 |
 
 ---
 
