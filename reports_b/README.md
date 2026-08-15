@@ -1198,6 +1198,9 @@
 | 1183 | 화천기계 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%B2%9C%EA%B8%B0%EA%B3%84.html) | 2026-08-15 |
 | 1184 | 화천기공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%B2%9C%EA%B8%B0%EA%B3%B5.html) | 2026-08-15 |
 | 1185 | 환인제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%98%EC%9D%B8%EC%A0%9C%EC%95%BD.html) | 2026-08-15 |
+| 1186 | 황금에스티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%A9%EA%B8%88%EC%97%90%EC%8A%A4%ED%8B%B0.html) | 2026-08-15 |
+| 1187 | 효성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9A%A8%EC%84%B1.html) | 2026-08-15 |
+| 1188 | 효성 ITX | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9A%A8%EC%84%B1%20ITX.html) | 2026-08-15 |
 
 ---
 
