@@ -1204,6 +1204,9 @@
 | 1189 | 효성오앤비 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9A%A8%EC%84%B1%EC%98%A4%EC%95%A4%EB%B9%84.html) | 2026-08-15 |
 | 1190 | 효성티앤씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9A%A8%EC%84%B1%ED%8B%B0%EC%95%A4%EC%94%A8.html) | 2026-08-15 |
 | 1191 | 효성화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9A%A8%EC%84%B1%ED%99%94%ED%95%99.html) | 2026-08-15 |
+| 1192 | 휴네시온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%84%A4%EC%8B%9C%EC%98%A8.html) | 2026-08-15 |
+| 1193 | 휴니드테크놀러지스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%8B%88%EB%93%9C%ED%85%8C%ED%81%AC%EB%86%80%EB%9F%AC%EC%A7%80%EC%8A%A4.html) | 2026-08-15 |
+| 1194 | 휴럼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%9F%BC.html) | 2026-08-15 |
 
 ---
 
