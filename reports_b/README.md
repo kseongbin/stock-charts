@@ -1195,6 +1195,9 @@
 | 1180 | 화인베스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%9D%B8%EB%B2%A0%EC%8A%A4%ED%8B%B8.html) | 2026-08-15 |
 | 1181 | 화인써키트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%9D%B8%EC%8D%A8%ED%82%A4%ED%8A%B8.html) | 2026-08-15 |
 | 1182 | 화일약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%9D%BC%EC%95%BD%ED%92%88.html) | 2026-08-15 |
+| 1183 | 화천기계 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%B2%9C%EA%B8%B0%EA%B3%84.html) | 2026-08-15 |
+| 1184 | 화천기공 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%94%EC%B2%9C%EA%B8%B0%EA%B3%B5.html) | 2026-08-15 |
+| 1185 | 환인제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%99%98%EC%9D%B8%EC%A0%9C%EC%95%BD.html) | 2026-08-15 |
 
 ---
 
