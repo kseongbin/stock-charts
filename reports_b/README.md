@@ -1210,6 +1210,9 @@
 | 1195 | 휴림로봇 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%A6%BC%EB%A1%9C%EB%B4%87.html) | 2026-08-15 |
 | 1196 | 휴림에이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%A6%BC%EC%97%90%EC%9D%B4%ED%85%8D.html) | 2026-08-15 |
 | 1197 | 휴마시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%A7%88%EC%8B%9C%EC%8A%A4.html) | 2026-08-15 |
+| 1198 | 휴맥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%A7%A5%EC%8A%A4.html) | 2026-08-15 |
+| 1199 | 휴맥스홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%A7%A5%EC%8A%A4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-15 |
+| 1200 | 휴먼테크놀로지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%A8%BC%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80.html) | 2026-08-15 |
 
 ---
 
