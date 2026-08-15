@@ -1213,6 +1213,9 @@
 | 1198 | 휴맥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%A7%A5%EC%8A%A4.html) | 2026-08-15 |
 | 1199 | 휴맥스홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%A7%A5%EC%8A%A4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-15 |
 | 1200 | 휴먼테크놀로지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%A8%BC%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80.html) | 2026-08-15 |
+| 1201 | 휴메딕스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%A9%94%EB%94%95%EC%8A%A4.html) | 2026-08-15 |
+| 1202 | 휴비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%B9%84%EC%8A%A4.html) | 2026-08-15 |
+| 1203 | 휴비츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports_b/%ED%9C%B4%EB%B9%84%EC%B8%A0.html) | 2026-08-15 |
 
 ---
 
