@@ -668,6 +668,10 @@
 | 653 | 딜리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%9C%EB%A6%AC.html) | 2026-08-16 |
 | 654 | 디케이앤디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%BC%80%EC%9D%B4%EC%95%A4%EB%94%94.html) | 2026-08-16 |
 | 655 | 디티씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%ED%8B%B0%EC%94%A8.html) | 2026-08-16 |
+| 656 | 라이온켐텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%EC%9D%B4%EC%98%A8%EC%BC%90%ED%85%8D.html) | 2026-08-16 |
+| 657 | 라온시큐어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%EC%98%A8%EC%8B%9C%ED%81%90%EC%96%B4.html) | 2026-08-16 |
+| 658 | 라메디텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%EB%A9%94%EB%94%94%ED%85%8D.html) | 2026-08-16 |
+| 659 | 라온텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%EC%98%A8%ED%85%8D.html) | 2026-08-16 |
 
 ---
 
