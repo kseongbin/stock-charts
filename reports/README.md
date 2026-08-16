@@ -697,6 +697,12 @@
 | 682 | 롯데렌탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EB%A0%8C%ED%83%88.html) | 2026-08-16 |
 | 683 | 롯데리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EB%A6%AC%EC%B8%A0.html) | 2026-08-16 |
 | 684 | 롯데쇼핑 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EC%87%BC%ED%95%91.html) | 2026-08-16 |
+| 685 | 롯데에너지머티리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EC%97%90%EB%84%88%EC%A7%80%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-08-16 |
+| 686 | 롯데웰푸드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EC%9B%B0%ED%91%B8%EB%93%9C.html) | 2026-08-16 |
+| 687 | 롯데정밀화학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EC%A0%95%EB%B0%80%ED%99%94%ED%95%99.html) | 2026-08-16 |
+| 688 | 롯데지주 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EC%A7%80%EC%A3%BC.html) | 2026-08-16 |
+| 689 | 롯데칠성음료 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EC%B9%A0%EC%84%B1%EC%9D%8C%EB%A3%8C.html) | 2026-08-16 |
+| 690 | 롯데케미칼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EC%BC%80%EB%AF%B8%EC%B9%BC.html) | 2026-08-16 |
 
 ---
 
