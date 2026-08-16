@@ -691,6 +691,12 @@
 | 676 | 로젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%9C%EC%A0%A0.html) | 2026-08-16 |
 | 677 | 로체시스템즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%9C%EC%B2%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88.html) | 2026-08-16 |
 | 678 | 로지시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%9C%EC%A7%80%EC%8B%9C%EC%8A%A4.html) | 2026-08-16 |
+| 679 | 로킷헬스케어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%9C%ED%82%B7%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4.html) | 2026-08-16 |
+| 680 | 롤링스톤 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%A4%EB%A7%81%EC%8A%A4%ED%86%A4.html) | 2026-08-16 |
+| 681 | 롯데관광개발 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EA%B4%80%EA%B4%91%EA%B0%9C%EB%B0%9C.html) | 2026-08-16 |
+| 682 | 롯데렌탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EB%A0%8C%ED%83%88.html) | 2026-08-16 |
+| 683 | 롯데리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EB%A6%AC%EC%B8%A0.html) | 2026-08-16 |
+| 684 | 롯데쇼핑 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EC%87%BC%ED%95%91.html) | 2026-08-16 |
 
 ---
 
