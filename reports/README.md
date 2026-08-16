@@ -666,6 +666,8 @@
 | 651 | 디티앤씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%ED%8B%B0%EC%95%A4%EC%94%A8.html) | 2026-08-16 |
 | 652 | 디티앤씨알오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%ED%8B%B0%EC%95%A4%EC%94%A8%EC%95%8C%EC%98%A4.html) | 2026-08-16 |
 | 653 | 딜리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%9C%EB%A6%AC.html) | 2026-08-16 |
+| 654 | 디케이앤디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%BC%80%EC%9D%B4%EC%95%A4%EB%94%94.html) | 2026-08-16 |
+| 655 | 디티씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%ED%8B%B0%EC%94%A8.html) | 2026-08-16 |
 
 ---
 
