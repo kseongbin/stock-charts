@@ -683,6 +683,9 @@
 | 668 | 레이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EC%9D%B4.html) | 2026-08-16 |
 | 669 | 레드우즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EB%93%9C%EC%9A%B0%EC%A6%88.html) | 2026-08-16 |
 | 670 | 레뷰코퍼레이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EB%B7%B0%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98.html) | 2026-08-16 |
+| 671 | 레이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-08-16 |
+| 672 | 레이저옵텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EC%9D%B4%EC%A0%80%EC%98%B5%ED%85%8D.html) | 2026-08-16 |
+| 673 | 레이크머티리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EC%9D%B4%ED%81%AC%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-08-16 |
 
 ---
 
