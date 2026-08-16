@@ -690,6 +690,7 @@
 | 675 | 로보로보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%9C%EB%B3%B4%EB%A1%9C%EB%B3%B4.html) | 2026-08-16 |
 | 676 | 로젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%9C%EC%A0%A0.html) | 2026-08-16 |
 | 677 | 로체시스템즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%9C%EC%B2%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88.html) | 2026-08-16 |
+| 678 | 로지시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%9C%EC%A7%80%EC%8B%9C%EC%8A%A4.html) | 2026-08-16 |
 
 ---
 
