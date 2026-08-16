@@ -639,6 +639,11 @@
 | 624 | 디아이동일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%95%84%EC%9D%B4%EB%8F%99%EC%9D%BC.html) | 2026-06-23 |
 | 625 | 디알젬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%95%8C%EC%A0%AC.html) | 2026-06-23 |
 | 626 | 디앤디파마텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%95%A4%EB%94%94%ED%8C%8C%EB%A7%88%ED%85%8D.html) | 2026-06-23 |
+| 627 | 디앤디플랫폼리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%95%A4%EB%94%94%ED%94%8C%EB%9E%AB%ED%8F%BC%EB%A6%AC%EC%B8%A0.html) | 2026-08-16 |
+| 628 | 디앤씨미디어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%95%A4%EC%94%A8%EB%AF%B8%EB%94%94%EC%96%B4.html) | 2026-08-16 |
+| 629 | 디어유 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%96%B4%EC%9C%A0.html) | 2026-08-16 |
+| 630 | 디에스엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%97%90%EC%8A%A4%EC%97%A0.html) | 2026-08-16 |
+| 631 | 디에스케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%97%90%EC%8A%A4%EC%BC%80%EC%9D%B4.html) | 2026-08-16 |
 
 ---
 

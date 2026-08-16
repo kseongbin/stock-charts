@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-06-23",
+  "last_updated": "2026-08-16",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -3131,6 +3131,31 @@
       "filename": "디앤디파마텍.html",
       "category": "일반",
       "generated_at": "2026-06-23"
+    },
+    "디앤디플랫폼리츠": {
+      "filename": "디앤디플랫폼리츠.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "디앤씨미디어": {
+      "filename": "디앤씨미디어.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "디어유": {
+      "filename": "디어유.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "디에스엠": {
+      "filename": "디에스엠.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "디에스케이": {
+      "filename": "디에스케이.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
     }
   },
   "드래곤플라이": {
