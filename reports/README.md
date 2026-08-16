@@ -650,6 +650,9 @@
 | 635 | 디에이피 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%97%90%EC%9D%B4%ED%94%BC.html) | 2026-08-16 |
 | 636 | 디엔에프 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%97%94%EC%97%90%ED%94%84.html) | 2026-08-16 |
 | 637 | 디오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%98%A4.html) | 2026-08-16 |
+| 638 | 디와이덕양 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%99%80%EC%9D%B4%EB%8D%95%EC%96%91.html) | 2026-08-16 |
+| 639 | 디와이에이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%99%80%EC%9D%B4%EC%97%90%EC%9D%B4.html) | 2026-08-16 |
+| 640 | 디와이파워 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%99%80%EC%9D%B4%ED%8C%8C%EC%9B%8C.html) | 2026-08-16 |
 
 ---
 
