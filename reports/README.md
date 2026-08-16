@@ -674,6 +674,10 @@
 | 659 | 라온텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%EC%98%A8%ED%85%8D.html) | 2026-08-16 |
 | 660 | 라온로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%EC%98%A8%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-08-16 |
 | 661 | 딥커머스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%A5%EC%BB%A4%EB%A8%B8%EC%8A%A4.html) | 2026-08-16 |
+| 662 | 라파스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%ED%8C%8C%EC%8A%A4.html) | 2026-08-16 |
+| 663 | 램테크놀러지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9E%A8%ED%85%8C%ED%81%AC%EB%86%80%EB%9F%AC%EC%A7%80.html) | 2026-08-16 |
+| 664 | 랩지노믹스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9E%A9%EC%A7%80%EB%85%B8%EB%AF%B9%EC%8A%A4.html) | 2026-08-16 |
+| 665 | 러셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9F%AC%EC%85%80.html) | 2026-08-16 |
 
 ---
 
