@@ -686,6 +686,10 @@
 | 671 | 레이언스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EC%9D%B4%EC%96%B8%EC%8A%A4.html) | 2026-08-16 |
 | 672 | 레이저옵텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EC%9D%B4%EC%A0%80%EC%98%B5%ED%85%8D.html) | 2026-08-16 |
 | 673 | 레이크머티리얼즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EC%9D%B4%ED%81%AC%EB%A8%B8%ED%8B%B0%EB%A6%AC%EC%96%BC%EC%A6%88.html) | 2026-08-16 |
+| 674 | 레이저쎌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EC%9D%B4%EC%A0%80%EC%8E%8C.html) | 2026-08-16 |
+| 675 | 로보로보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%9C%EB%B3%B4%EB%A1%9C%EB%B3%B4.html) | 2026-08-16 |
+| 676 | 로젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%9C%EC%A0%A0.html) | 2026-08-16 |
+| 677 | 로체시스템즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%9C%EC%B2%B4%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A6%88.html) | 2026-08-16 |
 
 ---
 
