@@ -672,6 +672,8 @@
 | 657 | 라온시큐어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%EC%98%A8%EC%8B%9C%ED%81%90%EC%96%B4.html) | 2026-08-16 |
 | 658 | 라메디텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%EB%A9%94%EB%94%94%ED%85%8D.html) | 2026-08-16 |
 | 659 | 라온텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%EC%98%A8%ED%85%8D.html) | 2026-08-16 |
+| 660 | 라온로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9D%BC%EC%98%A8%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-08-16 |
+| 661 | 딥커머스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%A5%EC%BB%A4%EB%A8%B8%EC%8A%A4.html) | 2026-08-16 |
 
 ---
 
