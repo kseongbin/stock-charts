@@ -1,6 +1,6 @@
 {
   "description": "B 계정 처리 보고서 인덱스",
-  "last_updated": "2026-08-15",
+  "last_updated": "2026-08-16",
   "completed": {
     "다이노나": {
       "filename": "다이노나.html",
@@ -6241,6 +6241,91 @@
       "filename": "휴비츠.html",
       "category": "일반",
       "generated_at": "2026-08-15"
+    },
+    "휴스토리": {
+      "filename": "휴스토리.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "휴스틸": {
+      "filename": "휴스틸.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "휴엠앤씨": {
+      "filename": "휴엠앤씨.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "휴온스": {
+      "filename": "휴온스.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "휴온스글로벌": {
+      "filename": "휴온스글로벌.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "휴젤": {
+      "filename": "휴젤.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "흥구석유": {
+      "filename": "흥구석유.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "흥국": {
+      "filename": "흥국.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "흥국에프엔비": {
+      "filename": "흥국에프엔비.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "흥아해운": {
+      "filename": "흥아해운.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "희림": {
+      "filename": "희림.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "캐스텍코리아": {
+      "filename": "캐스텍코리아.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "캐프": {
+      "filename": "캐프.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "캔버스엔": {
+      "filename": "캔버스엔.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "캡스톤파트너스": {
+      "filename": "캡스톤파트너스.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "컨텍": {
+      "filename": "컨텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
+    },
+    "컬러레이": {
+      "filename": "컬러레이.html",
+      "category": "일반",
+      "generated_at": "2026-08-16"
     }
   }
 }
