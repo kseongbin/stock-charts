@@ -678,6 +678,11 @@
 | 663 | 램테크놀러지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9E%A8%ED%85%8C%ED%81%AC%EB%86%80%EB%9F%AC%EC%A7%80.html) | 2026-08-16 |
 | 664 | 랩지노믹스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9E%A9%EC%A7%80%EB%85%B8%EB%AF%B9%EC%8A%A4.html) | 2026-08-16 |
 | 665 | 러셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%9F%AC%EC%85%80.html) | 2026-08-16 |
+| 666 | 레드캡투어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EB%93%9C%EC%BA%A1%ED%88%AC%EC%96%B4.html) | 2026-08-16 |
+| 667 | 레몬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EB%AA%AC.html) | 2026-08-16 |
+| 668 | 레이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EC%9D%B4.html) | 2026-08-16 |
+| 669 | 레드우즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EB%93%9C%EC%9A%B0%EC%A6%88.html) | 2026-08-16 |
+| 670 | 레뷰코퍼레이션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A0%88%EB%B7%B0%EC%BD%94%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98.html) | 2026-08-16 |
 
 ---
 
