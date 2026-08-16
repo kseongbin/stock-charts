@@ -656,6 +656,9 @@
 | 641 | 디와이디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%99%80%EC%9D%B4%EB%94%94.html) | 2026-08-16 |
 | 642 | 디와이씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%99%80%EC%9D%B4%EC%94%A8.html) | 2026-08-16 |
 | 643 | 디와이피엔에프 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%99%80%EC%9D%B4%ED%94%BC%EC%97%94%EC%97%90%ED%94%84.html) | 2026-08-16 |
+| 644 | 디지캡 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%A7%80%EC%BA%A1.html) | 2026-08-16 |
+| 645 | 디지털대성 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%A7%80%ED%84%B8%EB%8C%80%EC%84%B1.html) | 2026-08-16 |
+| 646 | 디젠스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%94%94%EC%A0%A0%EC%8A%A4.html) | 2026-08-16 |
 
 ---
 
