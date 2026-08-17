@@ -707,6 +707,11 @@
 | 692 | 루닛 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A3%A8%EB%8B%9B.html) | 2026-08-17 |
 | 693 | 루멘스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A3%A8%EB%A9%98%EC%8A%A4.html) | 2026-08-17 |
 | 694 | 리노공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A6%AC%EB%85%B8%EA%B3%B5%EC%97%85.html) | 2026-08-17 |
+| 695 | 리더스코스메틱 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A6%AC%EB%8D%94%EC%8A%A4%EC%BD%94%EC%8A%A4%EB%A9%94%ED%8B%B1.html) | 2026-08-17 |
+| 696 | 리드코프 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A6%AC%EB%93%9C%EC%BD%94%ED%94%84.html) | 2026-08-17 |
+| 697 | 리메드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A6%AC%EB%A9%94%EB%93%9C.html) | 2026-08-17 |
+| 698 | 리브스메드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A6%AC%EB%B8%8C%EC%8A%A4%EB%A9%94%EB%93%9C.html) | 2026-08-17 |
+| 699 | 리센스메디컬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A6%AC%EC%84%BC%EC%8A%A4%EB%A9%94%EB%94%94%EC%BB%AC.html) | 2026-08-17 |
 
 ---
 
