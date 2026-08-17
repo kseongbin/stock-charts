@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-16",
+  "last_updated": "2026-08-17",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -3451,6 +3451,26 @@
       "filename": "롯데케미칼.html",
       "category": "일반",
       "generated_at": "2026-08-16"
+    },
+    "롯데하이마트": {
+      "filename": "롯데하이마트.html",
+      "category": "일반",
+      "generated_at": "2026-08-17"
+    },
+    "루닛": {
+      "filename": "루닛.html",
+      "category": "일반",
+      "generated_at": "2026-08-17"
+    },
+    "루멘스": {
+      "filename": "루멘스.html",
+      "category": "일반",
+      "generated_at": "2026-08-17"
+    },
+    "리노공업": {
+      "filename": "리노공업.html",
+      "category": "일반",
+      "generated_at": "2026-08-17"
     }
   }
 }

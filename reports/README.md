@@ -703,6 +703,10 @@
 | 688 | 롯데지주 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EC%A7%80%EC%A3%BC.html) | 2026-08-16 |
 | 689 | 롯데칠성음료 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EC%B9%A0%EC%84%B1%EC%9D%8C%EB%A3%8C.html) | 2026-08-16 |
 | 690 | 롯데케미칼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%EC%BC%80%EB%AF%B8%EC%B9%BC.html) | 2026-08-16 |
+| 691 | 롯데하이마트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A1%AF%EB%8D%B0%ED%95%98%EC%9D%B4%EB%A7%88%ED%8A%B8.html) | 2026-08-17 |
+| 692 | 루닛 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A3%A8%EB%8B%9B.html) | 2026-08-17 |
+| 693 | 루멘스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A3%A8%EB%A9%98%EC%8A%A4.html) | 2026-08-17 |
+| 694 | 리노공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A6%AC%EB%85%B8%EA%B3%B5%EC%97%85.html) | 2026-08-17 |
 
 ---
 
