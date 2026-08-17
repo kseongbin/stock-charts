@@ -718,6 +718,12 @@
 | 703 | 링크드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%81%ED%81%AC%EB%93%9C.html) | 2026-08-17 |
 | 704 | 링크솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%81%ED%81%AC%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-08-17 |
 | 705 | 링크제니시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%81%ED%81%AC%EC%A0%9C%EB%8B%88%EC%8B%9C%EC%8A%A4.html) | 2026-08-17 |
+| 706 | 마녀공장 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%88%EB%85%80%EA%B3%B5%EC%9E%A5.html) | 2026-08-17 |
+| 707 | 마니커 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%88%EB%8B%88%EC%BB%A4.html) | 2026-08-17 |
+| 708 | 마니커에프앤지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%88%EB%8B%88%EC%BB%A4%EC%97%90%ED%94%84%EC%95%A4%EC%A7%80.html) | 2026-08-17 |
+| 709 | 마스턴프리미어리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%88%EC%8A%A4%ED%84%B4%ED%94%84%EB%A6%AC%EB%AF%B8%EC%96%B4%EB%A6%AC%EC%B8%A0.html) | 2026-08-17 |
+| 710 | 마음AI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%88%EC%9D%8CAI.html) | 2026-08-17 |
+| 711 | 마이크로컨텍솔 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%BB%A8%ED%85%8D%EC%86%94.html) | 2026-08-17 |
 
 ---
 
