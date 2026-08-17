@@ -729,6 +729,10 @@
 | 714 | 마크로젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%88%ED%81%AC%EB%A1%9C%EC%A0%A0.html) | 2026-08-17 |
 | 715 | 매일유업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%A4%EC%9D%BC%EC%9C%A0%EC%97%85.html) | 2026-08-17 |
 | 716 | 매일홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%A4%EC%9D%BC%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-17 |
+| 717 | 멀티캠퍼스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A9%80%ED%8B%B0%EC%BA%A0%ED%8D%BC%EC%8A%A4.html) | 2026-08-17 |
+| 718 | 매커스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A7%A4%EC%BB%A4%EC%8A%A4.html) | 2026-08-17 |
+| 719 | 메가스터디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A9%94%EA%B0%80%EC%8A%A4%ED%84%B0%EB%94%94.html) | 2026-08-17 |
+| 720 | 머큐리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A8%B8%ED%81%90%EB%A6%AC.html) | 2026-08-17 |
 
 ---
 
