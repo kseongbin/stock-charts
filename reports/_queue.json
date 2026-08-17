@@ -37,36 +37,6 @@
   ],
   "queue": [
     {
-      "name": "메가엠디",
-      "category": "일반",
-      "code": "133750"
-    },
-    {
-      "name": "메가터치",
-      "category": "일반",
-      "code": "446540"
-    },
-    {
-      "name": "메드팩토",
-      "category": "일반",
-      "code": "235980"
-    },
-    {
-      "name": "메디아나",
-      "category": "일반",
-      "code": "041920"
-    },
-    {
-      "name": "메디앙스",
-      "category": "일반",
-      "code": "014100"
-    },
-    {
-      "name": "메디젠휴먼케어",
-      "category": "일반",
-      "code": "236340"
-    },
-    {
       "name": "메디콕스",
       "category": "일반",
       "code": "054180"
@@ -2872,6 +2842,6 @@
       "code": "096610"
     }
   ],
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-18",
   "companies": []
 }

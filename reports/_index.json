@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-18",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -3601,6 +3601,36 @@
       "filename": "머큐리.html",
       "category": "일반",
       "generated_at": "2026-08-17"
+    },
+    "메가엠디": {
+      "filename": "메가엠디.html",
+      "category": "일반",
+      "generated_at": "2026-08-18"
+    },
+    "메가터치": {
+      "filename": "메가터치.html",
+      "category": "일반",
+      "generated_at": "2026-08-18"
+    },
+    "메드팩토": {
+      "filename": "메드팩토.html",
+      "category": "일반",
+      "generated_at": "2026-08-18"
+    },
+    "메디아나": {
+      "filename": "메디아나.html",
+      "category": "일반",
+      "generated_at": "2026-08-18"
+    },
+    "메디앙스": {
+      "filename": "메디앙스.html",
+      "category": "일반",
+      "generated_at": "2026-08-18"
+    },
+    "메디젠휴먼케어": {
+      "filename": "메디젠휴먼케어.html",
+      "category": "일반",
+      "generated_at": "2026-08-18"
     }
   }
 }
