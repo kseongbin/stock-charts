@@ -752,6 +752,12 @@
 | 737 | 멤레이비티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%A9%A4%EB%A0%88%EC%9D%B4%EB%B9%84%ED%8B%B0.html) | 2026-08-18 |
 | 738 | 명문제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%85%EB%AC%B8%EC%A0%9C%EC%95%BD.html) | 2026-08-18 |
 | 739 | 명신산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%85%EC%8B%A0%EC%82%B0%EC%97%85.html) | 2026-08-18 |
+| 740 | 명인제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%85%EC%9D%B8%EC%A0%9C%EC%95%BD.html) | 2026-08-18 |
+| 741 | 모다이노칩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%EB%8B%A4%EC%9D%B4%EB%85%B8%EC%B9%A9.html) | 2026-08-18 |
+| 742 | 모나용평 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%EB%82%98%EC%9A%A9%ED%8F%89.html) | 2026-08-18 |
+| 743 | 모나미 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%EB%82%98%EB%AF%B8.html) | 2026-08-18 |
+| 744 | 모니터랩 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%9E%A9.html) | 2026-08-18 |
+| 745 | 모나리자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%EB%82%98%EB%A6%AC%EC%9E%90.html) | 2026-08-18 |
 
 ---
 
