@@ -781,6 +781,10 @@
 | 766 | 미래생명자원 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EC%83%9D%EB%AA%85%EC%9E%90%EC%9B%90.html) | 2026-08-19 |
 | 767 | 미래아이앤지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EC%95%84%EC%9D%B4%EC%95%A4%EC%A7%80.html) | 2026-08-19 |
 | 768 | 미래에셋글로벌리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EA%B8%80%EB%A1%9C%EB%B2%8C%EB%A6%AC%EC%B8%A0.html) | 2026-08-19 |
+| 769 | 미래에셋맵스리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EB%A7%B5%EC%8A%A4%EB%A6%AC%EC%B8%A0.html) | 2026-08-19 |
+| 770 | 미래에셋벤처투자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EB%B2%A4%EC%B2%98%ED%88%AC%EC%9E%90.html) | 2026-08-19 |
+| 771 | 미래에셋증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EC%A6%9D%EA%B6%8C.html) | 2026-08-19 |
+| 772 | 미래컴퍼니 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EC%BB%B4%ED%8D%BC%EB%8B%88.html) | 2026-08-19 |
 
 ---
 
