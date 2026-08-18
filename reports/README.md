@@ -775,6 +775,12 @@
 | 760 | 무림페이퍼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AC%B4%EB%A6%BC%ED%8E%98%EC%9D%B4%ED%8D%BC.html) | 2026-08-19 |
 | 761 | 무학 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AC%B4%ED%95%99.html) | 2026-08-19 |
 | 762 | 문배철강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AC%B8%EB%B0%B0%EC%B2%A0%EA%B0%95.html) | 2026-08-19 |
+| 763 | 미디어젠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%94%94%EC%96%B4%EC%A0%A0.html) | 2026-08-19 |
+| 764 | 미래나노텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EB%82%98%EB%85%B8%ED%85%8D.html) | 2026-08-19 |
+| 765 | 미래반도체 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EB%B0%98%EB%8F%84%EC%B2%B4.html) | 2026-08-19 |
+| 766 | 미래생명자원 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EC%83%9D%EB%AA%85%EC%9E%90%EC%9B%90.html) | 2026-08-19 |
+| 767 | 미래아이앤지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EC%95%84%EC%9D%B4%EC%95%A4%EC%A7%80.html) | 2026-08-19 |
+| 768 | 미래에셋글로벌리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%EB%9E%98%EC%97%90%EC%85%8B%EA%B8%80%EB%A1%9C%EB%B2%8C%EB%A6%AC%EC%B8%A0.html) | 2026-08-19 |
 
 ---
 
