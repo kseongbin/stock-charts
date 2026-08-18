@@ -42,36 +42,6 @@
   ],
   "queue": [
     {
-      "name": "무궁화인포메이션테크놀로지",
-      "category": "일반",
-      "code": "038340"
-    },
-    {
-      "name": "무림P&P",
-      "category": "일반",
-      "code": "009580"
-    },
-    {
-      "name": "무림SP",
-      "category": "일반",
-      "code": "001810"
-    },
-    {
-      "name": "무림페이퍼",
-      "category": "일반",
-      "code": "009200"
-    },
-    {
-      "name": "무학",
-      "category": "일반",
-      "code": "033920"
-    },
-    {
-      "name": "문배철강",
-      "category": "일반",
-      "code": "008420"
-    },
-    {
       "name": "미디어젠",
       "category": "일반",
       "code": "279600"
