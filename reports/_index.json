@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -3756,6 +3756,36 @@
       "filename": "모비데이즈.html",
       "category": "일반",
       "generated_at": "2026-08-18"
+    },
+    "모비릭스": {
+      "filename": "모비릭스.html",
+      "category": "일반",
+      "generated_at": "2026-08-19"
+    },
+    "모비스": {
+      "filename": "모비스.html",
+      "category": "일반",
+      "generated_at": "2026-08-19"
+    },
+    "모아라이프플러스": {
+      "filename": "모아라이프플러스.html",
+      "category": "일반",
+      "generated_at": "2026-08-19"
+    },
+    "모토닉": {
+      "filename": "모토닉.html",
+      "category": "일반",
+      "generated_at": "2026-08-19"
+    },
+    "모티브링크": {
+      "filename": "모티브링크.html",
+      "category": "일반",
+      "generated_at": "2026-08-19"
+    },
+    "모헨즈": {
+      "filename": "모헨즈.html",
+      "category": "일반",
+      "generated_at": "2026-08-19"
     }
   }
 }

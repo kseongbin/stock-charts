@@ -764,6 +764,12 @@
 | 749 | 모베이스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%EB%B2%A0%EC%9D%B4%EC%8A%A4.html) | 2026-08-18 |
 | 750 | 모베이스전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%A0%84%EC%9E%90.html) | 2026-08-18 |
 | 751 | 모비데이즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%EB%B9%84%EB%8D%B0%EC%9D%B4%EC%A6%88.html) | 2026-08-18 |
+| 752 | 모비릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%EB%B9%84%EB%A6%AD%EC%8A%A4.html) | 2026-08-19 |
+| 753 | 모비스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%EB%B9%84%EC%8A%A4.html) | 2026-08-19 |
+| 754 | 모아라이프플러스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%EC%95%84%EB%9D%BC%EC%9D%B4%ED%94%84%ED%94%8C%EB%9F%AC%EC%8A%A4.html) | 2026-08-19 |
+| 755 | 모토닉 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%ED%86%A0%EB%8B%89.html) | 2026-08-19 |
+| 756 | 모티브링크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%ED%8B%B0%EB%B8%8C%EB%A7%81%ED%81%AC.html) | 2026-08-19 |
+| 757 | 모헨즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AA%A8%ED%97%A8%EC%A6%88.html) | 2026-08-19 |
 
 ---
 
