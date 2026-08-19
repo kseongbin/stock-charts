@@ -42,36 +42,6 @@
   ],
   "queue": [
     {
-      "name": "미쥬",
-      "category": "일반",
-      "code": "351020"
-    },
-    {
-      "name": "미창석유공업",
-      "category": "일반",
-      "code": "003650"
-    },
-    {
-      "name": "미코",
-      "category": "일반",
-      "code": "059090"
-    },
-    {
-      "name": "미투온",
-      "category": "일반",
-      "code": "201490"
-    },
-    {
-      "name": "미트박스",
-      "category": "일반",
-      "code": "475460"
-    },
-    {
-      "name": "민테크",
-      "category": "일반",
-      "code": "452200"
-    },
-    {
       "name": "바다로19호선박투자회사",
       "category": "일반",
       "code": "155900"
@@ -2547,6 +2517,6 @@
       "code": "096610"
     }
   ],
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-20",
   "companies": []
 }

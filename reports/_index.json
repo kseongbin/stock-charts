@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-20",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -3886,6 +3886,31 @@
       "filename": "미원화학.html",
       "category": "일반",
       "generated_at": "2026-08-19"
+    },
+    "미창석유공업": {
+      "filename": "미창석유공업.html",
+      "category": "일반",
+      "generated_at": "2026-08-20"
+    },
+    "미코": {
+      "filename": "미코.html",
+      "category": "일반",
+      "generated_at": "2026-08-20"
+    },
+    "미투온": {
+      "filename": "미투온.html",
+      "category": "일반",
+      "generated_at": "2026-08-20"
+    },
+    "미트박스": {
+      "filename": "미트박스.html",
+      "category": "일반",
+      "generated_at": "2026-08-20"
+    },
+    "민테크": {
+      "filename": "민테크.html",
+      "category": "일반",
+      "generated_at": "2026-08-20"
     }
   }
 }
