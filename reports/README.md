@@ -800,6 +800,11 @@
 | 785 | 바이넥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EB%84%A5%EC%8A%A4.html) | 2026-08-20 |
 | 786 | 바이오노트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%85%B8%ED%8A%B8.html) | 2026-08-20 |
 | 787 | 바이오니아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%8B%88%EC%95%84.html) | 2026-08-20 |
+| 788 | 바이오다인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%8B%A4%EC%9D%B8.html) | 2026-08-20 |
+| 789 | 바이오비쥬 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%B9%84%EC%A5%AC.html) | 2026-08-20 |
+| 790 | 바이오솔루션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%86%94%EB%A3%A8%EC%85%98.html) | 2026-08-20 |
+| 791 | 바이오스마트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%8A%A4%EB%A7%88%ED%8A%B8.html) | 2026-08-20 |
+| 792 | 바이오에프디엔씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EC%98%A4%EC%97%90%ED%94%84%EB%94%94%EC%97%94%EC%94%A8.html) | 2026-08-20 |
 
 ---
 
