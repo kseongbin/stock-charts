@@ -795,6 +795,11 @@
 | 780 | 미투온 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%ED%88%AC%EC%98%A8.html) | 2026-08-20 |
 | 781 | 미트박스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%B8%ED%8A%B8%EB%B0%95%EC%8A%A4.html) | 2026-08-20 |
 | 782 | 민테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%AF%BC%ED%85%8C%ED%81%AC.html) | 2026-08-20 |
+| 783 | 바디텍메드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EB%94%94%ED%85%8D%EB%A9%94%EB%93%9C.html) | 2026-08-20 |
+| 784 | 바른손이앤에이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EB%A5%B8%EC%86%90%EC%9D%B4%EC%95%A4%EC%97%90%EC%9D%B4.html) | 2026-08-20 |
+| 785 | 바이넥스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EB%84%A5%EC%8A%A4.html) | 2026-08-20 |
+| 786 | 바이오노트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%85%B8%ED%8A%B8.html) | 2026-08-20 |
+| 787 | 바이오니아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EC%98%A4%EB%8B%88%EC%95%84.html) | 2026-08-20 |
 
 ---
 
