@@ -810,6 +810,12 @@
 | 795 | 바이오포트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8F%AC%ED%8A%B8.html) | 2026-08-20 |
 | 796 | 바이젠셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%94%EC%9D%B4%EC%A0%A0%EC%85%80.html) | 2026-08-20 |
 | 797 | 박셀바이오 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%95%EC%85%80%EB%B0%94%EC%9D%B4%EC%98%A4.html) | 2026-08-20 |
+| 798 | 방림 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%A9%EB%A6%BC.html) | 2026-08-20 |
+| 799 | 배럴 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%B0%EB%9F%B4.html) | 2026-08-20 |
+| 800 | 백금T&A | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%B1%EA%B8%88T%26A.html) | 2026-08-20 |
+| 801 | 백산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%B1%EC%82%B0.html) | 2026-08-20 |
+| 802 | 밸로프 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%B8%EB%A1%9C%ED%94%84.html) | 2026-08-20 |
+| 803 | 뱅크웨어글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B1%85%ED%81%AC%EC%9B%A8%EC%96%B4%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-08-20 |
 
 ---
 

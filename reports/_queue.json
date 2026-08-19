@@ -42,36 +42,6 @@
   ],
   "queue": [
     {
-      "name": "방림",
-      "category": "일반",
-      "code": "003610"
-    },
-    {
-      "name": "배럴",
-      "category": "일반",
-      "code": "267790"
-    },
-    {
-      "name": "백금T&A",
-      "category": "일반",
-      "code": "046310"
-    },
-    {
-      "name": "백산",
-      "category": "일반",
-      "code": "035150"
-    },
-    {
-      "name": "밸로프",
-      "category": "일반",
-      "code": "331520"
-    },
-    {
-      "name": "뱅크웨어글로벌",
-      "category": "일반",
-      "code": "199480"
-    },
-    {
       "name": "버넥트",
       "category": "일반",
       "code": "438700"
