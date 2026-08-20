@@ -816,6 +816,11 @@
 | 801 | 백산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%B1%EC%82%B0.html) | 2026-08-20 |
 | 802 | 밸로프 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B0%B8%EB%A1%9C%ED%94%84.html) | 2026-08-20 |
 | 803 | 뱅크웨어글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B1%85%ED%81%AC%EC%9B%A8%EC%96%B4%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-08-20 |
+| 804 | 버넥트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%84%EB%84%A5%ED%8A%B8.html) | 2026-08-20 |
+| 805 | 범양건영 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%94%EC%96%91%EA%B1%B4%EC%98%81.html) | 2026-08-20 |
+| 806 | 범한퓨얼셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%94%ED%95%9C%ED%93%A8%EC%96%BC%EC%85%80.html) | 2026-08-20 |
+| 807 | 베노티앤알 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%A0%EB%85%B8%ED%8B%B0%EC%95%A4%EC%95%8C.html) | 2026-08-20 |
+| 808 | 베뉴지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%A0%EB%89%B4%EC%A7%80.html) | 2026-08-20 |
 
 ---
 
