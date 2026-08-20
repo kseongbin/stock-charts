@@ -837,6 +837,12 @@
 | 822 | 부국철강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B6%80%EA%B5%AD%EC%B2%A0%EA%B0%95.html) | 2026-08-20 |
 | 823 | 부방 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B6%80%EB%B0%A9.html) | 2026-08-20 |
 | 824 | 부산산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B6%80%EC%82%B0%EC%82%B0%EC%97%85.html) | 2026-08-20 |
+| 825 | 부스타 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B6%80%EC%8A%A4%ED%83%80.html) | 2026-08-20 |
+| 826 | 뷰웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B7%B0%EC%9B%8D%EC%8A%A4.html) | 2026-08-20 |
+| 827 | 뷰티스킨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B7%B0%ED%8B%B0%EC%8A%A4%ED%82%A8.html) | 2026-08-20 |
+| 828 | 브레인즈컴퍼니 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%A6%88%EC%BB%B4%ED%8D%BC%EB%8B%88.html) | 2026-08-20 |
+| 829 | 브리지텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%8C%EB%A6%AC%EC%A7%80%ED%85%8D.html) | 2026-08-20 |
+| 830 | 브이씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%8C%EC%9D%B4%EC%94%A8.html) | 2026-08-20 |
 
 ---
 
