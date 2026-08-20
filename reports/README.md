@@ -821,6 +821,12 @@
 | 806 | 범한퓨얼셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%94%ED%95%9C%ED%93%A8%EC%96%BC%EC%85%80.html) | 2026-08-20 |
 | 807 | 베노티앤알 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%A0%EB%85%B8%ED%8B%B0%EC%95%A4%EC%95%8C.html) | 2026-08-20 |
 | 808 | 베뉴지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%A0%EB%89%B4%EC%A7%80.html) | 2026-08-20 |
+| 809 | 베셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%A0%EC%85%80.html) | 2026-08-20 |
+| 810 | 벡트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%A1%ED%8A%B8.html) | 2026-08-20 |
+| 811 | 벨로크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%A8%EB%A1%9C%ED%81%AC.html) | 2026-08-20 |
+| 812 | 벽산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%BD%EC%82%B0.html) | 2026-08-20 |
+| 813 | 보라티알 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B3%B4%EB%9D%BC%ED%8B%B0%EC%95%8C.html) | 2026-08-20 |
+| 814 | 보락 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B3%B4%EB%9D%BD.html) | 2026-08-20 |
 
 ---
 

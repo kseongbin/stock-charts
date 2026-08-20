@@ -42,36 +42,6 @@
   ],
   "queue": [
     {
-      "name": "베셀",
-      "category": "일반",
-      "code": "177350"
-    },
-    {
-      "name": "벡트",
-      "category": "일반",
-      "code": "457600"
-    },
-    {
-      "name": "벨로크",
-      "category": "일반",
-      "code": "424760"
-    },
-    {
-      "name": "벽산",
-      "category": "일반",
-      "code": "007210"
-    },
-    {
-      "name": "보라티알",
-      "category": "일반",
-      "code": "250000"
-    },
-    {
-      "name": "보락",
-      "category": "일반",
-      "code": "002760"
-    },
-    {
       "name": "보령",
       "category": "일반",
       "code": "003850"
