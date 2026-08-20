@@ -827,6 +827,12 @@
 | 812 | 벽산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B2%BD%EC%82%B0.html) | 2026-08-20 |
 | 813 | 보라티알 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B3%B4%EB%9D%BC%ED%8B%B0%EC%95%8C.html) | 2026-08-20 |
 | 814 | 보락 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B3%B4%EB%9D%BD.html) | 2026-08-20 |
+| 815 | 보령 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B3%B4%EB%A0%B9.html) | 2026-08-20 |
+| 816 | 보로노이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B3%B4%EB%A1%9C%EB%85%B8%EC%9D%B4.html) | 2026-08-20 |
+| 817 | 보원케미칼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B3%B4%EC%9B%90%EC%BC%80%EB%AF%B8%EC%B9%BC.html) | 2026-08-20 |
+| 818 | 보해양조 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B3%B4%ED%95%B4%EC%96%91%EC%A1%B0.html) | 2026-08-20 |
+| 819 | 본느 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B3%B8%EB%8A%90.html) | 2026-08-20 |
+| 820 | 부광약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B6%80%EA%B4%91%EC%95%BD%ED%92%88.html) | 2026-08-20 |
 
 ---
 

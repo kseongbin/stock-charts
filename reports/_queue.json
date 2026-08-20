@@ -42,36 +42,6 @@
   ],
   "queue": [
     {
-      "name": "보령",
-      "category": "일반",
-      "code": "003850"
-    },
-    {
-      "name": "보로노이",
-      "category": "일반",
-      "code": "310210"
-    },
-    {
-      "name": "보원케미칼",
-      "category": "일반",
-      "code": "0010F0"
-    },
-    {
-      "name": "보해양조",
-      "category": "일반",
-      "code": "000890"
-    },
-    {
-      "name": "본느",
-      "category": "일반",
-      "code": "226340"
-    },
-    {
-      "name": "부광약품",
-      "category": "일반",
-      "code": "003000"
-    },
-    {
       "name": "부국증권",
       "category": "일반",
       "code": "001270"
