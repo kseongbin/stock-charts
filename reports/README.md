@@ -833,6 +833,10 @@
 | 818 | 보해양조 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B3%B4%ED%95%B4%EC%96%91%EC%A1%B0.html) | 2026-08-20 |
 | 819 | 본느 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B3%B8%EB%8A%90.html) | 2026-08-20 |
 | 820 | 부광약품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B6%80%EA%B4%91%EC%95%BD%ED%92%88.html) | 2026-08-20 |
+| 821 | 부국증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B6%80%EA%B5%AD%EC%A6%9D%EA%B6%8C.html) | 2026-08-20 |
+| 822 | 부국철강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B6%80%EA%B5%AD%EC%B2%A0%EA%B0%95.html) | 2026-08-20 |
+| 823 | 부방 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B6%80%EB%B0%A9.html) | 2026-08-20 |
+| 824 | 부산산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B6%80%EC%82%B0%EC%82%B0%EC%97%85.html) | 2026-08-20 |
 
 ---
 
