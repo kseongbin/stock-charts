@@ -843,6 +843,9 @@
 | 828 | 브레인즈컴퍼니 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%A6%88%EC%BB%B4%ED%8D%BC%EB%8B%88.html) | 2026-08-20 |
 | 829 | 브리지텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%8C%EB%A6%AC%EC%A7%80%ED%85%8D.html) | 2026-08-20 |
 | 830 | 브이씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%8C%EC%9D%B4%EC%94%A8.html) | 2026-08-20 |
+| 831 | 브이엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%8C%EC%9D%B4%EC%97%A0.html) | 2026-08-21T23:40:23 |
+| 832 | 브이티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%8C%EC%9D%B4%ED%8B%B0.html) | 2026-08-21T23:40:23 |
+| 833 | 블랙야크아이앤씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%9E%99%EC%95%BC%ED%81%AC%EC%95%84%EC%9D%B4%EC%95%A4%EC%94%A8.html) | 2026-08-21T23:40:23 |
 
 ---
 
