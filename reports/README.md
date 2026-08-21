@@ -849,6 +849,9 @@
 | 834 | 블루산업개발 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A3%A8%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C.html) | 2026-08-22T00:03:44 |
 | 835 | 블루엠텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A3%A8%EC%97%A0%ED%85%8D.html) | 2026-08-22T00:03:44 |
 | 836 | 블루콤 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A3%A8%EC%BD%A4.html) | 2026-08-22T00:03:44 |
+| 837 | 비덴트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EB%8D%B4%ED%8A%B8.html) | 2026-08-22T00:27:00 |
+| 838 | 비나텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EB%82%98%ED%85%8D.html) | 2026-08-22T00:27:00 |
+| 839 | 블리츠웨이엔터테인먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A6%AC%EC%B8%A0%EC%9B%A8%EC%9D%B4%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8.html) | 2026-08-22T00:27:00 |
 
 ---
 
