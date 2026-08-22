@@ -846,12 +846,15 @@
 | 831 | 브이엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%8C%EC%9D%B4%EC%97%A0.html) | 2026-08-21T23:40:23 |
 | 832 | 브이티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%8C%EC%9D%B4%ED%8B%B0.html) | 2026-08-21T23:40:23 |
 | 833 | 블랙야크아이앤씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%9E%99%EC%95%BC%ED%81%AC%EC%95%84%EC%9D%B4%EC%95%A4%EC%94%A8.html) | 2026-08-21T23:40:23 |
-| 834 | 블루산업개발 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A3%A8%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C.html) | 2026-08-22T00:03:44 |
-| 835 | 블루엠텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A3%A8%EC%97%A0%ED%85%8D.html) | 2026-08-22T00:03:44 |
-| 836 | 블루콤 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A3%A8%EC%BD%A4.html) | 2026-08-22T00:03:44 |
-| 837 | 비덴트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EB%8D%B4%ED%8A%B8.html) | 2026-08-22T00:27:00 |
-| 838 | 비나텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EB%82%98%ED%85%8D.html) | 2026-08-22T00:27:00 |
-| 839 | 블리츠웨이엔터테인먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A6%AC%EC%B8%A0%EC%9B%A8%EC%9D%B4%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8.html) | 2026-08-22T00:27:00 |
+| 834 | 비보존 제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EB%B3%B4%EC%A1%B4%20%EC%A0%9C%EC%95%BD.html) | 2026-08-22 |
+| 835 | 비비씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EB%B9%84%EC%94%A8.html) | 2026-08-22 |
+| 836 | 비비안 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EB%B9%84%EC%95%88.html) | 2026-08-22 |
+| 837 | 블루산업개발 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A3%A8%EC%82%B0%EC%97%85%EA%B0%9C%EB%B0%9C.html) | 2026-08-22T00:03:44 |
+| 838 | 블루엠텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A3%A8%EC%97%A0%ED%85%8D.html) | 2026-08-22T00:03:44 |
+| 839 | 블루콤 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A3%A8%EC%BD%A4.html) | 2026-08-22T00:03:44 |
+| 840 | 비덴트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EB%8D%B4%ED%8A%B8.html) | 2026-08-22T00:27:00 |
+| 841 | 비나텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EB%82%98%ED%85%8D.html) | 2026-08-22T00:27:00 |
+| 842 | 블리츠웨이엔터테인먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A6%AC%EC%B8%A0%EC%9B%A8%EC%9D%B4%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8.html) | 2026-08-22T00:27:00 |
 
 ---
 
