@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-23 00:49",
+  "last_updated": "2026-08-23 01:04",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4240,6 +4240,16 @@
     },
     "비에이치아이": {
       "filename": "비에이치아이.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "비엘팜텍": {
+      "filename": "비엘팜텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "비엠티": {
+      "filename": "비엠티.html",
       "category": "일반",
       "generated_at": "2026-08-23"
     }
