@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-23 01:04",
+  "last_updated": "2026-08-23 01:16",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4250,6 +4250,11 @@
     },
     "비엠티": {
       "filename": "비엠티.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "비츠로넥스텍": {
+      "filename": "비츠로넥스텍.html",
       "category": "일반",
       "generated_at": "2026-08-23"
     }
