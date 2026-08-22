@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-23 01:16",
+  "last_updated": "2026-08-23 01:33",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4255,6 +4255,21 @@
     },
     "비츠로넥스텍": {
       "filename": "비츠로넥스텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "비츠로셀": {
+      "filename": "비츠로셀.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "비츠로시스": {
+      "filename": "비츠로시스.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "비츠로테크": {
+      "filename": "비츠로테크.html",
       "category": "일반",
       "generated_at": "2026-08-23"
     }

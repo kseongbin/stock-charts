@@ -866,6 +866,9 @@
 | 851 | 비엘팜텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%97%98%ED%8C%9C%ED%85%8D.html) | 2026-08-23 |
 | 852 | 비엠티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%97%A0%ED%8B%B0.html) | 2026-08-23 |
 | 853 | 비츠로넥스텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%B8%A0%EB%A1%9C%EB%84%A5%EC%8A%A4%ED%85%8D.html) | 2026-08-23 |
+| 854 | 비츠로셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%B8%A0%EB%A1%9C%EC%85%80.html) | 2026-08-23 |
+| 855 | 비츠로시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%B8%A0%EB%A1%9C%EC%8B%9C%EC%8A%A4.html) | 2026-08-23 |
+| 856 | 비츠로테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%B8%A0%EB%A1%9C%ED%85%8C%ED%81%AC.html) | 2026-08-23 |
 
 ---
 
