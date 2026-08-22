@@ -47,21 +47,6 @@
   ],
   "queue": [
     {
-      "name": "비상교육",
-      "category": "일반",
-      "code": "100220"
-    },
-    {
-      "name": "비스토스",
-      "category": "일반",
-      "code": "419540"
-    },
-    {
-      "name": "비씨엔씨",
-      "category": "일반",
-      "code": "146320"
-    },
-    {
       "name": "비씨월드제약",
       "category": "일반",
       "code": "200780"
@@ -2187,6 +2172,6 @@
       "code": "096610"
     }
   ],
-  "last_updated": "2026-08-22",
+  "last_updated": "2026-08-23",
   "companies": []
 }

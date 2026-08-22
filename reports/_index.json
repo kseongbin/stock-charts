@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-22 23:57",
+  "last_updated": "2026-08-23 00:16",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4202,6 +4202,21 @@
       "filename": "비비안.html",
       "category": "일반",
       "generated_at": "2026-08-22"
+    },
+    "비상교육": {
+      "filename": "비상교육.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "비스토스": {
+      "filename": "비스토스.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "비씨엔씨": {
+      "filename": "비씨엔씨.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
     }
   }
 }

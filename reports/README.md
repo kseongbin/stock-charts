@@ -855,6 +855,9 @@
 | 840 | 비덴트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EB%8D%B4%ED%8A%B8.html) | 2026-08-22T00:27:00 |
 | 841 | 비나텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EB%82%98%ED%85%8D.html) | 2026-08-22T00:27:00 |
 | 842 | 블리츠웨이엔터테인먼트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B8%94%EB%A6%AC%EC%B8%A0%EC%9B%A8%EC%9D%B4%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8.html) | 2026-08-22T00:27:00 |
+| 843 | 비상교육 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%83%81%EA%B5%90%EC%9C%A1.html) | 2026-08-23 |
+| 844 | 비스토스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%8A%A4%ED%86%A0%EC%8A%A4.html) | 2026-08-23 |
+| 845 | 비씨엔씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%94%A8%EC%97%94%EC%94%A8.html) | 2026-08-23 |
 
 ---
 
