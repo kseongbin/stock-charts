@@ -858,6 +858,9 @@
 | 843 | 비상교육 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%83%81%EA%B5%90%EC%9C%A1.html) | 2026-08-23 |
 | 844 | 비스토스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%8A%A4%ED%86%A0%EC%8A%A4.html) | 2026-08-23 |
 | 845 | 비씨엔씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%94%A8%EC%97%94%EC%94%A8.html) | 2026-08-23 |
+| 846 | 비씨월드제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%94%A8%EC%9B%94%EB%93%9C%EC%A0%9C%EC%95%BD.html) | 2026-08-23 |
+| 847 | 비아이매트릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%95%84%EC%9D%B4%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4.html) | 2026-08-23 |
+| 848 | 비아트론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%95%84%ED%8A%B8%EB%A1%A0.html) | 2026-08-23 |
 
 ---
 
