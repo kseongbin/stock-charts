@@ -861,6 +861,8 @@
 | 846 | 비씨월드제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%94%A8%EC%9B%94%EB%93%9C%EC%A0%9C%EC%95%BD.html) | 2026-08-23 |
 | 847 | 비아이매트릭스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%95%84%EC%9D%B4%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4.html) | 2026-08-23 |
 | 848 | 비아트론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%95%84%ED%8A%B8%EB%A1%A0.html) | 2026-08-23 |
+| 849 | 비에이치 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%97%90%EC%9D%B4%EC%B9%98.html) | 2026-08-23 |
+| 850 | 비에이치아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%97%90%EC%9D%B4%EC%B9%98%EC%95%84%EC%9D%B4.html) | 2026-08-23 |
 
 ---
 
