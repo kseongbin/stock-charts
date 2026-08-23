@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-23T06:18:44Z",
+  "last_updated": "2026-08-23T06:37:15Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4327,6 +4327,21 @@
       "filename": "빙그레.html",
       "category": "코스피",
       "generated_at": "2026-08-23T06:18:44Z"
+    },
+    "사람인": {
+      "filename": "사람인.html",
+      "category": "코스닥",
+      "generated_at": "2026-08-23T06:37:15Z"
+    },
+    "삐아": {
+      "filename": "삐아.html",
+      "category": "코스닥",
+      "generated_at": "2026-08-23T06:37:15Z"
+    },
+    "빛샘전자": {
+      "filename": "빛샘전자.html",
+      "category": "코스닥",
+      "generated_at": "2026-08-23T06:37:15Z"
     }
   }
 }

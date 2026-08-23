@@ -880,6 +880,9 @@
 | 865 | 빅텍 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%85%ED%85%8D.html) | 2026-08-23T06:18:44Z |
 | 866 | 빌리언스 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%8C%EB%A6%AC%EC%96%B8%EC%8A%A4.html) | 2026-08-23T06:18:44Z |
 | 867 | 빙그레 | 코스피 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%99%EA%B7%B8%EB%A0%88.html) | 2026-08-23T06:18:44Z |
+| 868 | 사람인 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%AC%EB%9E%8C%EC%9D%B8.html) | 2026-08-23T06:37:15Z |
+| 869 | 삐아 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%90%EC%95%84.html) | 2026-08-23T06:37:15Z |
+| 870 | 빛샘전자 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%9B%EC%83%98%EC%A0%84%EC%9E%90.html) | 2026-08-23T06:37:15Z |
 
 ---
 
