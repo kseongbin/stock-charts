@@ -877,6 +877,9 @@
 | 862 | 비트플래닛 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%ED%8A%B8%ED%94%8C%EB%9E%98%EB%8B%9B.html) | 2026-08-23T05:58:13Z |
 | 863 | 비피도 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%ED%94%BC%EB%8F%84.html) | 2026-08-23T05:58:13Z |
 | 864 | 빅솔론 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%85%EC%86%94%EB%A1%A0.html) | 2026-08-23T05:58:13Z |
+| 865 | 빅텍 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%85%ED%85%8D.html) | 2026-08-23T06:18:44Z |
+| 866 | 빌리언스 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%8C%EB%A6%AC%EC%96%B8%EC%8A%A4.html) | 2026-08-23T06:18:44Z |
+| 867 | 빙그레 | 코스피 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%99%EA%B7%B8%EB%A0%88.html) | 2026-08-23T06:18:44Z |
 
 ---
 
