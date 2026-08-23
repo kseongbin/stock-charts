@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-23T10:57:04Z",
+  "last_updated": "2026-08-23T11:17:28Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4380,6 +4380,21 @@
     },
     "사피엔반도체": {
       "filename": "사피엔반도체.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "산돌": {
+      "filename": "산돌.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "삼기": {
+      "filename": "삼기.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "삼기에너지솔루션즈": {
+      "filename": "삼기에너지솔루션즈.html",
       "category": "일반",
       "generated_at": "2026-08-23"
     }
