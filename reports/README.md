@@ -883,6 +883,7 @@
 | 868 | 사람인 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%AC%EB%9E%8C%EC%9D%B8.html) | 2026-08-23T06:37:15Z |
 | 869 | 삐아 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%90%EC%95%84.html) | 2026-08-23T06:37:15Z |
 | 870 | 빛샘전자 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%9B%EC%83%98%EC%A0%84%EC%9E%90.html) | 2026-08-23T06:37:15Z |
+| 871 | 사이냅소프트 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%AC%EC%9D%B4%EB%83%85%EC%86%8C%ED%94%84%ED%8A%B8.html) | 2026-08-23T06:48:21Z |
 
 ---
 
