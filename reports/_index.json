@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-23T09:37:40Z",
+  "last_updated": "2026-08-23T10:37:26Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4352,6 +4352,21 @@
       "filename": "사조대림.html",
       "category": "코스피",
       "generated_at": "2026-08-23T09:37:40Z"
+    },
+    "사조동아원": {
+      "filename": "사조동아원.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "사조산업": {
+      "filename": "사조산업.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
+    },
+    "사조씨푸드": {
+      "filename": "사조씨푸드.html",
+      "category": "일반",
+      "generated_at": "2026-08-23"
     }
   }
 }
