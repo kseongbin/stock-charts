@@ -869,6 +869,8 @@
 | 854 | 비츠로셀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%B8%A0%EB%A1%9C%EC%85%80.html) | 2026-08-23 |
 | 855 | 비츠로시스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%B8%A0%EB%A1%9C%EC%8B%9C%EC%8A%A4.html) | 2026-08-23 |
 | 856 | 비츠로테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%B8%A0%EB%A1%9C%ED%85%8C%ED%81%AC.html) | 2026-08-23 |
+| 857 | 비케이홀딩스 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%EC%BC%80%EC%9D%B4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-23T04:26:07Z |
+| 858 | 비큐AI | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%84%ED%81%90AI.html) | 2026-08-23T04:26:07Z |
 
 ---
 
