@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-23T04:26:07Z",
+  "last_updated": "2026-08-23T05:34:56Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4282,6 +4282,21 @@
       "filename": "비큐AI.html",
       "category": "코스닥",
       "generated_at": "2026-08-23T04:26:07Z"
+    },
+    "비트맥스": {
+      "filename": "비트맥스.html",
+      "category": "코스닥",
+      "generated_at": "2026-08-23T05:34:56Z"
+    },
+    "비투엔": {
+      "filename": "비투엔.html",
+      "category": "코스닥",
+      "generated_at": "2026-08-23T05:34:56Z"
+    },
+    "비트컴퓨터": {
+      "filename": "비트컴퓨터.html",
+      "category": "코스닥",
+      "generated_at": "2026-08-23T05:34:56Z"
     }
   }
 }
