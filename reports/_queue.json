@@ -72,21 +72,6 @@
   ],
   "queue": [
     {
-      "name": "비트플래닛",
-      "category": "일반",
-      "code": "049470"
-    },
-    {
-      "name": "비피도",
-      "category": "일반",
-      "code": "238200"
-    },
-    {
-      "name": "빅솔론",
-      "category": "일반",
-      "code": "093190"
-    },
-    {
       "name": "빅텍",
       "category": "일반",
       "code": "065450"
