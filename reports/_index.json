@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-23T06:48:21Z",
+  "last_updated": "2026-08-23T09:37:40Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4347,6 +4347,11 @@
       "filename": "사이냅소프트.html",
       "category": "코스닥",
       "generated_at": "2026-08-23T06:48:21Z"
+    },
+    "사조대림": {
+      "filename": "사조대림.html",
+      "category": "코스피",
+      "generated_at": "2026-08-23T09:37:40Z"
     }
   }
 }
