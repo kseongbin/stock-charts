@@ -894,6 +894,9 @@
 | 879 | 빛샘전자 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EB%B9%9B%EC%83%98%EC%A0%84%EC%9E%90.html) | 2026-08-23T06:37:15Z |
 | 880 | 사이냅소프트 | 코스닥 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%AC%EC%9D%B4%EB%83%85%EC%86%8C%ED%94%84%ED%8A%B8.html) | 2026-08-23T06:48:21Z |
 | 881 | 사조대림 | 코스피 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%AC%EC%A1%B0%EB%8C%80%EB%A6%BC.html) | 2026-08-23T09:37:40Z |
+| 882 | 삼륭물산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EB%A5%AD%EB%AC%BC%EC%82%B0.html) | 2026-08-24 |
+| 883 | 삼립 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EB%A6%BD.html) | 2026-08-24 |
+| 884 | 삼목에스폼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EB%AA%A9%EC%97%90%EC%8A%A4%ED%8F%BC.html) | 2026-08-24 |
 
 ---
 

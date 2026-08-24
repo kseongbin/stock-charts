@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-23T11:17:28Z",
+  "last_updated": "2026-08-24T13:05:13Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4397,6 +4397,21 @@
       "filename": "삼기에너지솔루션즈.html",
       "category": "일반",
       "generated_at": "2026-08-23"
+    },
+    "삼륭물산": {
+      "filename": "삼륭물산.html",
+      "category": "일반",
+      "generated_at": "2026-08-24"
+    },
+    "삼립": {
+      "filename": "삼립.html",
+      "category": "일반",
+      "generated_at": "2026-08-24"
+    },
+    "삼목에스폼": {
+      "filename": "삼목에스폼.html",
+      "category": "일반",
+      "generated_at": "2026-08-24"
     }
   }
 }

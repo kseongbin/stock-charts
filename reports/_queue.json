@@ -72,21 +72,6 @@
   ],
   "queue": [
     {
-      "name": "삼륭물산",
-      "category": "일반",
-      "code": "014970"
-    },
-    {
-      "name": "삼립",
-      "category": "일반",
-      "code": "005610"
-    },
-    {
-      "name": "삼목에스폼",
-      "category": "일반",
-      "code": "018310"
-    },
-    {
       "name": "삼미금속",
       "category": "일반",
       "code": "012210"
@@ -1992,6 +1977,6 @@
       "code": "096610"
     }
   ],
-  "last_updated": "2026-08-23",
+  "last_updated": "2026-08-24",
   "companies": []
 }
