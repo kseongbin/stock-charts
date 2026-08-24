@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-24T15:10:59Z",
+  "last_updated": "2026-08-24T15:30:20Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4465,6 +4465,21 @@
     },
     "삼성바이오로직스": {
       "filename": "삼성바이오로직스.html",
+      "category": "일반",
+      "generated_at": "2026-08-25"
+    },
+    "삼성에피스홀딩스": {
+      "filename": "삼성에피스홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-08-25"
+    },
+    "삼성제약": {
+      "filename": "삼성제약.html",
+      "category": "일반",
+      "generated_at": "2026-08-25"
+    },
+    "삼성중공업": {
+      "filename": "삼성중공업.html",
       "category": "일반",
       "generated_at": "2026-08-25"
     }

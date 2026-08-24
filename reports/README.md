@@ -908,6 +908,9 @@
 | 893 | 삼성기업인수목적7호 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EA%B8%B0%EC%97%85%EC%9D%B8%EC%88%98%EB%AA%A9%EC%A0%817%ED%98%B8.html) | 2026-08-25 |
 | 894 | 삼성물산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EB%AC%BC%EC%82%B0.html) | 2026-08-25 |
 | 895 | 삼성바이오로직스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A1%9C%EC%A7%81%EC%8A%A4.html) | 2026-08-25 |
+| 896 | 삼성에피스홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EC%97%90%ED%94%BC%EC%8A%A4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-25 |
+| 897 | 삼성제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EC%A0%9C%EC%95%BD.html) | 2026-08-25 |
+| 898 | 삼성중공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EC%A4%91%EA%B3%B5%EC%97%85.html) | 2026-08-25 |
 
 ---
 
