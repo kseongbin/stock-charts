@@ -77,21 +77,6 @@
   ],
   "queue": [
     {
-      "name": "삼보판지",
-      "category": "일반",
-      "code": "023600"
-    },
-    {
-      "name": "삼부토건",
-      "category": "일반",
-      "code": "001470"
-    },
-    {
-      "name": "삼성E&A",
-      "category": "일반",
-      "code": "028050"
-    },
-    {
       "name": "삼성FN리츠",
       "category": "일반",
       "code": "448730"

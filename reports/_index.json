@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-24T13:32:31Z",
+  "last_updated": "2026-08-24T14:32:52Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4420,6 +4420,21 @@
     },
     "삼보산업": {
       "filename": "삼보산업.html",
+      "category": "일반",
+      "generated_at": "2026-08-24"
+    },
+    "삼보판지": {
+      "filename": "삼보판지.html",
+      "category": "일반",
+      "generated_at": "2026-08-24"
+    },
+    "삼부토건": {
+      "filename": "삼부토건.html",
+      "category": "일반",
+      "generated_at": "2026-08-24"
+    },
+    "삼성E&A": {
+      "filename": "삼성E&A.html",
       "category": "일반",
       "generated_at": "2026-08-24"
     }
