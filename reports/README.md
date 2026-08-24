@@ -897,6 +897,8 @@
 | 882 | 삼륭물산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EB%A5%AD%EB%AC%BC%EC%82%B0.html) | 2026-08-24 |
 | 883 | 삼립 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EB%A6%BD.html) | 2026-08-24 |
 | 884 | 삼목에스폼 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EB%AA%A9%EC%97%90%EC%8A%A4%ED%8F%BC.html) | 2026-08-24 |
+| 885 | 삼미금속 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EB%AF%B8%EA%B8%88%EC%86%8D.html) | 2026-08-24 |
+| 886 | 삼보산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EB%B3%B4%EC%82%B0%EC%97%85.html) | 2026-08-24 |
 
 ---
 
