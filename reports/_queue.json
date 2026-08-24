@@ -77,21 +77,6 @@
   ],
   "queue": [
     {
-      "name": "삼성FN리츠",
-      "category": "일반",
-      "code": "448730"
-    },
-    {
-      "name": "삼성SDI",
-      "category": "일반",
-      "code": "006400"
-    },
-    {
-      "name": "삼성공조",
-      "category": "일반",
-      "code": "006660"
-    },
-    {
       "name": "삼성기업인수목적7호",
       "category": "일반",
       "code": "439250"

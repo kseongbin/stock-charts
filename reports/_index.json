@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-24T14:32:52Z",
+  "last_updated": "2026-08-24T14:52:31Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4435,6 +4435,21 @@
     },
     "삼성E&A": {
       "filename": "삼성E&A.html",
+      "category": "일반",
+      "generated_at": "2026-08-24"
+    },
+    "삼성SDI": {
+      "filename": "삼성SDI.html",
+      "category": "일반",
+      "generated_at": "2026-08-24"
+    },
+    "삼성공조": {
+      "filename": "삼성공조.html",
+      "category": "일반",
+      "generated_at": "2026-08-24"
+    },
+    "삼성FN리츠": {
+      "filename": "삼성FN리츠.html",
       "category": "일반",
       "generated_at": "2026-08-24"
     }

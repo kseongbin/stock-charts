@@ -902,6 +902,9 @@
 | 887 | 삼보판지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EB%B3%B4%ED%8C%90%EC%A7%80.html) | 2026-08-24 |
 | 888 | 삼부토건 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EB%B6%80%ED%86%A0%EA%B1%B4.html) | 2026-08-24 |
 | 889 | 삼성E&A | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1E%26A.html) | 2026-08-24 |
+| 890 | 삼성SDI | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1SDI.html) | 2026-08-24 |
+| 891 | 삼성공조 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EA%B3%B5%EC%A1%B0.html) | 2026-08-24 |
+| 892 | 삼성FN리츠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1FN%EB%A6%AC%EC%B8%A0.html) | 2026-08-24 |
 
 ---
 
