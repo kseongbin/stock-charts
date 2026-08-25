@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-25T15:52:58.429124Z",
+  "last_updated": "2026-08-25T16:08:56.820547Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4540,6 +4540,21 @@
     },
     "삼양홀딩스": {
       "filename": "삼양홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼영": {
+      "filename": "삼영.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼영무역": {
+      "filename": "삼영무역.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼영에스앤씨": {
+      "filename": "삼영에스앤씨.html",
       "category": "일반",
       "generated_at": "2026-08-26"
     }
