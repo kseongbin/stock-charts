@@ -77,21 +77,6 @@
   ],
   "queue": [
     {
-      "name": "삼아제약",
-      "category": "일반",
-      "code": "009300"
-    },
-    {
-      "name": "삼양바이오팜",
-      "category": "일반",
-      "code": "0120G0"
-    },
-    {
-      "name": "삼양사",
-      "category": "일반",
-      "code": "145990"
-    },
-    {
       "name": "삼양식품",
       "category": "일반",
       "code": "003230"
@@ -1892,6 +1877,6 @@
       "code": "096610"
     }
   ],
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "companies": []
 }

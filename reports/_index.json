@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-25T14:48:10Z",
+  "last_updated": "2026-08-25T15:10:30Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4497,6 +4497,21 @@
       "filename": "삼아알미늄.html",
       "category": "일반",
       "generated_at": "2026-08-25"
+    },
+    "삼아제약": {
+      "filename": "삼아제약.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼양사": {
+      "filename": "삼양사.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼양바이오팜": {
+      "filename": "삼양바이오팜.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
     }
   }
 }

@@ -914,6 +914,9 @@
 | 899 | 삼성출판사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EC%B6%9C%ED%8C%90%EC%82%AC.html) | 2026-08-25 |
 | 900 | 삼성카드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EC%B9%B4%EB%93%9C.html) | 2026-08-25 |
 | 901 | 삼아알미늄 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%95%84%EC%95%8C%EB%AF%B8%EB%8A%84.html) | 2026-08-25 |
+| 902 | 삼아제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%95%84%EC%A0%9C%EC%95%BD.html) | 2026-08-26 |
+| 903 | 삼양사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%96%91%EC%82%AC.html) | 2026-08-26 |
+| 904 | 삼양바이오팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%96%91%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8C%9C.html) | 2026-08-26 |
 
 ---
 
