@@ -917,6 +917,12 @@
 | 902 | 삼아제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%95%84%EC%A0%9C%EC%95%BD.html) | 2026-08-26 |
 | 903 | 삼양사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%96%91%EC%82%AC.html) | 2026-08-26 |
 | 904 | 삼양바이오팜 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%96%91%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8C%9C.html) | 2026-08-26 |
+| 905 | 삼양식품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%96%91%EC%8B%9D%ED%92%88.html) | 2026-08-26 |
+| 906 | 삼양엔씨켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%96%91%EC%97%94%EC%94%A8%EC%BC%90.html) | 2026-08-26 |
+| 907 | 삼양컴텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%96%91%EC%BB%B4%ED%85%8D.html) | 2026-08-26 |
+| 908 | 삼양케이씨아이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%96%91%EC%BC%80%EC%9D%B4%EC%94%A8%EC%95%84%EC%9D%B4.html) | 2026-08-26 |
+| 909 | 삼양패키징 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%96%91%ED%8C%A8%ED%82%A4%EC%A7%95.html) | 2026-08-26 |
+| 910 | 삼양홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%96%91%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-26 |
 
 ---
 

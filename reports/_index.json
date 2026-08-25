@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-25T15:10:30Z",
+  "last_updated": "2026-08-25T15:52:58.429124Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4510,6 +4510,36 @@
     },
     "삼양바이오팜": {
       "filename": "삼양바이오팜.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼양식품": {
+      "filename": "삼양식품.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼양엔씨켐": {
+      "filename": "삼양엔씨켐.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼양컴텍": {
+      "filename": "삼양컴텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼양케이씨아이": {
+      "filename": "삼양케이씨아이.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼양패키징": {
+      "filename": "삼양패키징.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼양홀딩스": {
+      "filename": "삼양홀딩스.html",
       "category": "일반",
       "generated_at": "2026-08-26"
     }
