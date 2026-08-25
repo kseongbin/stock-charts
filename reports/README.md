@@ -911,6 +911,9 @@
 | 896 | 삼성에피스홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EC%97%90%ED%94%BC%EC%8A%A4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-08-25 |
 | 897 | 삼성제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EC%A0%9C%EC%95%BD.html) | 2026-08-25 |
 | 898 | 삼성중공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EC%A4%91%EA%B3%B5%EC%97%85.html) | 2026-08-25 |
+| 899 | 삼성출판사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EC%B6%9C%ED%8C%90%EC%82%AC.html) | 2026-08-25 |
+| 900 | 삼성카드 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%84%B1%EC%B9%B4%EB%93%9C.html) | 2026-08-25 |
+| 901 | 삼아알미늄 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%95%84%EC%95%8C%EB%AF%B8%EB%8A%84.html) | 2026-08-25 |
 
 ---
 
