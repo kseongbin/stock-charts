@@ -950,6 +950,9 @@
 | 935 | 삼화왕관 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%ED%99%94%EC%99%95%EA%B4%80.html) | 2026-08-26 |
 | 936 | 삼화전자공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%ED%99%94%EC%A0%84%EC%9E%90%EA%B3%B5%EC%97%85.html) | 2026-08-26 |
 | 937 | 상보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EB%B3%B4.html) | 2026-08-26 |
+| 938 | 상상인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%83%81%EC%9D%B8.html) | 2026-08-26 |
+| 939 | 상상인증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%83%81%EC%9D%B8%EC%A6%9D%EA%B6%8C.html) | 2026-08-26 |
+| 940 | 상신브레이크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%8B%A0%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC.html) | 2026-08-26 |
 
 ---
 
