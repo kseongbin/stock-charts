@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-26T14:51:11.720180Z",
+  "last_updated": "2026-08-26T15:10:57.279944Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4722,6 +4722,21 @@
       "filename": "새론오토모티브.html",
       "category": "일반",
       "generated_at": "2026-08-26"
+    },
+    "새빗켐": {
+      "filename": "새빗켐.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "샘씨엔에스": {
+      "filename": "샘씨엔에스.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "샘표": {
+      "filename": "샘표.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
     }
   }
 }

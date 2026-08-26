@@ -959,6 +959,9 @@
 | 944 | 상지건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%A7%80%EA%B1%B4%EC%84%A4.html) | 2026-08-26 |
 | 945 | 새로닉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%88%EB%A1%9C%EB%8B%89%EC%8A%A4.html) | 2026-08-26 |
 | 946 | 새론오토모티브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%88%EB%A1%A0%EC%98%A4%ED%86%A0%EB%AA%A8%ED%8B%B0%EB%B8%8C.html) | 2026-08-26 |
+| 947 | 새빗켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%88%EB%B9%97%EC%BC%90.html) | 2026-08-27 |
+| 948 | 샘씨엔에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%98%EC%94%A8%EC%97%94%EC%97%90%EC%8A%A4.html) | 2026-08-27 |
+| 949 | 샘표 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%98%ED%91%9C.html) | 2026-08-27 |
 
 ---
 
