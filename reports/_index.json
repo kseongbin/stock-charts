@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-26T14:33:07.551844Z",
+  "last_updated": "2026-08-26T14:51:11.720180Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4705,6 +4705,21 @@
     },
     "상아프론테크": {
       "filename": "상아프론테크.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "상지건설": {
+      "filename": "상지건설.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "새로닉스": {
+      "filename": "새로닉스.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "새론오토모티브": {
+      "filename": "새론오토모티브.html",
       "category": "일반",
       "generated_at": "2026-08-26"
     }

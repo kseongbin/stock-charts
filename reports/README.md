@@ -956,6 +956,9 @@
 | 941 | 상신이디피 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%8B%A0%EC%9D%B4%EB%94%94%ED%94%BC.html) | 2026-08-26 |
 | 942 | 상신전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%8B%A0%EC%A0%84%EC%9E%90.html) | 2026-08-26 |
 | 943 | 상아프론테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%95%84%ED%94%84%EB%A1%A0%ED%85%8C%ED%81%AC.html) | 2026-08-26 |
+| 944 | 상지건설 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%A7%80%EA%B1%B4%EC%84%A4.html) | 2026-08-26 |
+| 945 | 새로닉스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%88%EB%A1%9C%EB%8B%89%EC%8A%A4.html) | 2026-08-26 |
+| 946 | 새론오토모티브 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%88%EB%A1%A0%EC%98%A4%ED%86%A0%EB%AA%A8%ED%8B%B0%EB%B8%8C.html) | 2026-08-26 |
 
 ---
 
