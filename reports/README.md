@@ -935,6 +935,9 @@
 | 920 | 삼익제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%9D%B5%EC%A0%9C%EC%95%BD.html) | 2026-08-26 |
 | 921 | 삼일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%9D%BC.html) | 2026-08-26 |
 | 922 | 삼일기업공사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%9D%BC%EA%B8%B0%EC%97%85%EA%B3%B5%EC%82%AC.html) | 2026-08-26 |
+| 923 | 삼일씨엔에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%9D%BC%EC%94%A8%EC%97%94%EC%97%90%EC%8A%A4.html) | 2026-08-26 |
+| 924 | 삼일제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%9D%BC%EC%A0%9C%EC%95%BD.html) | 2026-08-26 |
+| 925 | 삼정펄프 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%A0%95%ED%8E%84%ED%94%84.html) | 2026-08-26 |
 
 ---
 
