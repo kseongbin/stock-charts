@@ -964,6 +964,9 @@
 | 949 | 샘표 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%98%ED%91%9C.html) | 2026-08-27 |
 | 950 | 샘표식품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%98%ED%91%9C%EC%8B%9D%ED%92%88.html) | 2026-08-27 |
 | 951 | 샤페론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%A4%ED%8E%98%EB%A1%A0.html) | 2026-08-27 |
+| 952 | 서남 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EB%82%A8.html) | 2026-08-27 |
+| 953 | 서부T&D | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EB%B6%80T%26D.html) | 2026-08-27 |
+| 954 | 서산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%82%B0.html) | 2026-08-27 |
 
 ---
 

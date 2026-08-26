@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-26T15:27:45.693743Z",
+  "last_updated": "2026-08-26T15:45:52.120617Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4745,6 +4745,21 @@
     },
     "샤페론": {
       "filename": "샤페론.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서남": {
+      "filename": "서남.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서부T&D": {
+      "filename": "서부T&D.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서산": {
+      "filename": "서산.html",
       "category": "일반",
       "generated_at": "2026-08-27"
     }
