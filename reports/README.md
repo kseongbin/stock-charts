@@ -932,6 +932,9 @@
 | 917 | 삼원강재 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%9B%90%EA%B0%95%EC%9E%AC.html) | 2026-08-26 |
 | 918 | 삼익THK | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%9D%B5THK.html) | 2026-08-26 |
 | 919 | 삼익악기 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%9D%B5%EC%95%85%EA%B8%B0.html) | 2026-08-26 |
+| 920 | 삼익제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%9D%B5%EC%A0%9C%EC%95%BD.html) | 2026-08-26 |
+| 921 | 삼일 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%9D%BC.html) | 2026-08-26 |
+| 922 | 삼일기업공사 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%9D%BC%EA%B8%B0%EC%97%85%EA%B3%B5%EC%82%AC.html) | 2026-08-26 |
 
 ---
 
