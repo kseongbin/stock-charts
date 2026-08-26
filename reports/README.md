@@ -962,6 +962,8 @@
 | 947 | 새빗켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%88%EB%B9%97%EC%BC%90.html) | 2026-08-27 |
 | 948 | 샘씨엔에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%98%EC%94%A8%EC%97%94%EC%97%90%EC%8A%A4.html) | 2026-08-27 |
 | 949 | 샘표 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%98%ED%91%9C.html) | 2026-08-27 |
+| 950 | 샘표식품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%98%ED%91%9C%EC%8B%9D%ED%92%88.html) | 2026-08-27 |
+| 951 | 샤페론 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%A4%ED%8E%98%EB%A1%A0.html) | 2026-08-27 |
 
 ---
 

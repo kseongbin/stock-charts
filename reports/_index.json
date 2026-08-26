@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-26T15:10:57.279944Z",
+  "last_updated": "2026-08-26T15:27:45.693743Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4735,6 +4735,16 @@
     },
     "샘표": {
       "filename": "샘표.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "샘표식품": {
+      "filename": "샘표식품.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "샤페론": {
+      "filename": "샤페론.html",
       "category": "일반",
       "generated_at": "2026-08-27"
     }
