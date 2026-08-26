@@ -953,6 +953,9 @@
 | 938 | 상상인 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%83%81%EC%9D%B8.html) | 2026-08-26 |
 | 939 | 상상인증권 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%83%81%EC%9D%B8%EC%A6%9D%EA%B6%8C.html) | 2026-08-26 |
 | 940 | 상신브레이크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%8B%A0%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC.html) | 2026-08-26 |
+| 941 | 상신이디피 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%8B%A0%EC%9D%B4%EB%94%94%ED%94%BC.html) | 2026-08-26 |
+| 942 | 상신전자 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%8B%A0%EC%A0%84%EC%9E%90.html) | 2026-08-26 |
+| 943 | 상아프론테크 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EC%95%84%ED%94%84%EB%A1%A0%ED%85%8C%ED%81%AC.html) | 2026-08-26 |
 
 ---
 
