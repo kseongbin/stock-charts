@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-26T11:49:31.814900Z",
+  "last_updated": "2026-08-26T12:06:06.491878Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4570,6 +4570,21 @@
     },
     "삼영전자공업": {
       "filename": "삼영전자공업.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼원강재": {
+      "filename": "삼원강재.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼익THK": {
+      "filename": "삼익THK.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼익악기": {
+      "filename": "삼익악기.html",
       "category": "일반",
       "generated_at": "2026-08-26"
     }
