@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-25T16:08:56.820547Z",
+  "last_updated": "2026-08-26T11:49:31.814900Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4555,6 +4555,21 @@
     },
     "삼영에스앤씨": {
       "filename": "삼영에스앤씨.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼영엠텍": {
+      "filename": "삼영엠텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼영이엔씨": {
+      "filename": "삼영이엔씨.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼영전자공업": {
+      "filename": "삼영전자공업.html",
       "category": "일반",
       "generated_at": "2026-08-26"
     }

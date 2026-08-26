@@ -926,6 +926,9 @@
 | 911 | 삼영 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%98%81.html) | 2026-08-26 |
 | 912 | 삼영무역 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%98%81%EB%AC%B4%EC%97%AD.html) | 2026-08-26 |
 | 913 | 삼영에스앤씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%98%81%EC%97%90%EC%8A%A4%EC%95%A4%EC%94%A8.html) | 2026-08-26 |
+| 914 | 삼영엠텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%98%81%EC%97%A0%ED%85%8D.html) | 2026-08-26 |
+| 915 | 삼영이엔씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%98%81%EC%9D%B4%EC%97%94%EC%94%A8.html) | 2026-08-26 |
+| 916 | 삼영전자공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%98%81%EC%A0%84%EC%9E%90%EA%B3%B5%EC%97%85.html) | 2026-08-26 |
 
 ---
 
