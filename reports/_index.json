@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-26T12:59:01.296227Z",
+  "last_updated": "2026-08-26T13:16:52.594403Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4630,6 +4630,21 @@
     },
     "삼천당제약": {
       "filename": "삼천당제약.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼천리": {
+      "filename": "삼천리.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼천리자전거": {
+      "filename": "삼천리자전거.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼표시멘트": {
+      "filename": "삼표시멘트.html",
       "category": "일반",
       "generated_at": "2026-08-26"
     }

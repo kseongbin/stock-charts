@@ -941,6 +941,9 @@
 | 926 | 삼진 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%A7%84.html) | 2026-08-26 |
 | 927 | 삼진제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%A7%84%EC%A0%9C%EC%95%BD.html) | 2026-08-26 |
 | 928 | 삼천당제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%B2%9C%EB%8B%B9%EC%A0%9C%EC%95%BD.html) | 2026-08-26 |
+| 929 | 삼천리 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%B2%9C%EB%A6%AC.html) | 2026-08-26 |
+| 930 | 삼천리자전거 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%EC%B2%9C%EB%A6%AC%EC%9E%90%EC%A0%84%EA%B1%B0.html) | 2026-08-26 |
+| 931 | 삼표시멘트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%ED%91%9C%EC%8B%9C%EB%A9%98%ED%8A%B8.html) | 2026-08-26 |
 
 ---
 
