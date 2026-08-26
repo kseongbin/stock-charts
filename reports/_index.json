@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-26T12:40:50.619778Z",
+  "last_updated": "2026-08-26T12:59:01.296227Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4615,6 +4615,21 @@
     },
     "삼정펄프": {
       "filename": "삼정펄프.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼진": {
+      "filename": "삼진.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼진제약": {
+      "filename": "삼진제약.html",
+      "category": "일반",
+      "generated_at": "2026-08-26"
+    },
+    "삼천당제약": {
+      "filename": "삼천당제약.html",
       "category": "일반",
       "generated_at": "2026-08-26"
     }
