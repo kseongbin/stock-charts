@@ -947,6 +947,9 @@
 | 932 | 삼현철강 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%ED%98%84%EC%B2%A0%EA%B0%95.html) | 2026-08-26 |
 | 933 | 삼호개발 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%ED%98%B8%EA%B0%9C%EB%B0%9C.html) | 2026-08-26 |
 | 934 | 삼화네트웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%ED%99%94%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4.html) | 2026-08-26 |
+| 935 | 삼화왕관 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%ED%99%94%EC%99%95%EA%B4%80.html) | 2026-08-26 |
+| 936 | 삼화전자공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%82%BC%ED%99%94%EC%A0%84%EC%9E%90%EA%B3%B5%EC%97%85.html) | 2026-08-26 |
+| 937 | 상보 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%83%81%EB%B3%B4.html) | 2026-08-26 |
 
 ---
 
