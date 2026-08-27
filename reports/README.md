@@ -973,6 +973,9 @@
 | 958 | 서연탑메탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%97%B0%ED%83%91%EB%A9%94%ED%83%88.html) | 2026-08-27 |
 | 959 | 서울도시가스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%9A%B8%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4.html) | 2026-08-27 |
 | 960 | 서울반도체 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%9A%B8%EB%B0%98%EB%8F%84%EC%B2%B4.html) | 2026-08-27 |
+| 961 | 서울식품공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%9A%B8%EC%8B%9D%ED%92%88%EA%B3%B5%EC%97%85.html) | 2026-08-27 |
+| 962 | 서울옥션 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%9A%B8%EC%98%A5%EC%85%98.html) | 2026-08-27 |
+| 963 | 서울제약 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%9A%B8%EC%A0%9C%EC%95%BD.html) | 2026-08-27 |
 
 ---
 
