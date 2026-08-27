@@ -967,6 +967,9 @@
 | 952 | 서남 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EB%82%A8.html) | 2026-08-27 |
 | 953 | 서부T&D | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EB%B6%80T%26D.html) | 2026-08-27 |
 | 954 | 서산 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%82%B0.html) | 2026-08-27 |
+| 955 | 서암기계공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%95%94%EA%B8%B0%EA%B3%84%EA%B3%B5%EC%97%85.html) | 2026-08-27 |
+| 956 | 서연 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%97%B0.html) | 2026-08-27 |
+| 957 | 서연이화 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%97%B0%EC%9D%B4%ED%99%94.html) | 2026-08-27 |
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-26T15:45:52.120617Z",
+  "last_updated": "2026-08-27T01:42:18.099135Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4760,6 +4760,21 @@
     },
     "서산": {
       "filename": "서산.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서암기계공업": {
+      "filename": "서암기계공업.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서연": {
+      "filename": "서연.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서연이화": {
+      "filename": "서연이화.html",
       "category": "일반",
       "generated_at": "2026-08-27"
     }
