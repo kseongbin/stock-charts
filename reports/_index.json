@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-27T01:42:18.099135Z",
+  "last_updated": "2026-08-27T01:59:39.231668Z",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4775,6 +4775,21 @@
     },
     "서연이화": {
       "filename": "서연이화.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서연탑메탈": {
+      "filename": "서연탑메탈.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서울도시가스": {
+      "filename": "서울도시가스.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서울반도체": {
+      "filename": "서울반도체.html",
       "category": "일반",
       "generated_at": "2026-08-27"
     }

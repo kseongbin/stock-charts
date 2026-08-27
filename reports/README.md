@@ -970,6 +970,9 @@
 | 955 | 서암기계공업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%95%94%EA%B8%B0%EA%B3%84%EA%B3%B5%EC%97%85.html) | 2026-08-27 |
 | 956 | 서연 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%97%B0.html) | 2026-08-27 |
 | 957 | 서연이화 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%97%B0%EC%9D%B4%ED%99%94.html) | 2026-08-27 |
+| 958 | 서연탑메탈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%97%B0%ED%83%91%EB%A9%94%ED%83%88.html) | 2026-08-27 |
+| 959 | 서울도시가스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%9A%B8%EB%8F%84%EC%8B%9C%EA%B0%80%EC%8A%A4.html) | 2026-08-27 |
+| 960 | 서울반도체 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%84%9C%EC%9A%B8%EB%B0%98%EB%8F%84%EC%B2%B4.html) | 2026-08-27 |
 
 ---
 
