@@ -1254,6 +1254,9 @@
 | 1239 | 아이티센피엔에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8B%B0%EC%84%BC%ED%94%BC%EC%97%94%EC%97%90%EC%8A%A4.html) | 2026-09-03 |
 | 1240 | 아이티아이즈 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8B%B0%EC%95%84%EC%9D%B4%EC%A6%88.html) | 2026-09-03 |
 | 1241 | 아이티엠반도체 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8B%B0%EC%97%A0%EB%B0%98%EB%8F%84%EC%B2%B4.html) | 2026-09-03 |
+| 1242 | 아이티켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8B%B0%EC%BC%90.html) | 2026-09-03 |
+| 1243 | 아이파크영창 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EC%98%81%EC%B0%BD.html) | 2026-09-03 |
+| 1244 | 아이패밀리에스씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8C%A8%EB%B0%80%EB%A6%AC%EC%97%90%EC%8A%A4%EC%94%A8.html) | 2026-09-03 |
 
 ---
 
