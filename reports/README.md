@@ -1229,6 +1229,9 @@
 | 1214 | 아이스크림에듀 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EC%97%90%EB%93%80.html) | 2026-09-02 |
 | 1215 | 아이씨디 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%94%A8%EB%94%94.html) | 2026-09-02 |
 | 1216 | 아이씨에이치 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%94%A8%EC%97%90%EC%9D%B4%EC%B9%98.html) | 2026-09-02 |
+| 1217 | 아이씨티케이 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%94%A8%ED%8B%B0%EC%BC%80%EC%9D%B4.html) | 2026-09-02 |
+| 1218 | 아이앤씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%95%A4%EC%94%A8.html) | 2026-09-02 |
+| 1219 | 아이언디바이스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%96%B8%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4.html) | 2026-09-02 |
 
 ---
 
