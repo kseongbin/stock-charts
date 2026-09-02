@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-08-27T02:18:23.784790Z",
+  "last_updated": "2026-09-02",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -4807,6 +4807,1226 @@
       "filename": "서울제약.html",
       "category": "일반",
       "generated_at": "2026-08-27"
+    },
+    "서울평가정보": {
+      "filename": "서울평가정보.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서원": {
+      "filename": "서원.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서원인텍": {
+      "filename": "서원인텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서전기전": {
+      "filename": "서전기전.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서진오토모티브": {
+      "filename": "서진오토모티브.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서플러스글로벌": {
+      "filename": "서플러스글로벌.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서한": {
+      "filename": "서한.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서호전기": {
+      "filename": "서호전기.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서흥": {
+      "filename": "서흥.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "서희건설": {
+      "filename": "서희건설.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "석경에이티": {
+      "filename": "석경에이티.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "선광": {
+      "filename": "선광.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "선도전기": {
+      "filename": "선도전기.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "선바이오": {
+      "filename": "선바이오.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "선샤인푸드": {
+      "filename": "선샤인푸드.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "선익시스템": {
+      "filename": "선익시스템.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "선진": {
+      "filename": "선진.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "선진뷰티사이언스": {
+      "filename": "선진뷰티사이언스.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성광벤드": {
+      "filename": "성광벤드.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성도이엔지": {
+      "filename": "성도이엔지.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성문전자": {
+      "filename": "성문전자.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성신양회": {
+      "filename": "성신양회.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성우": {
+      "filename": "성우.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성우전자": {
+      "filename": "성우전자.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성우테크론": {
+      "filename": "성우테크론.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성우하이텍": {
+      "filename": "성우하이텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성원": {
+      "filename": "성원.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "성일하이텍": {
+      "filename": "성일하이텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성지건설": {
+      "filename": "성지건설.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "성창기업지주": {
+      "filename": "성창기업지주.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성창오토텍": {
+      "filename": "성창오토텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "성호전자": {
+      "filename": "성호전자.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "세경하이테크": {
+      "filename": "세경하이테크.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "세기상사": {
+      "filename": "세기상사.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "세나테크놀로지": {
+      "filename": "세나테크놀로지.html",
+      "category": "일반",
+      "generated_at": "2026-08-27"
+    },
+    "세니젠": {
+      "filename": "세니젠.html",
+      "category": "일반",
+      "generated_at": "2026-08-28"
+    },
+    "세동": {
+      "filename": "세동.html",
+      "category": "일반",
+      "generated_at": "2026-08-28"
+    },
+    "세림B&G": {
+      "filename": "세림B&G.html",
+      "category": "일반",
+      "generated_at": "2026-08-28"
+    },
+    "세미파이브": {
+      "filename": "세미파이브.html",
+      "category": "일반",
+      "generated_at": "2026-08-28"
+    },
+    "세방": {
+      "filename": "세방.html",
+      "category": "일반",
+      "generated_at": "2026-08-28"
+    },
+    "세방전지": {
+      "filename": "세방전지.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세보엠이씨": {
+      "filename": "세보엠이씨.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세븐브로이맥주": {
+      "filename": "세븐브로이맥주.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "세아메카닉스": {
+      "filename": "세아메카닉스.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세아베스틸지주": {
+      "filename": "세아베스틸지주.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세아제강": {
+      "filename": "세아제강.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세아제강지주": {
+      "filename": "세아제강지주.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세아특수강": {
+      "filename": "세아특수강.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "세아홀딩스": {
+      "filename": "세아홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세영디앤씨": {
+      "filename": "세영디앤씨.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "세우글로벌": {
+      "filename": "세우글로벌.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세운메디칼": {
+      "filename": "세운메디칼.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세원물산": {
+      "filename": "세원물산.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세원이앤씨": {
+      "filename": "세원이앤씨.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "세원정공": {
+      "filename": "세원정공.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세이브존I&C": {
+      "filename": "세이브존I&C.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세종메디칼": {
+      "filename": "세종메디칼.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세종텔레콤": {
+      "filename": "세종텔레콤.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세중": {
+      "filename": "세중.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세진중공업": {
+      "filename": "세진중공업.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세진티에스": {
+      "filename": "세진티에스.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "세토피아": {
+      "filename": "세토피아.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "세화피앤씨": {
+      "filename": "세화피앤씨.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "센코": {
+      "filename": "센코.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "셀레믹스": {
+      "filename": "셀레믹스.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "셀레스트라": {
+      "filename": "셀레스트라.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "셀로맥스사이언스": {
+      "filename": "셀로맥스사이언스.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "셀루메드": {
+      "filename": "셀루메드.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "셀리드": {
+      "filename": "셀리드.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "셀리버리": {
+      "filename": "셀리버리.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "셀바이오휴먼텍": {
+      "filename": "셀바이오휴먼텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "셀트리온": {
+      "filename": "셀트리온.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "셀트리온제약": {
+      "filename": "셀트리온제약.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "셀트리온헬스케어": {
+      "filename": "셀트리온헬스케어.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "셀피글로벌": {
+      "filename": "셀피글로벌.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "소노스퀘어": {
+      "filename": "소노스퀘어.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "소룩스": {
+      "filename": "소룩스.html",
+      "category": "일반",
+      "generated_at": "2026-08-29"
+    },
+    "소리바다": {
+      "filename": "소리바다.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "소마젠": {
+      "filename": "소마젠.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "소프트센": {
+      "filename": "소프트센.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "소프트캠프": {
+      "filename": "소프트캠프.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "손오공": {
+      "filename": "손오공.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "솔디펜스": {
+      "filename": "솔디펜스.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "솔루믹스": {
+      "filename": "솔루믹스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "솔루엠": {
+      "filename": "솔루엠.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "솔본": {
+      "filename": "솔본.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "솔브레인": {
+      "filename": "솔브레인.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "솔브레인홀딩스": {
+      "filename": "솔브레인홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "솔트웨어": {
+      "filename": "솔트웨어.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "송원산업": {
+      "filename": "송원산업.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "쇼박스": {
+      "filename": "쇼박스.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "수산세보틱스": {
+      "filename": "수산세보틱스.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "수산아이앤티": {
+      "filename": "수산아이앤티.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "수산인더스트리": {
+      "filename": "수산인더스트리.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "수성웹툰": {
+      "filename": "수성웹툰.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "수젠텍": {
+      "filename": "수젠텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "슈프리마": {
+      "filename": "슈프리마.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "슈프리마에이치큐": {
+      "filename": "슈프리마에이치큐.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "슈피겐코리아": {
+      "filename": "슈피겐코리아.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "스마트솔루션즈": {
+      "filename": "스마트솔루션즈.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "스맥": {
+      "filename": "스맥.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "스모트로닉": {
+      "filename": "스모트로닉.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "스타코링크": {
+      "filename": "스타코링크.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "스타플렉스": {
+      "filename": "스타플렉스.html",
+      "category": "일반",
+      "generated_at": "2026-08-30"
+    },
+    "스톤브릿지벤처스": {
+      "filename": "스톤브릿지벤처스.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "스톰테크": {
+      "filename": "스톰테크.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "스튜디오드래곤": {
+      "filename": "스튜디오드래곤.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "스튜디오미르": {
+      "filename": "스튜디오미르.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "스튜디오산타클로스엔터테인먼트": {
+      "filename": "스튜디오산타클로스엔터테인먼트.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "스튜디오삼익": {
+      "filename": "스튜디오삼익.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "스튜디오에스": {
+      "filename": "스튜디오에스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "스틱인베스트먼트": {
+      "filename": "스틱인베스트먼트.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "스페코": {
+      "filename": "스페코.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "스포츠서울": {
+      "filename": "스포츠서울.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "스피어": {
+      "filename": "스피어.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "승일": {
+      "filename": "승일.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시공테크": {
+      "filename": "시공테크.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시그네틱스": {
+      "filename": "시그네틱스.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시너지이노베이션": {
+      "filename": "시너지이노베이션.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시노펙스": {
+      "filename": "시노펙스.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시디즈": {
+      "filename": "시디즈.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시선AI": {
+      "filename": "시선AI.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시스네오텍": {
+      "filename": "시스네오텍.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "시스웍": {
+      "filename": "시스웍.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시알홀딩스": {
+      "filename": "시알홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시지메드텍": {
+      "filename": "시지메드텍.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시지트로닉스": {
+      "filename": "시지트로닉스.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시큐레터": {
+      "filename": "시큐레터.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시큐브": {
+      "filename": "시큐브.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "시프트업": {
+      "filename": "시프트업.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신대양제지": {
+      "filename": "신대양제지.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신도기연": {
+      "filename": "신도기연.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신도리코": {
+      "filename": "신도리코.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신라교역": {
+      "filename": "신라교역.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신라섬유": {
+      "filename": "신라섬유.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신라에스지": {
+      "filename": "신라에스지.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신라젠": {
+      "filename": "신라젠.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신성델타테크": {
+      "filename": "신성델타테크.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신성에스티": {
+      "filename": "신성에스티.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신성통상": {
+      "filename": "신성통상.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신세계": {
+      "filename": "신세계.html",
+      "category": "일반",
+      "generated_at": "2026-08-31"
+    },
+    "신세계I&C": {
+      "filename": "신세계I&C.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신세계건설": {
+      "filename": "신세계건설.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신세계인터내셔날": {
+      "filename": "신세계인터내셔날.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신세계톰보이": {
+      "filename": "신세계톰보이.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신세계푸드": {
+      "filename": "신세계푸드.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신송홀딩스": {
+      "filename": "신송홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신스틸": {
+      "filename": "신스틸.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신신제약": {
+      "filename": "신신제약.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신영와코루": {
+      "filename": "신영와코루.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신영증권": {
+      "filename": "신영증권.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신원": {
+      "filename": "신원.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신원종합개발": {
+      "filename": "신원종합개발.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신일전자": {
+      "filename": "신일전자.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신일제약": {
+      "filename": "신일제약.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신진에스엠": {
+      "filename": "신진에스엠.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신테카바이오": {
+      "filename": "신테카바이오.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신텍": {
+      "filename": "신텍.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신풍": {
+      "filename": "신풍.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신풍제약": {
+      "filename": "신풍제약.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신한": {
+      "filename": "신한.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신한글로벌액티브리츠": {
+      "filename": "신한글로벌액티브리츠.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신한서부티엔디리츠": {
+      "filename": "신한서부티엔디리츠.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신한알파리츠": {
+      "filename": "신한알파리츠.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신한투자증권": {
+      "filename": "신한투자증권.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신화인터텍": {
+      "filename": "신화인터텍.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신화콘텍": {
+      "filename": "신화콘텍.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신화프리텍": {
+      "filename": "신화프리텍.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "신흥": {
+      "filename": "신흥.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "실리콘투": {
+      "filename": "실리콘투.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "심플랫폼": {
+      "filename": "심플랫폼.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "싸이닉솔루션": {
+      "filename": "싸이닉솔루션.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "싸이맥스": {
+      "filename": "싸이맥스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "싸이버원": {
+      "filename": "싸이버원.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "싸이토젠": {
+      "filename": "싸이토젠.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "쌍방울": {
+      "filename": "쌍방울.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "쌍용씨앤이": {
+      "filename": "쌍용씨앤이.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "써니전자": {
+      "filename": "써니전자.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "썸에이지": {
+      "filename": "썸에이지.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "쎄노텍": {
+      "filename": "쎄노텍.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "쎄니트": {
+      "filename": "쎄니트.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "쎄크": {
+      "filename": "쎄크.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "쎌바이오텍": {
+      "filename": "쎌바이오텍.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "쏘닉스": {
+      "filename": "쏘닉스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "쓰리빌리언": {
+      "filename": "쓰리빌리언.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨메스로보틱스": {
+      "filename": "씨메스로보틱스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨싸이트": {
+      "filename": "씨싸이트.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨씨에스": {
+      "filename": "씨씨에스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨아이에스": {
+      "filename": "씨아이에스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨아이테크": {
+      "filename": "씨아이테크.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨앤씨인터내셔널": {
+      "filename": "씨앤씨인터내셔널.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨앤에스자산관리": {
+      "filename": "씨앤에스자산관리.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨앤에이치": {
+      "filename": "씨앤에이치.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨앤투스": {
+      "filename": "씨앤투스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨어스": {
+      "filename": "씨어스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨에스베어링": {
+      "filename": "씨에스베어링.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨에스윈드": {
+      "filename": "씨에스윈드.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨엑스아이": {
+      "filename": "씨엑스아이.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨엔알리서치": {
+      "filename": "씨엔알리서치.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨엔플러스": {
+      "filename": "씨엔플러스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨엠에스에듀": {
+      "filename": "씨엠에스에듀.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨엠티엑스": {
+      "filename": "씨엠티엑스.html",
+      "category": "일반",
+      "generated_at": "2026-09-01"
+    },
+    "씨유메디칼": {
+      "filename": "씨유메디칼.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "씨유테크": {
+      "filename": "씨유테크.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "씨케이솔루션": {
+      "filename": "씨케이솔루션.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "씨큐브": {
+      "filename": "씨큐브.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "씨티씨바이오": {
+      "filename": "씨티씨바이오.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "씨티알모빌리티": {
+      "filename": "씨티알모빌리티.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "씨티케이": {
+      "filename": "씨티케이.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "씨피시스템": {
+      "filename": "씨피시스템.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아가방컴퍼니": {
+      "filename": "아가방컴퍼니.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아나패스": {
+      "filename": "아나패스.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아난티": {
+      "filename": "아난티.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아남전자": {
+      "filename": "아남전자.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아리온테크놀로지": {
+      "filename": "아리온테크놀로지.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아모그린텍": {
+      "filename": "아모그린텍.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아모레퍼시픽": {
+      "filename": "아모레퍼시픽.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아모레퍼시픽홀딩스": {
+      "filename": "아모레퍼시픽홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아모센스": {
+      "filename": "아모센스.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아모텍": {
+      "filename": "아모텍.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아미노로직스": {
+      "filename": "아미노로직스.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아바코": {
+      "filename": "아바코.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아바텍": {
+      "filename": "아바텍.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아비코전자": {
+      "filename": "아비코전자.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아세아": {
+      "filename": "아세아.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아세아시멘트": {
+      "filename": "아세아시멘트.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아세아제지": {
+      "filename": "아세아제지.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아세아텍": {
+      "filename": "아세아텍.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아센디오": {
+      "filename": "아센디오.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아셈스": {
+      "filename": "아셈스.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아스타": {
+      "filename": "아스타.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아스테라시스": {
+      "filename": "아스테라시스.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아스트": {
+      "filename": "아스트.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아스플로": {
+      "filename": "아스플로.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아시아경제": {
+      "filename": "아시아경제.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아시아나IDT": {
+      "filename": "아시아나IDT.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아시아나항공": {
+      "filename": "아시아나항공.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아시아종묘": {
+      "filename": "아시아종묘.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아우딘퓨쳐스": {
+      "filename": "아우딘퓨쳐스.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아우토크립트": {
+      "filename": "아우토크립트.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아이디스": {
+      "filename": "아이디스.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아이디스홀딩스": {
+      "filename": "아이디스홀딩스.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아이디피": {
+      "filename": "아이디피.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
+    },
+    "아이로보틱스": {
+      "filename": "아이로보틱스.html",
+      "category": "일반",
+      "generated_at": "2026-09-02"
     }
   }
 }
