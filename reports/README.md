@@ -1220,6 +1220,9 @@
 | 1205 | 아이디스홀딩스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EB%94%94%EC%8A%A4%ED%99%80%EB%94%A9%EC%8A%A4.html) | 2026-09-02 |
 | 1206 | 아이디피 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EB%94%94%ED%94%BC.html) | 2026-09-02 |
 | 1207 | 아이로보틱스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4.html) | 2026-09-02 |
+| 1208 | 아이마켓코리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EB%A7%88%EC%BC%93%EC%BD%94%EB%A6%AC%EC%95%84.html) | 2026-09-02 |
+| 1209 | 아이비김영 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EB%B9%84%EA%B9%80%EC%98%81.html) | 2026-09-02 |
+| 1210 | 아이비젼웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EB%B9%84%EC%A0%BC%EC%9B%8D%EC%8A%A4.html) | 2026-09-02 |
 
 ---
 
