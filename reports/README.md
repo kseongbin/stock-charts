@@ -1257,6 +1257,9 @@
 | 1242 | 아이티켐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8B%B0%EC%BC%90.html) | 2026-09-03 |
 | 1243 | 아이파크영창 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8C%8C%ED%81%AC%EC%98%81%EC%B0%BD.html) | 2026-09-03 |
 | 1244 | 아이패밀리에스씨 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8C%A8%EB%B0%80%EB%A6%AC%EC%97%90%EC%8A%A4%EC%94%A8.html) | 2026-09-03 |
+| 1245 | 아주스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%A3%BC%EC%8A%A4%ED%8B%B8.html) | 2026-09-03 |
+| 1246 | 아즈텍WB | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%A6%88%ED%85%8DWB.html) | 2026-09-03 |
+| 1247 | 아진산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%A7%84%EC%82%B0%EC%97%85.html) | 2026-09-03 |
 
 ---
 
