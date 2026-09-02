@@ -1223,6 +1223,9 @@
 | 1208 | 아이마켓코리아 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EB%A7%88%EC%BC%93%EC%BD%94%EB%A6%AC%EC%95%84.html) | 2026-09-02 |
 | 1209 | 아이비김영 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EB%B9%84%EA%B9%80%EC%98%81.html) | 2026-09-02 |
 | 1210 | 아이비젼웍스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EB%B9%84%EC%A0%BC%EC%9B%8D%EC%8A%A4.html) | 2026-09-02 |
+| 1211 | 아이빔테크놀로지 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EB%B9%94%ED%85%8C%ED%81%AC%EB%86%80%EB%A1%9C%EC%A7%80.html) | 2026-09-02 |
+| 1212 | 아이센스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%84%BC%EC%8A%A4.html) | 2026-09-02 |
+| 1213 | 아이스크림미디어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EB%AF%B8%EB%94%94%EC%96%B4.html) | 2026-09-02 |
 
 ---
 
