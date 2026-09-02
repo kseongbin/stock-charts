@@ -1248,6 +1248,9 @@
 | 1233 | 아이큐어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%81%90%EC%96%B4.html) | 2026-09-03 |
 | 1234 | 아이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%85%8D.html) | 2026-09-03 |
 | 1235 | 아이톡시 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%86%A1%EC%8B%9C.html) | 2026-09-03 |
+| 1236 | 아이티센글로벌 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8B%B0%EC%84%BC%EA%B8%80%EB%A1%9C%EB%B2%8C.html) | 2026-09-03 |
+| 1237 | 아이티센씨티에스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8B%B0%EC%84%BC%EC%94%A8%ED%8B%B0%EC%97%90%EC%8A%A4.html) | 2026-09-03 |
+| 1238 | 아이티센엔텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%8B%B0%EC%84%BC%EC%97%94%ED%85%8D.html) | 2026-09-03 |
 
 ---
 
