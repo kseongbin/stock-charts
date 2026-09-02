@@ -1245,6 +1245,9 @@
 | 1230 | 아이진 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%A7%84.html) | 2026-09-03 |
 | 1231 | 아이컴포넌트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.html) | 2026-09-03 |
 | 1232 | 아이퀘스트 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%80%98%EC%8A%A4%ED%8A%B8.html) | 2026-09-03 |
+| 1233 | 아이큐어 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%81%90%EC%96%B4.html) | 2026-09-03 |
+| 1234 | 아이텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%85%8D.html) | 2026-09-03 |
+| 1235 | 아이톡시 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%ED%86%A1%EC%8B%9C.html) | 2026-09-03 |
 
 ---
 
