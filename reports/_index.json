@@ -1,6 +1,6 @@
 {
   "description": "처리 완료된 기업 보고서 인덱스",
-  "last_updated": "2026-09-02",
+  "last_updated": "2026-09-03",
   "completed": {
     "디아이": {
       "filename": "디아이.html",
@@ -6112,6 +6112,16 @@
       "filename": "아이엠바이오로직스.html",
       "category": "일반",
       "generated_at": "2026-09-02"
+    },
+    "아이엠비디엑스": {
+      "filename": "아이엠비디엑스.html",
+      "category": "일반",
+      "generated_at": "2026-09-03"
+    },
+    "아이엠티": {
+      "filename": "아이엠티.html",
+      "category": "일반",
+      "generated_at": "2026-09-03"
     }
   }
 }

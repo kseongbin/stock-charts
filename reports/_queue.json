@@ -1379,7 +1379,8 @@
     {
       "name": "아이엠텍",
       "category": "일반",
-      "code": "226350"
+      "code": "226350",
+      "delisted": true
     },
     {
       "name": "아이엠티",

@@ -1237,6 +1237,8 @@
 | 1222 | 아이에이치큐 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%97%90%EC%9D%B4%EC%B9%98%ED%81%90.html) | 2026-09-02 |
 | 1223 | 아이엠 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%97%A0.html) | 2026-09-02 |
 | 1224 | 아이엠바이오로직스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%97%A0%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A1%9C%EC%A7%81%EC%8A%A4.html) | 2026-09-02 |
+| 1225 | 아이엠비디엑스 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%97%A0%EB%B9%84%EB%94%94%EC%97%91%EC%8A%A4.html) | 2026-09-03 |
+| 1226 | 아이엠티 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%9D%B4%EC%97%A0%ED%8B%B0.html) | 2026-09-03 |
 
 ---
 
