@@ -1505,7 +1505,8 @@
     {
       "name": "아크릴",
       "category": "일반",
-      "code": "0007C0"
+      "code": "0007C0",
+      "delisted": true
     },
     {
       "name": "아크솔루션스",

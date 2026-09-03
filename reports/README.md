@@ -1260,6 +1260,8 @@
 | 1245 | 아주스틸 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%A3%BC%EC%8A%A4%ED%8B%B8.html) | 2026-09-03 |
 | 1246 | 아즈텍WB | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%A6%88%ED%85%8DWB.html) | 2026-09-03 |
 | 1247 | 아진산업 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%A7%84%EC%82%B0%EC%97%85.html) | 2026-09-03 |
+| 1248 | 아진엑스텍 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%A7%84%EC%97%91%EC%8A%A4%ED%85%8D.html) | 2026-09-03 |
+| 1249 | 아진전자부품 | 일반 | [Raw](https://raw.githubusercontent.com/kseongbin/stock-charts/main/reports/%EC%95%84%EC%A7%84%EC%A0%84%EC%9E%90%EB%B6%80%ED%92%88.html) | 2026-09-03 |
 
 ---
 
