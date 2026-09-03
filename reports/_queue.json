@@ -1134,7 +1134,8 @@
     {
       "name": "아로마티카",
       "category": "일반",
-      "code": "0015N0"
+      "code": "0015N0",
+      "delisted": true
     },
     {
       "name": "아리온테크놀로지",
